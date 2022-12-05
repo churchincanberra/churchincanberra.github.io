@@ -24,6 +24,10 @@
   {% if site.data.seo.meta_twitter_site %}<meta name="twitter:site" content="{{ site.seo.meta_twitter_site }}"/>{% endif %}
   {% if site.data.seo.meta_twitter_creator %}<meta name="twitter:creator" content="{{ site.seo.meta_twitter_creator }}"/>{% endif %}
 
+  <!-- jekyll-bootstrap-calendar -->
+  {{ page.calendar_css | replace: "!PATH_TO_COMPONENTS!", "/calendar" | prepend: site.baseurl }}
+  {{ page.calendar_bootstrap_css | replace: "!PATH_TO_COMPONENTS!", "/calendar" | prepend: site.baseurl }}
+  
 </head>
 
 <body class='page {{layout.bodyClass}}'>
