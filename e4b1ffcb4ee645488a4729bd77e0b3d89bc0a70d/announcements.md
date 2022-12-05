@@ -1,6 +1,6 @@
 ---
 title: Announcements
-layout: page
+layout: page-full
 description: Recent announcements and updates
 
 ---

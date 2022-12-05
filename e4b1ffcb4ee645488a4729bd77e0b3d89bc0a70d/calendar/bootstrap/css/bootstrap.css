@@ -472,6 +472,7 @@ a:focus {
 .row-fluid .span3 {
   width: 23.404255319148934%;
   *width: 23.351063829787233%;
+  max-width: 23.351063829787233%;
 }
 
 .row-fluid .span2 {
