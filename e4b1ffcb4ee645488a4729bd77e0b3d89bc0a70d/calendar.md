@@ -12,8 +12,9 @@ event_date_format: YYYY-MM-DD H:mm A Z
 #
 # The options for different Mark styles are: info, warning, important, success, special, and blank.
 
-calendar_focus_date: 2022-12-06 # optional. YYYY-MM-DD. Without it, the default is today
+calendar_focus_date:      # optional. YYYY-MM-DD. Without it, the default is today
 calendar_caption:    # optional
+calendar_view: month     # required. Options: year, month, week, day
 
 calendar_css: <link rel="stylesheet" href="!PATH_TO_COMPONENTS!/bootstrap-calendar/css/calendar.css">
 calendar_bootstrap_css: <link rel="stylesheet" href="!PATH_TO_COMPONENTS!/bootstrap/css/bootstrap.css">

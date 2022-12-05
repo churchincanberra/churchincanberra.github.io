@@ -92,16 +92,16 @@ layout: page-full
   // Load the calendar with the provided events in correct format
   function loadCalendar(calendarEvents) {
     var options = {
-      tmpl_path: "{{PATH_TO_COMPONENTS}}/bootstrap-calendar/tmpls/",
+      tmpl_path: '{{PATH_TO_COMPONENTS}}/bootstrap-calendar/tmpls/',
       events_source: calendarEvents,
-      view: 'week',
+      view: '{{ page.calendar_view }}',
       tmpl_cache: false,
       weekbox:false,
       display_week_numbers: false,
       
       day: 
       {% if page.calendar_focus_date %} 
-        "{{ page.calendar_focus_date }}"
+        '{{ page.calendar_focus_date }}'
       {% else %} 
         moment().format('YYYY-MM-DD') // today as default view
       {% endif%}
