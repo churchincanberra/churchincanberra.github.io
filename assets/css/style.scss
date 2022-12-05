@@ -1,6 +1,7 @@
 ---
 ---
 
+// Colors
 /* Generated color palette
 #89A2BA 
 #3C3E3E 
@@ -10,8 +11,6 @@
 #47546C 
 #445C6C
 */
-
-// Colors
 $primary: #6B7783;
 $primary-dark: #47546C;
 $secondary: #89A2BA;
@@ -20,11 +19,15 @@ $white: #ffffff;
 $white-offset: #BDBEBC;
 $steel: #445C6C;
 
+
 // Links
 $link-color: $primary;
 $link-decoration: none;
 $link-hover-color: lighten($primary, 10%);
 $link-hover-decoration: underline;
+
+// Images
+$home-front-image: url(/images/bg-canberra-lake.jpg);
 
 // Fonts
 $font-family-base: Helvetica, Arial, sans-serif, -apple-system;
