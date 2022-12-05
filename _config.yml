@@ -49,3 +49,8 @@ exclude:
   - LICENSE.md
   - LICENSE
   - README.md
+
+# References
+# jekyll serif theme https://github.com/zerostaticthemes/jekyll-serif-theme
+# Password protected for static pages https://github.com/matteobrusa/Password-protection-for-static-pages
+# Calendar component https://github.com/NLKNguyen/jekyll-bootstrap-calendar

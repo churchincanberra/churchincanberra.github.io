@@ -1,7 +1,7 @@
 ---
-title: Church Calendar
+title: Announcements
 layout: page
-description: Upcoming events
+description: Recent announcements and updates
 
 ---
 
@@ -28,7 +28,7 @@ description: Upcoming events
 
   var hash= pwd;
   hash= Sha1.hash(pwd);
-  var url= window.location.origin + "/" + hash + "/calendar/index.html";
+  var url= window.location.origin + "/" + hash + "/announcements/index.html";
 
   $.ajax({
    url : url,

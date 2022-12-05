@@ -25,7 +25,9 @@
   {% if site.data.seo.meta_twitter_creator %}<meta name="twitter:creator" content="{{ site.seo.meta_twitter_creator }}"/>{% endif %}
 
   <!-- jekyll-bootstrap-calendar -->
-  {% assign PATH_TO_CAL = "calendar" | prepend: site.baseurl %}
+  <!-- e4b1ffcb4ee645488a4729bd77e0b3d89bc0a70d -->
+  <!-- {% assign PATH_TO_CAL = "calendar" | prepend: site.baseurl %} -->
+  {% assign PATH_TO_CAL = "e4b1ffcb4ee645488a4729bd77e0b3d89bc0a70d/calendar" | prepend: site.baseurl %}
   {% if page.calendar_css %}{{  page.calendar_css | replace: "!PATH_TO_COMPONENTS!", PATH_TO_CAL }}{% endif %}
   {% if page.calendar_bootstrap_css %}  {{  page.calendar_bootstrap_css | replace: "!PATH_TO_COMPONENTS!", PATH_TO_CAL }}{% endif %}
 
