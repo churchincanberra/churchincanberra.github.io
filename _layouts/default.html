@@ -25,9 +25,10 @@
   {% if site.data.seo.meta_twitter_creator %}<meta name="twitter:creator" content="{{ site.seo.meta_twitter_creator }}"/>{% endif %}
 
   <!-- jekyll-bootstrap-calendar -->
-  {{ page.calendar_css | replace: "!PATH_TO_COMPONENTS!", "/calendar" | prepend: site.baseurl }}
-  {{ page.calendar_bootstrap_css | replace: "!PATH_TO_COMPONENTS!", "/calendar" | prepend: site.baseurl }}
-  
+  {% assign PATH_TO_CAL = "calendar" | prepend: site.baseurl %}
+  {% if page.calendar_css %}{{  page.calendar_css | replace: "!PATH_TO_COMPONENTS!", PATH_TO_CAL }}{% endif %}
+  {% if page.calendar_bootstrap_css %}  {{  page.calendar_bootstrap_css | replace: "!PATH_TO_COMPONENTS!", PATH_TO_CAL }}{% endif %}
+
 </head>
 
 <body class='page {{layout.bodyClass}}'>
