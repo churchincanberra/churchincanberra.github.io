@@ -28,7 +28,9 @@
 .strip-secondary {
   background-color: $secondary;
 }
-
+.strip-white-gradient-top-bottom {
+  background-image: linear-gradient(to bottom, $secondary, $white-offset);
+}
 .strip-diagonal-right {
   margin-top: -100px;
   transform: skewY(-5deg);
