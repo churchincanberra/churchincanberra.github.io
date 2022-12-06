@@ -1,0 +1,71 @@
+.contact {
+  color: $white;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  .contact-inner {
+    display: flex;
+    justify-content: stretch;
+    flex-direction: column;
+    align-items: left;
+    @include media-breakpoint-up(sm) {
+      display: flex;
+      justify-content: space-between;
+      flex-direction: row;
+      align-items: flex-start;
+    }
+    .button {
+      padding-left: 2rem;
+      padding-right: 2rem;
+      line-height: 1.5rem;
+    }
+  }
+  .button-center {
+    justify-content: center;
+  }  
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    li {
+      color: $white;
+      font-size: 1rem;
+    }
+    @include media-breakpoint-up(sm) {
+      height: inherit;
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      align-items: flex-start;
+      li {
+        list-style: none;
+        &:last-of-type {
+          margin-right: 0;
+        }
+      }
+    }
+  }
+  label {
+    margin-bottom: 0;
+    width: 120px;
+    min-width: 120px;
+    @include media-breakpoint-up(sm) {
+      margin-bottom: .5rem;
+      padding-right: .5rem;
+      }
+  }
+  input,
+  textarea {
+    margin-bottom: 1rem;
+    width: 100%;
+      @include media-breakpoint-up(sm) {
+      margin-bottom: .5rem;
+    }
+  }
+
+}
+
+.contact-intro-home {
+  background-color: rgba(173, 173, 173, 0.501);
+  border-radius: 4px;
+  padding: 20px;
+}
