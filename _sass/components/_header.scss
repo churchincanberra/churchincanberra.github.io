@@ -11,6 +11,12 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    &::before {
+      content: unset;
+    }
+    &::after {
+      content: unset;
+    }
   }
   &.header-absolute {
     position: absolute;

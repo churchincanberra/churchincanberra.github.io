@@ -1,14 +1,24 @@
 ---
-# this ensures Jekyll reads the file to be transformed into CSS later
 ---
 
 // Colors
-$primary: #E5261F;
-$secondary: #f88379;
-$black: #2f2f41;
+/* Generated color palette
+#89A2BA 
+#3C3E3E 
+#BDBEBC 
+#6B7783 
+#A8C4CC 
+#47546C 
+#445C6C
+*/
+$primary: #6B7783;
+$primary-dark: #47546C;
+$secondary: #89A2BA;
+$black: #3C3E3E;
 $white: #ffffff;
-$white-offset: #fff6f8;
-$steel: #5C5A5A;
+$white-offset: #BDBEBC;
+$steel: #445C6C;
+
 
 // Links
 $link-color: $primary;
@@ -16,9 +26,12 @@ $link-decoration: none;
 $link-hover-color: lighten($primary, 10%);
 $link-hover-decoration: underline;
 
+// Images
+$home-front-image: url(/images/bg-canberra-lake.jpg);
+
 // Fonts
 $font-family-base: Helvetica, Arial, sans-serif, -apple-system;
-$font-family-heading: 'Playfair Display', serif, -apple-system;
+$font-family-heading: "Playfair Display", serif, -apple-system;
 
 // Footer
 $footer-background-color: $primary;
@@ -27,39 +40,40 @@ $sub-footer-background-color: darken($primary, 10%);
 $sub-footer-text-color: $white;
 
 // Bootstrap
-@import 'bootstrap-variables';
-@import 'bootstrap/bootstrap-reboot';
-@import 'bootstrap/bootstrap-grid';
+@import "bootstrap-variables";
+@import "bootstrap/bootstrap-reboot";
+@import "bootstrap/bootstrap-grid";
 // @import 'bootstrap/bootstrap'; // Uncomment this line to import the entire Bootstrap library
 
-
 // Libraries
-@import 'libraries/hamburgers/hamburgers';
+@import "libraries/hamburgers/hamburgers";
 
 // Components
-@import 'components/type';
-@import 'components/page';
-@import 'components/header';
-@import 'components/footer';
-@import 'components/sub-footer';
-@import 'components/logo';
-@import 'components/main-menu';
-@import 'components/main-menu-mobile';
-@import 'components/hamburger';
-@import 'components/buttons';
-@import 'components/call';
-@import 'components/title';
-@import 'components/content';
-@import 'components/intro';
-@import 'components/intro-image';
-@import 'components/strip';
-@import 'components/feature';
-@import 'components/social';
+@import "components/type";
+@import "components/page";
+@import "components/header";
+@import "components/footer";
+@import "components/sub-footer";
+@import "components/logo";
+@import "components/main-menu";
+@import "components/main-menu-mobile";
+@import "components/hamburger";
+@import "components/buttons";
+@import "components/title";
+@import "components/content";
+@import "components/intro";
+@import "components/intro-image";
+@import "components/strip";
+@import "components/feature";
+@import "components/social";
+@import "components/contact";
+@import "components/service";
+// @import "components/fonts"; // Uncomment this line to self host font
 
 // Pages
-@import 'pages/home';
-@import 'pages/team/team-summary';
-@import 'pages/services/page-services-single';
+@import "pages/page-home";
+@import "pages/page-teams";
+@import "pages/page-service";
 
 body {
   font-size: 16px;
@@ -69,4 +83,31 @@ body {
     font-size: 16px;
     line-height: 1.3;
   }
+}
+
+.display_archive {
+  display: none; // flex;
+  flex-wrap: wrap;
+
+  .campaign {
+    border: 1px solid $primary;
+    padding: 1rem;
+    margin: 1rem;
+    max-width: 30%;
+
+    a {
+      padding: 20px;
+      font-weight: lighter;
+      text-decoration: none;
+      text-transform: capitalize;
+      color: grey;
+      display: block;
+    }
+  }
+}
+
+iframe {
+  width: 100%;
+  min-width: 100%;
+  border: 0;
 }

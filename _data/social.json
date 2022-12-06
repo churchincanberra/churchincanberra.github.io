@@ -1,12 +1,8 @@
 [
   {
-    "name": "Github",
-    "link": "https://github.com/zerostaticthemes/jekyll-serif-theme",
-    "image": "images/social/github.svg"
+    "address": "Stokes St, Griffith, Canberra, ACT 2603"
   },
   {
-    "name": "Twitter",
-    "link": "https://twitter.com/zerostaticio",
-    "image": "images/social/twitter.svg"
+    "address": "PO Box: 1076, Belconnen, ACT 2617"
   }
 ]

@@ -3,15 +3,15 @@
     <div class="row">
       <div class="col-12">
         <div class="footer-inner">
-          <h3 class="footer-title">{{site.title}}</h3>
-          <ul>
-            {% assign footermenu = site.data.menus.footer | sort: 'weight'  %}
-            {% for item in footermenu %}
-            <li class="{% if item.url == page.url %}active{% endif %}">
-              <a href="{{ item.url | relative_url }}">{{ item.name }}</a>
-            </li>
-            {% endfor %}
-          </ul>
+
+          {% if site.data.social %}
+          {% for item in site.data.social %}
+            <div class="address">
+              {{item.address}}
+            </div>
+          {% endfor %}
+          {% endif %}
+
         </div>
       </div>
     </div>

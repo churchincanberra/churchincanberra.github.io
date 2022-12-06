@@ -1,68 +1,58 @@
 ---
-title: Jekyll Serif - Jekyll Small Business Theme
 layout: default
-bodyClass: page-home
+bodyClass: "page-home"
 ---
 
-<div class="intro">
+<div class="intro-home">
   <div class="container">
     <div class="row justify-content-start">
-      <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
+      <div class="col-12 col-md-8 col-lg-8 order-1 order-md-1 contact-intro-home">
         {{ content }}
-        {% if site.homepage.show_call_box %}
-          {% include call.html show_button=true %}
-        {% endif %}
+        <a href="#contact-form" class="button">Contact</a>
       </div>
-      {% if page.intro_image %}
-      <div class="col-12 col-md-5 col-lg-6 order-1 order-md-2 position-relative">
-        <img alt={{ page.title }} class="intro-image{% if page.intro_image_absolute %} intro-image-absolute{% endif %}{% if page.intro_image_hide_on_mobile %} intro-image-hide-mobile{% endif %}" src="{{ page.intro_image | relURL }}" />
-      </div>
-      {% endif %}
     </div>
   </div>
 </div>
 
+{% if site.data.ceremonies %}
+{% if site.data.ceremonies.meeting %}
+{% assign meetings = site.data.ceremonies.meeting | sort: 'weight' %}
 <div class="strip">
   <div class="container pt-6 pb-6 pb-md-10">
-    <div class="row justify-content-start">
-      {% for service in site.services %}
-      <div class="col-12 col-md-4 mb-1">
-        <div class="service service-summary">
-          <div class="service-content">
-            <h2 class="service-title">
-              <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
-            </h2>
-            <p>{{ service.content | markdownify | strip_html | truncate: 100 }}</p>
-          </div>
+    <div class="row">
+
+      <div class="col-12 col-md-6 mb-1">
+        {% for mtg in meetings %}
+        <div class="feature">
+          <h3 class="feature-title">{{ mtg.purpose }}</h3>
+          <div class="feature-subtitle">{{ mtg.subtext }}</div>
+          <div class="feature-content">{{ mtg.when }}</div>
         </div>
+        {% endfor %}
       </div>
-      {% endfor %}
-    </div>
-    <div class="row justify-content-center">
-      <div class="col-auto">
-        <a class="button button-primary" href="{{ "services" | relative_url }}">View All Services</a>
+
+      <div class="col-12 col-md-6 mb-1">
+        
+<iframe title="Canberra" height="400px" width="100%" marginheight="0" marginwidth="0" frameborder="0" style="border:0"
+  src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d52083.04325743418!2d149.130067!3d-35.326098!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x2eddd6c50d9089bb!2sChurch%20in%20Canberra!5e0!3m2!1sen!2sus!4v1670252755860!5m2!1sen!2sus"
+  allowfullscreen loading="lazy"></iframe>
+
       </div>
+
     </div>
   </div>
 </div>
+{% endif %}
+{% endif %}
 
-{% if site.data.features %}
-<div class="strip strip-grey">
-  <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
+
+{% if page.show_call_box %}
+<div id="contact-form" class="strip-primary-gradient-top-bottom contact">
+  <div class="container pt-6 pb-6 pb-md-10">
     <div class="row justify-content-center">
-
-      {% for feature in site.data.features %}
-      <div class="col-12 col-md-6 col-lg-4 mb-2">
-        <div class="feature">
-          {% if feature.image %}
-          <div class="feature-image"><img alt="{{ feature.title }} logo" src="{{ feature.image | relative_url }}" /></div>
-          {% endif %}
-          <h2 class="feature-title">{{ feature.title }}</h2>
-          <div class="feature-content">{{ feature.description }}</div>
-        </div>
+      <div class="col-12 col-md-6 mb-1">
+        {% include contact.html %}
       </div>
-      {% endfor %}
-
     </div>
   </div>
 </div>

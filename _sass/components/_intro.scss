@@ -1,4 +1,10 @@
+.intro-home {
+  background-image: $home-front-image;
+  background-position: bottom 40% right 17%;
+}
+.intro-home, 
 .intro {
+  background-color: $white-offset;
   display: flex;
   justify-content: flex-start;
   align-items: center;
