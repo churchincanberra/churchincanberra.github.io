@@ -69,3 +69,13 @@
   border-radius: 4px;
   padding: 20px;
 }
+
+.protected {
+  flex-direction: column;
+  color: $primary;
+  text-align: center;
+  input {
+    text-align: center;
+    line-height: 1.5rem;
+  }
+}
