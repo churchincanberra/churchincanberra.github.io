@@ -142,24 +142,32 @@ if(!String.prototype.formatNum) {
 		holidays:  {
 			// January 1
 			'01-01':  "New Year's Day",
-			// Third (+3*) Monday (1) in January (01)
-			'01+3*1': "Birthday of Dr. Martin Luther King, Jr.",
-			// Third (+3*) Monday (1) in February (02)
-			'02+3*1': "Washington's Birthday",
+			// January 26
+			'26-01':	"Australia Day",
+			// Second (+2*) Monday (1) in March (04)
+			'03+2*1': "Canberra Day",
+			// First (+1*) Friday (5) in April (04)
+			'04+1*5': "Good Friday",
+			// First (+1*) Saturday (6) in April (04) - comment out for now, not accurate
+			// '04+1*6': "Easter Saturday",  
+			// First (+1*) Sunday (7) in April (04) - comment out for now, not accurate
+			// '04+1*7': "Easter Sunday",
+			// Second (+2*) Monday (1) in April (04)
+			'04+2*1': "Easter Monday",
+			// April 25
+			'25-04':	"ANZAC Day",
 			// Last (-1*) Monday (1) in May (05)
-			'05-1*1': "Memorial Day",
-			// July 4
-			'04-07':  "Independence Day",
-			// First (+1*) Monday (1) in September (09)
-			'09+1*1': "Labor Day",
-			// Second (+2*) Monday (1) in October (10)
-			'10+2*1': "Columbus Day",
+			'05-1*1': "Reconciliation Day",
+			// Second (+2*) Monday (1) in June (06)
+			'06+2*1': "King's Birthday",
+			// First (+1*) Monday (1) in October (10)
+			'10+1*1': "Labor Day",
 			// November 11
-			'11-11':  "Veterans Day",
-			// Fourth (+4*) Thursday (4) in November (11)
-			'11+4*4': "Thanksgiving Day",
+			'11-11':	"Remembrance Day",
 			// December 25
-			'25-12':  "Christmas"
+			'25-12':	"Christmas Day",
+			// December 26
+			'26-12':	"Boxing Day"
 		}
 	};
 
