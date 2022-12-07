@@ -1,8 +1,8 @@
 <div class="header">
   <div class="container">
 
-    <div class="{% if site.baseurl == page.url %}active{% endif %}">
-      <a href="{{ site.baseurl }}">Home</a>
+    <div class="{% if site.url == page.url %}active{% endif %}">
+      <a href="{{ site.url }}">Home</a>
     </div>
 
     {% include main-menu.html %}
