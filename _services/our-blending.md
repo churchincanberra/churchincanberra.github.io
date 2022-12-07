@@ -1,11 +1,11 @@
 ---
 title: "Our Blending"
-excerpt: "... God has blended the body together,..."
+excerpt: "&hellip; God has blended the body together &hellip;"
 date: 2018-12-28T15:14:39+10:00
 weight: 4
 ---
 
-"... God has blended the body together..." - 1 Corinthians 12:24.
+"&hellip; God has blended the body together &hellip;" - 1 Corinthians 12:24.
 
 ![Picture of churches blending](/images/services/our_blending_origin.png)
 
