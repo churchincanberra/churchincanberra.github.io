@@ -1,7 +1,7 @@
 ---
 layout: page-full
 ---
-{% assign PATH_TO_COMPONENTS =  "e4b1ffcb4ee645488a4729bd77e0b3d89bc0a70d/calendar" | prepend: site.baseurl %}
+{% assign PATH_TO_COMPONENTS =  "/e4b1ffcb4ee645488a4729bd77e0b3d89bc0a70d/calendar" | relative_url %}
 
 <div>
   {{ content }}
@@ -47,7 +47,7 @@ layout: page-full
   "use strict";
 
   // parse CSV to JSON
-  Papa.parse("{{ page.calendar_csv | prepend: site.baseurl }}", {
+  Papa.parse("{{ page.calendar_csv | relative_url }}", {
     download: true,
     header: false,
     complete: function(results) {
