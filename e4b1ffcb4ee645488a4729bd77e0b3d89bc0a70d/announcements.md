@@ -16,6 +16,7 @@ description: Recent announcements and updates
   <script>
     let placeholder = document.getElementById("last-post");
     var last_url = document.links[document.links.length - 1].href;
+    last_url = last_url.replace("http", "https").replace("httpss", "https")
     placeholder.src = last_url;
 
     var content_height = window.innerHeight;
