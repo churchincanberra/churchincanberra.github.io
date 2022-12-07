@@ -1,11 +1,13 @@
 ---
 title: "Our Blending"
-excerpt: "... But God has blended the body together,..."
+excerpt: "&hellip; God has blended the body together &hellip;"
 date: 2018-12-28T15:14:39+10:00
 weight: 4
 ---
 
-"... But God has blended the body together..." - 1 Corinthians 12:24.
+"&hellip; God has blended the body together &hellip;" - 1 Corinthians 12:24.
+
+![Picture of churches blending](/images/services/our_blending_origin.png)
 
 The Church in Canberra is in fellowship with many churches around Australia. We stand as the local church in each locality, and practice the oneness of the Body of Christ.
 

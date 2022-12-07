@@ -5,8 +5,9 @@ date: 2018-11-18T12:33:46+10:00
 weight: 1
 ---
 
-
 "Let the word of Christ dwell in you richly in all wisdom, teaching and admonishing one another with psalms and hymns and spiritual songs, singing with grace in your hearts to God" – Col. 3:16
+
+![Picture of bible study](/images/services/our_pursuit_origin.jpg)
 
 As believers who are regenerated with God’s life, we need to daily eat and drink of Him. God ultimately desires that all men come to know Him and to the full knowledge of the truth.
 

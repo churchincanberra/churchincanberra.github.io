@@ -4,7 +4,7 @@ layout: calendar
 description: Upcoming events
 
 calendar_timezone_offset: +1000   # required
-calendar_csv: assets/events.csv  # required. Path to CSV file from base url
+calendar_csv: /assets/events.csv  # required. Path to CSV file from base url
 event_date_format: YYYY-MM-DD H:mm A Z
 # E.g. Events CSV format
 # Title,Start,End,Mark,URL
