@@ -1,0 +1,12 @@
+- id: local
+  name: Local
+  color: "#0000ee"
+- id: national
+  name: National
+  color: "#00ee00"
+- id: regional
+  name: Regional
+  color: "#00ee00"
+- id: international
+  name: International
+  color: "#ee00ee"

@@ -3,7 +3,8 @@
   @include media-breakpoint-up(md) {
     display: block;
   }
-  > ul {
+  > ul,
+    form ul {
     display: flex;
     align-items: center;
     justify-content: flex-start;
