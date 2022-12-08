@@ -3,9 +3,9 @@ title: Church Calendar
 layout: page-full
 description: Upcoming events
 
-# <a href="webcal:{{ site.url | replace: 'http:', '' | replace: 'https:', '' }}{{site.baseurl}}/calendar.ics">Calendar file</a>
-
 ---
+
+<a href="webcal:{{ '/e4b1ffcb4ee645488a4729bd77e0b3d89bc0a70d/calendar.ics' | absolute_url | replace: 'http:', '' | replace: 'https:', '' }}">Subscribe to ICS</a>
 
 {% include calendar_categories.html %}
 
