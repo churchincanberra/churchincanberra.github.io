@@ -59,4 +59,4 @@ For example the site <https://hosting.com/churchincanberra> would have `baseurl:
 
 - Jekyll Serif theme <https://github.com/zerostaticthemes/jekyll-serif-theme>
 - Password protected for static pages <https://github.com/matteobrusa/Password-protection-for-static-pages>
-- Calendar component <https://github.com/NLKNguyen/jekyll-bootstrap-calendar>
+- Calendar component <https://github.com/abzicht/jekyll-calendar>
