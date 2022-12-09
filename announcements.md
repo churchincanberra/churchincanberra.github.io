@@ -1,5 +1,5 @@
 ---
-title: Announcements
+title: Church Announcements
 layout: protected
 description: Recent announcements and updates
 
