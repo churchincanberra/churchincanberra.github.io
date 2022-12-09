@@ -1,12 +1,12 @@
 - id: local
   name: Local
-  color: "#0000ee"
+  color: "#777777"
 - id: national
   name: National
-  color: "#00ee00"
+  color: "#445C6C"
 - id: regional
   name: Regional
-  color: "#00ee00"
+  color: "#89A2BA"
 - id: international
-  name: International
-  color: "#ee00ee"
+  name: Other Regions / International
+  color: "#3C3E3E"
