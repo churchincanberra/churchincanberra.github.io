@@ -1,5 +1,5 @@
 ---
-title: Announcements
+title: Church Announcements
 layout: default
 description: Recent announcements and updates
 

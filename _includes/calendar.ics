@@ -5,14 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Church in Canberra Calendar
 X-WR-TIMEZONE:Australia/Sydney
-X-WR-CALDESC:Upcoming events{% for entry in site.data.calendar.entries %}
-BEGIN:VEVENT
-UID:{{entry.id}}/{{ entry.date }}
+X-WR-CALDESC:Upcoming events
+{% for entry in site.data.calendar.entries %}BEGIN:VEVENT
+UID:{{ entry.date }}-{{ entry.id }}
 SUMMARY:{{ entry.name }}
-CATEGORIES:{% for category in site.data.calendar.categories %}{% if category.id ==
-entry.category %}{{ category.name }}{% endif %}{% endfor %}
+LOCATION:{{ entry.location }}
 DESCRIPTION:{{ entry.description | strip | replace: "[^\r]\n", "\r\n" }}
-DTSTART;VALUE=DATE:{{ site.time | date: '%Y' }}{{ entry.date | date: "%m%d"}}{% if entry.singular == false %}
-RRULE:FREQ=YEARLY;BYMONTH={{ entry.date | date: "%-m"}};BYMONTHDAY={{ entry.date | date: "%-d"}}
-{% endif %}END:VEVENT{% endfor %}
-END:VCALENDAR
+DTSTART;VALUE=DATE:{{ site.time | date: '%Y' }}{{ entry.date | date: "%m%d"}}
+DTEND;VALUE=DATE:{{ site.time | date: '%Y' }}{{ entry.date | date: "%m%d"}}
+END:VEVENT
+{% endfor %}END:VCALENDAR
