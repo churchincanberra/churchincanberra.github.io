@@ -1,6 +1,6 @@
 # Church in Canberra
 
-[Sandbox site](https://churchincanberra.github.io/) 
+- [Sandbox site](https://churchincanberra.github.io/) 
 
 ## For site administrator
 
@@ -12,11 +12,12 @@ Exemplary entry:
 
 ```yml
 - id: "a"
-  name: "Rhoncus"
-  description: "Eni sagittis lacinia lectus primis."
+  name: "Eternal Future"
+  description: "New Heaven and New Earth."
   category: "national"
   singular: false
   date: "0000-01-01"
+  location: "New Jerusalem"
 ```
 
 If an event is marked singular, it only appears in the year it is created for.
@@ -30,8 +31,8 @@ The category id must match the id used by the entries. The color tag is
 utilized to color the calendar entries of the corresponding category.
 
 ```yml
-- id: birthday
-  name: national
+- id: national
+  name: National
   color: "#0000ee"
 ```
 
@@ -42,11 +43,14 @@ The calendar entries can be filtered by category.
 ### Software bill of materials
 
 - Jekyll 4.2+
-  - Bootstrap 4.6
+- Bootstrap 4.6
   - Services (Collection)
+  - Teams (Collection)
   - SCSS
   - 100% Responsive design, animated hamburger and mobile slide in menu
 - Github Pages hosted
+- jekyll-environment-variables
+- jekyll-seo-tag
 
 ### Installing Ruby & Jekyll
 
@@ -76,7 +80,9 @@ bundle exec jekyll build
 
 ### Deployment on GitHub Pages
 
-This theme has been tested to work with Github Pages (and Github Project Pages). When using Github Pages you will need to update the `baseurl` in the `_config.yml` otherwise all the css, images and paths will be broken.
+This site is hosted on Github Pages for production, the deployment branch is `gh-pages`. 
+
+When deploying, assure `baseurl` value in the `_config.yml` otherwise all the css, images and paths will be broken.
 
 For example the site <https://hosting.com/churchincanberra> would have `baseurl: "/churchincanberra/"`
 
@@ -91,3 +97,4 @@ For example the site <https://hosting.com/churchincanberra> would have `baseurl:
 - Jekyll Serif theme <https://github.com/zerostaticthemes/jekyll-serif-theme>
 - Password protected for static pages <https://github.com/matteobrusa/Password-protection-for-static-pages>
 - Calendar component <https://github.com/abzicht/jekyll-calendar>
+- Jekyll-seo-tag <https://github.com/jekyll/jekyll-seo-tag>
