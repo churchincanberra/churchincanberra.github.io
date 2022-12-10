@@ -98,3 +98,4 @@ For example the site <https://hosting.com/churchincanberra> would have `baseurl:
 - Password protected for static pages <https://github.com/matteobrusa/Password-protection-for-static-pages>
 - Calendar component <https://github.com/abzicht/jekyll-calendar>
 - Jekyll-seo-tag <https://github.com/jekyll/jekyll-seo-tag>
+- HTTP Request Superagent <https://github.com/ladjs/superagent>
