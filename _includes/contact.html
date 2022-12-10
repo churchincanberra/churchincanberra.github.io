@@ -34,13 +34,13 @@
   </form>
 </div>
 
-{% if page.contact_api %}
+{% if site.contact_api %}
 <script src="https://polyfill.io/v3/polyfill.min.js?features=WeakRef,BigInt"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/superagent"></script>
 <script>
   function submitForm() {
     superagent
-      .post('{{ page.contact_api }}')
+      .post('{{ site.contact_api }}')
       .send({
         name: document.getElementById('form-name').value,
         email: document.getElementById('form-email').value,

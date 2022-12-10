@@ -42,3 +42,5 @@ exclude:
   - LICENSE.md
   - LICENSE
   - README.md
+
+contact_api: https://prod-23.australiaeast.logic.azure.com:443/workflows/2b3edadf06d84324b79bd830b0716ff8/triggers/manual/paths/invoke?api-version=2016-10-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=yeou4cKcXg0HPkdqHtOFbCJDrh--FVIHmM8jg1vJrHs
