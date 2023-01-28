@@ -1,4 +1,5 @@
-baseurl: 'https://www.churchincanberra.org'
+website: https://www.churchincanberra,org
+baseurl: ''
 permalink: pretty
 title: 'Church in Canberra'
 
