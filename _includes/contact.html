@@ -1,30 +1,30 @@
 <div>
   <h1>Contact Us</h1>
-  <form action="https://formspree.io/f/xjvzwpov" method="POST">
+  <form onsubmit="return submitForm()">
     <ul>
       <li class="contact-inner">
         <label>
           Your name:
         </label>
-        <input type="text" name="name" />
+        <input type="text" id="form-name" />
       </li>
       <li class="contact-inner">
         <label>
           Your email:
         </label>
-        <input type="email" name="email" />
+        <input type="email" id="form-email" />
       </li>
       <li class="contact-inner">
         <label>
           Your phone no:
         </label>
-        <input type="tel" name="telephone" />
+        <input type="tel" id="form-phone" />
       </li>
       <li class="contact-inner">
         <label>
           Your message:
         </label>
-        <textarea name="message"></textarea>
+        <textarea id="form-message"></textarea>
       </li>
       <!-- your other form fields go here -->
       <li class="contact-inner button-center">
@@ -33,3 +33,29 @@
     </ul>
   </form>
 </div>
+
+{% if site.contact_api %}
+<script src="https://polyfill.io/v3/polyfill.min.js?features=WeakRef,BigInt"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/superagent/8.0.6/superagent.min.js"></script>
+<script>
+  function submitForm() {
+    superagent
+      .post('{{ site.contact_api }}')
+      .send({
+        name: document.getElementById('form-name').value,
+        email: document.getElementById('form-email').value,
+        phone: document.getElementById('form-phone').value,
+        message: document.getElementById('form-message').value
+      })
+      .end(function (err, res) {
+        if (err || !res.ok) {
+          alert('Apology, we are unable to send your request. Please try again later.');
+        } else {
+          alert('Thank you. We shall reach out to you shortly.');
+          window.location.href = "{{ site.baseurl }}";
+        }
+      });
+    return false;
+  }
+</script>
+{% endif %}
