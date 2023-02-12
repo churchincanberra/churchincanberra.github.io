@@ -8,7 +8,7 @@
 			onchange="calendar_category_update('#cal-cat--{{category.id}}-input',
 			'{{category.id}}');" id="cal-cat--{{category.id}}-input"
 			type="checkbox" checked="true">
-			<label for="cal-cat--{{category.id}}-input">{{category.name}}</label>
+			<label style="color:{{category.color}}" for="cal-cat--{{category.id}}-input">{{category.name}}</label>
 		</li>
 		{% endfor %}
 	</ul>

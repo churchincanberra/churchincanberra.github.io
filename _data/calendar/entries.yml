@@ -1,210 +1,833 @@
-- id: "1"
-  name: "NZ Blending Conference"
-  description: "https://nztc.ac.nz/blendingconference/"
-  category: "regional"
+- id: 'cbr1'
+  name: International Chinese-Speaking Conference
+  description: ''
+  category: International
   singular: true
-  date: "2023-02-04"
-  location: "In-person - Hamilton (New Zealand), Online (Zoom)"
-- id: "2"
-  name: "NZ Blending Conference"
-  description: "https://nztc.ac.nz/blendingconference/"
-  category: "regional"
+  date: '2023-02-17'
+  location: 'Anaheim'
+- id: 'cbr2'
+  name: International Chinese-Speaking Conference
+  description: ''
+  category: International
   singular: true
-  date: "2023-02-05"
-  location: "In-person - Hamilton (New Zealand), Online (Zoom)"
-- id: "3"
-  name: "NZ Blending Conference"
-  description: "https://nztc.ac.nz/blendingconference/"
-  category: "regional"
+  date: '2023-02-18'
+  location: 'Anaheim'
+- id: 'cbr3'
+  name: International Chinese-Speaking Conference
+  description: ''
+  category: International
   singular: true
-  date: "2023-02-06"
-  location: "In-person - Hamilton (New Zealand), Online (Zoom)"
-- id: "4"
-  name: "NZ National Conference"
-  description: "https://nztc.ac.nz/national-conference/"
-  category: "regional"
+  date: '2023-02-19'
+  location: 'Anaheim'
+- id: 'cbr4'
+  name: International Training for Elders & Responsible Ones
+  description: ''
+  category: International
   singular: true
-  date: "2023-04-07"
-  location: "In-person - Hamilton (New Zealand)"
-- id: "5"
-  name: "NZ National Conference"
-  description: "https://nztc.ac.nz/national-conference/"
-  category: "regional"
+  date: '2023-03-24'
+  location: 'Anaheim'
+- id: 'cbr5'
+  name: International Training for Elders & Responsible Ones
+  description: ''
+  category: International
   singular: true
-  date: "2023-04-08"
-  location: "In-person - Hamilton (New Zealand)"
-- id: "6"
-  name: "NZ National Conference"
-  description: "https://nztc.ac.nz/national-conference/"
-  category: "regional"
+  date: '2023-03-25'
+  location: 'Anaheim'
+- id: 'cbr6'
+  name: International Training for Elders & Responsible Ones
+  description: ''
+  category: International
   singular: true
-  date: "2023-04-09"
-  location: "In-person - Hamilton (New Zealand)"
-- id: "7"
-  name: "Sydney Campus Summer Internship"
-  description: "https://tinyurl.com/sydinternship2023"
-  category: "regional"
+  date: '2023-03-26'
+  location: 'Anaheim'
+- id: 'cbr7'
+  name: Memorial Day Blending Conference
+  description: ''
+  category: International
   singular: true
-  date: "2023-01-18"
-  location: "In-person - Hamilton (New Zealand)"
-- id: "8"
-  name: "Sydney Campus Summer Internship"
-  description: "https://tinyurl.com/sydinternship2023"
-  category: "regional"
+  date: '2023-05-26'
+  location: 'Chicago'
+- id: 'cbr8'
+  name: Memorial Day Blending Conference
+  description: ''
+  category: International
   singular: true
-  date: "2023-01-19"
-  location: "In-person - Hamilton (New Zealand)"
-- id: "9"
-  name: "Sydney Campus Summer Internship"
-  description: "https://tinyurl.com/sydinternship2023"
-  category: "regional"
+  date: '2023-05-27'
+  location: 'Chicago'
+- id: 'cbr9'
+  name: Memorial Day Blending Conference
+  description: ''
+  category: International
   singular: true
-  date: "2023-01-20"
-  location: "In-person - Sydney (Australia)"
-- id: "10"
-  name: "Sydney Campus Summer Internship"
-  description: "https://tinyurl.com/sydinternship2023"
-  category: "regional"
+  date: '2023-05-28'
+  location: 'Chicago'
+- id: 'cbr10'
+  name: Memorial Day Blending Conference
+  description: ''
+  category: International
   singular: true
-  date: "2023-01-21"
-  location: "In-person - Sydney (Australia)"
-- id: "11"
-  name: "Sydney Campus Summer Internship"
-  description: "https://tinyurl.com/sydinternship2023"
-  category: "regional"
+  date: '2023-05-29'
+  location: 'Chicago'
+- id: 'cbr11'
+  name: July Semiannual Training
+  description: ''
+  category: International
   singular: true
-  date: "2023-01-22"
-  location: "In-person - Sydney (Australia)"
-- id: "12"
-  name: "Sydney Campus Summer Internship"
-  description: "https://tinyurl.com/sydinternship2023"
-  category: "regional"
+  date: '2023-07-03'
+  location: 'Anaheim'
+- id: 'cbr12'
+  name: July Semiannual Training
+  description: ''
+  category: International
   singular: true
-  date: "2023-01-23"
-  location: "In-person - Sydney (Australia)"
-- id: "13"
-  name: "Sydney Campus Summer Internship"
-  description: "https://tinyurl.com/sydinternship2023"
-  category: "regional"
+  date: '2023-07-04'
+  location: 'Anaheim'
+- id: 'cbr13'
+  name: July Semiannual Training
+  description: ''
+  category: International
   singular: true
-  date: "2023-01-24"
-  location: "In-person - Sydney (Australia)"
-- id: "14"
-  name: "Sydney Campus Summer Internship"
-  description: "https://tinyurl.com/sydinternship2023"
-  category: "regional"
+  date: '2023-07-05'
+  location: 'Anaheim'
+- id: 'cbr14'
+  name: July Semiannual Training
+  description: ''
+  category: International
   singular: true
-  date: "2023-01-25"
-  location: "In-person - Sydney (Australia)"
-- id: "15"
-  name: "Sydney Campus Summer Internship"
-  description: "https://tinyurl.com/sydinternship2023"
-  category: "regional"
+  date: '2023-07-06'
+  location: 'Anaheim'
+- id: 'cbr15'
+  name: July Semiannual Training
+  description: ''
+  category: International
   singular: true
-  date: "2023-01-26"
-  location: "In-person - Sydney (Australia)"
-- id: "16"
-  name: "Sydney Campus Summer Internship"
-  description: "https://tinyurl.com/sydinternship2023"
-  category: "regional"
+  date: '2023-07-07'
+  location: 'Anaheim'
+- id: 'cbr16'
+  name: July Semiannual Training
+  description: ''
+  category: International
   singular: true
-  date: "2023-01-27"
-  location: "In-person - Sydney (Australia)"
-- id: "17"
-  name: "Sydney Campus Summer Internship"
-  description: "https://tinyurl.com/sydinternship2023"
-  category: "regional"
+  date: '2023-07-08'
+  location: 'Anaheim'
+- id: 'cbr17'
+  name: International Training for Elders & Responsible Ones
+  description: ''
+  category: International
   singular: true
-  date: "2023-01-28"
-  location: "In-person - Sydney (Australia)"
-- id: "18"
-  name: "Sydney Campus Summer Internship"
-  description: "https://tinyurl.com/sydinternship2023"
-  category: "regional"
+  date: '2023-10-05'
+  location: "TBD\r"
+- id: 'cbr18'
+  name: International Training for Elders & Responsible Ones
+  description: ''
+  category: International
   singular: true
-  date: "2023-01-29"
-  location: "In-person - Sydney (Australia)"
-- id: "19"
-  name: "Sydney Campus Summer Internship"
-  description: "https://tinyurl.com/sydinternship2023"
-  category: "regional"
+  date: '2023-10-06'
+  location: "TBD\r"
+- id: 'cbr19'
+  name: International Training for Elders & Responsible Ones
+  description: ''
+  category: International
   singular: true
-  date: "2023-01-30"
-  location: "In-person - Sydney (Australia)"
-- id: "20"
-  name: "Sydney Campus Summer Internship"
-  description: "https://tinyurl.com/sydinternship2023"
-  category: "regional"
+  date: '2023-10-07'
+  location: "TBD\r"
+- id: 'cbr20'
+  name: Thanksgiving Blending Conference
+  description: ''
+  category: International
   singular: true
-  date: "2023-01-31"
-  location: "In-person - Sydney (Australia)"
-- id: "21"
-  name: "Sydney Campus Summer Internship"
-  description: "https://tinyurl.com/sydinternship2023"
-  category: "regional"
+  date: '2023-11-23'
+  location: 'Dallas'
+- id: 'cbr21'
+  name: Thanksgiving Blending Conference
+  description: ''
+  category: International
   singular: true
-  date: "2023-02-01"
-  location: "In-person - Sydney (Australia)"
-- id: "22"
-  name: "Sydney Campus Summer Internship"
-  description: "https://tinyurl.com/sydinternship2023"
-  category: "regional"
+  date: '2023-11-24'
+  location: 'Dallas'
+- id: 'cbr22'
+  name: Thanksgiving Blending Conference
+  description: ''
+  category: International
   singular: true
-  date: "2023-02-02"
-  location: "In-person - Sydney (Australia)"
-- id: "23"
-  name: "Sydney Campus Summer Internship"
-  description: "https://tinyurl.com/sydinternship2023"
-  category: "regional"
+  date: '2023-11-25'
+  location: 'Dallas'
+- id: 'cbr23'
+  name: Thanksgiving Blending Conference
+  description: ''
+  category: International
   singular: true
-  date: "2023-02-03"
-  location: "In-person - Sydney (Australia)"
-- id: "24"
-  name: "Sydney Campus Summer Internship"
-  description: "https://tinyurl.com/sydinternship2023"
-  category: "regional"
+  date: '2023-11-26'
+  location: 'Dallas'
+- id: 'cbr24'
+  name: December Semiannual Training
+  description: ''
+  category: International
   singular: true
-  date: "2023-02-04"
-  location: "In-person - Sydney (Australia)"
-- id: "25"
-  name: "Sydney Campus Summer Internship"
-  description: "https://tinyurl.com/sydinternship2023"
-  category: "regional"
+  date: '2023-12-25'
+  location: 'Anaheim'
+- id: 'cbr25'
+  name: December Semiannual Training
+  description: ''
+  category: International
   singular: true
-  date: "2023-02-05"
-  location: "In-person - Sydney (Australia)"
-- id: "26"
-  name: "Sydney Campus Summer Internship"
-  description: "https://tinyurl.com/sydinternship2023"
-  category: "regional"
+  date: '2023-12-26'
+  location: 'Anaheim'
+- id: 'cbr26'
+  name: December Semiannual Training
+  description: ''
+  category: International
   singular: true
-  date: "2023-02-06"
-  location: "In-person - Sydney (Australia)"
-- id: "27"
-  name: "Sydney Campus Summer Internship"
-  description: "https://tinyurl.com/sydinternship2023"
-  category: "regional"
+  date: '2023-12-27'
+  location: 'Anaheim'
+- id: 'cbr27'
+  name: December Semiannual Training
+  description: ''
+  category: International
   singular: true
-  date: "2023-02-07"
-  location: "In-person - Sydney (Australia)"
-- id: "28"
-  name: "Sydney Campus Summer Internship"
-  description: "https://tinyurl.com/sydinternship2023"
-  category: "regional"
+  date: '2023-12-28'
+  location: 'Anaheim'
+- id: 'cbr28'
+  name: December Semiannual Training
+  description: ''
+  category: International
   singular: true
-  date: "2023-02-08"
-  location: "In-person - Sydney (Australia)"
-- id: "29"
-  name: "Sydney Campus Summer Internship"
-  description: "https://tinyurl.com/sydinternship2023"
-  category: "regional"
+  date: '2023-12-29'
+  location: 'Anaheim'
+- id: 'cbr29'
+  name: December Semiannual Training
+  description: ''
+  category: International
   singular: true
-  date: "2023-02-09"
-  location: "In-person - Sydney (Australia)"
-- id: "30"
-  name: "Sydney Campus Summer Internship"
-  description: "https://tinyurl.com/sydinternship2023"
-  category: "regional"
+  date: '2023-12-30'
+  location: 'Anaheim'
+- id: 'cbr30'
+  name: Sydney Campus Orientation Retreat
+  description: ''
+  category: Regional
   singular: true
-  date: "2023-02-10"
-  location: "In-person - Sydney (Australia)"
+  date: '2023-02-25'
+  location: 'Sydney'
+- id: 'cbr31'
+  name: Sydney Campus Retreat
+  description: ''
+  category: Regional
+  singular: true
+  date: '2023-09-29'
+  location: 'Sydney'
+- id: 'cbr32'
+  name: Sydney Campus Retreat
+  description: ''
+  category: Regional
+  singular: true
+  date: '2023-09-30'
+  location: 'Sydney'
+- id: 'cbr33'
+  name: Sydney Campus Retreat
+  description: ''
+  category: Regional
+  singular: true
+  date: '2023-10-01'
+  location: 'Sydney'
+- id: 'cbr34'
+  name: Sydney Campus Retreat
+  description: ''
+  category: Regional
+  singular: true
+  date: '2023-04-07'
+  location: 'Sydney'
+- id: 'cbr35'
+  name: Sydney Campus Retreat
+  description: ''
+  category: Regional
+  singular: true
+  date: '2023-04-08'
+  location: 'Sydney'
+- id: 'cbr36'
+  name: Sydney Campus Retreat
+  description: ''
+  category: Regional
+  singular: true
+  date: '2023-04-09'
+  location: 'Sydney'
+- id: 'cbr37'
+  name: Sydney Campus Retreat
+  description: ''
+  category: Regional
+  singular: true
+  date: '2023-07-22'
+  location: 'Sydney'
+- id: 'cbr38'
+  name: Sydney Campus Retreat
+  description: ''
+  category: Regional
+  singular: true
+  date: '2023-07-23'
+  location: 'Sydney'
+- id: 'cbr39'
+  name: Biannual Perfecting Training
+  description: ''
+  category: National
+  singular: true
+  date: '2023-04-22'
+  location: 'Sydney'
+- id: 'cbr40'
+  name: Biannual Perfecting Training
+  description: ''
+  category: National
+  singular: true
+  date: '2023-04-23'
+  location: 'Sydney'
+- id: 'cbr41'
+  name: Biannual Perfecting Training
+  description: ''
+  category: National
+  singular: true
+  date: '2023-10-21'
+  location: 'Melbourne'
+- id: 'cbr42'
+  name: Biannual Perfecting Training
+  description: ''
+  category: National
+  singular: true
+  date: '2023-10-22'
+  location: 'Melbourne'
+- id: 'cbr43'
+  name: Training for Serving Brothers
+  description: ''
+  category: National
+  singular: true
+  date: '2023-06-08'
+  location: 'Sydney'
+- id: 'cbr44'
+  name: Training for Serving Brothers
+  description: ''
+  category: National
+  singular: true
+  date: '2023-06-09'
+  location: 'Sydney'
+- id: 'cbr45'
+  name: Training for Serving Brothers
+  description: ''
+  category: National
+  singular: true
+  date: '2023-12-17'
+  location: 'Melbourne'
+- id: 'cbr46'
+  name: Training for Serving Brothers
+  description: ''
+  category: National
+  singular: true
+  date: '2023-12-18'
+  location: 'Melbourne'
+- id: 'cbr47'
+  name: National Serving Ones’ Training
+  description: ''
+  category: National
+  singular: true
+  date: '2023-06-09'
+  location: 'Sydney'
+- id: 'cbr48'
+  name: National Serving Ones’ Training
+  description: ''
+  category: National
+  singular: true
+  date: '2023-06-10'
+  location: 'Sydney'
+- id: 'cbr49'
+  name: National Serving Ones’ Training
+  description: ''
+  category: National
+  singular: true
+  date: '2023-06-11'
+  location: 'Sydney'
+- id: 'cbr50'
+  name: National Serving Ones’ Training
+  description: ''
+  category: National
+  singular: true
+  date: '2023-06-12'
+  location: 'Sydney'
+- id: 'cbr51'
+  name: National High-Schoolers’ Conference
+  description: ''
+  category: National
+  singular: true
+  date: '2023-06-30'
+  location: 'Sydney'
+- id: 'cbr52'
+  name: National High-Schoolers’ Conference
+  description: ''
+  category: National
+  singular: true
+  date: '2023-07-01'
+  location: 'Sydney'
+- id: 'cbr53'
+  name: National High-Schoolers’ Conference
+  description: ''
+  category: National
+  singular: true
+  date: '2023-07-02'
+  location: 'Sydney'
+- id: 'cbr54'
+  name: National High-Schoolers’ Conference
+  description: ''
+  category: National
+  singular: true
+  date: '2023-07-03'
+  location: 'Sydney'
+- id: 'cbr55'
+  name: Campus Clustering Fellowship
+  description: ''
+  category: National
+  singular: true
+  date: '2023-07-13'
+  location: 'Melbourne'
+- id: 'cbr56'
+  name: Campus Clustering Fellowship
+  description: ''
+  category: National
+  singular: true
+  date: '2023-07-14'
+  location: 'Melbourne'
+- id: 'cbr57'
+  name: National University Age Conference
+  description: ''
+  category: National
+  singular: true
+  date: '2023-07-14'
+  location: 'Melbourne'
+- id: 'cbr58'
+  name: National University Age Conference
+  description: ''
+  category: National
+  singular: true
+  date: '2023-07-15'
+  location: 'Melbourne'
+- id: 'cbr59'
+  name: National University Age Conference
+  description: ''
+  category: National
+  singular: true
+  date: '2023-07-16'
+  location: 'Melbourne'
+- id: 'cbr60'
+  name: National University Age Conference
+  description: ''
+  category: National
+  singular: true
+  date: '2023-07-17'
+  location: 'Melbourne'
+- id: 'cbr61'
+  name: Teachers’ Training
+  description: ''
+  category: National
+  singular: true
+  date: '2023-09-01'
+  location: 'Sydney'
+- id: 'cbr62'
+  name: Parents’ and Serving Ones’ Conference
+  description: ''
+  category: National
+  singular: true
+  date: '2023-09-02'
+  location: 'Sydney'
+- id: 'cbr63'
+  name: Parents’ and Serving Ones’ Conference
+  description: ''
+  category: National
+  singular: true
+  date: '2023-09-03'
+  location: 'Sydney'
+- id: 'cbr64'
+  name: Summer School of Truth
+  description: ''
+  category: National
+  singular: true
+  date: '2023-12-18'
+  location: 'The Collaroy Centre'
+- id: 'cbr65'
+  name: Summer School of Truth
+  description: ''
+  category: National
+  singular: true
+  date: '2023-12-19'
+  location: 'The Collaroy Centre'
+- id: 'cbr66'
+  name: Summer School of Truth
+  description: ''
+  category: National
+  singular: true
+  date: '2023-12-20'
+  location: 'The Collaroy Centre'
+- id: 'cbr67'
+  name: Summer School of Truth
+  description: ''
+  category: National
+  singular: true
+  date: '2023-12-21'
+  location: 'The Collaroy Centre'
+- id: 'cbr68'
+  name: Summer School of Truth
+  description: ''
+  category: National
+  singular: true
+  date: '2023-12-22'
+  location: 'The Collaroy Centre'
+- id: 'cbr69'
+  name: National Blending Conference
+  description: ''
+  category: National
+  singular: true
+  date: '2023-12-18'
+  location: 'The Tops Conference Centre'
+- id: 'cbr70'
+  name: National Blending Conference
+  description: ''
+  category: National
+  singular: true
+  date: '2023-12-19'
+  location: 'The Tops Conference Centre'
+- id: 'cbr71'
+  name: National Blending Conference
+  description: ''
+  category: National
+  singular: true
+  date: '2023-12-20'
+  location: 'The Tops Conference Centre'
+- id: 'cbr72'
+  name: National Blending Conference
+  description: ''
+  category: National
+  singular: true
+  date: '2023-12-21'
+  location: 'The Tops Conference Centre'
+- id: 'cbr73'
+  name: National Blending Conference
+  description: ''
+  category: National
+  singular: true
+  date: '2023-12-22'
+  location: 'The Tops Conference Centre'
+- id: 'cbr74'
+  name: New Zealand National Conference
+  description: 'https://nztc.ac.nz/national-conference/'
+  category: Regional
+  singular: true
+  date: '2023-04-07'
+  location: 'Hamilton'
+- id: 'cbr75'
+  name: New Zealand National Conference
+  description: 'https://nztc.ac.nz/national-conference/'
+  category: Regional
+  singular: true
+  date: '2023-04-08'
+  location: 'Hamilton'
+- id: 'cbr76'
+  name: New Zealand National Conference
+  description: 'https://nztc.ac.nz/national-conference/'
+  category: Regional
+  singular: true
+  date: '2023-04-09'
+  location: 'Hamilton'
+- id: 'cbr77'
+  name: Perth Blending Conference
+  description: ''
+  category: Regional
+  singular: true
+  date: '2023-04-07'
+  location: 'Perth'
+- id: 'cbr78'
+  name: Perth Blending Conference
+  description: ''
+  category: Regional
+  singular: true
+  date: '2023-04-08'
+  location: 'Perth'
+- id: 'cbr79'
+  name: Perth Blending Conference
+  description: ''
+  category: Regional
+  singular: true
+  date: '2023-04-09'
+  location: 'Perth'
+- id: 'cbr80'
+  name: Perth Blending Conference
+  description: ''
+  category: Regional
+  singular: true
+  date: '2023-04-10'
+  location: 'Perth'
+- id: 'cbr81'
+  name: Tasmania Blending Conference
+  description: ''
+  category: Regional
+  singular: true
+  date: '2023-05-05'
+  location: 'Poatina'
+- id: 'cbr82'
+  name: Tasmania Blending Conference
+  description: ''
+  category: Regional
+  singular: true
+  date: '2023-05-06'
+  location: 'Poatina'
+- id: 'cbr83'
+  name: Tasmania Blending Conference
+  description: ''
+  category: Regional
+  singular: true
+  date: '2023-05-07'
+  location: 'Poatina'
+- id: 'cbr84'
+  name: Melbourne Blending Conference
+  description: ''
+  category: Regional
+  singular: true
+  date: '2023-09-15'
+  location: 'Melbourne'
+- id: 'cbr85'
+  name: Melbourne Blending Conference
+  description: ''
+  category: Regional
+  singular: true
+  date: '2023-09-16'
+  location: 'Melbourne'
+- id: 'cbr86'
+  name: Melbourne Blending Conference
+  description: ''
+  category: Regional
+  singular: true
+  date: '2023-09-17'
+  location: 'Melbourne'
+- id: 'cbr87'
+  name: Canberra Blending Conference
+  description: ''
+  category: Local
+  singular: true
+  date: '2023-09-23'
+  location: 'Canberra'
+- id: 'cbr88'
+  name: Canberra Blending Conference
+  description: ''
+  category: Local
+  singular: true
+  date: '2023-09-24'
+  location: 'Canberra'
+- id: 'cbr89'
+  name: Adelaide Blending Conference
+  description: ''
+  category: Regional
+  singular: true
+  date: '2023-09-30'
+  location: 'Adelaide'
+- id: 'cbr90'
+  name: Adelaide Blending Conference
+  description: ''
+  category: Regional
+  singular: true
+  date: '2023-10-01'
+  location: 'Adelaide'
+- id: 'cbr91'
+  name: Adelaide Blending Conference
+  description: ''
+  category: Regional
+  singular: true
+  date: '2023-10-02'
+  location: 'Adelaide'
+- id: 'cbr92'
+  name: Campus Work Fellowship
+  description: ''
+  category: Regional
+  singular: true
+  date: '2023-11-11'
+  location: 'Brisbane'
+- id: 'cbr93'
+  name: Campus Work Fellowship
+  description: ''
+  category: Regional
+  singular: true
+  date: '2023-11-12'
+  location: 'Brisbane'
+- id: 'cbr94'
+  name: Elders & Player Coaches Fellowship
+  description: ''
+  category: Regional
+  singular: true
+  date: '2023-11-11'
+  location: 'Brisbane'
+- id: 'cbr95'
+  name: Elders & Player Coaches Fellowship
+  description: ''
+  category: Regional
+  singular: true
+  date: '2023-11-12'
+  location: 'Brisbane'
+- id: 'cbr96'
+  name: FTTH Jubilee Week
+  description: ''
+  category: Regional
+  singular: true
+  date: '2023-11-19'
+  location: 'Hamilton'
+- id: 'cbr97'
+  name: FTTH Jubilee Week
+  description: ''
+  category: Regional
+  singular: true
+  date: '2023-11-20'
+  location: 'Hamilton'
+- id: 'cbr98'
+  name: FTTH Jubilee Week
+  description: ''
+  category: Regional
+  singular: true
+  date: '2023-11-21'
+  location: 'Hamilton'
+- id: 'cbr99'
+  name: FTTH Jubilee Week
+  description: ''
+  category: Regional
+  singular: true
+  date: '2023-11-22'
+  location: 'Hamilton'
+- id: 'cbr100'
+  name: FTTH Jubilee Week
+  description: ''
+  category: Regional
+  singular: true
+  date: '2023-11-23'
+  location: 'Hamilton'
+- id: 'cbr101'
+  name: FTTH Jubilee Week
+  description: ''
+  category: Regional
+  singular: true
+  date: '2023-11-24'
+  location: 'Hamilton'
+- id: 'cbr102'
+  name: FTTH Jubilee Week
+  description: ''
+  category: Regional
+  singular: true
+  date: '2023-11-25'
+  location: 'Hamilton'
+- id: 'cbr103'
+  name: South Pacific Blending Conference
+  description: ''
+  category: Regional
+  singular: true
+  date: '2023-12-08'
+  location: 'Suva'
+- id: 'cbr104'
+  name: South Pacific Blending Conference
+  description: ''
+  category: Regional
+  singular: true
+  date: '2023-12-09'
+  location: 'Suva'
+- id: 'cbr105'
+  name: South Pacific Blending Conference
+  description: ''
+  category: Regional
+  singular: true
+  date: '2023-12-10'
+  location: 'Suva'
+- id: 'cbr106'
+  name: New Zealand Blending Conference
+  description: 'https://nztc.ac.nz/blendingconference/'
+  category: Regional
+  singular: true
+  date: '2023-02-04'
+  location: 'Hamilton'
+- id: 'cbr107'
+  name: New Zealand Blending Conference
+  description: 'https://nztc.ac.nz/blendingconference/'
+  category: Regional
+  singular: true
+  date: '2023-02-05'
+  location: 'Hamilton'
+- id: 'cbr108'
+  name: New Zealand Blending Conference
+  description: 'https://nztc.ac.nz/blendingconference/'
+  category: Regional
+  singular: true
+  date: '2023-02-06'
+  location: 'Hamilton'
+- id: 'cbr109'
+  name: Autumn Sisters' Training
+  description: 'https://nztc.ac.nz/events/'
+  category: Regional
+  singular: true
+  date: '2023-05-12'
+  location: 'Hamilton'
+- id: 'cbr110'
+  name: Autumn Sisters' Training
+  description: 'https://nztc.ac.nz/events/'
+  category: Regional
+  singular: true
+  date: '2023-05-13'
+  location: 'Hamilton'
+- id: 'cbr111'
+  name: Autumn Sisters' Training
+  description: 'https://nztc.ac.nz/events/'
+  category: Regional
+  singular: true
+  date: '2023-05-14'
+  location: 'Hamilton'
+- id: 'cbr112'
+  name: Spring Sisters' Training
+  description: 'https://nztc.ac.nz/events/'
+  category: Regional
+  singular: true
+  date: '2023-09-08'
+  location: 'Hamilton'
+- id: 'cbr113'
+  name: Spring Sisters' Training
+  description: 'https://nztc.ac.nz/events/'
+  category: Regional
+  singular: true
+  date: '2023-09-09'
+  location: 'Hamilton'
+- id: 'cbr114'
+  name: Spring Sisters' Training
+  description: 'https://nztc.ac.nz/events/'
+  category: Regional
+  singular: true
+  date: '2023-09-10'
+  location: 'Hamilton'
+- id: 'cbr115'
+  name: New Zealand Blending Camp
+  description: 'https://nztc.ac.nz/events/'
+  category: Regional
+  singular: true
+  date: '2023-12-19'
+  location: 'Queenstown'
+- id: 'cbr116'
+  name: New Zealand Blending Camp
+  description: 'https://nztc.ac.nz/events/'
+  category: Regional
+  singular: true
+  date: '2023-12-20'
+  location: 'Queenstown'
+- id: 'cbr117'
+  name: New Zealand Blending Camp
+  description: 'https://nztc.ac.nz/events/'
+  category: Regional
+  singular: true
+  date: '2023-12-21'
+  location: 'Queenstown'
+- id: 'cbr118'
+  name: New Zealand Blending Camp
+  description: 'https://nztc.ac.nz/events/'
+  category: Regional
+  singular: true
+  date: '2023-12-22'
+  location: 'Queenstown'
+- id: 'cbr119'
+  name: New Zealand Blending Camp
+  description: 'https://nztc.ac.nz/events/'
+  category: Regional
+  singular: true
+  date: '2023-12-23'
+  location: 'Queenstown'
