@@ -2,11 +2,11 @@
 
 This repository hosts the website on GitHub Pages. The Church in Canberra is a non-profit organisation located in Canberra, Australia.
 
-## For site administrator
+## For Site Administrator
 
 ### 1\. How to update the church calendar
 
-All event entries are stored in `_data/calendar/entries.yml`.
+All event entries are stored in `_data/calendar/entries.yml`. Add or update entry as applicable.
 
 Exemplary entry:
 
@@ -22,10 +22,9 @@ Exemplary entry:
 
 If an event is marked singular, it only appears in the year it is created for. If it is not singular, it appears in each year.
 
-**Notice:** If multiple events are created for the same month and day, use unique `id`s! `id` needs to be alphabet and no numeric.
+**Note:** If multiple events are created for the same month and day, use unique `id`s! `id` needs to be alphabet and no numeric.
 
-For each unique category, a category entry must be created in `_data/calendar/categories.yml`. The category id must match the id used by the entries. The color tag is  
-utilized to color the calendar entries of the corresponding category.
+For each unique category, a category entry must be created in `_data/calendar/categories.yml`. The category id must match the id used by the entries. The color tag is utilized to color the calendar entries of the corresponding category.
 
 ```
 - id: national
@@ -35,7 +34,18 @@ utilized to color the calendar entries of the corresponding category.
 
 This allows calendar entries filter by category.
 
-## For site engineer
+### 2\. Deploy changes to the site
+
+Commit changes to a new branch (e.g. `<your-github-handle>/<branch-name>`) and push to the remote repository.
+
+Create a pull request from the your branch to `main` branch. Once the pull request is approved and merged, the changes will be deployed to the production environment `gh-pages`.
+
+**Note:** When deploying, assure `baseurl` value in the `_config.yml` otherwise all the css, images and paths will be broken.
+
+For example the site \<https://hosting.com/churchincanberra\> would have `baseurl: "/churchincanberra/"`
+
+
+## For Site Engineer
 
 ### 1\. Software bill of materials
 
@@ -49,7 +59,7 @@ This allows calendar entries filter by category.
 - jekyll-environment-variables
 - jekyll-seo-tag
 
-### 2\. Getting Started
+### 2\. Getting started
 
 Follow the [Jekyll docs](https://jekyllrb.com/docs/installation/) if setting up Jekyll for the first time.
 
@@ -73,17 +83,11 @@ To build the site.
 bundle exec jekyll build
 ```
 
-### 3\. Deploy changes to the site
+### 3\. How to contribute
 
-This site is hosted on Github Pages for production, and the deployment branch is `gh-pages`.
+Follow the [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow) to make suggestions to the site.
 
-Commit changes to the `main` branch and push to the remote repository.
 
-To deploy, create a pull request from the `main` branch to `gh-pages` branch. Once the pull request is approved and merged, the changes will be deployed to the production site.
-
-> Note: When deploying, assure `baseurl` value in the `_config.yml` otherwise all the css, images and paths will be broken.
-
-For example the site \<https://hosting.com/churchincanberra\> would have `baseurl: "/churchincanberra/"`
 
 ## Credits
 
