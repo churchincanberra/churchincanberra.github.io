@@ -1,563 +1,563 @@
 - id: 'cbr1'
   name: International Chinese-Speaking Conference
-  description: ''
+  description: 'https://conf.lsmwebcast.com/'
   category: International
   singular: true
   date: '2023-02-17'
-  location: 'Anaheim'
+  location: 'Anaheim, CA, US'
 - id: 'cbr2'
   name: International Chinese-Speaking Conference
-  description: ''
+  description: 'https://conf.lsmwebcast.com/'
   category: International
   singular: true
   date: '2023-02-18'
-  location: 'Anaheim'
+  location: 'Anaheim, CA, US'
 - id: 'cbr3'
   name: International Chinese-Speaking Conference
-  description: ''
+  description: 'https://conf.lsmwebcast.com/'
   category: International
   singular: true
   date: '2023-02-19'
-  location: 'Anaheim'
+  location: 'Anaheim, CA, US'
 - id: 'cbr4'
   name: International Training for Elders & Responsible Ones
-  description: ''
+  description: 'https://itero.lsmwebcast.com/'
   category: International
   singular: true
   date: '2023-03-24'
-  location: 'Anaheim'
+  location: 'Anaheim, CA, US'
 - id: 'cbr5'
   name: International Training for Elders & Responsible Ones
-  description: ''
+  description: 'https://itero.lsmwebcast.com/'
   category: International
   singular: true
   date: '2023-03-25'
-  location: 'Anaheim'
+  location: 'Anaheim, CA, US'
 - id: 'cbr6'
   name: International Training for Elders & Responsible Ones
-  description: ''
+  description: 'https://itero.lsmwebcast.com/'
   category: International
   singular: true
   date: '2023-03-26'
-  location: 'Anaheim'
+  location: 'Anaheim, CA, US'
 - id: 'cbr7'
   name: Memorial Day Blending Conference
-  description: ''
+  description: 'https://conf.lsmwebcast.com/'
   category: International
   singular: true
   date: '2023-05-26'
-  location: 'Chicago'
+  location: 'Chicago, IL, US'
 - id: 'cbr8'
   name: Memorial Day Blending Conference
-  description: ''
+  description: 'https://conf.lsmwebcast.com/'
   category: International
   singular: true
   date: '2023-05-27'
-  location: 'Chicago'
+  location: 'Chicago, IL, US'
 - id: 'cbr9'
   name: Memorial Day Blending Conference
-  description: ''
+  description: 'https://conf.lsmwebcast.com/'
   category: International
   singular: true
   date: '2023-05-28'
-  location: 'Chicago'
+  location: 'Chicago, IL, US'
 - id: 'cbr10'
   name: Memorial Day Blending Conference
-  description: ''
+  description: 'https://conf.lsmwebcast.com/'
   category: International
   singular: true
   date: '2023-05-29'
-  location: 'Chicago'
+  location: 'Chicago, IL, US'
 - id: 'cbr11'
   name: July Semiannual Training
-  description: ''
+  description: 'https://conf.lsmwebcast.com/'
   category: International
   singular: true
   date: '2023-07-03'
-  location: 'Anaheim'
+  location: 'Anaheim, CA, US'
 - id: 'cbr12'
   name: July Semiannual Training
-  description: ''
+  description: 'https://conf.lsmwebcast.com/'
   category: International
   singular: true
   date: '2023-07-04'
-  location: 'Anaheim'
+  location: 'Anaheim, CA, US'
 - id: 'cbr13'
   name: July Semiannual Training
-  description: ''
+  description: 'https://conf.lsmwebcast.com/'
   category: International
   singular: true
   date: '2023-07-05'
-  location: 'Anaheim'
+  location: 'Anaheim, CA, US'
 - id: 'cbr14'
   name: July Semiannual Training
-  description: ''
+  description: 'https://conf.lsmwebcast.com/'
   category: International
   singular: true
   date: '2023-07-06'
-  location: 'Anaheim'
+  location: 'Anaheim, CA, US'
 - id: 'cbr15'
   name: July Semiannual Training
-  description: ''
+  description: 'https://conf.lsmwebcast.com/'
   category: International
   singular: true
   date: '2023-07-07'
-  location: 'Anaheim'
+  location: 'Anaheim, CA, US'
 - id: 'cbr16'
   name: July Semiannual Training
-  description: ''
+  description: 'https://conf.lsmwebcast.com/'
   category: International
   singular: true
   date: '2023-07-08'
-  location: 'Anaheim'
+  location: 'Anaheim, CA, US'
 - id: 'cbr17'
   name: International Training for Elders & Responsible Ones
-  description: ''
+  description: 'https://itero.lsmwebcast.com/'
   category: International
   singular: true
   date: '2023-10-05'
   location: "TBD\r"
 - id: 'cbr18'
   name: International Training for Elders & Responsible Ones
-  description: ''
+  description: 'https://itero.lsmwebcast.com/'
   category: International
   singular: true
   date: '2023-10-06'
   location: "TBD\r"
 - id: 'cbr19'
   name: International Training for Elders & Responsible Ones
-  description: ''
+  description: 'https://itero.lsmwebcast.com/'
   category: International
   singular: true
   date: '2023-10-07'
   location: "TBD\r"
 - id: 'cbr20'
   name: Thanksgiving Blending Conference
-  description: ''
+  description: 'https://conf.lsmwebcast.com/'
   category: International
   singular: true
   date: '2023-11-23'
-  location: 'Dallas'
+  location: 'Dallas, TX, US'
 - id: 'cbr21'
   name: Thanksgiving Blending Conference
-  description: ''
+  description: 'https://conf.lsmwebcast.com/'
   category: International
   singular: true
   date: '2023-11-24'
-  location: 'Dallas'
+  location: 'Dallas, TX, US'
 - id: 'cbr22'
   name: Thanksgiving Blending Conference
-  description: ''
+  description: 'https://conf.lsmwebcast.com/'
   category: International
   singular: true
   date: '2023-11-25'
-  location: 'Dallas'
+  location: 'Dallas, TX, US'
 - id: 'cbr23'
   name: Thanksgiving Blending Conference
-  description: ''
+  description: 'https://conf.lsmwebcast.com/'
   category: International
   singular: true
   date: '2023-11-26'
-  location: 'Dallas'
+  location: 'Dallas, TX, US'
 - id: 'cbr24'
   name: December Semiannual Training
-  description: ''
+  description: 'https://conf.lsmwebcast.com/'
   category: International
   singular: true
   date: '2023-12-25'
-  location: 'Anaheim'
+  location: 'Anaheim, CA, US'
 - id: 'cbr25'
   name: December Semiannual Training
-  description: ''
+  description: 'https://conf.lsmwebcast.com/'
   category: International
   singular: true
   date: '2023-12-26'
-  location: 'Anaheim'
+  location: 'Anaheim, CA, US'
 - id: 'cbr26'
   name: December Semiannual Training
-  description: ''
+  description: 'https://conf.lsmwebcast.com/'
   category: International
   singular: true
   date: '2023-12-27'
-  location: 'Anaheim'
+  location: 'Anaheim, CA, US'
 - id: 'cbr27'
   name: December Semiannual Training
-  description: ''
+  description: 'https://conf.lsmwebcast.com/'
   category: International
   singular: true
   date: '2023-12-28'
-  location: 'Anaheim'
+  location: 'Anaheim, CA, US'
 - id: 'cbr28'
   name: December Semiannual Training
-  description: ''
+  description: 'https://conf.lsmwebcast.com/'
   category: International
   singular: true
   date: '2023-12-29'
-  location: 'Anaheim'
+  location: 'Anaheim, CA, US'
 - id: 'cbr29'
   name: December Semiannual Training
-  description: ''
+  description: 'https://conf.lsmwebcast.com/'
   category: International
   singular: true
   date: '2023-12-30'
-  location: 'Anaheim'
+  location: 'Anaheim, CA, US'
 - id: 'cbr30'
   name: Sydney Campus Orientation Retreat
   description: ''
   category: Regional
   singular: true
   date: '2023-02-25'
-  location: 'Sydney'
+  location: 'Sydney, NSW, Australia'
 - id: 'cbr31'
   name: Sydney Campus Retreat
   description: ''
   category: Regional
   singular: true
   date: '2023-09-29'
-  location: 'Sydney'
+  location: 'Sydney, NSW, Australia'
 - id: 'cbr32'
   name: Sydney Campus Retreat
   description: ''
   category: Regional
   singular: true
   date: '2023-09-30'
-  location: 'Sydney'
+  location: 'Sydney, NSW, Australia'
 - id: 'cbr33'
   name: Sydney Campus Retreat
   description: ''
   category: Regional
   singular: true
   date: '2023-10-01'
-  location: 'Sydney'
+  location: 'Sydney, NSW, Australia'
 - id: 'cbr34'
   name: Sydney Campus Retreat
   description: ''
   category: Regional
   singular: true
   date: '2023-04-07'
-  location: 'Sydney'
+  location: 'Sydney, NSW, Australia'
 - id: 'cbr35'
   name: Sydney Campus Retreat
   description: ''
   category: Regional
   singular: true
   date: '2023-04-08'
-  location: 'Sydney'
+  location: 'Sydney, NSW, Australia'
 - id: 'cbr36'
   name: Sydney Campus Retreat
   description: ''
   category: Regional
   singular: true
   date: '2023-04-09'
-  location: 'Sydney'
+  location: 'Sydney, NSW, Australia'
 - id: 'cbr37'
   name: Sydney Campus Retreat
   description: ''
   category: Regional
   singular: true
   date: '2023-07-22'
-  location: 'Sydney'
+  location: 'Sydney, NSW, Australia'
 - id: 'cbr38'
   name: Sydney Campus Retreat
   description: ''
   category: Regional
   singular: true
   date: '2023-07-23'
-  location: 'Sydney'
+  location: 'Sydney, NSW, Australia'
 - id: 'cbr39'
   name: Biannual Perfecting Training
   description: ''
   category: National
   singular: true
   date: '2023-04-22'
-  location: 'Sydney'
+  location: 'Sydney, NSW, Australia'
 - id: 'cbr40'
   name: Biannual Perfecting Training
   description: ''
   category: National
   singular: true
   date: '2023-04-23'
-  location: 'Sydney'
+  location: 'Sydney, NSW, Australia'
 - id: 'cbr41'
   name: Biannual Perfecting Training
   description: ''
   category: National
   singular: true
   date: '2023-10-21'
-  location: 'Melbourne'
+  location: 'Melbourne, VIC, Australia'
 - id: 'cbr42'
   name: Biannual Perfecting Training
   description: ''
   category: National
   singular: true
   date: '2023-10-22'
-  location: 'Melbourne'
+  location: 'Melbourne, VIC, Australia'
 - id: 'cbr43'
   name: Training for Serving Brothers
   description: ''
   category: National
   singular: true
   date: '2023-06-08'
-  location: 'Sydney'
+  location: 'Sydney, NSW, Australia'
 - id: 'cbr44'
   name: Training for Serving Brothers
   description: ''
   category: National
   singular: true
   date: '2023-06-09'
-  location: 'Sydney'
+  location: 'Sydney, NSW, Australia'
 - id: 'cbr45'
   name: Training for Serving Brothers
   description: ''
   category: National
   singular: true
   date: '2023-12-17'
-  location: 'Melbourne'
+  location: 'Melbourne, VIC, Australia'
 - id: 'cbr46'
   name: Training for Serving Brothers
   description: ''
   category: National
   singular: true
   date: '2023-12-18'
-  location: 'Melbourne'
+  location: 'Melbourne, VIC, Australia'
 - id: 'cbr47'
-  name: National Serving Ones’ Training
+  name: National Serving Ones' Training
   description: ''
   category: National
   singular: true
   date: '2023-06-09'
-  location: 'Sydney'
+  location: 'Sydney, NSW, Australia'
 - id: 'cbr48'
-  name: National Serving Ones’ Training
+  name: National Serving Ones' Training
   description: ''
   category: National
   singular: true
   date: '2023-06-10'
-  location: 'Sydney'
+  location: 'Sydney, NSW, Australia'
 - id: 'cbr49'
-  name: National Serving Ones’ Training
+  name: National Serving Ones' Training
   description: ''
   category: National
   singular: true
   date: '2023-06-11'
-  location: 'Sydney'
+  location: 'Sydney, NSW, Australia'
 - id: 'cbr50'
-  name: National Serving Ones’ Training
+  name: National Serving Ones' Training
   description: ''
   category: National
   singular: true
   date: '2023-06-12'
-  location: 'Sydney'
+  location: 'Sydney, NSW, Australia'
 - id: 'cbr51'
-  name: National High-Schoolers’ Conference
+  name: National High-Schoolers' Conference
   description: ''
   category: National
   singular: true
   date: '2023-06-30'
-  location: 'Sydney'
+  location: 'Sydney, NSW, Australia'
 - id: 'cbr52'
-  name: National High-Schoolers’ Conference
+  name: National High-Schoolers' Conference
   description: ''
   category: National
   singular: true
   date: '2023-07-01'
-  location: 'Sydney'
+  location: 'Sydney, NSW, Australia'
 - id: 'cbr53'
-  name: National High-Schoolers’ Conference
+  name: National High-Schoolers' Conference
   description: ''
   category: National
   singular: true
   date: '2023-07-02'
-  location: 'Sydney'
+  location: 'Sydney, NSW, Australia'
 - id: 'cbr54'
-  name: National High-Schoolers’ Conference
+  name: National High-Schoolers' Conference
   description: ''
   category: National
   singular: true
   date: '2023-07-03'
-  location: 'Sydney'
+  location: 'Sydney, NSW, Australia'
 - id: 'cbr55'
   name: Campus Clustering Fellowship
   description: ''
   category: National
   singular: true
   date: '2023-07-13'
-  location: 'Melbourne'
+  location: 'Melbourne, VIC, Australia'
 - id: 'cbr56'
   name: Campus Clustering Fellowship
   description: ''
   category: National
   singular: true
   date: '2023-07-14'
-  location: 'Melbourne'
+  location: 'Melbourne, VIC, Australia'
 - id: 'cbr57'
   name: National University Age Conference
   description: ''
   category: National
   singular: true
   date: '2023-07-14'
-  location: 'Melbourne'
+  location: 'Melbourne, VIC, Australia'
 - id: 'cbr58'
   name: National University Age Conference
   description: ''
   category: National
   singular: true
   date: '2023-07-15'
-  location: 'Melbourne'
+  location: 'Melbourne, VIC, Australia'
 - id: 'cbr59'
   name: National University Age Conference
   description: ''
   category: National
   singular: true
   date: '2023-07-16'
-  location: 'Melbourne'
+  location: 'Melbourne, VIC, Australia'
 - id: 'cbr60'
   name: National University Age Conference
   description: ''
   category: National
   singular: true
   date: '2023-07-17'
-  location: 'Melbourne'
+  location: 'Melbourne, VIC, Australia'
 - id: 'cbr61'
-  name: Teachers’ Training
+  name: Teachers' Training
   description: ''
   category: National
   singular: true
   date: '2023-09-01'
-  location: 'Sydney'
+  location: 'Sydney, NSW, Australia'
 - id: 'cbr62'
-  name: Parents’ and Serving Ones’ Conference
+  name: Parents' and Serving Ones' Conference
   description: ''
   category: National
   singular: true
   date: '2023-09-02'
-  location: 'Sydney'
+  location: 'Sydney, NSW, Australia'
 - id: 'cbr63'
-  name: Parents’ and Serving Ones’ Conference
+  name: Parents' and Serving Ones' Conference
   description: ''
   category: National
   singular: true
   date: '2023-09-03'
-  location: 'Sydney'
+  location: 'Sydney, NSW, Australia'
 - id: 'cbr64'
   name: Summer School of Truth
   description: ''
   category: National
   singular: true
   date: '2023-12-18'
-  location: 'The Collaroy Centre'
+  location: 'The Collaroy Centre, Sydney, NSW, Australia'
 - id: 'cbr65'
   name: Summer School of Truth
   description: ''
   category: National
   singular: true
   date: '2023-12-19'
-  location: 'The Collaroy Centre'
+  location: 'The Collaroy Centre, Sydney, NSW, Australia'
 - id: 'cbr66'
   name: Summer School of Truth
   description: ''
   category: National
   singular: true
   date: '2023-12-20'
-  location: 'The Collaroy Centre'
+  location: 'The Collaroy Centre, Sydney, NSW, Australia'
 - id: 'cbr67'
   name: Summer School of Truth
   description: ''
   category: National
   singular: true
   date: '2023-12-21'
-  location: 'The Collaroy Centre'
+  location: 'The Collaroy Centre, Sydney, NSW, Australia'
 - id: 'cbr68'
   name: Summer School of Truth
   description: ''
   category: National
   singular: true
   date: '2023-12-22'
-  location: 'The Collaroy Centre'
+  location: 'The Collaroy Centre, Sydney, NSW, Australia'
 - id: 'cbr69'
   name: National Blending Conference
   description: ''
   category: National
   singular: true
   date: '2023-12-18'
-  location: 'The Tops Conference Centre'
+  location: 'The Tops Conference Centre, Stanwell Tops, NSW, Australia'
 - id: 'cbr70'
   name: National Blending Conference
   description: ''
   category: National
   singular: true
   date: '2023-12-19'
-  location: 'The Tops Conference Centre'
+  location: 'The Tops Conference Centre, Stanwell Tops, NSW, Australia'
 - id: 'cbr71'
   name: National Blending Conference
   description: ''
   category: National
   singular: true
   date: '2023-12-20'
-  location: 'The Tops Conference Centre'
+  location: 'The Tops Conference Centre, Stanwell Tops, NSW, Australia'
 - id: 'cbr72'
   name: National Blending Conference
   description: ''
   category: National
   singular: true
   date: '2023-12-21'
-  location: 'The Tops Conference Centre'
+  location: 'The Tops Conference Centre, Stanwell Tops, NSW, Australia'
 - id: 'cbr73'
   name: National Blending Conference
   description: ''
   category: National
   singular: true
   date: '2023-12-22'
-  location: 'The Tops Conference Centre'
+  location: 'The Tops Conference Centre, Stanwell Tops, NSW, Australia'
 - id: 'cbr74'
   name: New Zealand National Conference
   description: 'https://nztc.ac.nz/national-conference/'
   category: Regional
   singular: true
   date: '2023-04-07'
-  location: 'Hamilton'
+  location: 'Hamilton, New Zealand'
 - id: 'cbr75'
   name: New Zealand National Conference
   description: 'https://nztc.ac.nz/national-conference/'
   category: Regional
   singular: true
   date: '2023-04-08'
-  location: 'Hamilton'
+  location: 'Hamilton, New Zealand'
 - id: 'cbr76'
   name: New Zealand National Conference
   description: 'https://nztc.ac.nz/national-conference/'
   category: Regional
   singular: true
   date: '2023-04-09'
-  location: 'Hamilton'
+  location: 'Hamilton, New Zealand'
 - id: 'cbr77'
   name: Perth Blending Conference
   description: ''
   category: Regional
   singular: true
   date: '2023-04-07'
-  location: 'Perth'
+  location: 'Perth, WA, Australia'
 - id: 'cbr78'
   name: Perth Blending Conference
   description: ''
   category: Regional
   singular: true
   date: '2023-04-08'
-  location: 'Perth'
+  location: 'Perth, WA, Australia'
 - id: 'cbr79'
   name: Perth Blending Conference
   description: ''
   category: Regional
   singular: true
   date: '2023-04-09'
-  location: 'Perth'
+  location: 'Perth, WA, Australia'
 - id: 'cbr80'
   name: Perth Blending Conference
   description: ''
   category: Regional
   singular: true
   date: '2023-04-10'
-  location: 'Perth'
+  location: 'Perth, WA, Australia'
 - id: 'cbr81'
   name: Tasmania Blending Conference
   description: ''
@@ -585,249 +585,249 @@
   category: Regional
   singular: true
   date: '2023-09-15'
-  location: 'Melbourne'
+  location: 'Melbourne, VIC, Australia'
 - id: 'cbr85'
   name: Melbourne Blending Conference
   description: ''
   category: Regional
   singular: true
   date: '2023-09-16'
-  location: 'Melbourne'
+  location: 'Melbourne, VIC, Australia'
 - id: 'cbr86'
   name: Melbourne Blending Conference
   description: ''
   category: Regional
   singular: true
   date: '2023-09-17'
-  location: 'Melbourne'
+  location: 'Melbourne, VIC, Australia'
 - id: 'cbr87'
   name: Canberra Blending Conference
   description: ''
   category: Local
   singular: true
   date: '2023-09-23'
-  location: 'Canberra'
+  location: 'Canberra, ACT, Australia'
 - id: 'cbr88'
   name: Canberra Blending Conference
   description: ''
   category: Local
   singular: true
   date: '2023-09-24'
-  location: 'Canberra'
+  location: 'Canberra, ACT, Australia'
 - id: 'cbr89'
   name: Adelaide Blending Conference
   description: ''
   category: Regional
   singular: true
   date: '2023-09-30'
-  location: 'Adelaide'
+  location: 'Adelaide, SA, Australia'
 - id: 'cbr90'
   name: Adelaide Blending Conference
   description: ''
   category: Regional
   singular: true
   date: '2023-10-01'
-  location: 'Adelaide'
+  location: 'Adelaide, SA, Australia'
 - id: 'cbr91'
   name: Adelaide Blending Conference
   description: ''
   category: Regional
   singular: true
   date: '2023-10-02'
-  location: 'Adelaide'
+  location: 'Adelaide, SA, Australia'
 - id: 'cbr92'
   name: Campus Work Fellowship
   description: ''
   category: Regional
   singular: true
   date: '2023-11-11'
-  location: 'Brisbane'
+  location: 'Brisbane, QLD, Australia'
 - id: 'cbr93'
   name: Campus Work Fellowship
   description: ''
   category: Regional
   singular: true
   date: '2023-11-12'
-  location: 'Brisbane'
+  location: 'Brisbane, QLD, Australia'
 - id: 'cbr94'
   name: Elders & Player Coaches Fellowship
   description: ''
   category: Regional
   singular: true
   date: '2023-11-11'
-  location: 'Brisbane'
+  location: 'Brisbane, QLD, Australia'
 - id: 'cbr95'
   name: Elders & Player Coaches Fellowship
   description: ''
   category: Regional
   singular: true
   date: '2023-11-12'
-  location: 'Brisbane'
+  location: 'Brisbane, QLD, Australia'
 - id: 'cbr96'
   name: FTTH Jubilee Week
   description: ''
   category: Regional
   singular: true
   date: '2023-11-19'
-  location: 'Hamilton'
+  location: 'Hamilton, New Zealand'
 - id: 'cbr97'
   name: FTTH Jubilee Week
   description: ''
   category: Regional
   singular: true
   date: '2023-11-20'
-  location: 'Hamilton'
+  location: 'Hamilton, New Zealand'
 - id: 'cbr98'
   name: FTTH Jubilee Week
   description: ''
   category: Regional
   singular: true
   date: '2023-11-21'
-  location: 'Hamilton'
+  location: 'Hamilton, New Zealand'
 - id: 'cbr99'
   name: FTTH Jubilee Week
   description: ''
   category: Regional
   singular: true
   date: '2023-11-22'
-  location: 'Hamilton'
+  location: 'Hamilton, New Zealand'
 - id: 'cbr100'
   name: FTTH Jubilee Week
   description: ''
   category: Regional
   singular: true
   date: '2023-11-23'
-  location: 'Hamilton'
+  location: 'Hamilton, New Zealand'
 - id: 'cbr101'
   name: FTTH Jubilee Week
   description: ''
   category: Regional
   singular: true
   date: '2023-11-24'
-  location: 'Hamilton'
+  location: 'Hamilton, New Zealand'
 - id: 'cbr102'
   name: FTTH Jubilee Week
   description: ''
   category: Regional
   singular: true
   date: '2023-11-25'
-  location: 'Hamilton'
+  location: 'Hamilton, New Zealand'
 - id: 'cbr103'
   name: South Pacific Blending Conference
   description: ''
   category: Regional
   singular: true
   date: '2023-12-08'
-  location: 'Suva'
+  location: 'Suva, Fiji'
 - id: 'cbr104'
   name: South Pacific Blending Conference
   description: ''
   category: Regional
   singular: true
   date: '2023-12-09'
-  location: 'Suva'
+  location: 'Suva, Fiji'
 - id: 'cbr105'
   name: South Pacific Blending Conference
   description: ''
   category: Regional
   singular: true
   date: '2023-12-10'
-  location: 'Suva'
+  location: 'Suva, Fiji'
 - id: 'cbr106'
   name: New Zealand Blending Conference
   description: 'https://nztc.ac.nz/blendingconference/'
   category: Regional
   singular: true
   date: '2023-02-04'
-  location: 'Hamilton'
+  location: 'Hamilton, New Zealand'
 - id: 'cbr107'
   name: New Zealand Blending Conference
   description: 'https://nztc.ac.nz/blendingconference/'
   category: Regional
   singular: true
   date: '2023-02-05'
-  location: 'Hamilton'
+  location: 'Hamilton, New Zealand'
 - id: 'cbr108'
   name: New Zealand Blending Conference
   description: 'https://nztc.ac.nz/blendingconference/'
   category: Regional
   singular: true
   date: '2023-02-06'
-  location: 'Hamilton'
+  location: 'Hamilton, New Zealand'
 - id: 'cbr109'
   name: Autumn Sisters' Training
   description: 'https://nztc.ac.nz/events/'
   category: Regional
   singular: true
   date: '2023-05-12'
-  location: 'Hamilton'
+  location: 'Hamilton, New Zealand'
 - id: 'cbr110'
   name: Autumn Sisters' Training
   description: 'https://nztc.ac.nz/events/'
   category: Regional
   singular: true
   date: '2023-05-13'
-  location: 'Hamilton'
+  location: 'Hamilton, New Zealand'
 - id: 'cbr111'
   name: Autumn Sisters' Training
   description: 'https://nztc.ac.nz/events/'
   category: Regional
   singular: true
   date: '2023-05-14'
-  location: 'Hamilton'
+  location: 'Hamilton, New Zealand'
 - id: 'cbr112'
   name: Spring Sisters' Training
   description: 'https://nztc.ac.nz/events/'
   category: Regional
   singular: true
   date: '2023-09-08'
-  location: 'Hamilton'
+  location: 'Hamilton, New Zealand'
 - id: 'cbr113'
   name: Spring Sisters' Training
   description: 'https://nztc.ac.nz/events/'
   category: Regional
   singular: true
   date: '2023-09-09'
-  location: 'Hamilton'
+  location: 'Hamilton, New Zealand'
 - id: 'cbr114'
   name: Spring Sisters' Training
   description: 'https://nztc.ac.nz/events/'
   category: Regional
   singular: true
   date: '2023-09-10'
-  location: 'Hamilton'
+  location: 'Hamilton, New Zealand'
 - id: 'cbr115'
   name: New Zealand Blending Camp
   description: 'https://nztc.ac.nz/events/'
   category: Regional
   singular: true
   date: '2023-12-19'
-  location: 'Queenstown'
+  location: 'Queenstown, New Zealand'
 - id: 'cbr116'
   name: New Zealand Blending Camp
   description: 'https://nztc.ac.nz/events/'
   category: Regional
   singular: true
   date: '2023-12-20'
-  location: 'Queenstown'
+  location: 'Queenstown, New Zealand'
 - id: 'cbr117'
   name: New Zealand Blending Camp
   description: 'https://nztc.ac.nz/events/'
   category: Regional
   singular: true
   date: '2023-12-21'
-  location: 'Queenstown'
+  location: 'Queenstown, New Zealand'
 - id: 'cbr118'
   name: New Zealand Blending Camp
   description: 'https://nztc.ac.nz/events/'
   category: Regional
   singular: true
   date: '2023-12-22'
-  location: 'Queenstown'
+  location: 'Queenstown, New Zealand'
 - id: 'cbr119'
   name: New Zealand Blending Camp
   description: 'https://nztc.ac.nz/events/'
   category: Regional
   singular: true
   date: '2023-12-23'
-  location: 'Queenstown'
+  location: 'Queenstown, New Zealand'
