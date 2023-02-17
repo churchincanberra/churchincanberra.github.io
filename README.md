@@ -1,5 +1,7 @@
 # churchincanberra.org website
 
+![CD Status](https://github.com/churchincanberra/churchincanberra.github.io/actions/workflows/jekyll.yml/badge.svg)
+
 This repository hosts the website on GitHub Pages. The Church in Canberra is a non-profit organisation located in Canberra, Australia.
 
 ## For Site Administrator
