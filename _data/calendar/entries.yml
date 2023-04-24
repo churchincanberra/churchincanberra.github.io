@@ -831,3 +831,10 @@
   singular: true
   date: '2023-12-23'
   location: 'Queenstown, New Zealand'
+- id: 'cbr120'
+  name: Church Outing (10am-2pm)
+  description: 'https://maps.app.goo.gl/CVHb9AcbmsPKcKb27'
+  category: Local
+  singular: true
+  date: '2023-05-06'
+  location: 'Cotter Avenue Recreation Area, Canberra'
