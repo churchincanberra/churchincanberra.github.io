@@ -27,5 +27,5 @@ description: Recent announcements and updates
 
 
 <div class="address">
-  <a href="subscribe.md">Subscribe to the church newsletter by email</a>
+  <a href="subscribe.md">Subscribe to the church announcements by email</a>
 </div>
