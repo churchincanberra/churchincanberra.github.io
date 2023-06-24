@@ -25,8 +25,8 @@ description: Recent announcements and updates
 
 </script>
 
-<p></p>
-
-<div class="button">
-  <a href="subscribe.md">Subscribe to announcements by email</a>
+<div class="container pt-6 pb-6 pb-md-10">
+    <div class="row justify-content-center">
+        <a href="{{ '/e4b1ffcb4ee645488a4729bd77e0b3d89bc0a70d/subscribe/' | absolute_url | replace: 'http:', '' | replace: 'https:', '' }}">Subscribe to this announcements</a>
+    </div>
 </div>
