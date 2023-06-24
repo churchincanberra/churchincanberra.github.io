@@ -27,6 +27,6 @@ description: Recent announcements and updates
 
 <div class="container pt-6 pb-6 pb-md-10">
     <div class="row justify-content-center">
-        <a href="{{ '/subscribe/' | absolute_url | replace: 'http:', '' | replace: 'https:', '' }}">Subscribe to this announcements</a>
+        <a href="https://churchincanberra.us10.list-manage.com/subscribe?u=12a6ecea8fbc1ad37a233cac1&id=d479a108b4">Subscribe to this announcements</a>
     </div>
 </div>
