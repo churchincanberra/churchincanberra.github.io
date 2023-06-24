@@ -26,3 +26,6 @@ description: Recent announcements and updates
   </script>
 
 
+<div class="address">
+  <a href="subscribe.md">Subscribe to the church newsletter by email</a>
+</div>
