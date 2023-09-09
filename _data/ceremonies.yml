@@ -1,12 +1,8 @@
 meeting:
-  - purpose: "Lord's table meeting"
+  - purpose: "Lord's table meeting (bread breaking & prophesying)"
     subtext: "(in-person & online)"
     when: "Sunday, 10.00am"
     weight: 1
-  - purpose: "Prophesying meeting"
-    subtext: "(in-person & online)"
-    when: "Sunday, 11.00am"
-    weight: 2
   - purpose: "Church prayers meeting"
     subtext: "(in-person & online)"
     when: "Tuesday, 7.30pm"
