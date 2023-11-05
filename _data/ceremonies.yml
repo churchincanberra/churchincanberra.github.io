@@ -1,17 +1,17 @@
 meeting:
   - purpose: "Lord's table meeting"
-    subtext: "(bread breaking & prophesying)"
+    subtext: "(bread-breaking & prophesying)"
     when: "Sunday, 10.00am"
     weight: 1
   - purpose: "Church prayers meeting"
     subtext: ""
-    when: "Tuesday, 7.30pm"
+    when: "English-speaking, Tuesday, 7.30pm<br />Chinese-speaking, Friday, 9.30pm"
     weight: 3
   - purpose: "Bible studies"
-    subtext: "In various formats & locations"
+    subtext: "In various locations & times"
     when: "Contact us for details"
     weight: 4
   - purpose: "Meeting hall address"
-    subtext: "Stokes St, Griffith, Canberra, ACT 2603"
+    subtext: "26 Stokes St, Griffith, Canberra, ACT 2603"
     when: "Contact us for dial-in details if joining online"
     weight: 5
