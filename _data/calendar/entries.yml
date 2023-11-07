@@ -502,21 +502,21 @@
   singular: true
   date: '2023-12-22'
   location: 'The Tops Conference Centre, Stanwell Tops, NSW, Australia'
-- id: 'cbr74'
+- id: 'nz10'
   name: New Zealand National Conference
   description: 'https://nztc.ac.nz/national-conference/'
   category: Regional
   singular: true
   date: '2023-04-07'
   location: 'Hamilton, New Zealand'
-- id: 'cbr75'
+- id: 'nz11'
   name: New Zealand National Conference
   description: 'https://nztc.ac.nz/national-conference/'
   category: Regional
   singular: true
   date: '2023-04-08'
   location: 'Hamilton, New Zealand'
-- id: 'cbr76'
+- id: 'nz12'
   name: New Zealand National Conference
   description: 'https://nztc.ac.nz/national-conference/'
   category: Regional
@@ -656,49 +656,49 @@
   singular: true
   date: '2023-11-12'
   location: 'Brisbane, QLD, Australia'
-- id: 'cbr96'
+- id: 'nz20'
   name: FTTH Jubilee Week
   description: ''
   category: Regional
   singular: true
   date: '2023-11-19'
   location: 'Hamilton, New Zealand'
-- id: 'cbr97'
+- id: 'nz21'
   name: FTTH Jubilee Week
   description: ''
   category: Regional
   singular: true
   date: '2023-11-20'
   location: 'Hamilton, New Zealand'
-- id: 'cbr98'
+- id: 'nz22'
   name: FTTH Jubilee Week
   description: ''
   category: Regional
   singular: true
   date: '2023-11-21'
   location: 'Hamilton, New Zealand'
-- id: 'cbr99'
+- id: 'nz23'
   name: FTTH Jubilee Week
   description: ''
   category: Regional
   singular: true
   date: '2023-11-22'
   location: 'Hamilton, New Zealand'
-- id: 'cbr100'
+- id: 'nz24'
   name: FTTH Jubilee Week
   description: ''
   category: Regional
   singular: true
   date: '2023-11-23'
   location: 'Hamilton, New Zealand'
-- id: 'cbr101'
+- id: 'nz25'
   name: FTTH Jubilee Week
   description: ''
   category: Regional
   singular: true
   date: '2023-11-24'
   location: 'Hamilton, New Zealand'
-- id: 'cbr102'
+- id: 'nz26'
   name: FTTH Jubilee Week
   description: ''
   category: Regional
@@ -726,98 +726,105 @@
   singular: true
   date: '2023-12-10'
   location: 'Suva, Fiji'
-- id: 'cbr106'
+- id: 'nz30'
   name: New Zealand Blending Conference
   description: 'https://nztc.ac.nz/blendingconference/'
   category: Regional
   singular: true
-  date: '2023-02-04'
+  date: '2024-01-26'
   location: 'Hamilton, New Zealand'
-- id: 'cbr107'
+- id: 'nz31'
   name: New Zealand Blending Conference
   description: 'https://nztc.ac.nz/blendingconference/'
   category: Regional
   singular: true
-  date: '2023-02-05'
+  date: '2024-01-27'
   location: 'Hamilton, New Zealand'
-- id: 'cbr108'
+- id: 'nz32'
   name: New Zealand Blending Conference
   description: 'https://nztc.ac.nz/blendingconference/'
   category: Regional
   singular: true
-  date: '2023-02-06'
+  date: '2024-01-28'
   location: 'Hamilton, New Zealand'
-- id: 'cbr109'
+- id: 'nz33'
+  name: New Zealand Blending Conference
+  description: 'https://nztc.ac.nz/blendingconference/'
+  category: Regional
+  singular: true
+  date: '2024-01-29'
+  location: 'Hamilton, New Zealand'
+- id: 'nz40'
   name: Autumn Sisters' Training
   description: 'https://nztc.ac.nz/events/'
   category: Regional
   singular: true
   date: '2023-05-12'
   location: 'Hamilton, New Zealand'
-- id: 'cbr110'
+- id: 'nz41'
   name: Autumn Sisters' Training
   description: 'https://nztc.ac.nz/events/'
   category: Regional
   singular: true
   date: '2023-05-13'
   location: 'Hamilton, New Zealand'
-- id: 'cbr111'
+- id: 'nz42'
   name: Autumn Sisters' Training
   description: 'https://nztc.ac.nz/events/'
   category: Regional
   singular: true
   date: '2023-05-14'
   location: 'Hamilton, New Zealand'
-- id: 'cbr112'
+- id: 'nz50'
   name: Spring Sisters' Training
   description: 'https://nztc.ac.nz/events/'
   category: Regional
   singular: true
   date: '2023-09-08'
   location: 'Hamilton, New Zealand'
-- id: 'cbr113'
+- id: 'nz51'
   name: Spring Sisters' Training
   description: 'https://nztc.ac.nz/events/'
   category: Regional
   singular: true
   date: '2023-09-09'
   location: 'Hamilton, New Zealand'
-- id: 'cbr114'
+- id: 'nz52'
   name: Spring Sisters' Training
   description: 'https://nztc.ac.nz/events/'
   category: Regional
   singular: true
   date: '2023-09-10'
   location: 'Hamilton, New Zealand'
-- id: 'cbr115'
+- id: 'nz60'
   name: New Zealand Blending Camp
   description: 'https://nztc.ac.nz/events/'
   category: Regional
   singular: true
   date: '2023-12-19'
   location: 'Queenstown, New Zealand'
-- id: 'cbr116'
+- id: 'nz61'
   name: New Zealand Blending Camp
   description: 'https://nztc.ac.nz/events/'
   category: Regional
   singular: true
   date: '2023-12-20'
   location: 'Queenstown, New Zealand'
-- id: 'cbr117'
+- id: 'nz62'
   name: New Zealand Blending Camp
   description: 'https://nztc.ac.nz/events/'
   category: Regional
   singular: true
   date: '2023-12-21'
   location: 'Queenstown, New Zealand'
-- id: 'cbr118'
+- id: 'nz63'
   name: New Zealand Blending Camp
   description: 'https://nztc.ac.nz/events/'
   category: Regional
   singular: true
   date: '2023-12-22'
   location: 'Queenstown, New Zealand'
-- id: 'cbr119'
+- id: 'nz64'
   name: New Zealand Blending Camp
   description: 'https://nztc.ac.nz/events/'
   category: Regional
@@ -825,9 +832,9 @@
   date: '2023-12-23'
   location: 'Queenstown, New Zealand'
 - id: 'cbr120'
-  name: Church Outing (10am-2pm)
-  description: 'https://maps.app.goo.gl/CVHb9AcbmsPKcKb27'
+  name: Church Outing (10.30am)
+  description: 'https://www.allambieorchard.com/howto'
   category: Local
   singular: true
-  date: '2023-05-06'
-  location: 'Cotter Avenue Recreation Area, Canberra'
+  date: '2023-12-02'
+  location: 'Allambie Orchard, 3725 Olympic Hwy, Wombat NSW 2587'
