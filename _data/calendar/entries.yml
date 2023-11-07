@@ -194,63 +194,63 @@
   singular: true
   date: '2023-12-30'
   location: 'Anaheim, CA, US'
-- id: 'cbr30'
+- id: 'campus10'
   name: Sydney Campus Orientation Retreat
   description: ''
   category: Regional
   singular: true
   date: '2023-02-25'
   location: 'Sydney, NSW, Australia'
-- id: 'cbr31'
+- id: 'campus11'
   name: Sydney Campus Retreat
   description: ''
   category: Regional
   singular: true
   date: '2023-09-29'
   location: 'Sydney, NSW, Australia'
-- id: 'cbr32'
+- id: 'campus12'
   name: Sydney Campus Retreat
   description: ''
   category: Regional
   singular: true
   date: '2023-09-30'
   location: 'Sydney, NSW, Australia'
-- id: 'cbr33'
+- id: 'campus13'
   name: Sydney Campus Retreat
   description: ''
   category: Regional
   singular: true
   date: '2023-10-01'
   location: 'Sydney, NSW, Australia'
-- id: 'cbr34'
+- id: 'campus20'
   name: Sydney Campus Retreat
   description: ''
   category: Regional
   singular: true
   date: '2023-04-07'
   location: 'Sydney, NSW, Australia'
-- id: 'cbr35'
+- id: 'campus21'
   name: Sydney Campus Retreat
   description: ''
   category: Regional
   singular: true
   date: '2023-04-08'
   location: 'Sydney, NSW, Australia'
-- id: 'cbr36'
+- id: 'campus22'
   name: Sydney Campus Retreat
   description: ''
   category: Regional
   singular: true
   date: '2023-04-09'
   location: 'Sydney, NSW, Australia'
-- id: 'cbr37'
+- id: 'campus30'
   name: Sydney Campus Retreat
   description: ''
   category: Regional
   singular: true
   date: '2023-07-22'
   location: 'Sydney, NSW, Australia'
-- id: 'cbr38'
+- id: 'campus31'
   name: Sydney Campus Retreat
   description: ''
   category: Regional
@@ -369,42 +369,42 @@
   singular: true
   date: '2023-07-03'
   location: 'Sydney, NSW, Australia'
-- id: 'cbr55'
+- id: 'campus40'
   name: Campus Clustering Fellowship
   description: ''
   category: National
   singular: true
   date: '2023-07-13'
   location: 'Melbourne, VIC, Australia'
-- id: 'cbr56'
+- id: 'campus41'
   name: Campus Clustering Fellowship
   description: ''
   category: National
   singular: true
   date: '2023-07-14'
   location: 'Melbourne, VIC, Australia'
-- id: 'cbr57'
+- id: 'campus50'
   name: National University Age Conference
   description: ''
   category: National
   singular: true
   date: '2023-07-14'
   location: 'Melbourne, VIC, Australia'
-- id: 'cbr58'
+- id: 'campus51'
   name: National University Age Conference
   description: ''
   category: National
   singular: true
   date: '2023-07-15'
   location: 'Melbourne, VIC, Australia'
-- id: 'cbr59'
+- id: 'campus52'
   name: National University Age Conference
   description: ''
   category: National
   singular: true
   date: '2023-07-16'
   location: 'Melbourne, VIC, Australia'
-- id: 'cbr60'
+- id: 'campus53'
   name: National University Age Conference
   description: ''
   category: National
@@ -838,3 +838,38 @@
   singular: true
   date: '2023-12-02'
   location: 'Allambie Orchard, 3725 Olympic Hwy, Wombat NSW 2587'
+- id: 'wagga01'
+  name: Wagga Wagga Blending
+  description: 'Details TBA'
+  category: Local
+  singular: true
+  date: '2023-11-25'
+  location: 'Wagga Wagga, NSW'
+- id: 'wagga02'
+  name: Wagga Wagga Blending
+  description: 'Details TBA'
+  category: Local
+  singular: true
+  date: '2023-11-26'
+  location: 'Wagga Wagga, NSW'
+- id: 'campus01'
+  name: Campus Work Fellowship
+  description: ''
+  category: National
+  singular: true
+  date: '2023-11-10'
+  location: 'Church in Brisbane Meeting Hall, 6 Selhurst St., Coopers Plains, QLD 4108 and via Zoom'
+- id: 'campus02'
+  name: Campus Work Fellowship
+  description: ''
+  category: National
+  singular: true
+  date: '2023-11-11'
+  location: 'Church in Brisbane Meeting Hall, 6 Selhurst St., Coopers Plains, QLD 4108 and via Zoom'
+- id: 'campus03'
+  name: Campus Work Fellowship
+  description: ''
+  category: National
+  singular: true
+  date: '2023-11-12'
+  location: 'Church in Brisbane Meeting Hall, 6 Selhurst St., Coopers Plains, QLD 4108 and via Zoom'
