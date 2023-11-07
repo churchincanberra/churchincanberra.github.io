@@ -628,31 +628,17 @@
   singular: true
   date: '2023-10-02'
   location: 'Adelaide, SA, Australia'
-- id: 'cbr92'
-  name: Campus Work Fellowship
+- id: 'campus60'
+  name: Elders & Player Coaches Fellowship
   description: ''
-  category: Regional
+  category: National
   singular: true
   date: '2023-11-11'
   location: 'Brisbane, QLD, Australia'
-- id: 'cbr93'
-  name: Campus Work Fellowship
-  description: ''
-  category: Regional
-  singular: true
-  date: '2023-11-12'
-  location: 'Brisbane, QLD, Australia'
-- id: 'cbr94'
+- id: 'campus61'
   name: Elders & Player Coaches Fellowship
   description: ''
-  category: Regional
-  singular: true
-  date: '2023-11-11'
-  location: 'Brisbane, QLD, Australia'
-- id: 'cbr95'
-  name: Elders & Player Coaches Fellowship
-  description: ''
-  category: Regional
+  category: National
   singular: true
   date: '2023-11-12'
   location: 'Brisbane, QLD, Australia'
