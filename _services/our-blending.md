@@ -19,6 +19,8 @@ Members of the churches are also encouraged to attend training programs for high
 
 Associated links:
 
-- www.churchinsydney.org
-- www.churchinmelbourne.org
+- www.churchinadelaide.org
+- www.churchinbrisbane.com
+- www.churchinmelbourne.org.au
 - www.churchinperth.org
+- www.churchinsydney.org
