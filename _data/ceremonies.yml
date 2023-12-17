@@ -4,8 +4,8 @@ meeting:
     when: "Sunday 10.00am"
     weight: 1
   - purpose: "Church prayers meeting"
-    subtext: ""
-    when: "English, Tuesday 7.30pm (Meeting hall & Zoom)<br />中文，星期五晚上九点三十分 (微信)"
+    subtext: "English, Tuesday 7.30pm (Meeting hall & Zoom)"
+    when: "中文，星期五晚上九点三十分 (微信)"
     weight: 3
   - purpose: "Bible studies"
     subtext: "In various locations & times"
