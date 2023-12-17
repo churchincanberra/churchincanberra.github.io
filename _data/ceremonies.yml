@@ -1,11 +1,11 @@
 meeting:
   - purpose: "Lord's table meeting"
     subtext: "(bread-breaking & prophesying)"
-    when: "Sunday, 10.00am"
+    when: "Sunday 10.00am"
     weight: 1
   - purpose: "Church prayers meeting"
     subtext: ""
-    when: "English, Tuesday, 7.30pm (Meeting hall & Zoom)<br />中文，星期五，晚上九点三十分 (微信)"
+    when: "English, Tuesday 7.30pm (Meeting hall & Zoom)<br />中文，星期五晚上九点三十分 (微信)"
     weight: 3
   - purpose: "Bible studies"
     subtext: "In various locations & times"
