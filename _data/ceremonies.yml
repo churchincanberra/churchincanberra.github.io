@@ -13,5 +13,5 @@ meeting:
     weight: 4
   - purpose: "Meeting hall address"
     subtext: "26 Stokes St, Griffith, Canberra, ACT 2603"
-    when: "Contact us for dial-in details if joining online"
+    when: "Contact us for Zoom details if joining online"
     weight: 5
