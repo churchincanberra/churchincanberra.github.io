@@ -5,7 +5,7 @@ description: Privacy Statement from the Church in Canberra
 
 ---
 
-We value your privacy and respect your personal information. This privacy statement explains how we collect, use, and protect your personal information when you visit our church community website. 
+We value your privacy and respect your personal information. This privacy statement explains how we collect, use, and protect your personal information when you fellowship with the Church in Canberra. 
 
 We collect personal information from you when you register in any of our in-person or online activities, subscribe to our newsletter, or make a payment. We may also collect information from third-party sources, such as social media platforms, online forms, or public records. 
 
