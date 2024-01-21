@@ -1,6 +1,6 @@
 ---
 title: Privacy Statement
-layout: page-full
+layout: service
 description: Privacy Statement from the Church in Canberra
 
 ---
