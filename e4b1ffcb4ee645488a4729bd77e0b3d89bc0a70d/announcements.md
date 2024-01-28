@@ -27,6 +27,8 @@ description: Recent announcements and updates
 
 <div class="container pt-6 pb-6 pb-md-10">
     <div class="row justify-content-center">
-        <a href="https://churchincanberra.us10.list-manage.com/subscribe?u=12a6ecea8fbc1ad37a233cac1&id=d479a108b4">Subscribe to this announcements</a>
+    Subscribe to the church announcements via: 
+        <a href="https://churchincanberra.us10.list-manage.com/subscribe?u=12a6ecea8fbc1ad37a233cac1&id=d479a108b4" target="_blank">Email</a> | 
+        <a href="https://us10.campaign-archive.com/feed?u=12a6ecea8fbc1ad37a233cac1&id=d479a108b4" target="_blank">RSS</a>
     </div>
 </div>
