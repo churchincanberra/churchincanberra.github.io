@@ -543,21 +543,21 @@
   category: National
   singular: true
   date: '2024-08-30'
-  location: 'Melbourne, VIC, Australia'
+  location: 'Sydney, NSW, Australia'
 - id: 'nat20240831'
   name: Parents' and Serving Ones' Conference
   description: ''
   category: National
   singular: true
   date: '2024-08-31'
-  location: 'Melbourne, VIC, Australia'
+  location: 'Sydney, NSW, Australia'
 - id: 'nat20240901'
   name: Parents' and Serving Ones' Conference
   description: ''
   category: National
   singular: true
   date: '2024-09-01'
-  location: 'Melbourne, VIC, Australia'
+  location: 'Sydney, NSW, Australia'
 - id: 'nat20241220'
   name: Summer School of Truth
   description: ''
