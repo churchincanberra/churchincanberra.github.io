@@ -88,6 +88,9 @@ export const trimHtmlContent = (htmlContent) => {
   const scripts = dom.window.document.querySelectorAll('script');
   scripts.forEach(script => script.remove());
 
+  const fonts = dom.window.document.querySelectorAll('font');
+  fonts.forEach(font => font.remove());
+
   const elements = dom.window.document.querySelectorAll('*');
   elements.forEach(element => {
     if (element.hasAttribute('style')) {
