@@ -17,7 +17,7 @@ description: Recent announcements and updates
 <div class="row justify-content-end">
   <a href="https://www.churchincanberra.org/e4b1ffcb4ee645488a4729bd77e0b3d89bc0a70d/announcements/" class="pr-1">ENGLISH</a>
   |
-  <a href="https://www-churchincanberra-org.translate.goog/e4b1ffcb4ee645488a4729bd77e0b3d89bc0a70d/announcements/?_x_tr_sl=en&_x_tr_tl=zh-cn&_x_tr_hl=auto" target="_blank" class="pl-1">中文</a>
+  <a href="https://www-churchincanberra-org.translate.goog/e4b1ffcb4ee645488a4729bd77e0b3d89bc0a70d/announcements/?_x_tr_sl=en&_x_tr_tl=zh-cn&_x_tr_hl=auto" target="_blank" class="px-1">中文</a>
 </div>
 
 <!-- ANNOUNCEMENT:START -->
