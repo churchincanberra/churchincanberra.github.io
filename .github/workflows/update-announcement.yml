@@ -55,3 +55,4 @@ jobs:
           git add ./e4b1ffcb4ee645488a4729bd77e0b3d89bc0a70d/announcements.md
           git commit -m "update announcement [skip ci]"
           git push
+
