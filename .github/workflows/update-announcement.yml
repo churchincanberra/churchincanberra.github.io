@@ -9,7 +9,11 @@ name: Update Announcement
 
 on: 
   workflow_dispatch:
- 
+  
+  schedule:
+    - cron: '30 23 * * 6' # This runs at 9:30 AM Australia/Sydney time (UTC+10) every Sunday
+    - cron: '30 22 * * 6' # This runs at 9:30 AM Australia/Sydney time (UTC+11) every Sunday during daylight saving
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -50,8 +54,8 @@ jobs:
 
       - name: commit
         run: |
-          git config --global user.email "42864823+KittyChiu@users.noreply.github.com "
-          git config --global user.name "Kitty Chiu[bot]"
+          git config --global user.email "noreply@users.noreply.github.com "
+          git config --global user.name "announcement-bot"
           git add ./e4b1ffcb4ee645488a4729bd77e0b3d89bc0a70d/announcements.md
           git commit -m "update announcement [skip ci]"
           git push
