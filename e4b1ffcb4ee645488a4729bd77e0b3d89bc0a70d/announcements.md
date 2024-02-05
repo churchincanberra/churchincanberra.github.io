@@ -10,7 +10,7 @@ description: Recent announcements and updates
 </div>
 
 <script language="javascript"
-  src="//outlook.us10.list-manage.com/generate-js/?u=12a6ecea8fbc1ad37a233cac1&fid=17501&show=1"
+  src="//churchincanberra.us10.list-manage.com/generate-js/?u=12a6ecea8fbc1ad37a233cac1&fid=17501&show=1"
   type="text/javascript"></script>
 
 <script>
