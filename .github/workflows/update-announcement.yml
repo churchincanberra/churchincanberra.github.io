@@ -5,7 +5,7 @@
 # 3. Filters the content and updates the announcement.md file.
 # 4. Commits the updated announcement.md file to the repository.
 
-name: Update Announcement
+name: Announcement
 
 on: 
   workflow_dispatch:
