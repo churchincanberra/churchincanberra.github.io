@@ -21,7 +21,7 @@ description: Recent announcements and updates
 </div>
 
 <!-- ANNOUNCEMENT:START -->
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<table>
     <tbody>
         <tr>
             <td valign="top">
@@ -33,7 +33,7 @@ description: Recent announcements and updates
 				<!--[if mso]>
 				<td valign="top" width="600" style="width:600px;">
 				<![endif]-->
-                <table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+                <table align="left">
                     <tbody><tr>
                         
                         <td valign="top">
@@ -58,7 +58,7 @@ description: Recent announcements and updates
             </td>
         </tr>
     </tbody>
-</table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+</table><table>
     <tbody>
         <tr>
             <td valign="top">
@@ -70,7 +70,7 @@ description: Recent announcements and updates
 				<!--[if mso]>
 				<td valign="top" width="600" style="width:600px;">
 				<![endif]-->
-                <table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+                <table align="left">
                     <tbody><tr>
                         
                         <td valign="top">
@@ -145,7 +145,7 @@ This way NSOT will be hosted in Melbourne as planned and TT/PSOC will be hosted&
             </td>
         </tr>
     </tbody>
-</table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+</table><table>
     <tbody>
         <tr>
             <td valign="top">
@@ -157,7 +157,7 @@ This way NSOT will be hosted in Melbourne as planned and TT/PSOC will be hosted&
 				<!--[if mso]>
 				<td valign="top" width="600" style="width:600px;">
 				<![endif]-->
-                <table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+                <table align="left">
                     <tbody><tr>
                         
                         <td valign="top">
@@ -165,7 +165,7 @@ This way NSOT will be hosted in Melbourne as planned and TT/PSOC will be hosted&
                             <p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span><u>TRAINING &amp; CONFERENCES</u>&nbsp;</span><br>
 &nbsp;</p>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"></p>
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>1. VIDEO TRAINING FEBRUARY&nbsp;2024</span></font></p>
 
 <blockquote>
 <p><span><span>Laboring on the All-inclusive Christ Typified by the Good Land for the Building Up of the Church as the Body of Christ, for the Reality and the Manifestation of the Kingdom, and for the Bride to Make Herself Ready for the Lord’s Coming<br>
@@ -196,12 +196,12 @@ Venue: New Zealand Training Centre, 33 Beale St. Hamilton</span></span></p>
 </blockquote>
 </blockquote>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"></p>
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>3. MONTHLY PERFECTING TRAINING&nbsp;2024</span></font></p>
 
 <blockquote>
-<p><br>
-<br>
-<a href="https://docs.google.com/forms/d/e/1FAIpQLScs-1Xgc4YFXc22Q465C7BZjGGHPckq6kbx_0jxodPfS5dAww/viewform" target="_blank"><span><span>Click Here</span></span></a></p>
+<p><font><span>Dates: 10 February,&nbsp;13 April, 11 May, 20&nbsp;July,&nbsp;7&nbsp;September, and 16 November (There will be no training in the other months because of other conferences or the Bi-annual Perfecting Training)</span></font><br>
+<font><span>Venue: Physical cluster at the Church in Canberra Meeting Hall or&nbsp;via Zoom platform</span></font><br>
+<font><span>Registration:&nbsp;</span></font><a href="https://docs.google.com/forms/d/e/1FAIpQLScs-1Xgc4YFXc22Q465C7BZjGGHPckq6kbx_0jxodPfS5dAww/viewform" target="_blank"><span><span>Click Here</span></span></a></p>
 </blockquote>
 
                         </td>
@@ -218,7 +218,7 @@ Venue: New Zealand Training Centre, 33 Beale St. Hamilton</span></span></p>
             </td>
         </tr>
     </tbody>
-</table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+</table><table>
     <tbody>
         <tr>
             <td valign="top">
@@ -230,7 +230,7 @@ Venue: New Zealand Training Centre, 33 Beale St. Hamilton</span></span></p>
 				<!--[if mso]>
 				<td valign="top" width="600" style="width:600px;">
 				<![endif]-->
-                <table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+                <table align="left">
                     <tbody><tr>
                         
                         <td valign="top">
@@ -269,7 +269,7 @@ For more details, please&nbsp;<a href="https://mcusercontent.com/12a6ecea8fbc1ad
             </td>
         </tr>
     </tbody>
-</table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+</table><table>
     <tbody>
         <tr>
             <td valign="top">
@@ -281,7 +281,7 @@ For more details, please&nbsp;<a href="https://mcusercontent.com/12a6ecea8fbc1ad
 				<!--[if mso]>
 				<td valign="top" width="600" style="width:600px;">
 				<![endif]-->
-                <table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+                <table align="left">
                     <tbody><tr>
                         
                         <td valign="top">
@@ -310,7 +310,7 @@ For more details, please&nbsp;<a href="https://mcusercontent.com/12a6ecea8fbc1ad
             </td>
         </tr>
     </tbody>
-</table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+</table><table>
     <tbody>
         <tr>
             <td valign="top">
@@ -322,7 +322,7 @@ For more details, please&nbsp;<a href="https://mcusercontent.com/12a6ecea8fbc1ad
 				<!--[if mso]>
 				<td valign="top" width="600" style="width:600px;">
 				<![endif]-->
-                <table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+                <table align="left">
                     <tbody><tr>
                         
                         <td valign="top">
@@ -381,7 +381,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><table border="0" cellpadding="0" cellspacing="0" width="100%">
+</table><table>
     <tbody>
         <tr>
             <td valign="top">
@@ -393,7 +393,7 @@ Passcode:&nbsp;Eph4:16</p>
 				<!--[if mso]>
 				<td valign="top" width="600" style="width:600px;">
 				<![endif]-->
-                <table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+                <table align="left">
                     <tbody><tr>
                         
                         <td valign="top">
@@ -437,6 +437,7 @@ Passcode:&nbsp;Eph4:16</p>
     <a href="https://us10.campaign-archive.com/feed?u=12a6ecea8fbc1ad37a233cac1&id=d479a108b4" target="_blank" class="px-1">RSS</a>
   </div>
 </div>
+
 
 
 
