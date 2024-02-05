@@ -48,10 +48,10 @@ jobs:
           name: draft-copy
           path: ./e4b1ffcb4ee645488a4729bd77e0b3d89bc0a70d/announcements.md
 
-      # - name: commit
-      #   run: |
-      #     git config --global user.email "
-      #     git config --global user.name "Announcement Bot"
-      #     git add ./e4b1ffcb4ee645488a4729bd77e0b3d89bc0a70d/announcements.md
-      #     git commit -m "update announcement [skip ci]"
-      #     git push
+      - name: commit
+        run: |
+          git config --global user.email "
+          git config --global user.name "Announcement Bot"
+          git add ./e4b1ffcb4ee645488a4729bd77e0b3d89bc0a70d/announcements.md
+          git commit -m "update announcement [skip ci]"
+          git push
