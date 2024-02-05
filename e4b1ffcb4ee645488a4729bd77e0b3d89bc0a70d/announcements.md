@@ -5,6 +5,16 @@ description: Recent announcements and updates
 
 ---
 
+<style>
+  table, th, td {
+    /* Add your custom styles here */
+    border: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+</style>
+
+
 <!-- ANNOUNCEMENT:START -->
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
     <tbody>
