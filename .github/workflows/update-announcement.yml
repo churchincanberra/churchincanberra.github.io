@@ -1,0 +1,57 @@
+# Description: This workflow updates the content in the announcement.md file.
+# It follows the following steps:
+# 1. Calls the Mailchimp archive URL to retrieve the latest campaign URL.
+# 2. Retrieves the content from the campaign URL.
+# 3. Filters the content and updates the announcement.md file.
+# 4. Commits the updated announcement.md file to the repository.
+
+name: Update Announcement
+
+on: 
+  workflow_dispatch:
+ 
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/create-github-app-token@v1
+        id: app-token
+        with:
+          app-id: ${{ vars.ANNOUNCEMENTBOT_APP_ID }}
+          private-key: ${{ secrets.ANNOUNCEMENTBOT_PRIVATE_KEY }}
+          
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ steps.app-token.outputs.token }}
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: |
+          npm install jsdom
+          npm install node-fetch
+        shell: bash
+
+      - name: Get latest announcement
+        run: |
+          node .github/scripts/getAnnouncement.mjs
+        shell: bash
+
+      - name: Upload announcement
+        uses: actions/upload-artifact@v4
+        with:
+          name: draft-copy
+          path: ./e4b1ffcb4ee645488a4729bd77e0b3d89bc0a70d/announcements.md
+
+      # - name: commit
+      #   run: |
+      #     git config --global user.email "
+      #     git config --global user.name "Announcement Bot"
+      #     git add ./e4b1ffcb4ee645488a4729bd77e0b3d89bc0a70d/announcements.md
+      #     git commit -m "update announcement [skip ci]"
+      #     git push
