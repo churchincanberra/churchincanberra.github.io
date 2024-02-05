@@ -73,7 +73,7 @@ export const getFirstLinkUrl = (jsString) => {
 /**
  * Removes unwanted elements and attributes from HTML content.
  * - elements: style, script
- * - attributes: style, class
+ * - attributes: style, class, face, border, cellspacing, cellpadding, width
  * Return element with id 'templateBody' if it exists, otherwise return the whole HTML content.
  * 
  * @param {string} htmlContent - The HTML content to be trimmed.
@@ -88,9 +88,6 @@ export const trimHtmlContent = (htmlContent) => {
   const scripts = dom.window.document.querySelectorAll('script');
   scripts.forEach(script => script.remove());
 
-  const fonts = dom.window.document.querySelectorAll('font');
-  fonts.forEach(font => font.remove());
-
   const elements = dom.window.document.querySelectorAll('*');
   elements.forEach(element => {
     if (element.hasAttribute('style')) {
@@ -98,6 +95,21 @@ export const trimHtmlContent = (htmlContent) => {
     }
     if (element.hasAttribute('class')) {
       element.removeAttribute('class');
+    }
+    if (element.hasAttribute('face')) {
+      element.removeAttribute('face');
+    }
+    if (element.hasAttribute('border')) {
+      element.removeAttribute('border');
+    }
+    if (element.hasAttribute('cellspacing')) {
+      element.removeAttribute('cellspacing');
+    }
+    if (element.hasAttribute('cellpadding')) {
+      element.removeAttribute('cellpadding');
+    }
+    if (element.hasAttribute('width')) {
+      element.removeAttribute('width');
     }
   });
 
