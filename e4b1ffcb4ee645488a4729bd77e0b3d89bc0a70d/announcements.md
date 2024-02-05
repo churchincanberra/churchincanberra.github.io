@@ -1,6 +1,6 @@
 ---
 title: Church Announcements
-layout: default
+layout: page
 description: Recent announcements and updates
 
 ---
