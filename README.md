@@ -124,7 +124,7 @@ For example the site https://hosting.com/churchincanberra would have `baseurl: "
 
 This website is licensed under the terms of the [MIT license](LICENSE). We would like to thank the following open source projects for their contributions.
 
-<details><summary>1. Key components</summary>
+<details><summary>**1. Key components**</summary>
 
 - Jekyll 4.2+
 - Bootstrap 4.6
