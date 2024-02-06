@@ -22,7 +22,7 @@ flowchart LR
 
 ### How-To's: Website maintenance
 
-<details><summary>**1. How to update the church calendar**</summary>
+<details><summary>1. How to update the church calendar</summary>
 
 All event entries are stored in `_data/calendar/entries.yml`. Add or update entry as applicable.
 
@@ -54,7 +54,7 @@ This allows calendar entries to be filtered by category.
 
 </details>
 
-<details><summary>**2. How to update the church announcement**</summary>
+<details><summary>2. How to update the church announcement</summary>
 
 Church announcement page is updated automatically by `update-announcement.yml`. The update is scheduled to run twice every Sunday at 09:30 AEST and 09:30 AEDT.
 
@@ -67,7 +67,7 @@ At high level, the automation works as follows:
 
 </details>
 
-<details><summary>**3. How to update the contact form's recipients**</summary>
+<details><summary>3. How to update the contact form's recipients</summary>
 
 The contact form is powered by [Contact Me workflow app](https://github.com/churchincanberra/azure-logicapps/). The recipient email address is configured at `EMAIL_RECIPIENTS` under Settings | Security | Repository Variables.
 
@@ -77,7 +77,7 @@ The contact form is powered by [Contact Me workflow app](https://github.com/chur
 
 Contributions are welcome! Read the following sections to get started.
 
-<details><summary>:gear: **Getting started**</summary>
+<details><summary>:gear: Getting started</summary>
 
 Follow the [Jekyll docs](https://jekyllrb.com/docs/installation/) if setting up Jekyll for the first time.
 
@@ -103,16 +103,7 @@ bundle exec jekyll build
 
 </details>
 
-{% note %}
-
-**Note:** When deploying, assure `baseurl` value in the `_config.yml` otherwise all the css, images and paths will be broken.
-
-For example the site https://hosting.com/churchincanberra would have `baseurl: "/churchincanberra/"`
-
-{% endnote %}
-
-
-<details><summary>:repeat: **Workflow**</summary>
+<details><summary>:repeat: Workflow</summary>
 
 This website maintains by [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow). At high level,
 
@@ -123,7 +114,11 @@ This website maintains by [GitHub flow](https://docs.github.com/en/get-started/q
 1. Make any necessary changes from the feedback.
 1. Once approved and all required checks passed, merge your pull request and your changes will be deployed to the `gh-pages` production environment.
 
-<details>
+</details>
+
+**Note:** When deploying, assure `baseurl` value in the `_config.yml` otherwise all the css, images and paths will be broken.
+
+For example the site https://hosting.com/churchincanberra would have `baseurl: "/churchincanberra/"`
 
 ## Credits
 
