@@ -6,7 +6,7 @@
 
 This repository hosts the website on GitHub Pages. The Church in Canberra is a non-profit organisation located in Canberra, Australia.
 
-<details><summary>:globe_with_meridians: How does this website work?</summary>
+<details><summary><strong>:globe_with_meridians: How does this website work?</strong></summary>
 
 ```mermaid
 flowchart LR
@@ -77,7 +77,7 @@ The contact form is powered by [Contact Me workflow app](https://github.com/chur
 
 Contributions are welcome! Read the following sections to get started.
 
-<details><summary>:gear: Getting started</summary>
+<details><summary><strong>:gear: Getting started</strong></summary>
 
 Follow the [Jekyll docs](https://jekyllrb.com/docs/installation/) if setting up Jekyll for the first time.
 
@@ -103,7 +103,7 @@ bundle exec jekyll build
 
 </details>
 
-<details><summary>:repeat: Workflow</summary>
+<details><summary><strong>:repeat: Workflow</strong></summary>
 
 This website maintains by [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow). At high level,
 
@@ -136,7 +136,7 @@ This website is licensed under the terms of the [MIT license](LICENSE). We would
 
 </details>
 
-<details><summary>2. Other projects</summary>
+<details><summary><strong>2. Other projects</strong></summary>
 
 - [Jekyll Serif theme](https://github.com/zerostaticthemes/jekyll-serif-theme)
 - [Password protected for static pages](https://github.com/matteobrusa/Password-protection-for-static-pages)
