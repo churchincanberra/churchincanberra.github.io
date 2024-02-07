@@ -789,3 +789,45 @@
   singular: true
   date: '2024-12-08'
   location: 'Suva, Fiji'
+- id: 'loc20240210'
+  name: Monthly Perfecting Training
+  description: 'Local cluster at the meeting hall'
+  category: Local
+  singular: true
+  date: '2024-02-10'
+  location: 'Canberra, ACT, Australia'
+- id: 'loc20240413'
+  name: Monthly Perfecting Training
+  description: 'Local cluster at the meeting hall'
+  category: Local
+  singular: true
+  date: '2024-04-13'
+  location: 'Canberra, ACT, Australia'
+- id: 'loc20240511'
+  name: Monthly Perfecting Training
+  description: 'Local cluster at the meeting hall'
+  category: Local
+  singular: true
+  date: '2024-05-11'
+  location: 'Canberra, ACT, Australia'
+- id: 'loc20240720'
+  name: Monthly Perfecting Training
+  description: 'Local cluster at the meeting hall'
+  category: Local
+  singular: true
+  date: '2024-07-20'
+  location: 'Canberra, ACT, Australia'
+- id: 'loc20240907'
+  name: Monthly Perfecting Training
+  description: 'Local cluster at the meeting hall'
+  category: Local
+  singular: true
+  date: '2024-09-07'
+  location: 'Canberra, ACT, Australia'
+- id: 'loc20241116'
+  name: Monthly Perfecting Training
+  description: 'Local cluster at the meeting hall'
+  category: Local
+  singular: true
+  date: '2024-11-16'
+  location: 'Canberra, ACT, Australia'
