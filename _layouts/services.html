@@ -15,17 +15,15 @@ bodyClass: "page-services"
 
 <div class="container container-fluid pt-6 pb-6">
   <div class="row">
-    {% for service in site.services %}
-    <div class="col-12 col-md-5 mb-3 mr-3 service-box">
-      <div class="service service-summary">
+    {% for service in site.about %}
+      <div class="col-12 col-md-5 mb-3 me-3 service-container">
         <div class="service-content">
-          <h2 class="service-title">
+          <h2>
             <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
           </h2>
           <p>{{ service.excerpt | markdownify | strip_html | truncate: 100 }}</p>
         </div>
       </div>
-    </div>
     {% endfor %}
   </div>
 </div>

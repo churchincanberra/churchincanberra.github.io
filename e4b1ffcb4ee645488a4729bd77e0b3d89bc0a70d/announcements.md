@@ -2,7 +2,6 @@
 title: Church Announcements
 layout: page
 description: Recent announcements and updates
-
 ---
 
 <style>
@@ -15,9 +14,9 @@ description: Recent announcements and updates
 </style>
 
 <div class="row justify-content-end">
-  <a href="https://www.churchincanberra.org/e4b1ffcb4ee645488a4729bd77e0b3d89bc0a70d/announcements/" class="px-1">ENGLISH</a>
+  <a href="https://www.churchincanberra.org/e4b1ffcb4ee645488a4729bd77e0b3d89bc0a70d/announcements/" class="notranslate w-auto px-1">ENGLISH</a>
   |
-  <a href="https://www-churchincanberra-org.translate.goog/e4b1ffcb4ee645488a4729bd77e0b3d89bc0a70d/announcements/?_x_tr_sl=en&_x_tr_tl=zh-cn&_x_tr_hl=auto" target="_blank" class="px-1">中文(简)</a>
+  <a href="https://www-churchincanberra-org.translate.goog/e4b1ffcb4ee645488a4729bd77e0b3d89bc0a70d/announcements/?_x_tr_sl=en&_x_tr_tl=zh-cn&_x_tr_hl=auto" target="_blank" class="notranslate w-auto px-1">中文(简)</a>
 </div>
 
 <!-- ANNOUNCEMENT:START -->
@@ -47,17 +46,18 @@ description: Recent announcements and updates
                         </td>
                     </tr>
                 </tbody></table>
-				<!--[if mso]>
-				</td>
-				<![endif]-->
-                
-				<!--[if mso]>
-				</tr>
-				</table>
-				<![endif]-->
+    			<!--[if mso]>
+    			</td>
+    			<![endif]-->
+
+    			<!--[if mso]>
+    			</tr>
+    			</table>
+    			<![endif]-->
             </td>
         </tr>
     </tbody>
+
 </table><table>
     <tbody>
         <tr>
@@ -134,17 +134,18 @@ This way NSOT will be hosted in Melbourne as planned and TT/PSOC will be hosted&
                         </td>
                     </tr>
                 </tbody></table>
-				<!--[if mso]>
-				</td>
-				<![endif]-->
-                
-				<!--[if mso]>
-				</tr>
-				</table>
-				<![endif]-->
+    			<!--[if mso]>
+    			</td>
+    			<![endif]-->
+
+    			<!--[if mso]>
+    			</tr>
+    			</table>
+    			<![endif]-->
             </td>
         </tr>
     </tbody>
+
 </table><table>
     <tbody>
         <tr>
@@ -207,17 +208,18 @@ Venue: New Zealand Training Centre, 33 Beale St. Hamilton</span></span></p>
                         </td>
                     </tr>
                 </tbody></table>
-				<!--[if mso]>
-				</td>
-				<![endif]-->
-                
-				<!--[if mso]>
-				</tr>
-				</table>
-				<![endif]-->
+    			<!--[if mso]>
+    			</td>
+    			<![endif]-->
+
+    			<!--[if mso]>
+    			</tr>
+    			</table>
+    			<![endif]-->
             </td>
         </tr>
     </tbody>
+
 </table><table>
     <tbody>
         <tr>
@@ -258,17 +260,18 @@ For more details, please&nbsp;<a href="https://mcusercontent.com/12a6ecea8fbc1ad
                         </td>
                     </tr>
                 </tbody></table>
-				<!--[if mso]>
-				</td>
-				<![endif]-->
-                
-				<!--[if mso]>
-				</tr>
-				</table>
-				<![endif]-->
+    			<!--[if mso]>
+    			</td>
+    			<![endif]-->
+
+    			<!--[if mso]>
+    			</tr>
+    			</table>
+    			<![endif]-->
             </td>
         </tr>
     </tbody>
+
 </table><table>
     <tbody>
         <tr>
@@ -299,17 +302,18 @@ For more details, please&nbsp;<a href="https://mcusercontent.com/12a6ecea8fbc1ad
                         </td>
                     </tr>
                 </tbody></table>
-				<!--[if mso]>
-				</td>
-				<![endif]-->
-                
-				<!--[if mso]>
-				</tr>
-				</table>
-				<![endif]-->
+    			<!--[if mso]>
+    			</td>
+    			<![endif]-->
+
+    			<!--[if mso]>
+    			</tr>
+    			</table>
+    			<![endif]-->
             </td>
         </tr>
     </tbody>
+
 </table><table>
     <tbody>
         <tr>
@@ -370,17 +374,18 @@ Passcode:&nbsp;Eph4:16</p>
                         </td>
                     </tr>
                 </tbody></table>
-				<!--[if mso]>
-				</td>
-				<![endif]-->
-                
-				<!--[if mso]>
-				</tr>
-				</table>
-				<![endif]-->
+    			<!--[if mso]>
+    			</td>
+    			<![endif]-->
+
+    			<!--[if mso]>
+    			</tr>
+    			</table>
+    			<![endif]-->
             </td>
         </tr>
     </tbody>
+
 </table><table>
     <tbody>
         <tr>
@@ -415,35 +420,26 @@ Passcode:&nbsp;Eph4:16</p>
                         </td>
                     </tr>
                 </tbody></table>
-				<!--[if mso]>
-				</td>
-				<![endif]-->
-                
-				<!--[if mso]>
-				</tr>
-				</table>
-				<![endif]-->
+    			<!--[if mso]>
+    			</td>
+    			<![endif]-->
+
+    			<!--[if mso]>
+    			</tr>
+    			</table>
+    			<![endif]-->
             </td>
         </tr>
     </tbody>
+
 </table>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
   <div class="row">
     Subscribe to the church announcements via:
-    <a href="https://churchincanberra.us10.list-manage.com/subscribe?u=12a6ecea8fbc1ad37a233cac1&id=d479a108b4" target="_blank" class="px-1">EMAIL</a>
+    <a href="https://churchincanberra.us10.list-manage.com/subscribe?u=12a6ecea8fbc1ad37a233cac1&id=d479a108b4" target="_blank" class="w-auto px-1">EMAIL</a>
     |
-    <a href="https://us10.campaign-archive.com/feed?u=12a6ecea8fbc1ad37a233cac1&id=d479a108b4" target="_blank" class="px-1">RSS</a>
+    <a href="https://us10.campaign-archive.com/feed?u=12a6ecea8fbc1ad37a233cac1&id=d479a108b4" target="_blank" class="w-auto px-1">RSS</a>
   </div>
 </div>
-
-
-
-
-
-
-
-
-
-
