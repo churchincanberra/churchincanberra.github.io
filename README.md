@@ -18,6 +18,7 @@ flowchart LR
     B --> |email|G[fab:fa-microsoft Logic App]
 
 ```
+
 </details>
 
 ## Website Maintenance Guide
@@ -118,7 +119,7 @@ The website and its related components are maintained by [GitHub flow](https://d
 
 **Note:** When deploying, assure `baseurl` value in the `_config.yml` otherwise all the css, images and paths will be broken.
 
-For example the site https://hosting.com/churchincanberra would have `baseurl: "/churchincanberra/"`
+For example if the site is hosted as https://hosting.com/churchincanberra, config would have `baseurl: "/churchincanberra/"`
 
 </details>
 
@@ -128,11 +129,9 @@ This website is licensed under the terms of the [MIT license](LICENSE). We would
 
 <details><summary><strong>1. Key components</strong></summary>
 
-- Jekyll 4.2+
-- Bootstrap 4.6
-  - Services (Collection)
-  - Teams (Collection)
-  - SCSS
+- [Jekyll Serif theme v1.4](https://github.com/zerostaticthemes/jekyll-serif-theme/releases/tag/v1.4)
+  - Jekyll 4.3.2
+  - Bootstrap 5.3.2
 - [gems/jekyll-environment-variables](https://rubygems.org/gems/jekyll-environment-variables/)
 - [gems/jekyll-seo-tag](https://rubygems.org/gems/jekyll-seo-tag)
 
@@ -140,11 +139,9 @@ This website is licensed under the terms of the [MIT license](LICENSE). We would
 
 <details><summary><strong>2. Other projects</strong></summary>
 
-- [Jekyll Serif theme](https://github.com/zerostaticthemes/jekyll-serif-theme)
 - [Password protected for static pages](https://github.com/matteobrusa/Password-protection-for-static-pages)
 - [Calendar component](https://github.com/abzicht/jekyll-calendar)
 - [HTTP Request Superagent](https://github.com/ladjs/superagent)
 - [Blog post workflow](https://github.com/gautamkrishnar/blog-post-workflow)
 
 </details>
-

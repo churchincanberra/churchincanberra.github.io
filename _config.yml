@@ -1,29 +1,24 @@
 url: https://www.churchincanberra.org
-baseurl: ''
+baseurl: ""
 permalink: pretty
-title: 'Church in Canberra'
+title: "Church in Canberra"
+tagline: "We welcome all believers who have faith in Jesus Christ."
+description: "We are located in Canberra, the capital city of Australia."
 
-home: 
+home:
   limit_services: 6
 
 collections:
-  services:
+  about:
     output: true
     sort_by: weight
-  team:
-    output: true
 
 defaults:
   - scope:
       path: ""
-      type: "services"
+      type: "about"
     values:
       layout: "service"
-  - scope:
-      path: ""
-      type: "team"
-    values:
-      layout: "team"
 
 sass:
   style: compressed # possible values: nested expanded compact compressed
