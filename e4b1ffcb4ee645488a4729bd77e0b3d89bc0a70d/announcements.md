@@ -38,24 +38,23 @@ description: Recent announcements and updates
                             <div>
 <hr>
 <p lang="EN-US" xml:lang="EN-US"><strong data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>4th February&nbsp;2024</span></strong></p>
+<strong data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>11th February&nbsp;2024</span></strong></p>
 </div>
 
                         </td>
                     </tr>
                 </tbody></table>
-    			<!--[if mso]>
-    			</td>
-    			<![endif]-->
-
-    			<!--[if mso]>
-    			</tr>
-    			</table>
-    			<![endif]-->
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
             </td>
         </tr>
     </tbody>
-
 </table><table>
     <tbody>
         <tr>
@@ -99,8 +98,8 @@ Passcode: Eph4:16</p>
 
 <blockquote>
 <p><strong>English speaking - Thursday 7pm</strong><br>
-Venue: Steer's House<br>
-Topic: How to Conduct Ourselves in the House of God - Exercising Ourselves unto Godliness<br>
+Venue: Ederosas' House (Braddon)<br>
+Topic: A Good Minister of Christ<br>
 <br>
 <strong>Chinese speaking - Wednesday 6:30pm</strong><br>
 Contact Zhi Bing or Mark Lam for the location.</p>
@@ -126,24 +125,23 @@ This way NSOT will be hosted in Melbourne as planned and TT/PSOC will be hosted&
 <p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>5. LIFE STUDY PURSUIT</span></p>
 
 <blockquote>
-<p>Life Studies of 2&nbsp;Timothy Messages 5&nbsp;and 6.</p>
+<p>Life Studies of 2&nbsp;Timothy Messages 7&nbsp;and 8.</p>
 </blockquote>
 
                         </td>
                     </tr>
                 </tbody></table>
-    			<!--[if mso]>
-    			</td>
-    			<![endif]-->
-
-    			<!--[if mso]>
-    			</tr>
-    			</table>
-    			<![endif]-->
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
             </td>
         </tr>
     </tbody>
-
 </table><table>
     <tbody>
         <tr>
@@ -176,23 +174,14 @@ Registration: <a href="https://form.jotform.com/233420783906054" target="_blank"
 &nbsp;</p>
 </blockquote>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span><span>2. NEW ZEALAND NATIONAL BLENDING CONFERENCE &amp; BROTHERS'&nbsp;TRAINING WITH BROTHER ED MARKS- JANUARY 2024</span></span></p>
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span><span>2. MID SEMESTER RETREAT</span></span></p>
 
 <blockquote>
-<p><span><span>BLENDING CONFERENCE</span></span></p>
-
-<blockquote>
-<p><span><span>Dates: 26th-29th January 2024<br>
-Venue: Hamilton Boys'&nbsp;High School, adjacent to the New Zealand Training Centre in Hamilton<br>
-Registration: <a href="https://nztc.ac.nz/blendingconference/" target="_blank">Click Here</a></span></span></p>
-</blockquote>
-
-<p><span><span>BROTHER'S TRAINING</span></span></p>
-
-<blockquote>
-<p><span><span>Dates: 29th January 2024<br>
-Venue: New Zealand Training Centre, 33 Beale St. Hamilton</span></span></p>
-</blockquote>
+<p><font><span>Students from Sydney and&nbsp;Newcastle will be coming&nbsp;to Canberra from the 29th-30th of March for a mid semester retreat. University&nbsp;students and young working saints are encouraged to join this time. Local saints are also encouraged to stay in Canberra over the long weekend for the fellowship, blending and giving&nbsp;hospitality during the retreat.</span></font><br>
+<br>
+<span><span>Dates: 29th-30th of March<br>
+Venue: Church in Canberra Meeting Hall<br>
+Registration: TBC</span></span></p>
 </blockquote>
 
 <p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>3. MONTHLY PERFECTING TRAINING&nbsp;2024</span></font></p>
@@ -206,18 +195,17 @@ Venue: New Zealand Training Centre, 33 Beale St. Hamilton</span></span></p>
                         </td>
                     </tr>
                 </tbody></table>
-    			<!--[if mso]>
-    			</td>
-    			<![endif]-->
-
-    			<!--[if mso]>
-    			</tr>
-    			</table>
-    			<![endif]-->
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
             </td>
         </tr>
     </tbody>
-
 </table><table>
     <tbody>
         <tr>
@@ -258,18 +246,17 @@ For more details, please&nbsp;<a href="https://mcusercontent.com/12a6ecea8fbc1ad
                         </td>
                     </tr>
                 </tbody></table>
-    			<!--[if mso]>
-    			</td>
-    			<![endif]-->
-
-    			<!--[if mso]>
-    			</tr>
-    			</table>
-    			<![endif]-->
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
             </td>
         </tr>
     </tbody>
-
 </table><table>
     <tbody>
         <tr>
@@ -300,18 +287,17 @@ For more details, please&nbsp;<a href="https://mcusercontent.com/12a6ecea8fbc1ad
                         </td>
                     </tr>
                 </tbody></table>
-    			<!--[if mso]>
-    			</td>
-    			<![endif]-->
-
-    			<!--[if mso]>
-    			</tr>
-    			</table>
-    			<![endif]-->
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
             </td>
         </tr>
     </tbody>
-
 </table><table>
     <tbody>
         <tr>
@@ -372,18 +358,17 @@ Passcode:&nbsp;Eph4:16</p>
                         </td>
                     </tr>
                 </tbody></table>
-    			<!--[if mso]>
-    			</td>
-    			<![endif]-->
-
-    			<!--[if mso]>
-    			</tr>
-    			</table>
-    			<![endif]-->
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
             </td>
         </tr>
     </tbody>
-
 </table><table>
     <tbody>
         <tr>
@@ -418,18 +403,17 @@ Passcode:&nbsp;Eph4:16</p>
                         </td>
                     </tr>
                 </tbody></table>
-    			<!--[if mso]>
-    			</td>
-    			<![endif]-->
-
-    			<!--[if mso]>
-    			</tr>
-    			</table>
-    			<![endif]-->
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
             </td>
         </tr>
     </tbody>
-
 </table>
 <!-- ANNOUNCEMENT:END -->
 
@@ -439,3 +423,4 @@ Passcode:&nbsp;Eph4:16</p>
     <a href="https://churchincanberra.us10.list-manage.com/subscribe?u=12a6ecea8fbc1ad37a233cac1&id=d479a108b4" target="_blank" class="w-auto px-1">EMAIL</a>&VerticalLine;<a href="https://us10.campaign-archive.com/feed?u=12a6ecea8fbc1ad37a233cac1&id=d479a108b4" target="_blank" class="w-auto px-1">RSS</a>
   </div>
 </div>
+
