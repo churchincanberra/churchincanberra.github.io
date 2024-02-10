@@ -1,6 +1,6 @@
 meeting:
-  - purpose: "Lord's table meeting"
-    subtext: "(bread-breaking & prophesying)"
+  - purpose: "Lord's table & prophesying meetings"
+    subtext: ""
     when: "Sunday 10.00am"
     weight: 1
   - purpose: "Church prayers meeting"
