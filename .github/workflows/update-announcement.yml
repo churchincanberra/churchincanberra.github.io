@@ -58,15 +58,11 @@ jobs:
           COMMIT_MSG="Announcement updates on $(date +'%Y-%m-%d')"
           NEW_UPDATE=false
 
-          timestamp=$(date)
-          echo $timestamp >> README.md
-
           git config --global user.email "announcement-bot@users.noreply.github.com "
           git config --global user.name "announcement-bot"
           git pull
           git checkout -b $BRANCH_NAME
           git add ./e4b1ffcb4ee645488a4729bd77e0b3d89bc0a70d/announcements.md
-          git add README.md
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
@@ -90,7 +86,9 @@ jobs:
         run: |
           PR_TITLE="Announcement updates on $(date +'%Y-%m-%d')"
           PR_BODY="Automated PR for announcement updates"
+
           PR_URL=$(gh pr create --title "$PR_TITLE" --body "$PR_BODY" --base main --head $BRANCH_NAME --repo ${{ github.repository }})
+
           echo "PR_URL=$PR_URL" >> $GITHUB_ENV
         shell: bash
 
@@ -98,5 +96,6 @@ jobs:
         if: ${{ env.NEW_UPDATE == 'true' }}
         run: |
           COMMIT_MSG=$(gh pr view $PR_URL --json title -q ".title")
-          gh pr merge $PR_URL --squash --delete-branch --admin --subject "$COMMIT_MSG [skip ci]"
+
+          gh pr merge $PR_URL --squash --delete-branch --admin --subject "$COMMIT_MSG"
         shell: bash
