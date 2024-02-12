@@ -82,6 +82,6 @@ jobs:
 
       - name: Merge Pull Request
         run: |
-          PR_NUMBER=$(gh pr view $PR_URL --json number -q ".number")
-          gh pr merge $PR_NUMBER --auto --squash
+          COMMIT_MSG=$(gh pr view $PR_URL --json title -q ".title")
+          gh pr merge $PR_URL --auto --squash --delete-branch --subject "$COMMIT_MSG [skip ci]"
         shell: bash
