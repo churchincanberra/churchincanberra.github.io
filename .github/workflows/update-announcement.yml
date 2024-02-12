@@ -7,9 +7,9 @@
 
 name: Announcement
 
-on: 
+on:
   workflow_dispatch:
-  
+
   schedule:
     - cron: '30 23 * * 6' # This runs at 9:30 AM Australia/Sydney time (UTC+10) every Sunday
     - cron: '30 22 * * 6' # This runs at 9:30 AM Australia/Sydney time (UTC+11) every Sunday during daylight saving
@@ -23,7 +23,7 @@ jobs:
         with:
           app-id: ${{ vars.ANNOUNCEMENTBOT_APP_ID }}
           private-key: ${{ secrets.ANNOUNCEMENTBOT_PRIVATE_KEY }}
-          
+
       - name: Checkout
         uses: actions/checkout@v4
         with:
@@ -52,15 +52,36 @@ jobs:
           name: draft-copy
           path: ./e4b1ffcb4ee645488a4729bd77e0b3d89bc0a70d/announcements.md
 
-      - name: commit
+      - name: Commit announcement updates
         run: |
           git config --global user.email "announcement-bot@users.noreply.github.com "
           git config --global user.name "announcement-bot"
+          BRANCH_NAME="announcement/$(date +'%Y%m%d')"
+          git checkout -b $BRANCH_NAME
           git add ./e4b1ffcb4ee645488a4729bd77e0b3d89bc0a70d/announcements.md
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "update announcement"
-            git push
-          fi
+          COMMIT_MSG="Announcement updates on $(date +'%Y-%m-%d')"
+          git commit -m "$COMMIT_MSG"
+          git push origin $BRANCH_NAME
+        shell: bash
 
+      - name: Authenticate GitHub CLI
+        run: |
+          echo "${{ steps.app-token.outputs.token }}" > token.txt
+          gh auth login --with-token < token.txt
+          rm token.txt
+        shell: bash
+
+      - name: Create Pull Request
+        id: create_pr
+        run: |
+          PR_TITLE="Announcement updates on $(date +'%Y-%m-%d')"
+          PR_BODY="Automated PR for announcement updates"
+          PR_URL=$(gh pr create --title "$PR_TITLE" --body "$PR_BODY" --base main --head $BRANCH_NAME --repo ${{ github.repository }} --json url -q ".url")
+          echo "PR_URL=$PR_URL" >> $GITHUB_ENV
+        shell: bash
+
+      - name: Merge Pull Request
+        run: |
+          PR_NUMBER=$(gh pr view $PR_URL --json number -q ".number")
+          gh pr merge $PR_NUMBER --auto --squash
+        shell: bash
