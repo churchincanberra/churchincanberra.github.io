@@ -56,6 +56,7 @@ jobs:
         run: |
           BRANCH_NAME="announcement/$(date +'%Y%m%d')"
           COMMIT_MSG="Announcement updates on $(date +'%Y-%m-%d')"
+          NEW_UPDATE=false
 
           timestamp=$(date)
           echo $timestamp >> README.md
@@ -66,21 +67,26 @@ jobs:
           git checkout -b $BRANCH_NAME
           git add ./e4b1ffcb4ee645488a4729bd77e0b3d89bc0a70d/announcements.md
           git add README.md
-          git commit -m "$COMMIT_MSG"
-          git push origin $BRANCH_NAME
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "$COMMIT_MSG"
+            git push origin $BRANCH_NAME
+            NEW_UPDATE=true
+          fi
 
           echo "BRANCH_NAME=$BRANCH_NAME" >> $GITHUB_ENV
+          echo "NEW_UPDATE=$NEW_UPDATE" >> $GITHUB_ENV
         shell: bash
 
       - name: Authenticate GitHub CLI
+        if: ${{ env.NEW_UPDATE == 'true' }}
         run: |
-          echo "${{ steps.app-token.outputs.token }}" > token.txt
-          gh auth login --with-token < token.txt
-          rm token.txt
+          echo "${{ steps.app-token.outputs.token }}" | gh auth login --with-token
         shell: bash
 
       - name: Create Pull Request
-        id: create_pr
+        if: ${{ env.NEW_UPDATE == 'true' }}
         run: |
           PR_TITLE="Announcement updates on $(date +'%Y-%m-%d')"
           PR_BODY="Automated PR for announcement updates"
@@ -89,6 +95,7 @@ jobs:
         shell: bash
 
       - name: Merge Pull Request
+        if: ${{ env.NEW_UPDATE == 'true' }}
         run: |
           COMMIT_MSG=$(gh pr view $PR_URL --json title -q ".title")
           gh pr merge $PR_URL --squash --delete-branch --admin --subject "$COMMIT_MSG [skip ci]"
