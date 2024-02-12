@@ -44,18 +44,17 @@ description: Recent announcements and updates
                         </td>
                     </tr>
                 </tbody></table>
-    			<!--[if mso]>
-    			</td>
-    			<![endif]-->
-
-    			<!--[if mso]>
-    			</tr>
-    			</table>
-    			<![endif]-->
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
             </td>
         </tr>
     </tbody>
-
 </table><table>
     <tbody>
         <tr>
@@ -132,18 +131,17 @@ This way NSOT will be hosted in Melbourne as planned and TT/PSOC will be hosted&
                         </td>
                     </tr>
                 </tbody></table>
-    			<!--[if mso]>
-    			</td>
-    			<![endif]-->
-
-    			<!--[if mso]>
-    			</tr>
-    			</table>
-    			<![endif]-->
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
             </td>
         </tr>
     </tbody>
-
 </table><table>
     <tbody>
         <tr>
@@ -197,18 +195,17 @@ Registration: TBC</span></span></p>
                         </td>
                     </tr>
                 </tbody></table>
-    			<!--[if mso]>
-    			</td>
-    			<![endif]-->
-
-    			<!--[if mso]>
-    			</tr>
-    			</table>
-    			<![endif]-->
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
             </td>
         </tr>
     </tbody>
-
 </table><table>
     <tbody>
         <tr>
@@ -249,18 +246,17 @@ For more details, please&nbsp;<a href="https://mcusercontent.com/12a6ecea8fbc1ad
                         </td>
                     </tr>
                 </tbody></table>
-    			<!--[if mso]>
-    			</td>
-    			<![endif]-->
-
-    			<!--[if mso]>
-    			</tr>
-    			</table>
-    			<![endif]-->
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
             </td>
         </tr>
     </tbody>
-
 </table><table>
     <tbody>
         <tr>
@@ -291,18 +287,17 @@ For more details, please&nbsp;<a href="https://mcusercontent.com/12a6ecea8fbc1ad
                         </td>
                     </tr>
                 </tbody></table>
-    			<!--[if mso]>
-    			</td>
-    			<![endif]-->
-
-    			<!--[if mso]>
-    			</tr>
-    			</table>
-    			<![endif]-->
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
             </td>
         </tr>
     </tbody>
-
 </table><table>
     <tbody>
         <tr>
@@ -363,18 +358,17 @@ Passcode:&nbsp;Eph4:16</p>
                         </td>
                     </tr>
                 </tbody></table>
-    			<!--[if mso]>
-    			</td>
-    			<![endif]-->
-
-    			<!--[if mso]>
-    			</tr>
-    			</table>
-    			<![endif]-->
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
             </td>
         </tr>
     </tbody>
-
 </table><table>
     <tbody>
         <tr>
@@ -409,18 +403,17 @@ Passcode:&nbsp;Eph4:16</p>
                         </td>
                     </tr>
                 </tbody></table>
-    			<!--[if mso]>
-    			</td>
-    			<![endif]-->
-
-    			<!--[if mso]>
-    			</tr>
-    			</table>
-    			<![endif]-->
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
             </td>
         </tr>
     </tbody>
-
 </table>
 <!-- ANNOUNCEMENT:END -->
 
