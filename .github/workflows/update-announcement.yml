@@ -63,6 +63,7 @@ jobs:
           git config --global user.email "announcement-bot@users.noreply.github.com "
           git config --global user.name "announcement-bot"
           git checkout -b $BRANCH_NAME
+          git pull
           git add ./e4b1ffcb4ee645488a4729bd77e0b3d89bc0a70d/announcements.md
           git add README.md
           git commit -m "$COMMIT_MSG"
