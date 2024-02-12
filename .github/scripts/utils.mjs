@@ -42,7 +42,7 @@ export const updatePage = (tagName, previousContent, newContent) => {
     tagNewlineFlag ? '\n' : '',
     previousContent.slice(startOfClosingTagIndex),
     tagNewlineFlag ? '\n' : '',
-  ].join('');
+  ].join('').trimEnd();
 };
 
 /**
