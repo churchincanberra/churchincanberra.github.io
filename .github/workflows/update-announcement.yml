@@ -91,5 +91,5 @@ jobs:
       - name: Merge Pull Request
         run: |
           COMMIT_MSG=$(gh pr view $PR_URL --json title -q ".title")
-          gh pr merge $PR_URL --auto --squash --delete-branch --admin --subject "$COMMIT_MSG [skip ci]"
+          gh pr merge $PR_URL --squash --delete-branch --admin --subject "$COMMIT_MSG [skip ci]"
         shell: bash
