@@ -12,7 +12,7 @@ meeting:
     when: "中文，星期五晚上九点整 (微信)"
     weight: 3
   - purpose: "Bible studies"
-    subtext: "Daily in various locations & times, cater for diverse language needs"
+    subtext: "Daily in various locations & times, <br />cater for diverse language needs"
     when: "Contact us for details"
     weight: 4
   - purpose: "Meeting hall address"
