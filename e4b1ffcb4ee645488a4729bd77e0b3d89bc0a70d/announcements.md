@@ -38,7 +38,7 @@ description: Recent announcements and updates
                             <div>
 <hr>
 <p lang="EN-US" xml:lang="EN-US"><strong data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>11th February&nbsp;2024</span></strong></p>
+<strong data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>18th February&nbsp;2024</span></strong></p>
 </div>
 
                         </td>
@@ -74,15 +74,7 @@ description: Recent announcements and updates
                         
                             <p lang="EN-AU" xml:lang="EN-AU"><u data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>WEEKLY HIGHLIGHTS</span></u><span>&nbsp;</span></p>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>1. LORD'S TABLE MEETING SCHEDULE DURING VIDEO TRAINING</span></p>
-
-<blockquote>
-<p>10:00am - 11:45am:&nbsp;Bread Breaking &amp; Prophesying Meeting<br>
-11:45am - 12:15pm:&nbsp;Lunch (Lovefeast)<br>
-12:15pm - 2:00pm:&nbsp;Open Session Message</p>
-</blockquote>
-
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>2. COORDINATION MEETING</span></p>
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>1. COORDINATION MEETING</span></p>
 
 <blockquote>
 <p>Dates: 18th February&nbsp;2024<br>
@@ -94,25 +86,25 @@ Meeting ID: 867 5951 6115&nbsp;<br>
 Passcode: Eph4:16</p>
 </blockquote>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>3.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>2.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
 
 <blockquote>
 <p><strong>English speaking - Thursday 7pm</strong><br>
-Venue: Ederosas' House (Braddon)<br>
-Topic: A Good Minister of Christ<br>
+Venue: Gungahlin House<br>
+Topic: The Pattern of the Apostle Paul<br>
 <br>
 <strong>Chinese speaking - Wednesday 6:30pm</strong><br>
 Contact Zhi Bing or Mark Lam for the location.</p>
 </blockquote>
 
 <p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><br>
-<span>4. CALENDAR FROM THE CHURCH IN SYDNEY</span></p>
+<span>3. CALENDAR FROM THE CHURCH IN SYDNEY</span></p>
 
 <blockquote>
 <p><a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/9071e6cb-1864-9e35-539d-fd3920358b9a/CHURCH_CALENDAR_2024.pdf" target="_blank">Click here </a>for the calendar of yearly events. We encourage us all to consider before the Lord the various events this year for our enjoyment and perfecting. By His grace, let us be positively aggressive to set aside our time and work for this.<br>
 <br>
-Please note: In anticipating more NZ saints coming to blend with the churches in Australia during NSOT &amp; PSOC,&nbsp; in fellowship, the brothers coordinating in these&nbsp;events&nbsp;have decided to move TT/PSOC to Sydney from Melbourne.&nbsp;<br>
-This way NSOT will be hosted in Melbourne as planned and TT/PSOC will be hosted&nbsp; in Sydney this year.&nbsp;<br>
+Please note: In anticipating more NZ saints coming to blend with the churches in Australia during NSOT &amp; PSOC, in fellowship, the brothers coordinating in these&nbsp;events&nbsp;have decided to move TT/PSOC to Sydney from Melbourne.&nbsp;<br>
+This way NSOT will be hosted in Melbourne as planned and TT/PSOC will be hosted in Sydney this year.&nbsp;<br>
 <br>
 *NSOT*<br>
 7-10 June (Melbourne)<br>
@@ -122,10 +114,10 @@ This way NSOT will be hosted in Melbourne as planned and TT/PSOC will be hosted&
 31 Aug - 1 Sep (Sydney)</p>
 </blockquote>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>5. LIFE STUDY PURSUIT</span></p>
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>4. LIFE STUDY PURSUIT</span></p>
 
 <blockquote>
-<p>Life Studies of 2&nbsp;Timothy Messages 7&nbsp;and 8.</p>
+<p>There will be a pause&nbsp;in the Life-study reading schedule this week. Saints are encouraged to use this week to catch up missed messages or pursue the Video Training outlines.</p>
 </blockquote>
 
                         </td>
@@ -187,7 +179,7 @@ Registration: TBC</span></span></p>
 <p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>3. MONTHLY PERFECTING TRAINING&nbsp;2024</span></font></p>
 
 <blockquote>
-<p><font><span>Dates: 10 February,&nbsp;13 April, 11 May, 20&nbsp;July,&nbsp;7&nbsp;September, and 16 November (There will be no training in the other months because of other conferences or the Bi-annual Perfecting Training)</span></font><br>
+<p><font><span>Dates: 13 April, 11 May, 20&nbsp;July,&nbsp;7&nbsp;September, and 16 November (There will be no training in the other months because of other conferences or the Bi-annual Perfecting Training)</span></font><br>
 <font><span>Venue: Physical cluster at the Church in Canberra Meeting Hall or&nbsp;via Zoom platform</span></font><br>
 <font><span>Registration:&nbsp;</span></font><a href="https://docs.google.com/forms/d/e/1FAIpQLScs-1Xgc4YFXc22Q465C7BZjGGHPckq6kbx_0jxodPfS5dAww/viewform" target="_blank"><span><span>Click Here</span></span></a></p>
 </blockquote>
@@ -225,15 +217,7 @@ Registration: TBC</span></span></p>
                         
                             <p lang="EN-AU" xml:lang="EN-AU"><a href="http://INTERNATIONAL ANNOUNCEMENTS" target="_blank"><u data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>INTERNATIONAL ANNOUNCEMENTS</span></u></a></p>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>1.&nbsp;2024 INTERNATIONAL CHINESE-SPEAKING BLENDING CONFERENCE</span></p>
-
-<blockquote>
-<p>Dates: 10th-11th February 2024<br>
-Venue: Taipei Nangang Exhibition Centre, Taiwan<br>
-Registration Details:&nbsp;<a href="https://icsc2024.org/" target="_blank">click here&nbsp;</a></p>
-</blockquote>
-
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>2. PARTICIPATION IN THE SUMMER 2024&nbsp;PARIS OLYMPIC DISTRIBUTION&nbsp;</span></p>
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>1. PARTICIPATION IN THE SUMMER 2024&nbsp;PARIS OLYMPIC DISTRIBUTION&nbsp;</span></p>
 
 <blockquote>
 <p>The Olympics will be returning to Europe in 2024 and will be hosted in Paris, France. We believe this is a wonderful opportunity prepared by the Lord as the Lord of the harvest. The saints are preparing to distribute free copies of the New Testament Recovery Version during the Torch Relay and the Olympic and&nbsp;Paralympic Games.<br>
