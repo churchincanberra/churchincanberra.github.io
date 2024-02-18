@@ -1,14 +1,18 @@
 meeting:
-  - purpose: "Lord's table & prophesying meetings"
+  - purpose: "Lord's table meeting"
     subtext: ""
     when: "Sunday 10.00am"
     weight: 1
+  - purpose: "Prophesying meetings"
+    subtext: ""
+    when: "Sunday 11.00am"
+    weight: 2
   - purpose: "Church prayers meeting"
     subtext: "English, Tuesday 7.30pm (Meeting hall & Zoom)"
     when: "中文，星期五晚上九点整 (微信)"
     weight: 3
   - purpose: "Bible studies"
-    subtext: "In various locations & times"
+    subtext: "Daily in various locations & times"
     when: "Contact us for details"
     weight: 4
   - purpose: "Meeting hall address"
