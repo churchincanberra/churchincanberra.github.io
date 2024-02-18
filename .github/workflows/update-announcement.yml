@@ -65,7 +65,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git pull
             git commit -m "$COMMIT_MSG"
             git push origin $BRANCH_NAME
             NEW_UPDATE=true
