@@ -89,11 +89,13 @@ export const getPreviousLinksHtml = (jsString) => {
       url = url.replace(/httpss/g, "https"); // Replace "httpss" with "https"
       url = url.replace(/\\"/g, ''); // Remove extra double quotes
       url = decodeURIComponent(url); // Unescape the URL
+      console.log(url);
 
       const title = link.text;
       console.log(title);
 
       const html = `<a href=\"${url}\" target=\"_blank\">${title}</a>`; 
+      console.log(html);
 
       result += `<li>${html}</li>`;
     }
