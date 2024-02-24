@@ -69,6 +69,35 @@ export const getFirstLinkUrl = (jsString) => {
   }
 }
 
+/**
+ * Retrieves the HTML of the previous 3 links after the first found in the given JavaScript string.
+ * @param {string} jsString - The JavaScript string containing the HTML code.
+ * @returns {string[]} - The HTML of the previous 3 links, or an empty array if no links are found.
+ */
+export const getPreviousLinksHtml = (jsString) => {
+  const htmlString = jsString.replace('document.write("', '').slice(0, -3);
+
+  const dom = new JSDOM(htmlString);
+  const links = Array.from(dom.window.document.querySelectorAll('a'));
+
+  if (links.length > 1) {
+    return links.slice(1, 4).map(link => {
+      let url = link.href;
+      url = url.replace(/http/g, "https"); // Replace "http" with "https"
+      url = url.replace(/httpss/g, "https"); // Replace "httpss" with "https"
+      url = url.replace(/\\"/g, ''); // Remove extra double quotes
+      url = decodeURIComponent(url); // Unescape the URL
+
+      const title = link.innerHTML;
+      const html = '<a href="${url}" target="_blank">${title}</a>';
+
+      return html;
+    });
+  } else {
+    return [];
+  }
+}
+
 
 /**
  * Removes unwanted elements and attributes from HTML content.
