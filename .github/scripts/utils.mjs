@@ -57,10 +57,8 @@ export const getFirstLinkUrl = (jsString) => {
   const firstLink = dom.window.document.querySelector('a');
 
   if (firstLink) {
-    let url = firstLink.href;
-    url = url.replace(/http/g, "https"); // Replace "http" with "https"
-    url = url.replace(/httpss/g, "https"); // Replace "httpss" with "https"
-    url = url.replace(/\\"/g, ''); // Remove extra double quotes
+    // Replace "http" with "https". Replace "httpss" with "https". Remove extra double quotes
+    let url = firstLink.href.replace(/http/g, "https").replace(/httpss/g, "https").replace(/\\"/g, ''); 
     url = decodeURIComponent(url); // Unescape the URL
     return url;
   } else {
@@ -75,29 +73,27 @@ export const getFirstLinkUrl = (jsString) => {
  */
 export const getPreviousLinksHtml = (jsString) => {
   const htmlString = jsString.replace('document.write("', '').slice(0, -3);
-  console.log(htmlString);
+  // console.log(htmlString);
 
   const dom = new JSDOM(htmlString);
   const links = dom.window.document.querySelectorAll('a');
-
+  
   if (links.length > 1) {
     let result = `<ul>`;
     for (let i = 1; i < links.length; i++) {
       let link = links[i];
-      console.log(link.toString());
+      console.log(link.outerHTML);
 
-      let url = link.href;
-      url = url.replace(/http/g, "https"); // Replace "http" with "https"
-      url = url.replace(/httpss/g, "https"); // Replace "httpss" with "https"
-      url = url.replace(/\\"/g, ''); // Remove extra double quotes
+      // Replace "http" with "https". Replace "httpss" with "https". Remove extra double quotes
+      let url = link.href.replace(/http/g, "https").replace(/httpss/g, "https").replace(/\\"/g, '');
       url = decodeURIComponent(url); // Unescape the URL
-      console.log(url);
+      // console.log(url);
 
       const title = link.text;
-      console.log(title);
+      // console.log(title);
 
       const html = `<a href=\"${url}\" target=\"_blank\">${title}</a>`; 
-      console.log(html);
+      // console.log(html);
 
       result += `<li>${html}</li>`;
     }
