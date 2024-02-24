@@ -52,6 +52,7 @@ export const updatePage = (tagName, previousContent, newContent) => {
  */
 export const getFirstLinkUrl = (jsString) => {
   const htmlString = jsString.replace('document.write("', '').slice(0, -3);
+  console.log(htmlString);
 
   const dom = new JSDOM(htmlString);
   const firstLink = dom.window.document.querySelector('a');
@@ -73,7 +74,7 @@ export const getFirstLinkUrl = (jsString) => {
  */
 export const getPreviousLinksHtml = (jsString) => {
   const htmlString = jsString.replace('document.write("', '').slice(0, -3);
-  // console.log(htmlString);
+  console.log(htmlString);
 
   const dom = new JSDOM(htmlString);
   const links = dom.window.document.querySelectorAll('a');
