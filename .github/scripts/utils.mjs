@@ -89,7 +89,7 @@ export const getPreviousLinksHtml = (jsString) => {
       url = decodeURIComponent(url); // Unescape the URL
 
       const title = link.innerHTML;
-      const html = '<a href="${url}" target="_blank">${title}</a>';
+      const html = `<a href="${url}" target="_blank">${title}</a>`; 
 
       return html;
     });
