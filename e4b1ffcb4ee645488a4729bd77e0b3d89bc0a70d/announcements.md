@@ -398,7 +398,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div>Previous announcements:<ul><li><a href="https://us10.campaign-archive.com/?u=12a6ecea8fbc1ad37a233cac1&amp;id=b5fe4e3695" title="Announcement u2013 11/02/2024" target="_blank">Announcement u2013 11/02/2024</a></li><li><a href="https://us10.campaign-archive.com/?u=12a6ecea8fbc1ad37a233cac1&amp;id=9603e859ce" title="Announcement u2013 04/02/2024" target="_blank">Announcement u2013 04/02/2024</a></li></ul></div>
+</table><div>Previous announcements:<ul><li><a href="\&quot;https:\/\/us10.campaign-archive.com\/?u=12a6ecea8fbc1ad37a233cac1&amp;id=8b3af8eb18\&quot;" title="\&quot;Announcement" \u2013="" 18\="" 02\="" 2024\"="" target="\&quot;_blank\&quot;">11\/02\/2024 - </a></li><li><a href="\&quot;https:\/\/us10.campaign-archive.com\/?u=12a6ecea8fbc1ad37a233cac1&amp;id=b5fe4e3695\&quot;" title="\&quot;Announcement" \u2013="" 11\="" 02\="" 2024\"="" target="\&quot;_blank\&quot;">Announcement \u2013 11\/02\/2024&lt;\/a&gt;&lt;\/div&gt;</a></li><li><a href="\&quot;https:\/\/us10.campaign-archive.com\/?u=12a6ecea8fbc1ad37a233cac1&amp;id=b5fe4e3695\&quot;" title="\&quot;Announcement" \u2013="" 11\="" 02\="" 2024\"="" target="\&quot;_blank\&quot;">04\/02\/2024 - </a></li><li><a href="\&quot;https:\/\/us10.campaign-archive.com\/?u=12a6ecea8fbc1ad37a233cac1&amp;id=9603e859ce\&quot;" title="\&quot;Announcement" \u2013="" 04\="" 02\="" 2024\"="" target="\&quot;_blank\&quot;">Announcement \u2013 04\/02\/2024&lt;\/a&gt;&lt;\/div&gt;&lt;\/div&gt;</a></li></ul></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
