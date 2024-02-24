@@ -93,7 +93,7 @@ export const getPreviousLinksHtml = (jsString) => {
       const title = link.text;
       console.log(title);
 
-      const html = `<a href="${url}" target="_blank">${title}</a>`; 
+      const html = `<a href=\"${url}\" target=\"_blank\">${title}</a>`; 
 
       result += `<li>${html}</li>`;
     }
