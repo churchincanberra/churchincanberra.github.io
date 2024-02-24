@@ -75,7 +75,7 @@ export const getFirstLinkUrl = (jsString) => {
 export const getPreviousLinksHtml = (jsString) => {
   const htmlString = jsString.replace('document.write("', '').slice(0, -3);
   console.log(htmlString);
-  console.log("escaped: " + htmlString.replace(/\\"/g, ''));
+  console.log("escaped: " + htmlString.replace(/\\/g, ''));
 
   const dom = new JSDOM(htmlString);
   const links = dom.window.document.querySelectorAll('a');
