@@ -84,6 +84,8 @@ export const getPreviousLinksHtml = (jsString) => {
     let linksSlice = links.slice(1, 4);
     for (let i = 0; i < linksSlice.length; i++) {
       let link = linksSlice[i];
+      console.log(link.toString());
+
       let url = link.href;
       url = url.replace(/http/g, "https"); // Replace "http" with "https"
       url = url.replace(/httpss/g, "https"); // Replace "httpss" with "https"
