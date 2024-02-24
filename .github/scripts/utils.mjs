@@ -78,13 +78,12 @@ export const getPreviousLinksHtml = (jsString) => {
   console.log(htmlString);
 
   const dom = new JSDOM(htmlString);
-  const links = Array.from(dom.window.document.querySelectorAll('a'));
+  const links = dom.window.document.querySelectorAll('a');
 
   if (links.length > 1) {
     let result = `<ul>`;
-    let linksSlice = links.slice(1);
-    for (let i = 0; i < linksSlice.length; i++) {
-      let link = linksSlice[i];
+    for (let i = 1; i < links.length; i++) {
+      let link = links[i];
       console.log(link.toString());
 
       let url = link.href;
