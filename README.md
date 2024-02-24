@@ -1,7 +1,7 @@
 # churchincanberra.org
 
 [![CodeQL](https://github.com/churchincanberra/churchincanberra.github.io/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/churchincanberra/churchincanberra.github.io/actions/workflows/github-code-scanning/codeql)
-[![CD](https://github.com/churchincanberra/churchincanberra.github.io/actions/workflows/jekyll.yml/badge.svg)](https://github.com/churchincanberra/churchincanberra.github.io/actions/workflows/jekyll.yml)
+[![Build & Deploy](https://github.com/churchincanberra/churchincanberra.github.io/actions/workflows/build-deploy.yml/badge.svg)](https://github.com/churchincanberra/churchincanberra.github.io/actions/workflows/build-deploy.yml)
 [![Announcement](https://github.com/churchincanberra/churchincanberra.github.io/actions/workflows/update-announcement.yml/badge.svg)](https://github.com/churchincanberra/churchincanberra.github.io/actions/workflows/update-announcement.yml)
 
 The Church in Canberra website is hosted by GitHub Pages on this repository. We are a non-profit organisation located in Canberra, Australia.
