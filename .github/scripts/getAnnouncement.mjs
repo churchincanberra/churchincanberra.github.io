@@ -12,12 +12,13 @@ let previousLinksHtml = '';
 await fetch(url)
   .then(response => response.text())
   .then(data => {
+    console.log('data: ', data);
+
     const latestLink = getFirstLinkUrl(data);
     console.log('Email campaign URL: ', latestLink);
     
-    console.log('previousLinksHtml: ', previousLinksHtml);
-    console.log('data: ', data);
     previousLinksHtml = getPreviousLinksHtml(data);
+    console.log('previousLinksHtml: ', previousLinksHtml);
 
     return fetch(latestLink);
   })
