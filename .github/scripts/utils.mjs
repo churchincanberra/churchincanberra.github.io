@@ -90,8 +90,7 @@ export const getPreviousLinksHtml = (jsString) => {
       url = url.replace(/\\"/g, ''); // Remove extra double quotes
       url = decodeURIComponent(url); // Unescape the URL
 
-      const title = link.innerHTML;
-      console.log(link.toString());
+      const title = link.text;
       console.log(title);
 
       const html = `<a href="${url}" target="_blank">${title}</a>`; 
