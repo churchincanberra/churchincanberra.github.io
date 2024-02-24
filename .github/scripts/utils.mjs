@@ -82,8 +82,11 @@ export const getPreviousLinksHtml = (jsString) => {
   // let unescapedStr = JSON.parse('"' + htmlString + '"');
   // let dom = new JSDOM(unescapedStr);
 
+  console.log("before: " + htmlString);
   htmlString = decodeURIComponent(htmlString);
+  console.log("unicode: " + htmlString);
   htmlString = htmlString.replace(/\\/g, '');
+  console.log("backlash: " + htmlString);
   const dom = new JSDOM(htmlString);
   const links = dom.window.document.querySelectorAll('a');
   
