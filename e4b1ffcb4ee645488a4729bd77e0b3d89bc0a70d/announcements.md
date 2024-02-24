@@ -369,7 +369,7 @@ Passcode:&nbsp;Eph4:16</p>
 				<![endif]-->
 			    
 				<!--[if mso]>
-				<td valign="top" style="width:600px;">
+				<td valign="top"  style="width:600px;">
 				<![endif]-->
                 <table align="left">
                     <tbody><tr>
