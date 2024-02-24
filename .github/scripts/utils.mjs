@@ -1,5 +1,4 @@
 import { JSDOM } from 'jsdom';
-import he  from 'he';
 
 /**
  * Updates a page by replacing a specific section with new content.
@@ -76,23 +75,21 @@ export const getFirstLinkUrl = (jsString) => {
 export const getPreviousLinksHtml = (jsString) => {
   let htmlString = jsString.replace('document.write("', '').slice(0, -3);
 
-  console.log("before: " + htmlString);
   // Replace unicode dash to normal dash. Remove escape backlash.
   htmlString = htmlString.replace(/\\u2013/g, '-').replace(/\\/g, '');
-  console.log("backlash: " + htmlString);
   const dom = new JSDOM(htmlString);
   const links = dom.window.document.querySelectorAll('a');
   
   if (links.length > 1) {
-    let result = `<ul>`;
+    let result = `<div><em>Previous announcements</em><br />`;
     for (let i = 1; i < links.length; i++) {
       let link = links[i].outerHTML;
       link = link.replace(/http/g, "https").replace(/httpss/g, "https");
       console.log("n-" + i + " announcement: " + link);
 
-      result += `<li>${link}</li>`;
+      result += `${link}<br />`;
     }
-    result += `</ul>`;
+    result += `</div>`;
     return result;
   } else {
     return '';
