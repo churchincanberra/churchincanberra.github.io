@@ -44,18 +44,17 @@ description: Recent announcements and updates
                         </td>
                     </tr>
                 </tbody></table>
-    			<!--[if mso]>
-    			</td>
-    			<![endif]-->
-
-    			<!--[if mso]>
-    			</tr>
-    			</table>
-    			<![endif]-->
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
             </td>
         </tr>
     </tbody>
-
 </table><table>
     <tbody>
         <tr>
@@ -124,18 +123,17 @@ This way NSOT will be hosted in Melbourne as planned and TT/PSOC will be hosted 
                         </td>
                     </tr>
                 </tbody></table>
-    			<!--[if mso]>
-    			</td>
-    			<![endif]-->
-
-    			<!--[if mso]>
-    			</tr>
-    			</table>
-    			<![endif]-->
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
             </td>
         </tr>
     </tbody>
-
 </table><table>
     <tbody>
         <tr>
@@ -189,18 +187,17 @@ Registration: TBC</span></span></p>
                         </td>
                     </tr>
                 </tbody></table>
-    			<!--[if mso]>
-    			</td>
-    			<![endif]-->
-
-    			<!--[if mso]>
-    			</tr>
-    			</table>
-    			<![endif]-->
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
             </td>
         </tr>
     </tbody>
-
 </table><table>
     <tbody>
         <tr>
@@ -233,18 +230,17 @@ For more details, please&nbsp;<a href="https://mcusercontent.com/12a6ecea8fbc1ad
                         </td>
                     </tr>
                 </tbody></table>
-    			<!--[if mso]>
-    			</td>
-    			<![endif]-->
-
-    			<!--[if mso]>
-    			</tr>
-    			</table>
-    			<![endif]-->
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
             </td>
         </tr>
     </tbody>
-
 </table><table>
     <tbody>
         <tr>
@@ -275,18 +271,17 @@ For more details, please&nbsp;<a href="https://mcusercontent.com/12a6ecea8fbc1ad
                         </td>
                     </tr>
                 </tbody></table>
-    			<!--[if mso]>
-    			</td>
-    			<![endif]-->
-
-    			<!--[if mso]>
-    			</tr>
-    			</table>
-    			<![endif]-->
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
             </td>
         </tr>
     </tbody>
-
 </table><table>
     <tbody>
         <tr>
@@ -347,18 +342,17 @@ Passcode:&nbsp;Eph4:16</p>
                         </td>
                     </tr>
                 </tbody></table>
-    			<!--[if mso]>
-    			</td>
-    			<![endif]-->
-
-    			<!--[if mso]>
-    			</tr>
-    			</table>
-    			<![endif]-->
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
             </td>
         </tr>
     </tbody>
-
 </table><table>
     <tbody>
         <tr>
@@ -376,7 +370,7 @@ Passcode:&nbsp;Eph4:16</p>
                         
                         <td valign="top">
                         
-                            <p xml:lang="EN-AU"><span data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>Past announcements can be found at the church website:<span>&nbsp;</span></span></span><a href="https://www.churchincanberra.org/announcements" rel="noreferrer noopener" target="_blank"><span data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>https://www.churchincanberra.org/announcements</span></span></a><span>&nbsp;</span></p>
+                            <p lang="EN-AU" xml:lang="EN-AU"><span data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>Past announcements can be found at the church website:<span>&nbsp;</span></span></span><a href="https://www.churchincanberra.org/announcements" rel="noreferrer noopener" target="_blank"><span data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>https://www.churchincanberra.org/announcements</span></span></a><span>&nbsp;</span></p>
 
 <div>
 <p lang="EN-AU" xml:lang="EN-AU"><span data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>(Please refer to weekly email announcement for login password)</span></span><span>&nbsp;</span></p>
@@ -393,19 +387,18 @@ Passcode:&nbsp;Eph4:16</p>
                         </td>
                     </tr>
                 </tbody></table>
-    			<!--[if mso]>
-    			</td>
-    			<![endif]-->
-
-    			<!--[if mso]>
-    			</tr>
-    			</table>
-    			<![endif]-->
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
             </td>
         </tr>
     </tbody>
-
-</table><div><em>Previous announcements</em><ul><li><a href="https://us10.campaign-archive.com/?u=12a6ecea8fbc1ad37a233cac1&id=b5fe4e3695" target="_blank">Announcement u2013 11/02/2024</a></li><li><a href="https://us10.campaign-archive.com/?u=12a6ecea8fbc1ad37a233cac1&id=9603e859ce" target="_blank">Announcement u2013 04/02/2024</a></li></ul></div>
+</table><div><em>Previous announcements</em><ul><li><a href="https://us10.campaign-archive.com/?u=12a6ecea8fbc1ad37a233cac1&amp;id=b5fe4e3695" title="Announcement u2013 11/02/2024" target="_blank">Announcement u2013 11/02/2024</a></li><li><a href="https://us10.campaign-archive.com/?u=12a6ecea8fbc1ad37a233cac1&amp;id=9603e859ce" title="Announcement u2013 04/02/2024" target="_blank">Announcement u2013 04/02/2024</a></li></ul></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
