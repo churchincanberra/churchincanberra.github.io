@@ -52,7 +52,6 @@ export const updatePage = (tagName, previousContent, newContent) => {
  */
 export const getFirstLinkUrl = (jsString) => {
   const htmlString = jsString.replace('document.write("', '').slice(0, -3);
-  // console.log('Stripped document.write', htmlString);
 
   const dom = new JSDOM(htmlString);
   const firstLink = dom.window.document.querySelector('a');
@@ -76,7 +75,6 @@ export const getFirstLinkUrl = (jsString) => {
  */
 export const getPreviousLinksHtml = (jsString) => {
   const htmlString = jsString.replace('document.write("', '').slice(0, -3);
-  console.log('Stripped document.write', htmlString);
 
   const dom = new JSDOM(htmlString);
   const links = Array.from(dom.window.document.querySelectorAll('a'));
@@ -91,10 +89,8 @@ export const getPreviousLinksHtml = (jsString) => {
       url = url.replace(/httpss/g, "https"); // Replace "httpss" with "https"
       url = url.replace(/\\"/g, ''); // Remove extra double quotes
       url = decodeURIComponent(url); // Unescape the URL
-      console.log('URL:', url);
 
       const title = link.innerHTML;
-      console.log('Title:', title);
       const html = `<a href="${url}" target="_blank">${title}</a>`; 
 
       result += `<li>${html}</li>`;
