@@ -38,7 +38,7 @@ description: Recent announcements and updates
                             <div>
 <hr>
 <p lang="EN-US" xml:lang="EN-US"><strong data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>18th February&nbsp;2024</span></strong></p>
+<strong data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>25th February&nbsp;2024</span></strong></p>
 </div>
 
                         </td>
@@ -74,34 +74,22 @@ description: Recent announcements and updates
                         
                             <p lang="EN-AU" xml:lang="EN-AU"><u data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>WEEKLY HIGHLIGHTS</span></u><span>&nbsp;</span></p>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>1. COORDINATION MEETING</span></p>
-
-<blockquote>
-<p>Dates: 18th February&nbsp;2024<br>
-Time: 12:30 (after prophesying meeting)<br>
-This meeting is open to saints serving (or endeavouring to serve) and is predominantly a time to enjoy the Lord so that we may be built up together in our service. We strongly encourage the saints to read the book titled Perfecting Training - CWWL,1980, vol 1 in your personal time. We will share and fellowship on chapter 9. There will be Zoom facility available for those who cannot join physically. Please see Zoom details below.<br>
-<br>
-To join,&nbsp;<a href="https://us02web.zoom.us/j/86759516115?pwd=RGQrKzJWWkRtTXVkeS9ZNXdSSmwxdz09" target="_blank"><u>Click here</u></a><br>
-Meeting ID: 867 5951 6115&nbsp;<br>
-Passcode: Eph4:16</p>
-</blockquote>
-
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>2.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>1.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
 
 <blockquote>
 <p><strong>English speaking - Thursday 7pm</strong><br>
-Venue: Gungahlin House<br>
-Topic: The Pattern of the Apostle Paul<br>
+Venue: Kaleen&nbsp;House<br>
+Topic: The Function of the Church (1) The House of the Living God &amp; the Pillar and Base of the Truth<br>
 <br>
 <strong>Chinese speaking - Wednesday 6:30pm</strong><br>
 Contact Zhi Bing or Mark Lam for the location.</p>
 </blockquote>
 
 <p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><br>
-<span>3. CALENDAR FROM THE CHURCH IN SYDNEY</span></p>
+<span>2. CALENDAR FROM THE CHURCH IN SYDNEY</span></p>
 
 <blockquote>
-<p><a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/9071e6cb-1864-9e35-539d-fd3920358b9a/CHURCH_CALENDAR_2024.pdf" target="_blank">Click here </a>for the calendar of yearly events. We encourage us all to consider before the Lord the various events this year for our enjoyment and perfecting. By His grace, let us be positively aggressive to set aside our time and work for this.<br>
+<p><a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/5028cc0f-17b5-7f92-7c3a-77e751acb762/20240224_232213.pdf" target="_blank">Click here</a><a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/9071e6cb-1864-9e35-539d-fd3920358b9a/CHURCH_CALENDAR_2024.pdf" target="_blank"> </a>for the calendar of yearly events. We encourage us all to consider before the Lord the various events this year for our enjoyment and perfecting. By His grace, let us be positively aggressive to set aside our time and work for this.<br>
 <br>
 Please note: In anticipating more NZ saints coming to blend with the churches in Australia during NSOT &amp; PSOC, in fellowship, the brothers coordinating in these&nbsp;events&nbsp;have decided to move TT/PSOC to Sydney from Melbourne.&nbsp;<br>
 This way NSOT will be hosted in Melbourne as planned and TT/PSOC will be hosted in Sydney this year.&nbsp;<br>
@@ -114,7 +102,7 @@ This way NSOT will be hosted in Melbourne as planned and TT/PSOC will be hosted 
 31 Aug - 1 Sep (Sydney)</p>
 </blockquote>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>4. LIFE STUDY PURSUIT</span></p>
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>3. LIFE STUDY PURSUIT</span></p>
 
 <blockquote>
 <p>There will be a pause&nbsp;in the Life-study reading schedule this week. Saints are encouraged to use this week to catch up missed messages or pursue the Video Training outlines.</p>
@@ -166,7 +154,18 @@ Registration: <a href="https://form.jotform.com/233420783906054" target="_blank"
 &nbsp;</p>
 </blockquote>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span><span>2. MID SEMESTER RETREAT</span></span></p>
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>2. BIANNUAL PERFECTING TRAINING&nbsp; APRIL 2024</span></font></p>
+
+<blockquote>
+<p><font><span>Dates: 16th&nbsp;&amp; 17th&nbsp;of March&nbsp;</span></font><br>
+<font><span>Location: Physically held at the Local Churches Blending Centre, 169 Foxall Road, Kellyville North, NSW<br>
+Zoom: For the best effect, atmosphere and blending, we encourage everyone to attend this training in person. For those who cannot travel to Sydney for particular reasons, we will provide the Zoom meeting details to the responsible brothers in these localities to facilitate the saints to come together in person as one cluster to join via Zoom. Only one physical cluster is allowed per locality.</span></font><br>
+<span><span>Registration Deadline: Wednesday, 6th of March 2024.<br>
+Training Cost: $50 for those attending physically and $10 for those joining the cluster in their locality..</span></span><br>
+<font><span>Registration: </span></font><a href="https://new.express.adobe.com/webpage/uk2bcysOqt4dK" target="_blank">Click Here</a></p>
+</blockquote>
+
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span><span>3. MID SEMESTER RETREAT</span></span></p>
 
 <blockquote>
 <p><font><span>Students from Sydney and&nbsp;Newcastle will be coming&nbsp;to Canberra from the 29th-30th of March for a mid semester retreat. University&nbsp;students and young working saints are encouraged to join this time. Local saints are also encouraged to stay in Canberra over the long weekend for the fellowship, blending and giving&nbsp;hospitality during the retreat.</span></font><br>
@@ -176,12 +175,21 @@ Venue: Church in Canberra Meeting Hall<br>
 Registration: TBC</span></span></p>
 </blockquote>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>3. MONTHLY PERFECTING TRAINING&nbsp;2024</span></font></p>
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>4. MONTHLY PERFECTING TRAINING&nbsp;2024</span></font></p>
 
 <blockquote>
 <p><font><span>Dates: 13 April, 11 May, 20&nbsp;July,&nbsp;7&nbsp;September, and 16 November (There will be no training in the other months because of other conferences or the Bi-annual Perfecting Training)</span></font><br>
 <font><span>Venue: Physical cluster at the Church in Canberra Meeting Hall or&nbsp;via Zoom platform</span></font><br>
 <font><span>Registration:&nbsp;</span></font><a href="https://docs.google.com/forms/d/e/1FAIpQLScs-1Xgc4YFXc22Q465C7BZjGGHPckq6kbx_0jxodPfS5dAww/viewform" target="_blank"><span><span>Click Here</span></span></a></p>
+</blockquote>
+
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>5. NATIONAL SERVING ONES TRAINING&nbsp;2024 (Preliminary Information)</span></font></p>
+
+<blockquote>
+<p><font><span>Dates: 7th&nbsp;&amp; 10th&nbsp;of June</span></font><br>
+<font><span>Location: CYC Phillip Island Adventure Resort: 1775-1801 Phillip Island Rd, Cowes, VIC</span></font><br>
+<span><span>Training Cost: $335 per person</span></span><br>
+<font><span>Registration: TBA</span></font></p>
 </blockquote>
 
                         </td>
@@ -224,7 +232,17 @@ Registration: TBC</span></span></p>
 <br>
 We would encourage all the saints to open to the regarding this next milestone in the Lord's move in Europe, and we would like to invite the saints in the Lord's recovery to join us in this labour next year by praying, giving and going.<br>
 <br>
-For more details, please&nbsp;<a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/10c13d73-1478-470a-52e8-bb4796798861/Paris2024.02.pdf" target="_blank">click here&nbsp;</a></p>
+For more details, please&nbsp;<a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/10c13d73-1478-470a-52e8-bb4796798861/Paris2024.02.pdf" target="_blank"><span>click here&nbsp;</span></a></p>
+</blockquote>
+
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>2. NATIONAL CONFERENCE&nbsp; MARCH 2024 (NZ)</span></p>
+
+<blockquote>
+<p>The National Conference will be held 29-31 March 2024 (Easter weekend) at Hamilton Boys’ High School, which is adjacent to the New Zealand Training Centre in Hamilton. Brothers Ray Mulligan (from Dublin) and Moses Chu (from Taiwan) will travel to New Zealand to give this conference in person.<br>
+<br>
+The National Conference will be conducted in both a physical format and an online format. For the sake of blending and fellowship among the churches, we encourage saints within New Zealand to seize this opportunity of being together by attending this conference physically.<br>
+<br>
+For more details, please <a href="https://nztc.ac.nz/national-conference/" target="_blank"><span><u>click here</u></span></a></p>
 </blockquote>
 
                         </td>
@@ -398,7 +416,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div><em>Previous announcements</em><br /><a href="https://us10.campaign-archive.com/?u=12a6ecea8fbc1ad37a233cac1&amp;id=b5fe4e3695" title="Announcement - 11/02/2024" target="_blank">Announcement - 11/02/2024</a><br /><a href="https://us10.campaign-archive.com/?u=12a6ecea8fbc1ad37a233cac1&amp;id=9603e859ce" title="Announcement - 04/02/2024" target="_blank">Announcement - 04/02/2024</a><br /></div>
+</table><div><em>Previous announcements</em><br /><a href="https://us10.campaign-archive.com/?u=12a6ecea8fbc1ad37a233cac1&amp;id=8b3af8eb18" title="Announcement - 18/02/2024" target="_blank">Announcement - 18/02/2024</a><br /><a href="https://us10.campaign-archive.com/?u=12a6ecea8fbc1ad37a233cac1&amp;id=b5fe4e3695" title="Announcement - 11/02/2024" target="_blank">Announcement - 11/02/2024</a><br /></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
