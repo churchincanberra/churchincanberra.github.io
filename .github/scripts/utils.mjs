@@ -69,23 +69,16 @@ export const getFirstLinkUrl = (jsString) => {
 }
 
 /**
- * Retrieves the HTML of the previous 3 links after the first found in the given JavaScript string.
+ * Retrieves the HTML of the previous links after the first found in the given JavaScript string.
  * @param {string} jsString - The JavaScript string containing the HTML code.
- * @returns {string[]} - The HTML of the previous 3 links, or an empty array if no links are found.
+ * @returns {string} - The HTML of the previous links, or an empty array if no links are found.
  */
 export const getPreviousLinksHtml = (jsString) => {
   let htmlString = jsString.replace('document.write("', '').slice(0, -3);
 
-  // const dom = new JSDOM(htmlString);
-  // const dom = new JSDOM(JSON.parse(htmlString));
-
-  // let unescapedStr = JSON.parse('"' + htmlString + '"');
-  // let dom = new JSDOM(unescapedStr);
-
   console.log("before: " + htmlString);
-  htmlString = he.decode(htmlString);
-  console.log("decode: " + htmlString);
-  htmlString = htmlString.replace(/\\/g, '');
+  // Replace unicode dash to normal dash. Remove escape backlash.
+  htmlString = htmlString.replace(/\\u2013/g, '-').replace(/\\/g, '');
   console.log("backlash: " + htmlString);
   const dom = new JSDOM(htmlString);
   const links = dom.window.document.querySelectorAll('a');
