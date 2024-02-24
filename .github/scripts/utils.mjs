@@ -80,7 +80,7 @@ export const getPreviousLinksHtml = (jsString) => {
   const links = Array.from(dom.window.document.querySelectorAll('a'));
 
   if (links.length > 1) {
-    let result = '<ul>';
+    let result = `<ul>`;
     let linksSlice = links.slice(1, 4);
     for (let i = 0; i < linksSlice.length; i++) {
       let link = linksSlice[i];
@@ -95,7 +95,7 @@ export const getPreviousLinksHtml = (jsString) => {
 
       result += `<li>${html}</li>`;
     }
-    result += '</ul>';
+    result += `</ul>`;
     return result;
   } else {
     return '';

@@ -22,7 +22,7 @@ await fetch(url)
   .then(async htmlContent => {
     let newContent;
     newContent = trimHtmlContent(htmlContent);
-    newContent += '<em>Previous announcements</em>' + previousLinksHtml;
+    newContent += '<div><em>Previous announcements</em>' + previousLinksHtml + '</div>';
 
     await fs.readFile(ANNOUNCEMENT_FILEPATH, 'utf8')
       .then(previousContent => {
