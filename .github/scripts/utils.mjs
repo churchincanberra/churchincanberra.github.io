@@ -1,5 +1,5 @@
 import { JSDOM } from 'jsdom';
-import { html } from 'parse5';
+import he  from 'he';
 
 /**
  * Updates a page by replacing a specific section with new content.
@@ -83,8 +83,8 @@ export const getPreviousLinksHtml = (jsString) => {
   // let dom = new JSDOM(unescapedStr);
 
   console.log("before: " + htmlString);
-  htmlString = decodeURIComponent(htmlString);
-  console.log("unicode: " + htmlString);
+  htmlString = he.decode(htmlString);
+  console.log("decode: " + htmlString);
   htmlString = htmlString.replace(/\\/g, '');
   console.log("backlash: " + htmlString);
   const dom = new JSDOM(htmlString);
