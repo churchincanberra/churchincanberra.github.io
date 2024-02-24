@@ -1,0 +1,5 @@
+import { getPreviousLinksHtml } from './utils.mjs';
+
+const jsString = 'document.write("<div class=\"display_archive\"><div class=\"campaign\">18\/02\/2024 - <a href=\"http:\/\/us10.campaign-archive.com\/?u=12a6ecea8fbc1ad37a233cac1&id=8b3af8eb18\" title=\"Announcement \u2013 18\/02\/2024\" target=\"_blank\">Announcement \u2013 18\/02\/2024<\/a><\/div><div class=\"campaign\">11\/02\/2024 - <a href=\"http:\/\/us10.campaign-archive.com\/?u=12a6ecea8fbc1ad37a233cac1&id=b5fe4e3695\" title=\"Announcement \u2013 11\/02\/2024\" target=\"_blank\">Announcement \u2013 11\/02\/2024<\/a><\/div><div class=\"campaign\">04\/02\/2024 - <a href=\"http:\/\/us10.campaign-archive.com\/?u=12a6ecea8fbc1ad37a233cac1&id=9603e859ce\" title=\"Announcement \u2013 04\/02\/2024\" target=\"_blank\">Announcement \u2013 04\/02\/2024<\/a><\/div><div class=\"campaign\">28\/01\/2024 - <a href=\"http:\/\/us10.campaign-archive.com\/?u=12a6ecea8fbc1ad37a233cac1&id=0c7d85cd2a\" title=\"Announcement \u2013 28\/01\/2024\" target=\"_blank\">Announcement \u2013 28\/01\/2024<\/a><\/div><\/div>");';
+
+console.log(getPreviousLinksHtml(jsString));

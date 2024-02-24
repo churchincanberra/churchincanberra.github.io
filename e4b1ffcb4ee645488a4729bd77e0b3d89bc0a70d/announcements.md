@@ -44,17 +44,18 @@ description: Recent announcements and updates
                         </td>
                     </tr>
                 </tbody></table>
-				<!--[if mso]>
-				</td>
-				<![endif]-->
-                
-				<!--[if mso]>
-				</tr>
-				</table>
-				<![endif]-->
+    			<!--[if mso]>
+    			</td>
+    			<![endif]-->
+
+    			<!--[if mso]>
+    			</tr>
+    			</table>
+    			<![endif]-->
             </td>
         </tr>
     </tbody>
+
 </table><table>
     <tbody>
         <tr>
@@ -123,17 +124,18 @@ This way NSOT will be hosted in Melbourne as planned and TT/PSOC will be hosted 
                         </td>
                     </tr>
                 </tbody></table>
-				<!--[if mso]>
-				</td>
-				<![endif]-->
-                
-				<!--[if mso]>
-				</tr>
-				</table>
-				<![endif]-->
+    			<!--[if mso]>
+    			</td>
+    			<![endif]-->
+
+    			<!--[if mso]>
+    			</tr>
+    			</table>
+    			<![endif]-->
             </td>
         </tr>
     </tbody>
+
 </table><table>
     <tbody>
         <tr>
@@ -187,17 +189,18 @@ Registration: TBC</span></span></p>
                         </td>
                     </tr>
                 </tbody></table>
-				<!--[if mso]>
-				</td>
-				<![endif]-->
-                
-				<!--[if mso]>
-				</tr>
-				</table>
-				<![endif]-->
+    			<!--[if mso]>
+    			</td>
+    			<![endif]-->
+
+    			<!--[if mso]>
+    			</tr>
+    			</table>
+    			<![endif]-->
             </td>
         </tr>
     </tbody>
+
 </table><table>
     <tbody>
         <tr>
@@ -230,17 +233,18 @@ For more details, please&nbsp;<a href="https://mcusercontent.com/12a6ecea8fbc1ad
                         </td>
                     </tr>
                 </tbody></table>
-				<!--[if mso]>
-				</td>
-				<![endif]-->
-                
-				<!--[if mso]>
-				</tr>
-				</table>
-				<![endif]-->
+    			<!--[if mso]>
+    			</td>
+    			<![endif]-->
+
+    			<!--[if mso]>
+    			</tr>
+    			</table>
+    			<![endif]-->
             </td>
         </tr>
     </tbody>
+
 </table><table>
     <tbody>
         <tr>
@@ -271,17 +275,18 @@ For more details, please&nbsp;<a href="https://mcusercontent.com/12a6ecea8fbc1ad
                         </td>
                     </tr>
                 </tbody></table>
-				<!--[if mso]>
-				</td>
-				<![endif]-->
-                
-				<!--[if mso]>
-				</tr>
-				</table>
-				<![endif]-->
+    			<!--[if mso]>
+    			</td>
+    			<![endif]-->
+
+    			<!--[if mso]>
+    			</tr>
+    			</table>
+    			<![endif]-->
             </td>
         </tr>
     </tbody>
+
 </table><table>
     <tbody>
         <tr>
@@ -342,17 +347,18 @@ Passcode:&nbsp;Eph4:16</p>
                         </td>
                     </tr>
                 </tbody></table>
-				<!--[if mso]>
-				</td>
-				<![endif]-->
-                
-				<!--[if mso]>
-				</tr>
-				</table>
-				<![endif]-->
+    			<!--[if mso]>
+    			</td>
+    			<![endif]-->
+
+    			<!--[if mso]>
+    			</tr>
+    			</table>
+    			<![endif]-->
             </td>
         </tr>
     </tbody>
+
 </table><table>
     <tbody>
         <tr>
@@ -363,7 +369,7 @@ Passcode:&nbsp;Eph4:16</p>
 				<![endif]-->
 			    
 				<!--[if mso]>
-				<td valign="top" width="600" style="width:600px;">
+				<td valign="top"  style="width:600px;">
 				<![endif]-->
                 <table align="left">
                     <tbody><tr>
@@ -387,17 +393,18 @@ Passcode:&nbsp;Eph4:16</p>
                         </td>
                     </tr>
                 </tbody></table>
-				<!--[if mso]>
-				</td>
-				<![endif]-->
-                
-				<!--[if mso]>
-				</tr>
-				</table>
-				<![endif]-->
+    			<!--[if mso]>
+    			</td>
+    			<![endif]-->
+
+    			<!--[if mso]>
+    			</tr>
+    			</table>
+    			<![endif]-->
             </td>
         </tr>
     </tbody>
+
 </table><div><em>Previous announcements</em><br /><a href="https:\/\/us10.campaign-archive.com\/?u=12a6ecea8fbc1ad37a233cac1&id=8b3af8eb18" target="_blank">undefined</a><br /><a href="https:\/\/us10.campaign-archive.com\/?u=12a6ecea8fbc1ad37a233cac1&id=b5fe4e3695" target="_blank">undefined</a><br /><a href="https:\/\/us10.campaign-archive.com\/?u=12a6ecea8fbc1ad37a233cac1&id=b5fe4e3695" target="_blank">undefined</a></div>
 <!-- ANNOUNCEMENT:END -->
 
