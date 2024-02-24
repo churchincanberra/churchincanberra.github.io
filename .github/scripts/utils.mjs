@@ -1,4 +1,5 @@
 import { JSDOM } from 'jsdom';
+import { html } from 'parse5';
 
 /**
  * Updates a page by replacing a specific section with new content.
@@ -73,7 +74,7 @@ export const getFirstLinkUrl = (jsString) => {
  * @returns {string[]} - The HTML of the previous 3 links, or an empty array if no links are found.
  */
 export const getPreviousLinksHtml = (jsString) => {
-  const htmlString = jsString.replace('document.write("', '').slice(0, -3);
+  let htmlString = jsString.replace('document.write("', '').slice(0, -3);
 
   // const dom = new JSDOM(htmlString);
   // const dom = new JSDOM(JSON.parse(htmlString));
@@ -81,7 +82,9 @@ export const getPreviousLinksHtml = (jsString) => {
   // let unescapedStr = JSON.parse('"' + htmlString + '"');
   // let dom = new JSDOM(unescapedStr);
 
-  const dom = new JSDOM(htmlString.replace(/\\"/g, '"'));
+  htmlString = decodeURIComponent(htmlString);
+  htmlString = htmlString.replace(/\\/g, '');
+  const dom = new JSDOM(htmlString);
   const links = dom.window.document.querySelectorAll('a');
   
   if (links.length > 1) {
