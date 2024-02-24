@@ -61,8 +61,8 @@ jobs:
         run: |
           COMMIT_MSG="Announcement updates on $(date +'%Y-%m-%d')"
 
-          git config --global user.email "announcement@users.noreply.github.com "
-          git config --global user.name "announcement"
+          git config --global user.email "churchincanberra@users.noreply.github.com "
+          git config --global user.name "churchincanberra"
           git add ./e4b1ffcb4ee645488a4729bd77e0b3d89bc0a70d/announcements.md
 
           if git diff --staged --quiet; then
@@ -72,4 +72,3 @@ jobs:
             git push 
           fi
         shell: bash
-
