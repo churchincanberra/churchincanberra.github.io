@@ -81,7 +81,8 @@ export const getPreviousLinksHtml = (jsString) => {
   const links = Array.from(dom.window.document.querySelectorAll('a'));
 
   if (links.length > 1) {
-    return links.slice(1, 4).map(link => {
+    let result = [];
+    links.slice(1, 4).forEach(link => {
       let url = link.href;
       url = url.replace(/http/g, "https"); // Replace "http" with "https"
       url = url.replace(/httpss/g, "https"); // Replace "httpss" with "https"
@@ -89,11 +90,13 @@ export const getPreviousLinksHtml = (jsString) => {
       url = decodeURIComponent(url); // Unescape the URL
 
       const title = link.innerHTML;
-
       const html = `<a href="${url}" target="_blank">${title}</a>`; 
+
       console.log('Previous link:', html);
-      return html;
+
+      result.push(html);
     });
+    return result;
   } else {
     return [];
   }
