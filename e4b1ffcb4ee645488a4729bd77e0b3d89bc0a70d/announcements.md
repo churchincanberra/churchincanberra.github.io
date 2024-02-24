@@ -23,7 +23,7 @@ description: Recent announcements and updates
         <tr>
             <td valign="top">
               	<!--[if mso]>
-				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+				<table border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
 				<tr>
 				<![endif]-->
 			    

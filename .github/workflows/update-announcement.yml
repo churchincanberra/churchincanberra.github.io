@@ -14,6 +14,11 @@ on:
     - cron: '30 23 * * 6' # This runs at 9:30 AM Australia/Sydney time (UTC+10) every Sunday
     - cron: '30 22 * * 6' # This runs at 9:30 AM Australia/Sydney time (UTC+11) every Sunday during daylight saving
 
+# Allow one concurrent deployment
+concurrency:
+  group: 'pages'
+  cancel-in-progress: true
+
 jobs:
   update:
     runs-on: ubuntu-latest
