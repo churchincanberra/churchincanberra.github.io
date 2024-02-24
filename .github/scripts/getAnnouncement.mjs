@@ -13,8 +13,11 @@ await fetch(url)
   .then(response => response.text())
   .then(data => {
     const latestLink = getFirstLinkUrl(data);
-    previousLinksHtml = getPreviousLinksHtml(data);
     console.log('Email campaign URL: ', latestLink);
+    
+    console.log('previousLinksHtml: ', previousLinksHtml);
+    console.log('data: ', data);
+    previousLinksHtml = getPreviousLinksHtml(data);
 
     return fetch(latestLink);
   })
@@ -23,7 +26,6 @@ await fetch(url)
     let newContent;
     newContent = trimHtmlContent(htmlContent);
     newContent += `<div><em>Previous announcements</em>` + previousLinksHtml + `</div>`;
-    console.log('previousLinksHtml: ', previousLinksHtml);
 
     await fs.readFile(ANNOUNCEMENT_FILEPATH, 'utf8')
       .then(previousContent => {
