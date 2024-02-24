@@ -83,7 +83,9 @@ export const getPreviousLinksHtml = (jsString) => {
 
   if (links.length > 1) {
     let result = '<ul>';
-    links.slice(1, 4).forEach(link => {
+    let linksSlice = links.slice(1, 4);
+    for (let i = 0; i < linksSlice.length; i++) {
+      let link = linksSlice[i];
       let url = link.href;
       url = url.replace(/http/g, "https"); // Replace "http" with "https"
       url = url.replace(/httpss/g, "https"); // Replace "httpss" with "https"
@@ -96,7 +98,7 @@ export const getPreviousLinksHtml = (jsString) => {
       const html = `<a href="${url}" target="_blank">${title}</a>`; 
 
       result += `<li>${html}</li>`;
-    });
+    }
     result += '</ul>';
     return result;
   } else {
