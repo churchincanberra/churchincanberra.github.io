@@ -398,7 +398,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table>
+</table><br /><a href="${url}" target="_blank">${title}</a><br /><a href="${url}" target="_blank">${title}</a><br /><a href="${url}" target="_blank">${title}</a>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
