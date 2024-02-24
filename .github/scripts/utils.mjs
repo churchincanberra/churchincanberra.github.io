@@ -75,13 +75,14 @@ export const getFirstLinkUrl = (jsString) => {
  */
 export const getPreviousLinksHtml = (jsString) => {
   const htmlString = jsString.replace('document.write("', '').slice(0, -3);
+  console.log(htmlString);
 
   const dom = new JSDOM(htmlString);
   const links = Array.from(dom.window.document.querySelectorAll('a'));
 
   if (links.length > 1) {
     let result = `<ul>`;
-    let linksSlice = links.slice(1, 4);
+    let linksSlice = links.slice(1);
     for (let i = 0; i < linksSlice.length; i++) {
       let link = linksSlice[i];
       console.log(link.toString());
