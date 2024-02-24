@@ -77,7 +77,7 @@ export const getPreviousLinksHtml = (jsString) => {
   console.log(htmlString);
   console.log("escaped: " + htmlString.replace(/\\/g, ''));
 
-  const dom = new JSDOM(htmlString);
+  const dom = new JSDOM(htmlString.replace(/\\/g, ''));
   const links = dom.window.document.querySelectorAll('a');
   
   if (links.length > 1) {
