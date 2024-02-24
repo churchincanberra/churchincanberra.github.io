@@ -5,7 +5,7 @@
 # 3. Filters the content and updates the announcement.md file.
 # 4. Commits the updated announcement.md file to the repository.
 
-name: Announcement
+name: Update announcement
 
 on:
   workflow_dispatch:
@@ -54,47 +54,17 @@ jobs:
 
       - name: Commit announcement updates
         run: |
-          BRANCH_NAME="announcement/$(date +'%Y%m%d')"
           COMMIT_MSG="Announcement updates on $(date +'%Y-%m-%d')"
-          NEW_UPDATE=false
 
-          git config --global user.email "announcement-bot@users.noreply.github.com "
-          git config --global user.name "announcement-bot"
-          git checkout -b $BRANCH_NAME
+          git config --global user.email "announcement@users.noreply.github.com "
+          git config --global user.name "announcement"
           git add ./e4b1ffcb4ee645488a4729bd77e0b3d89bc0a70d/announcements.md
+
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
             git commit -m "$COMMIT_MSG"
-            git push origin $BRANCH_NAME
-            NEW_UPDATE=true
+            git push 
           fi
-
-          echo "BRANCH_NAME=$BRANCH_NAME" >> $GITHUB_ENV
-          echo "NEW_UPDATE=$NEW_UPDATE" >> $GITHUB_ENV
         shell: bash
 
-      - name: Authenticate GitHub CLI
-        if: ${{ env.NEW_UPDATE == 'true' }}
-        run: |
-          echo "${{ steps.app-token.outputs.token }}" | gh auth login --with-token
-        shell: bash
-
-      - name: Create Pull Request
-        if: ${{ env.NEW_UPDATE == 'true' }}
-        run: |
-          PR_TITLE="Announcement updates on $(date +'%Y-%m-%d')"
-          PR_BODY="Automated PR for announcement updates"
-
-          PR_URL=$(gh pr create --title "$PR_TITLE" --body "$PR_BODY" --base main --head $BRANCH_NAME --repo ${{ github.repository }})
-
-          echo "PR_URL=$PR_URL" >> $GITHUB_ENV
-        shell: bash
-
-      - name: Merge Pull Request
-        if: ${{ env.NEW_UPDATE == 'true' }}
-        run: |
-          COMMIT_MSG=$(gh pr view $PR_URL --json title -q ".title")
-
-          gh pr merge $PR_URL --squash --delete-branch --admin --subject "$COMMIT_MSG"
-        shell: bash
