@@ -74,8 +74,6 @@ export const getFirstLinkUrl = (jsString) => {
  */
 export const getPreviousLinksHtml = (jsString) => {
   const htmlString = jsString.replace('document.write("', '').slice(0, -3);
-  console.log(htmlString);
-  console.log("escaped: " + htmlString.replace(/\\/g, ''));
 
   const dom = new JSDOM(htmlString.replace(/\\/g, ''));
   const links = dom.window.document.querySelectorAll('a');
@@ -83,22 +81,11 @@ export const getPreviousLinksHtml = (jsString) => {
   if (links.length > 1) {
     let result = `<ul>`;
     for (let i = 1; i < links.length; i++) {
-      let link = links[i];
-      console.log(i + ": " + link.outerHTML);
+      let link = links[i].outerHTML;
+      link = link.replace(/http/g, "https").replace(/httpss/g, "https");
+      console.log("n-" + i + " announcement: " + link);
 
-      // Replace "http" with "https". Replace "httpss" with "https". Remove extra double quotes
-      let url = link.href.replace(/http/g, "https").replace(/httpss/g, "https").replace(/\\"/g, '');
-      url = decodeURIComponent(url); // Unescape the URL
-      // console.log(url);
-
-      const title = link.text;
-      console.log("text: " + link.text);
-      console.log("title: " + link.title);
-
-      const html = `<a href=\"${url}\" target=\"_blank\">${title}</a>`; 
-      // console.log(html);
-
-      result += `<li>${html}</li>`;
+      result += `<li>${link}</li>`;
     }
     result += `</ul>`;
     return result;
@@ -106,7 +93,6 @@ export const getPreviousLinksHtml = (jsString) => {
     return '';
   }
 }
-
 
 /**
  * Removes unwanted elements and attributes from HTML content.
