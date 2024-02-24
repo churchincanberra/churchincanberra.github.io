@@ -398,7 +398,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div><em>Previous announcements</em><ul><li><a href="https://us10.campaign-archive.com/?u=12a6ecea8fbc1ad37a233cac1&amp;id=b5fe4e3695" title="Announcement u2013 11/02/2024" target="_blank">Announcement u2013 11/02/2024</a></li><li><a href="https://us10.campaign-archive.com/?u=12a6ecea8fbc1ad37a233cac1&amp;id=9603e859ce" title="Announcement u2013 04/02/2024" target="_blank">Announcement u2013 04/02/2024</a></li></ul></div>
+</table><div>Previous announcements:<ul><li><a href="https://us10.campaign-archive.com/?u=12a6ecea8fbc1ad37a233cac1&amp;id=b5fe4e3695" title="Announcement u2013 11/02/2024" target="_blank">Announcement u2013 11/02/2024</a></li><li><a href="https://us10.campaign-archive.com/?u=12a6ecea8fbc1ad37a233cac1&amp;id=9603e859ce" title="Announcement u2013 04/02/2024" target="_blank">Announcement u2013 04/02/2024</a></li></ul></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
