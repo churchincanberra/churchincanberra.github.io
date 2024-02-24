@@ -76,6 +76,7 @@ export const getPreviousLinksHtml = (jsString) => {
   const htmlString = jsString.replace('document.write("', '').slice(0, -3);
 
   const dom = new JSDOM(htmlString.replace(/\\/g, ''));
+  console.log('dom: ', dom.window.document.body.innerHTML);
   const links = dom.window.document.querySelectorAll('a');
   
   if (links.length > 1) {
