@@ -15,14 +15,12 @@ await fetch(url)
     const latestLink = getFirstLinkUrl(data);
     previousLinksHtml = getPreviousLinksHtml(data);
     console.log('Email campaign URL: ', latestLink);
-    console.log('previousLinksHtml: ', previousLinksHtml.toString());
 
     return fetch(latestLink);
   })
   .then(response => response.text())
   .then(async htmlContent => {
     previousAnnouncements = previousLinksHtml.map(link => `<li>${link}</li>`).join('<br />');
-    console.log('New previousAnnouncements:', previousAnnouncements);
     
     let newContent;
     newContent = trimHtmlContent(htmlContent);

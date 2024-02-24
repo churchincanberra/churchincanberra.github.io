@@ -91,6 +91,7 @@ export const getPreviousLinksHtml = (jsString) => {
       const title = link.innerHTML;
 
       const html = `<a href="${url}" target="_blank">${title}</a>`; 
+      console.log('Previous link:', html);
       return html;
     });
   } else {
