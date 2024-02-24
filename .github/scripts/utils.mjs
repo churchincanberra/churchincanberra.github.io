@@ -83,7 +83,7 @@ export const getPreviousLinksHtml = (jsString) => {
     let result = `<ul>`;
     for (let i = 1; i < links.length; i++) {
       let link = links[i];
-      console.log(link.outerHTML);
+      console.log(i + ": " + link.outerHTML);
 
       // Replace "http" with "https". Replace "httpss" with "https". Remove extra double quotes
       let url = link.href.replace(/http/g, "https").replace(/httpss/g, "https").replace(/\\"/g, '');
