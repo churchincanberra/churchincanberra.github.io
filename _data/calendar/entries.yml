@@ -731,21 +731,21 @@
   description: ''
   category: Regional
   singular: true
-  date: '2024-10-05'
+  date: '2024-09-27'
   location: 'Adelaide, SA, Australia'
 - id: 'regadl20241006'
   name: Adelaide Blending Conference
   description: ''
   category: Regional
   singular: true
-  date: '2024-10-06'
+  date: '2024-09-28'
   location: 'Adelaide, SA, Australia'
 - id: 'regadl20241007'
   name: Adelaide Blending Conference
   description: ''
   category: Regional
   singular: true
-  date: '2024-10-07'
+  date: '2024-09-29'
   location: 'Adelaide, SA, Australia'
 - id: 'regcampus20241109'
   name: Elders & Player Coaches Fellowship
