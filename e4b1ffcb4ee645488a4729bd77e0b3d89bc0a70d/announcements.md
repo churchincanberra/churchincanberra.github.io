@@ -38,7 +38,7 @@ description: Recent announcements and updates
                             <div>
 <hr>
 <p lang="EN-US" xml:lang="EN-US"><strong data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>25th February&nbsp;2024</span></strong></p>
+<strong data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>3rd March 2024</span></strong></p>
 </div>
 
                         </td>
@@ -72,40 +72,41 @@ description: Recent announcements and updates
                         
                         <td valign="top">
                         
-                            <p lang="EN-AU" xml:lang="EN-AU"><u data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>WEEKLY HIGHLIGHTS</span></u><span>&nbsp;</span></p>
-
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>1.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
+                            <p lang="EN-AU" xml:lang="EN-AU"><u data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>WEEKLY HIGHLIGHTS</span></u><span>&nbsp;</span><br>
+<br>
+<span>1.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
 
 <blockquote>
 <p><strong>English speaking - Thursday 7pm</strong><br>
-Venue: Kaleen&nbsp;House<br>
-Topic: The Function of the Church (1) The House of the Living God &amp; the Pillar and Base of the Truth<br>
+Venue: Steer's House<br>
+Topic: The Function of the Church (2) The Corporate Manifestation of God in the Flesh<br>
 <br>
 <strong>Chinese speaking - Wednesday 6:30pm</strong><br>
 Contact Zhi Bing or Mark Lam for the location.</p>
 </blockquote>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><br>
-<span>2. CALENDAR FROM THE CHURCH IN SYDNEY</span></p>
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>2. CALENDAR FROM THE CHURCH IN SYDNEY</span></p>
 
 <blockquote>
-<p><a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/5028cc0f-17b5-7f92-7c3a-77e751acb762/20240224_232213.pdf" target="_blank">Click here</a><a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/9071e6cb-1864-9e35-539d-fd3920358b9a/CHURCH_CALENDAR_2024.pdf" target="_blank"> </a>for the calendar of yearly events. We encourage us all to consider before the Lord the various events this year for our enjoyment and perfecting. By His grace, let us be positively aggressive to set aside our time and work for this.<br>
-<br>
-Please note: In anticipating more NZ saints coming to blend with the churches in Australia during NSOT &amp; PSOC, in fellowship, the brothers coordinating in these&nbsp;events&nbsp;have decided to move TT/PSOC to Sydney from Melbourne.&nbsp;<br>
-This way NSOT will be hosted in Melbourne as planned and TT/PSOC will be hosted in Sydney this year.&nbsp;<br>
-<br>
-*NSOT*<br>
-7-10 June (Melbourne)<br>
-*Teachers' Training*<br>
-30 Aug (Sydney)<br>
-*Parents &amp; Serving Ones' Conference*<br>
-31 Aug - 1 Sep (Sydney)</p>
+<p><a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/5028cc0f-17b5-7f92-7c3a-77e751acb762/20240224_232213.pdf" target="_blank">Click here</a><a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/9071e6cb-1864-9e35-539d-fd3920358b9a/CHURCH_CALENDAR_2024.pdf" target="_blank"> </a>for the calendar of yearly events. We encourage us all to consider before the Lord the various events this year for our enjoyment and perfecting. By His grace, let us be positively aggressive to set aside our time and work for this.</p>
 </blockquote>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>3. LIFE STUDY PURSUIT</span></p>
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>3.&nbsp;COORDINATION MEETING</span></p>
 
 <blockquote>
-<p>There will be a pause&nbsp;in the Life-study reading schedule this week. Saints are encouraged to use this week to catch up missed messages or pursue the Video Training outlines.</p>
+<p>Date: 24th March 2024<br>
+Time: 12:30 pm<br>
+This meeting is open to saints serving (or endeavouring to serve) and is predominantly a time to enjoy the Lord so that&nbsp;we may build up together in our service. There will be a Zoom facility available for those who cannot join physically. Please see Zoom details below.<br>
+<br>
+To join, Click here&nbsp;<br>
+Meeting ID:&nbsp;867 5951 6115&nbsp;<br>
+Passcode:&nbsp;Eph4:16</p>
+</blockquote>
+
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>4. LIFE STUDY PURSUIT</span></p>
+
+<blockquote>
+<p>There will be a pause&nbsp;in the Life-study reading schedule this week. Saints are encouraged to use this week to catch up on missed messages or pursue the Video Training outlines.</p>
 </blockquote>
 
                         </td>
@@ -140,9 +141,8 @@ This way NSOT will be hosted in Melbourne as planned and TT/PSOC will be hosted 
                         <td valign="top">
                         
                             <p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span><u>TRAINING &amp; CONFERENCES</u>&nbsp;</span><br>
-&nbsp;</p>
-
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>1. VIDEO TRAINING FEBRUARY&nbsp;2024</span></font></p>
+<br>
+<font><span>1. VIDEO TRAINING FEBRUARY&nbsp;2024</span></font></p>
 
 <blockquote>
 <p><span><span>Laboring on the All-inclusive Christ Typified by the Good Land for the Building Up of the Church as the Body of Christ, for the Reality and the Manifestation of the Kingdom, and for the Bride to Make Herself Ready for the Lord’s Coming<br>
@@ -150,25 +150,24 @@ This way NSOT will be hosted in Melbourne as planned and TT/PSOC will be hosted 
 Dates: 3rd of February - 4th of March 2024<br>
 Venue: Church in Canberra Meeting Hall and via Zoom platform<br>
 Registration Deadline: 28th January 2024<br>
-Registration: <a href="https://form.jotform.com/233420783906054" target="_blank">Click here</a></span></span><br>
-&nbsp;</p>
+Registration: <a href="https://form.jotform.com/233420783906054" target="_blank">Click here</a></span></span></p>
 </blockquote>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>2. BIANNUAL PERFECTING TRAINING&nbsp; APRIL 2024</span></font></p>
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>2. BIANNUAL PERFECTING TRAINING MARCH&nbsp;2024</span></font></p>
 
 <blockquote>
 <p><font><span>Dates: 16th&nbsp;&amp; 17th&nbsp;of March&nbsp;</span></font><br>
 <font><span>Location: Physically held at the Local Churches Blending Centre, 169 Foxall Road, Kellyville North, NSW<br>
-Zoom: For the best effect, atmosphere and blending, we encourage everyone to attend this training in person. For those who cannot travel to Sydney for particular reasons, we will provide the Zoom meeting details to the responsible brothers in these localities to facilitate the saints to come together in person as one cluster to join via Zoom. Only one physical cluster is allowed per locality.</span></font><br>
+Zoom: For the best effect, atmosphere, and blending, we encourage everyone to attend this training in person. For those who cannot travel to Sydney for particular reasons, we will provide the Zoom meeting details to the responsible brothers in these localities to facilitate the saints to come together in person as one cluster to join via Zoom. Only one physical cluster is allowed per locality.</span></font><br>
 <span><span>Registration Deadline: Wednesday, 6th of March 2024.<br>
-Training Cost: $50 for those attending physically and $10 for those joining the cluster in their locality..</span></span><br>
-<font><span>Registration: </span></font><a href="https://new.express.adobe.com/webpage/uk2bcysOqt4dK" target="_blank">Click Here</a></p>
+Training Cost: $50 for those attending physically and $10 for those joining the cluster in their locality.</span></span><br>
+<font><span>Registration: <a href="https://new.express.adobe.com/webpage/uk2bcysOqt4dK" target="_blank">Click here</a></span></font></p>
 </blockquote>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span><span>3. MID SEMESTER RETREAT</span></span></p>
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span><span>3. MID-SEMESTER RETREAT</span></span></p>
 
 <blockquote>
-<p><font><span>Students from Sydney and&nbsp;Newcastle will be coming&nbsp;to Canberra from the 29th-30th of March for a mid semester retreat. University&nbsp;students and young working saints are encouraged to join this time. Local saints are also encouraged to stay in Canberra over the long weekend for the fellowship, blending and giving&nbsp;hospitality during the retreat.</span></font><br>
+<p><font><span>Students from Sydney and&nbsp;Newcastle will be coming&nbsp;to Canberra from the 29th-30th of March for a mid-semester retreat. University&nbsp;students and young working saints are encouraged to join this time. Local saints are also encouraged to stay in Canberra over the long weekend for the fellowship, blending, and giving&nbsp;hospitality during the retreat.</span></font><br>
 <br>
 <span><span>Dates: 29th-30th of March<br>
 Venue: Church in Canberra Meeting Hall<br>
@@ -183,12 +182,43 @@ Registration: TBC</span></span></p>
 <font><span>Registration:&nbsp;</span></font><a href="https://docs.google.com/forms/d/e/1FAIpQLScs-1Xgc4YFXc22Q465C7BZjGGHPckq6kbx_0jxodPfS5dAww/viewform" target="_blank"><span><span>Click Here</span></span></a></p>
 </blockquote>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>5. NATIONAL SERVING ONES TRAINING&nbsp;2024 (Preliminary Information)</span></font></p>
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>5. PERTH BLENDING CONFERENCE 2024</span></font></p>
+
+<blockquote>
+<p><font><span>Dates: 26th- 28th April</span></font><br>
+<font><span>Location:&nbsp;Camp Wattle Grove, Perth&nbsp;<a href="https://mail.campwattlegrove.com.au&nbsp;" target="_blank">https://mail.campwattlegrove.com.au&nbsp;</a></span></font><br>
+<span><span>Training Cost:&nbsp;$100 Adult, $50 for children&nbsp;(ages 4-12)</span></span><br>
+<font><span>Registration: TBA<br>
+Enquiry:&nbsp;All other registration enquiries for saints from interstate should be directed to Tony Cleary 0459 239 879.</span></font></p>
+</blockquote>
+
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>6.&nbsp;TASMANIA BLENDING CONFERENCE 2024</span></font></p>
+
+<blockquote>
+<p><font><span>Dates: 3rd May- 5th May 2024</span></font><br>
+<font><span>Location:&nbsp;Poatina Chalet, Gordon St, Poatina 7302, Tasmania&nbsp;</span></font><br>
+<span><span>Training Cost:&nbsp;$250.00 per adult 14 years old and above<br>
+$130.00 per child from 3 to 13 years old. Free for children under 3 years old.&nbsp;The price will be capped for families at 2 adults, 2 children ($760)</span></span><br>
+<font><span>Registration Deadline: 7th April 2024<br>
+Registration: <a href="https://docs.google.com/forms/d/e/1FAIpQLScEvetFCZgzi7N4rEnr6M03GdR7yAR1-cKRisJS9t7VZTpbjA/viewform" target="_blank">Click here</a></span></font></p>
+</blockquote>
+
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>7. NATIONAL SERVING ONES TRAINING&nbsp;2024 (Preliminary Information)</span></font></p>
 
 <blockquote>
 <p><font><span>Dates: 7th&nbsp;&amp; 10th&nbsp;of June</span></font><br>
 <font><span>Location: CYC Phillip Island Adventure Resort: 1775-1801 Phillip Island Rd, Cowes, VIC</span></font><br>
 <span><span>Training Cost: $335 per person</span></span><br>
+<font><span>Registration: TBA</span></font></p>
+</blockquote>
+
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>8. CAIRNS BLENDING CONFERENCE 2024</span></font></p>
+
+<blockquote>
+<p><font><span>Dates: 26th&nbsp;&amp; 28th&nbsp;of July</span></font><br>
+<font><span>Location: Ramada Hotel&nbsp;6/12 Florence St, Cairns City QLD 4870.</span></font><br>
+<span><span>Training Cost: $350&nbsp;per person<br>
+Schedule: Starts - Friday,7:30PM 26/07/24 Ends - Lord's Day, After lunch, 28/7/2024</span></span><br>
 <font><span>Registration: TBA</span></font></p>
 </blockquote>
 
@@ -223,9 +253,9 @@ Registration: TBC</span></span></p>
                         
                         <td valign="top">
                         
-                            <p lang="EN-AU" xml:lang="EN-AU"><a href="http://INTERNATIONAL ANNOUNCEMENTS" target="_blank"><u data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>INTERNATIONAL ANNOUNCEMENTS</span></u></a></p>
-
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>1. PARTICIPATION IN THE SUMMER 2024&nbsp;PARIS OLYMPIC DISTRIBUTION&nbsp;</span></p>
+                            <p lang="EN-AU" xml:lang="EN-AU"><a href="http://INTERNATIONAL ANNOUNCEMENTS" target="_blank"><u data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>INTERNATIONAL ANNOUNCEMENTS</span></u></a><br>
+<br>
+<span>1. PARTICIPATION IN THE SUMMER 2024&nbsp;PARIS OLYMPIC DISTRIBUTION&nbsp;</span></p>
 
 <blockquote>
 <p>The Olympics will be returning to Europe in 2024 and will be hosted in Paris, France. We believe this is a wonderful opportunity prepared by the Lord as the Lord of the harvest. The saints are preparing to distribute free copies of the New Testament Recovery Version during the Torch Relay and the Olympic and&nbsp;Paralympic Games.<br>
@@ -416,7 +446,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div><em>Previous announcements</em><br /><a href="https://us10.campaign-archive.com/?u=12a6ecea8fbc1ad37a233cac1&amp;id=8b3af8eb18" title="Announcement - 18/02/2024" target="_blank">Announcement - 18/02/2024</a><br /><a href="https://us10.campaign-archive.com/?u=12a6ecea8fbc1ad37a233cac1&amp;id=b5fe4e3695" title="Announcement - 11/02/2024" target="_blank">Announcement - 11/02/2024</a><br /></div>
+</table><div><em>Previous announcements</em><br /><a href="https://us10.campaign-archive.com/?u=12a6ecea8fbc1ad37a233cac1&amp;id=81cbb3b78a" title="Announcement - 25/02/2024" target="_blank">Announcement - 25/02/2024</a><br /><a href="https://us10.campaign-archive.com/?u=12a6ecea8fbc1ad37a233cac1&amp;id=8b3af8eb18" title="Announcement - 18/02/2024" target="_blank">Announcement - 18/02/2024</a><br /></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
