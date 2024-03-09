@@ -38,7 +38,7 @@ description: Recent announcements and updates
                             <div>
 <hr>
 <p lang="EN-US" xml:lang="EN-US"><strong data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>3rd March 2024</span></strong></p>
+<strong data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>10th March 2024</span></strong></p>
 </div>
 
                         </td>
@@ -78,8 +78,8 @@ description: Recent announcements and updates
 
 <blockquote>
 <p><strong>English speaking - Thursday 7pm</strong><br>
-Venue: Steer's House<br>
-Topic: The Function of the Church (2) The Corporate Manifestation of God in the Flesh<br>
+Venue: Ederosas' House<br>
+Topic: The Enjoyment of the All-inclusive Christ as the Unique Solution to All Problems in the Church<br>
 <br>
 <strong>Chinese speaking - Wednesday 6:30pm</strong><br>
 Contact Zhi Bing or Mark Lam for the location.</p>
@@ -96,17 +96,13 @@ Contact Zhi Bing or Mark Lam for the location.</p>
 <blockquote>
 <p>Date: 24th March 2024<br>
 Time: 12:30 pm<br>
-This meeting is open to saints serving (or endeavouring to serve) and is predominantly a time to enjoy the Lord so that&nbsp;we may build up together in our service. There will be a Zoom facility available for those who cannot join physically. Please see Zoom details below.<br>
-<br>
-To join, Click here&nbsp;<br>
-Meeting ID:&nbsp;867 5951 6115&nbsp;<br>
-Passcode:&nbsp;Eph4:16</p>
+This meeting is open to saints serving (or endeavouring to serve) and is predominantly a time to enjoy the Lord so that&nbsp;we may build up together in our service.&nbsp; We will use the normal church zoom&nbsp;for those who cannot join physically.&nbsp;</p>
 </blockquote>
 
 <p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>4. LIFE STUDY PURSUIT</span></p>
 
 <blockquote>
-<p>There will be a pause&nbsp;in the Life-study reading schedule this week. Saints are encouraged to use this week to catch up on missed messages or pursue the Video Training outlines.</p>
+<p>Life Study of Titus Messages 1 &amp; 2</p>
 </blockquote>
 
                         </td>
@@ -142,18 +138,7 @@ Passcode:&nbsp;Eph4:16</p>
                         
                             <p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span><u>TRAINING &amp; CONFERENCES</u>&nbsp;</span><br>
 <br>
-<font><span>1. VIDEO TRAINING FEBRUARY&nbsp;2024</span></font></p>
-
-<blockquote>
-<p><span><span>Laboring on the All-inclusive Christ Typified by the Good Land for the Building Up of the Church as the Body of Christ, for the Reality and the Manifestation of the Kingdom, and for the Bride to Make Herself Ready for the Lord’s Coming<br>
-<br>
-Dates: 3rd of February - 4th of March 2024<br>
-Venue: Church in Canberra Meeting Hall and via Zoom platform<br>
-Registration Deadline: 28th January 2024<br>
-Registration: <a href="https://form.jotform.com/233420783906054" target="_blank">Click here</a></span></span></p>
-</blockquote>
-
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>2. BIANNUAL PERFECTING TRAINING MARCH&nbsp;2024</span></font></p>
+<font><span>1. BIANNUAL PERFECTING TRAINING MARCH&nbsp;2024</span></font></p>
 
 <blockquote>
 <p><font><span>Dates: 16th&nbsp;&amp; 17th&nbsp;of March&nbsp;</span></font><br>
@@ -164,17 +149,18 @@ Training Cost: $50 for those attending physically and $10 for those joining the 
 <font><span>Registration: <a href="https://new.express.adobe.com/webpage/uk2bcysOqt4dK" target="_blank">Click here</a></span></font></p>
 </blockquote>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span><span>3. MID-SEMESTER RETREAT</span></span></p>
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span><span>2. MID-SEMESTER RETREAT</span></span></p>
 
 <blockquote>
 <p><font><span>Students from Sydney and&nbsp;Newcastle will be coming&nbsp;to Canberra from the 29th-30th of March for a mid-semester retreat. University&nbsp;students and young working saints are encouraged to join this time. Local saints are also encouraged to stay in Canberra over the long weekend for the fellowship, blending, and giving&nbsp;hospitality during the retreat.</span></font><br>
 <br>
 <span><span>Dates: 29th-30th of March<br>
 Venue: Church in Canberra Meeting Hall<br>
-Registration: TBC</span></span></p>
+Registration: TBC<br>
+Please let Brother Billy know if you can open your house for accommodation</span></span></p>
 </blockquote>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>4. MONTHLY PERFECTING TRAINING&nbsp;2024</span></font></p>
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>3. MONTHLY PERFECTING TRAINING&nbsp;2024</span></font></p>
 
 <blockquote>
 <p><font><span>Dates: 13 April, 11 May, 20&nbsp;July,&nbsp;7&nbsp;September, and 16 November (There will be no training in the other months because of other conferences or the Bi-annual Perfecting Training)</span></font><br>
@@ -182,17 +168,17 @@ Registration: TBC</span></span></p>
 <font><span>Registration:&nbsp;</span></font><a href="https://docs.google.com/forms/d/e/1FAIpQLScs-1Xgc4YFXc22Q465C7BZjGGHPckq6kbx_0jxodPfS5dAww/viewform" target="_blank"><span><span>Click Here</span></span></a></p>
 </blockquote>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>5. PERTH BLENDING CONFERENCE 2024</span></font></p>
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>4. PERTH BLENDING CONFERENCE 2024</span></font></p>
 
 <blockquote>
 <p><font><span>Dates: 26th- 28th April</span></font><br>
 <font><span>Location:&nbsp;Camp Wattle Grove, Perth&nbsp;<a href="https://mail.campwattlegrove.com.au&nbsp;" target="_blank">https://mail.campwattlegrove.com.au&nbsp;</a></span></font><br>
 <span><span>Training Cost:&nbsp;$100 Adult, $50 for children&nbsp;(ages 4-12)</span></span><br>
-<font><span>Registration: TBA<br>
+<font><span>Registration:&nbsp;<a href="https://forms.gle/qRz2Wcww6TntFkFZ9" target="_blank"><u>Click here</u></a><br>
 Enquiry:&nbsp;All other registration enquiries for saints from interstate should be directed to Tony Cleary 0459 239 879.</span></font></p>
 </blockquote>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>6.&nbsp;TASMANIA BLENDING CONFERENCE 2024</span></font></p>
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>5.&nbsp;TASMANIA BLENDING CONFERENCE 2024</span></font></p>
 
 <blockquote>
 <p><font><span>Dates: 3rd May- 5th May 2024</span></font><br>
@@ -203,7 +189,7 @@ $130.00 per child from 3 to 13 years old. Free for children under 3 years old.&n
 Registration: <a href="https://docs.google.com/forms/d/e/1FAIpQLScEvetFCZgzi7N4rEnr6M03GdR7yAR1-cKRisJS9t7VZTpbjA/viewform" target="_blank">Click here</a></span></font></p>
 </blockquote>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>7. NATIONAL SERVING ONES TRAINING&nbsp;2024 (Preliminary Information)</span></font></p>
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>6. NATIONAL SERVING ONES TRAINING&nbsp;2024 (Preliminary Information)</span></font></p>
 
 <blockquote>
 <p><font><span>Dates: 7th&nbsp;&amp; 10th&nbsp;of June</span></font><br>
@@ -212,7 +198,7 @@ Registration: <a href="https://docs.google.com/forms/d/e/1FAIpQLScEvetFCZgzi7N4r
 <font><span>Registration: TBA</span></font></p>
 </blockquote>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>8. CAIRNS BLENDING CONFERENCE 2024</span></font></p>
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>7. CAIRNS BLENDING CONFERENCE 2024</span></font></p>
 
 <blockquote>
 <p><font><span>Dates: 26th&nbsp;&amp; 28th&nbsp;of July</span></font><br>
@@ -446,7 +432,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div><em>Previous announcements</em><br /><a href="https://us10.campaign-archive.com/?u=12a6ecea8fbc1ad37a233cac1&amp;id=81cbb3b78a" title="Announcement - 25/02/2024" target="_blank">Announcement - 25/02/2024</a><br /><a href="https://us10.campaign-archive.com/?u=12a6ecea8fbc1ad37a233cac1&amp;id=8b3af8eb18" title="Announcement - 18/02/2024" target="_blank">Announcement - 18/02/2024</a><br /></div>
+</table><div><em>Previous announcements</em><br /><a href="https://us10.campaign-archive.com/?u=12a6ecea8fbc1ad37a233cac1&amp;id=716ef86b10" title="Announcement - 03/03/2024" target="_blank">Announcement - 03/03/2024</a><br /><a href="https://us10.campaign-archive.com/?u=12a6ecea8fbc1ad37a233cac1&amp;id=81cbb3b78a" title="Announcement - 25/02/2024" target="_blank">Announcement - 25/02/2024</a><br /></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
