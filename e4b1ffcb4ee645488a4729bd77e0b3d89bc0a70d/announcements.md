@@ -28,7 +28,7 @@ description: Recent announcements and updates
 				<![endif]-->
 			    
 				<!--[if mso]>
-				<td valign="top" width="600" style="width:600px;">
+				<td valign="top" width="599" style="width:599px;">
 				<![endif]-->
                 <table align="left">
                     <tbody><tr>
@@ -38,7 +38,7 @@ description: Recent announcements and updates
                             <div>
 <hr>
 <p lang="EN-US" xml:lang="EN-US"><strong data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>10th March 2024</span></strong></p>
+<strong data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>17th March 2024</span></strong></p>
 </div>
 
                         </td>
@@ -65,7 +65,7 @@ description: Recent announcements and updates
 				<![endif]-->
 			    
 				<!--[if mso]>
-				<td valign="top" width="600" style="width:600px;">
+				<td valign="top" width="599" style="width:599px;">
 				<![endif]-->
                 <table align="left">
                     <tbody><tr>
@@ -78,9 +78,8 @@ description: Recent announcements and updates
 
 <blockquote>
 <p><strong>English speaking - Thursday 7pm</strong><br>
-Venue: Ederosas' House<br>
-Topic: The Enjoyment of the All-inclusive Christ as the Unique Solution to All Problems in the Church<br>
-<br>
+Venue: Gungahlin House<br>
+Topic: The Joy of the Triune God Becoming Our Joy&nbsp;<br>
 <strong>Chinese speaking - Wednesday 6:30pm</strong><br>
 Contact Zhi Bing or Mark Lam for the location.</p>
 </blockquote>
@@ -96,13 +95,14 @@ Contact Zhi Bing or Mark Lam for the location.</p>
 <blockquote>
 <p>Date: 24th March 2024<br>
 Time: 12:30 pm<br>
+<strong>We will use this time to fellowship regarding the campus retreat in Canberra. Any saint burdened to serve during this time is encouraged to join.</strong><br>
 This meeting is open to saints serving (or endeavouring to serve) and is predominantly a time to enjoy the Lord so that&nbsp;we may build up together in our service.&nbsp; We will use the normal church zoom&nbsp;for those who cannot join physically.&nbsp;</p>
 </blockquote>
 
 <p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>4. LIFE STUDY PURSUIT</span></p>
 
 <blockquote>
-<p>Life Study of Titus Messages 1 &amp; 2</p>
+<p>Life Study of Titus Messages 3&nbsp;&amp; 4</p>
 </blockquote>
 
                         </td>
@@ -129,7 +129,7 @@ This meeting is open to saints serving (or endeavouring to serve) and is predomi
 				<![endif]-->
 			    
 				<!--[if mso]>
-				<td valign="top" width="600" style="width:600px;">
+				<td valign="top" width="599" style="width:599px;">
 				<![endif]-->
                 <table align="left">
                     <tbody><tr>
@@ -142,8 +142,7 @@ This meeting is open to saints serving (or endeavouring to serve) and is predomi
 
 <blockquote>
 <p><font><span>Dates: 16th&nbsp;&amp; 17th&nbsp;of March&nbsp;</span></font><br>
-<font><span>Location: Physically held at the Local Churches Blending Centre, 169 Foxall Road, Kellyville North, NSW<br>
-Zoom: For the best effect, atmosphere, and blending, we encourage everyone to attend this training in person. For those who cannot travel to Sydney for particular reasons, we will provide the Zoom meeting details to the responsible brothers in these localities to facilitate the saints to come together in person as one cluster to join via Zoom. Only one physical cluster is allowed per locality.</span></font><br>
+<font><span>Location: Physically held at the Local Churches Blending Centre, 169 Foxall Road, Kellyville North, NSW</span></font><br>
 <span><span>Registration Deadline: Wednesday, 6th of March 2024.<br>
 Training Cost: $50 for those attending physically and $10 for those joining the cluster in their locality.</span></span><br>
 <font><span>Registration: <a href="https://new.express.adobe.com/webpage/uk2bcysOqt4dK" target="_blank">Click here</a></span></font></p>
@@ -192,7 +191,7 @@ Registration: <a href="https://docs.google.com/forms/d/e/1FAIpQLScEvetFCZgzi7N4r
 <p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>6. NATIONAL SERVING ONES TRAINING&nbsp;2024 (Preliminary Information)</span></font></p>
 
 <blockquote>
-<p><font><span>Dates: 7th&nbsp;&amp; 10th&nbsp;of June</span></font><br>
+<p><font><span>Dates: 7th -&nbsp;10th&nbsp;of June</span></font><br>
 <font><span>Location: CYC Phillip Island Adventure Resort: 1775-1801 Phillip Island Rd, Cowes, VIC</span></font><br>
 <span><span>Training Cost: $335 per person</span></span><br>
 <font><span>Registration: TBA</span></font></p>
@@ -432,7 +431,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div><em>Previous announcements</em><br /><a href="https://us10.campaign-archive.com/?u=12a6ecea8fbc1ad37a233cac1&amp;id=716ef86b10" title="Announcement - 03/03/2024" target="_blank">Announcement - 03/03/2024</a><br /><a href="https://us10.campaign-archive.com/?u=12a6ecea8fbc1ad37a233cac1&amp;id=81cbb3b78a" title="Announcement - 25/02/2024" target="_blank">Announcement - 25/02/2024</a><br /></div>
+</table><div><em>Previous announcements</em><br /><a href="https://us10.campaign-archive.com/?u=12a6ecea8fbc1ad37a233cac1&amp;id=b5e4d74c35" title="Announcement - 10/03/2024" target="_blank">Announcement - 10/03/2024</a><br /><a href="https://us10.campaign-archive.com/?u=12a6ecea8fbc1ad37a233cac1&amp;id=716ef86b10" title="Announcement - 03/03/2024" target="_blank">Announcement - 03/03/2024</a><br /></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
