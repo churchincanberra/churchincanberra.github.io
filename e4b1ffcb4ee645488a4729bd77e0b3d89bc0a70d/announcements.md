@@ -38,7 +38,7 @@ description: Recent announcements and updates
                             <div>
 <hr>
 <p lang="EN-US" xml:lang="EN-US"><strong data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>7th&nbsp;April&nbsp;2024</span></strong></p>
+<strong data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>14th&nbsp;April&nbsp;2024</span></strong></p>
 </div>
 
                         </td>
@@ -78,29 +78,26 @@ description: Recent announcements and updates
 
 <blockquote>
 <p><strong>English speaking - Thursday 7 pm</strong><br>
-Venue: Gungahlin's&nbsp;House<br>
-Topic: The Reigning Aspect of the Mature Life Seen in the Life of Joseph<br>
+Venue: Steer's House (Banks)<br>
+Topic: The Joy Set before Christ and the Joy Set before Us<br>
 <br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
-Contact Zhi Bing or Mark Lam for the location.</p>
+Venue: Victor and Bing's House (Watson)<br>
+Topic: The Joy Set before Christ and the Joy Set before Us</p>
 </blockquote>
 
-<p lang="EN-AU" xml:lang="EN-AU"><span>2.&nbsp;KALEEN CORPORATE HOUSE MOVE DATE</span></p>
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font color="#000000"><span>2. LOVE FEAST 21st APRIL</span></font></p>
 
 <blockquote>
-<p>Thank the Lord for His Arrangement. The saints in the corporate living in Kaleen found a new house to stay. This new house will just be the unit&nbsp;next door (house they share driveway with). <strong>The Date of move will be on April 13 (Saturday)</strong>. There are a number of saints who are not around that time so we ask those who are available&nbsp;to help out in the move. Please let&nbsp;Brother James or Sister Lahra know if&nbsp;you can&nbsp;lend a hand&nbsp;in moving things.</p>
+<p>Date: 21st April<br>
+Venue: Meeting Hall&nbsp;(after prophesying meeting)<br>
+All saints are welcome to join the&nbsp;love feast. Let's take this opportunity to cherish one another while enjoying mutual fellowship.&nbsp;The love feast will be followed by the monthly coordination meeting for those who wish to join.</p>
 </blockquote>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>3. CALENDAR FROM THE CHURCH IN SYDNEY</span></p>
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font color="#000000"><span>3. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p><a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/5028cc0f-17b5-7f92-7c3a-77e751acb762/20240224_232213.pdf" target="_blank">Click here</a><a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/9071e6cb-1864-9e35-539d-fd3920358b9a/CHURCH_CALENDAR_2024.pdf" target="_blank"> </a>for the calendar of yearly events. We encourage us all to consider before the Lord the various events this year for our enjoyment and perfecting. By His grace, let us be positively aggressive to set aside our time and work for this.</p>
-</blockquote>
-
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font color="#000000"><span>4. LIFE STUDY PURSUIT</span></font></p>
-
-<blockquote>
-<p>Life Study of Song of Songs&nbsp;Messages 3&nbsp;&amp; 4</p>
+<p>Life Study of Song of Songs&nbsp;Messages 5&nbsp;&amp; 6</p>
 </blockquote>
 
                         </td>
@@ -139,8 +136,8 @@ Contact Zhi Bing or Mark Lam for the location.</p>
 <p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>1. MONTHLY PERFECTING TRAINING&nbsp;2024</span></font></p>
 
 <blockquote>
-<p><font><span>Dates: 13 April, 11 May, 20&nbsp;July,&nbsp;7&nbsp;September, and 16 November (There will be no training in the other months because of other conferences or the Bi-annual Perfecting Training)</span></font><br>
-<font><span>Venue: April 13 training will only be in&nbsp;Zoom</span></font><br>
+<p><font><span>Dates: 11 May, 20&nbsp;July,&nbsp;7&nbsp;September, and 16 November (There will be no training in the other months because of other conferences or the Bi-annual Perfecting Training)</span></font><br>
+<font><span>Venue: Meeting Hall Cluster</span></font><br>
 <font><span>Registration:&nbsp;</span></font><a href="https://docs.google.com/forms/d/e/1FAIpQLScs-1Xgc4YFXc22Q465C7BZjGGHPckq6kbx_0jxodPfS5dAww/viewform" target="_blank"><span><span>Click Here</span></span></a></p>
 </blockquote>
 
@@ -213,9 +210,9 @@ Schedule: Starts - Friday,7:30PM 26/07/24 Ends - Lord's Day, After lunch, 28/7/2
 <blockquote>
 <p>The Olympics will be returning to Europe in 2024 and will be hosted in Paris, France. We believe this is a wonderful opportunity prepared by the Lord as the Lord of the harvest. The saints are preparing to distribute free copies of the New Testament Recovery Version during the Torch Relay and the Olympic and&nbsp;Paralympic Games.<br>
 <br>
-We would encourage all the saints to open to the regarding this next milestone in the Lord's move in Europe, and we would like to invite the saints in the Lord's recovery to join us in this labour next year by praying, giving and going.<br>
+During the torch relay there will be 9 gospel trips visiting 11 French cities. There will be another 5 gospel trips during the Olympic Games.&nbsp;<br>
 <br>
-For more details, please&nbsp;<a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/10c13d73-1478-470a-52e8-bb4796798861/Paris2024.02.pdf" target="_blank"><span>click here&nbsp;</span></a></p>
+For more details, please&nbsp;<span><a href="https://amanatrust.org.uk/page/2024paris" target="_blank">click here</a>.</span></p>
 </blockquote>
 
                         </td>
@@ -304,13 +301,29 @@ Friday 9pm on W<em>eChat. </em>If you wish to attend please contact Mark Lam or 
 Lord's Day 10:00am at the meeting hall and on Zoom (details below).</p>
 </blockquote>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>B. CHURCH IN CANBERRA VARIOUS OFFERING ACCOUNTS</span></p>
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>B. COORDINATION MEETING&nbsp;</span></p>
+
+<blockquote>
+<p>Next Meeting: 21st&nbsp;April 2024&nbsp;(after prophesying&nbsp;meeting)<br>
+Book: the tree of life - Message 1<br>
+Future Dates: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/images/b228da64-c30e-0dca-4808-00b288f708ad.png" target="_blank">click here</a><br>
+<br>
+This&nbsp;meeting&nbsp;is open to saints serving (or endeavouring to serve) and is predominantly a time to enjoy the Lord so that we may be built up together in our service. We strongly encourage the saints to read the chapter listed above&nbsp;in your personal time. We will share and fellowship on this chapter during the meeting. There will be Zoom available for those who cannot join physically.</p>
+</blockquote>
+
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>C. CALENDAR FROM THE CHURCH IN SYDNEY</span></p>
+
+<blockquote>
+<p><a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/5028cc0f-17b5-7f92-7c3a-77e751acb762/20240224_232213.pdf" target="_blank">Click here</a><a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/9071e6cb-1864-9e35-539d-fd3920358b9a/CHURCH_CALENDAR_2024.pdf" target="_blank"> </a>for the calendar of yearly events. We encourage us all to consider before the Lord the various events this year for our enjoyment and perfecting. By His grace, let us be positively aggressive to set aside our time and work for this.</p>
+</blockquote>
+
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>D. CHURCH IN CANBERRA VARIOUS OFFERING ACCOUNTS</span></p>
 
 <blockquote>
 <p>Please <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/6b4f0499-5273-dcfe-2022-308c20d84c42/Church_in_Canberra_Bank_Accounts.01.pdf" target="_blank">click here</a></p>
 </blockquote>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>C. ZOOM MEETING DETAILS</span></p>
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>E. ZOOM MEETING DETAILS</span></p>
 
 <blockquote>
 <p>To join, click this link&nbsp;<a href="https://us02web.zoom.us/j/86759516115?pwd=RGQrKzJWWkRtTXVkeS9ZNXdSSmwxdz09" target="_blank">https://us02web.zoom.us/j/86759516115?pwd=RGQrKzJWWkRtTXVkeS9ZNXdSSmwxdz09</a><br>
@@ -318,13 +331,13 @@ Meeting ID:&nbsp;867 5951 6115&nbsp;<br>
 Passcode:&nbsp;Eph4:16</p>
 </blockquote>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>D. ONLINE ANNOUNCEMENT</span></p>
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>F. ONLINE ANNOUNCEMENT</span></p>
 
 <blockquote>
 <p>The announcement page on the church in Canberra website (<a href="https://www.churchincanberra.org/announcements" target="_blank">https://www.churchincanberra.org/announcements</a>) requires the password, 'canberra'.</p>
 </blockquote>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>E. LIST OF ACT SUBURBS AND DISTRICTS&nbsp;</span></p>
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>G. LIST OF ACT SUBURBS AND DISTRICTS&nbsp;</span></p>
 
 <blockquote>
 <p>Through the burden released at recent conferences and the prayer of the saints&nbsp;we look to the Lord for the increase&nbsp;of his testimony in Canberra. There is the need for much prayer that the lord would gain his testimony across the whole of the ACT. The document <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/15584ad1-5cea-5f67-dfc0-44b4e246ee2a/ACT_Divisions_2023_v2.pdf" target="_blank">linked here</a> contains a full list of the ACT Districts and Divisions (Suburbs) to aid in your prayer for his move in Canberra.</p>
@@ -389,7 +402,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div><em>Previous announcements</em><br /><a href="https://us10.campaign-archive.com/?u=12a6ecea8fbc1ad37a233cac1&amp;id=9547ee7b0d" title="Announcement - 24/03/2024" target="_blank">Announcement - 24/03/2024</a><br /><a href="https://us10.campaign-archive.com/?u=12a6ecea8fbc1ad37a233cac1&amp;id=c7e9cf82fc" title="Announcement - 17/03/2024" target="_blank">Announcement - 17/03/2024</a><br /></div>
+</table><div><em>Previous announcements</em><br /><a href="https://us10.campaign-archive.com/?u=12a6ecea8fbc1ad37a233cac1&amp;id=b82b26149f" title="Announcement - 07/04/2024" target="_blank">Announcement - 07/04/2024</a><br /><a href="https://us10.campaign-archive.com/?u=12a6ecea8fbc1ad37a233cac1&amp;id=59a8e56d08" title="Announcement - 31/03/2024" target="_blank">Announcement - 31/03/2024</a><br /></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
