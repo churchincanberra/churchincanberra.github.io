@@ -38,7 +38,7 @@ description: Recent announcements and updates
                             <div>
 <hr>
 <p lang="EN-US" xml:lang="EN-US"><strong data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>14th&nbsp;April&nbsp;2024</span></strong></p>
+<strong data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>21st April&nbsp;2024</span></strong></p>
 </div>
 
                         </td>
@@ -78,12 +78,12 @@ description: Recent announcements and updates
 
 <blockquote>
 <p><strong>English speaking - Thursday 7 pm</strong><br>
-Venue: Steer's House (Banks)<br>
-Topic: The Joy Set before Christ and the Joy Set before Us<br>
+Venue: Gungahlin Brothers House<br>
+Topic: Fighting for the Good Land<br>
 <br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
 Venue: Victor and Bing's House (Watson)<br>
-Topic: The Joy Set before Christ and the Joy Set before Us</p>
+Topic: Fighting for the Good Land</p>
 </blockquote>
 
 <p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font color="#000000"><span>2. LOVE FEAST 21st APRIL</span></font></p>
@@ -94,10 +94,23 @@ Venue: Meeting Hall&nbsp;(after prophesying meeting)<br>
 All saints are welcome to join the&nbsp;love feast. Let's take this opportunity to cherish one another while enjoying mutual fellowship.&nbsp;The love feast will be followed by the monthly coordination meeting for those who wish to join.</p>
 </blockquote>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font color="#000000"><span>3. LIFE STUDY PURSUIT</span></font></p>
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font color="#000000"><span>3.&nbsp; CHURCH OUTING</span></font></p>
 
 <blockquote>
-<p>Life Study of Song of Songs&nbsp;Messages 5&nbsp;&amp; 6</p>
+<p>There will be a church outing to Cotter Dam on the 4th of May. All saints as well as&nbsp;gospel contacts and new ones are encouraged to join.<br>
+<br>
+Please confirm your attendance (for catering purposes) by filling out the form&nbsp;<a href="https://forms.office.com/pages/responsepage.aspx?id=rM8SkZi2m0aC6RYZGF3RMoLMgM10QYBIgeDkDZBWzrdUNENPRkZRTFkxUjZPS0s1R1ZUUTM0S0ZIVyQlQCN0PWcu" target="_blank">here</a>.<br>
+<br>
+Location: Cotter Dam (<a href="https://www.google.com/maps/search/-35.323034,+148.941850?entry=tts" target="_blank">click here</a> for maps)<br>
+Time/date: 10:00am- 1:00pm 4th of May<br>
+Food: The church will provide BBQ meat and bread. Saints are encouraged to bring salads, fruit, snacks and drinks.<br>
+What to bring: Hat, picnic blanket, sports equipment.</p>
+</blockquote>
+
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font color="#000000"><span>4. LIFE STUDY PURSUIT</span></font></p>
+
+<blockquote>
+<p>Life Study of Song of Songs&nbsp;Messages 7&nbsp;&amp; 8</p>
 </blockquote>
 
                         </td>
@@ -170,6 +183,33 @@ Registration: <a href="https://docs.google.com/forms/d/e/1FAIpQLScEvetFCZgzi7N4r
 <span><span>Training Cost: $350&nbsp;per person<br>
 Schedule: Starts - Friday,7:30PM 26/07/24 Ends - Lord's Day, After lunch, 28/7/2024</span></span><br>
 <font><span>Registration: <a href="https://docs.google.com/forms/d/1B8mBGwEdEbQ8LR1EYzpuf7Pflel0RTITvpNEefd5CzI/viewform?edit_requested=true" target="_blank">Click here</a></span></font></p>
+</blockquote>
+
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>5. TEACHERS TRAINING &amp; PARENTS AND SERVING ONES CONFERENCE</span></font></p>
+
+<blockquote>
+<p><font><span><strong>Teachers Training</strong><br>
+Date: Friday, 30 August 2024<br>
+<strong>Parents' and Serving Ones' Conference</strong><br>
+Dates: Saturday, 31 August 2024 - Lord's day, 1 September 2024<br>
+<br>
+Location:&nbsp;Physically held at in Sydney and online, via Zoom.&nbsp;<br>
+Registration&nbsp;Deadline:&nbsp;Monday, 12 August 2023.<br>
+Registration: <em>(registration will open early June)</em><br>
+Training&nbsp;Cost:&nbsp;$25 for those attending the Teachers' Training physically<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; $50 for those attending the Parents' and Serving Ones' Conference physically.<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; $10 for those attending on Zoom from Australia.</span></font></p>
+</blockquote>
+
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>6.&nbsp;NATIONAL HIGH SCHOOLERS&nbsp;CONFERENCE</span></font></p>
+
+<blockquote>
+<p><font><span>Dates:&nbsp;Friday 5 July to Monday 8 July 2024<br>
+Location: The&nbsp;Tops Conference Centre<br>
+Registration&nbsp;Deadline:&nbsp;27 May 2024<br>
+Registration and Further information: <a href="https://nhsc.site/" target="_blank">click here&nbsp;</a><br>
+Cost: $290</span><br>
+Notes: Please see the notes on the website regarding year 6 registration and serving. Please fellowship with Billy Steer before registering to serve.</font></p>
 </blockquote>
 
                         </td>
@@ -340,7 +380,7 @@ Passcode:&nbsp;Eph4:16</p>
 <p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>G. LIST OF ACT SUBURBS AND DISTRICTS&nbsp;</span></p>
 
 <blockquote>
-<p>Through the burden released at recent conferences and the prayer of the saints&nbsp;we look to the Lord for the increase&nbsp;of his testimony in Canberra. There is the need for much prayer that the lord would gain his testimony across the whole of the ACT. The document <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/15584ad1-5cea-5f67-dfc0-44b4e246ee2a/ACT_Divisions_2023_v2.pdf" target="_blank">linked here</a> contains a full list of the ACT Districts and Divisions (Suburbs) to aid in your prayer for his move in Canberra.</p>
+<p>Through the burden released at recent conferences and the prayer of the saints&nbsp;we look to the Lord for the increase&nbsp;of his testimony in Canberra. There is the need for much prayer that the Lord would gain his testimony across the whole of the ACT. The document <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/15584ad1-5cea-5f67-dfc0-44b4e246ee2a/ACT_Divisions_2023_v2.pdf" target="_blank">linked here</a> contains a full list of the ACT Districts and Divisions (Suburbs) to aid in your prayer for his move in Canberra.</p>
 </blockquote>
 
                         </td>
@@ -402,7 +442,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div><em>Previous announcements</em><br /><a href="https://us10.campaign-archive.com/?u=12a6ecea8fbc1ad37a233cac1&amp;id=b82b26149f" title="Announcement - 07/04/2024" target="_blank">Announcement - 07/04/2024</a><br /><a href="https://us10.campaign-archive.com/?u=12a6ecea8fbc1ad37a233cac1&amp;id=59a8e56d08" title="Announcement - 31/03/2024" target="_blank">Announcement - 31/03/2024</a><br /></div>
+</table><div><em>Previous announcements</em><br /><a href="https://us10.campaign-archive.com/?u=12a6ecea8fbc1ad37a233cac1&amp;id=d47b074689" title="Announcement - 14/04/2024" target="_blank">Announcement - 14/04/2024</a><br /><a href="https://us10.campaign-archive.com/?u=12a6ecea8fbc1ad37a233cac1&amp;id=b82b26149f" title="Announcement - 07/04/2024" target="_blank">Announcement - 07/04/2024</a><br /></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
