@@ -1,10 +1,11 @@
 name: Build & Deploy
 
 on:
-  workflow_run:
-    workflows: [Update announcement]
-    types:
-      - completed
+  push:
+    branches:
+      - 'main'
+    paths:
+      - '**/announcements.md'
 
   workflow_dispatch:
 
