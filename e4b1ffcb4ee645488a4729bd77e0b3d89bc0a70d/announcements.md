@@ -38,7 +38,7 @@ description: Recent announcements and updates
                             <div>
 <hr>
 <p lang="EN-US" xml:lang="EN-US"><strong data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>21st April&nbsp;2024</span></strong></p>
+<strong data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>28th April&nbsp;2024</span></strong></p>
 </div>
 
                         </td>
@@ -78,18 +78,18 @@ description: Recent announcements and updates
 
 <blockquote>
 <p><strong>English speaking - Thursday 7 pm</strong><br>
-Venue: Gungahlin Brothers House<br>
-Topic: Fighting for the Good Land<br>
+Venue: Steer's House (Banks)<br>
+Topic: Inheriting the All-inclusive Christ as the Good Land by Taking Heed to His Words of Advice and Warnings and by Receiving His Renewed Training to Have Our Inner Man Renewed Day by Day.<br>
 <br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
-Venue: Victor and Bing's House (Watson)<br>
-Topic: Fighting for the Good Land</p>
+Venue: Ming &amp; Nadia's House (Palmerston)<br>
+Topic: Inheriting the All-inclusive Christ as the Good Land by Taking Heed to His Words of Advice and Warnings and by Receiving His Renewed Training to Have Our Inner Man Renewed Day by Day.</p>
 </blockquote>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font color="#000000"><span>2. LOVE FEAST 21st APRIL</span></font></p>
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font color="#000000"><span>2. NEXT LOVE FEAST AT THE HALL</span></font></p>
 
 <blockquote>
-<p>Date: 21st April<br>
+<p>Date: 19th May<br>
 Venue: Meeting Hall&nbsp;(after prophesying meeting)<br>
 All saints are welcome to join the&nbsp;love feast. Let's take this opportunity to cherish one another while enjoying mutual fellowship.&nbsp;The love feast will be followed by the monthly coordination meeting for those who wish to join.</p>
 </blockquote>
@@ -110,7 +110,7 @@ What to bring: Hat, picnic blanket, sports equipment.</p>
 <p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font color="#000000"><span>4. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of Song of Songs&nbsp;Messages 7&nbsp;&amp; 8</p>
+<p>Life Study of Song of Songs&nbsp;Messages 9&nbsp;&amp; 10</p>
 </blockquote>
 
                         </td>
@@ -154,7 +154,36 @@ What to bring: Hat, picnic blanket, sports equipment.</p>
 <font><span>Registration:&nbsp;</span></font><a href="https://docs.google.com/forms/d/e/1FAIpQLScs-1Xgc4YFXc22Q465C7BZjGGHPckq6kbx_0jxodPfS5dAww/viewform" target="_blank"><span><span>Click Here</span></span></a></p>
 </blockquote>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>2. PERTH BLENDING CONFERENCE 2024</span></font></p>
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>2.&nbsp;NATIONAL HIGH SCHOOLERS&nbsp;CONFERENCE</span></font></p>
+
+<blockquote>
+<p><font><span>Dates:&nbsp;Friday 5 July to Monday 8 July 2024<br>
+Location: The&nbsp;Tops Conference Centre<br>
+Registration&nbsp;Deadline:&nbsp;27 May 2024<br>
+Registration and Further information: <a href="https://new.express.adobe.com/webpage/zd2DrRfpxlZJV?" target="_blank">click here</a><a href="https://nhsc.site/" target="_blank">&nbsp;</a><br>
+Cost: $290</span><br>
+Notes: Please see the notes on the website regarding year 6 registration and serving. Please fellowship with Billy Steer before registering to serve.</font></p>
+</blockquote>
+
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>3.&nbsp;NATIONAL UNIVERSITY AGED CONFERENCE (NUAC)</span></font></p>
+
+<blockquote>
+<p><font><span><u>Blending Trip</u><br>
+Dates:&nbsp;Thursday 11 July to&nbsp;Friday 12&nbsp;July 2024<br>
+Location: Commencing at Church in Brisbane meeting hall<br>
+Cost: $55<br>
+<br>
+<u>NUAC&nbsp;</u><br>
+Dates:&nbsp;&nbsp;Friday 12&nbsp;July to Monday 15 July 2024<br>
+Location:&nbsp;Sunshine Coast Recreation Centre<br>
+Cost: $295<br>
+<br>
+Registration and Further information: <a href="https://nuac.site" target="_blank">click here&nbsp;</a><br>
+Registration&nbsp;Deadline: 9 June 2024</span></font><br>
+&nbsp;</p>
+</blockquote>
+
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>4. PERTH BLENDING CONFERENCE 2024</span></font></p>
 
 <blockquote>
 <p><font><span>Dates: 26th- 28th April</span></font><br>
@@ -164,7 +193,7 @@ What to bring: Hat, picnic blanket, sports equipment.</p>
 Enquiry:&nbsp;All other registration enquiries for saints from interstate should be directed to Tony Cleary 0459 239 879.</span></font></p>
 </blockquote>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>3.&nbsp;TASMANIA BLENDING CONFERENCE 2024</span></font></p>
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>5.&nbsp;TASMANIA BLENDING CONFERENCE 2024</span></font></p>
 
 <blockquote>
 <p><font><span>Dates: 3rd May- 5th May 2024</span></font><br>
@@ -175,7 +204,7 @@ $130.00 per child from 3 to 13 years old. Free for children under 3 years old.&n
 Registration: <a href="https://docs.google.com/forms/d/e/1FAIpQLScEvetFCZgzi7N4rEnr6M03GdR7yAR1-cKRisJS9t7VZTpbjA/viewform" target="_blank">Click here</a></span></font></p>
 </blockquote>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>4. CAIRNS BLENDING CONFERENCE 2024</span></font></p>
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>6. CAIRNS BLENDING CONFERENCE 2024</span></font></p>
 
 <blockquote>
 <p><font><span>Dates: 26th&nbsp;&amp; 28th&nbsp;of July</span></font><br>
@@ -185,7 +214,7 @@ Schedule: Starts - Friday,7:30PM 26/07/24 Ends - Lord's Day, After lunch, 28/7/2
 <font><span>Registration: <a href="https://docs.google.com/forms/d/1B8mBGwEdEbQ8LR1EYzpuf7Pflel0RTITvpNEefd5CzI/viewform?edit_requested=true" target="_blank">Click here</a></span></font></p>
 </blockquote>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>5. TEACHERS TRAINING &amp; PARENTS AND SERVING ONES CONFERENCE</span></font></p>
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>7. TEACHERS TRAINING &amp; PARENTS AND SERVING ONES CONFERENCE</span></font></p>
 
 <blockquote>
 <p><font><span><strong>Teachers Training</strong><br>
@@ -193,23 +222,12 @@ Date: Friday, 30 August 2024<br>
 <strong>Parents' and Serving Ones' Conference</strong><br>
 Dates: Saturday, 31 August 2024 - Lord's day, 1 September 2024<br>
 <br>
-Location:&nbsp;Physically held at in Sydney and online, via Zoom.&nbsp;<br>
+Location:&nbsp;Physically held&nbsp;in Sydney and online, via Zoom.&nbsp;<br>
 Registration&nbsp;Deadline:&nbsp;Monday, 12 August 2023.<br>
 Registration: <em>(registration will open early June)</em><br>
 Training&nbsp;Cost:&nbsp;$25 for those attending the Teachers' Training physically<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; $50 for those attending the Parents' and Serving Ones' Conference physically.<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; $10 for those attending on Zoom from Australia.</span></font></p>
-</blockquote>
-
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>6.&nbsp;NATIONAL HIGH SCHOOLERS&nbsp;CONFERENCE</span></font></p>
-
-<blockquote>
-<p><font><span>Dates:&nbsp;Friday 5 July to Monday 8 July 2024<br>
-Location: The&nbsp;Tops Conference Centre<br>
-Registration&nbsp;Deadline:&nbsp;27 May 2024<br>
-Registration and Further information: <a href="https://nhsc.site/" target="_blank">click here&nbsp;</a><br>
-Cost: $290</span><br>
-Notes: Please see the notes on the website regarding year 6 registration and serving. Please fellowship with Billy Steer before registering to serve.</font></p>
 </blockquote>
 
                         </td>
@@ -244,8 +262,9 @@ Notes: Please see the notes on the website regarding year 6 registration and ser
                         <td valign="top">
                         
                             <p lang="EN-AU" xml:lang="EN-AU"><a href="http://INTERNATIONAL ANNOUNCEMENTS" target="_blank"><u data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>INTERNATIONAL ANNOUNCEMENTS</span></u></a><br>
-<br>
-<span>1. PARTICIPATION IN THE SUMMER 2024&nbsp;PARIS OLYMPIC DISTRIBUTION&nbsp;</span></p>
+&nbsp;</p>
+
+<p lang="EN-AU" xml:lang="EN-AU"><span>1. PARTICIPATION IN THE SUMMER 2024&nbsp;PARIS OLYMPIC DISTRIBUTION&nbsp;</span></p>
 
 <blockquote>
 <p>The Olympics will be returning to Europe in 2024 and will be hosted in Paris, France. We believe this is a wonderful opportunity prepared by the Lord as the Lord of the harvest. The saints are preparing to distribute free copies of the New Testament Recovery Version during the Torch Relay and the Olympic and&nbsp;Paralympic Games.<br>
@@ -253,6 +272,16 @@ Notes: Please see the notes on the website regarding year 6 registration and ser
 During the torch relay there will be 9 gospel trips visiting 11 French cities. There will be another 5 gospel trips during the Olympic Games.&nbsp;<br>
 <br>
 For more details, please&nbsp;<span><a href="https://amanatrust.org.uk/page/2024paris" target="_blank">click here</a>.</span></p>
+</blockquote>
+
+<p lang="EN-AU" xml:lang="EN-AU"><span>2. YOUNG PEOPLE'S TRAINING 2024 (NEW ZEALAND)</span></p>
+
+<blockquote>
+<p>Dates: Monday 24th June to Friday 28th June 2024<br>
+Location:&nbsp;New Zealand Training Centre<br>
+For more details, please&nbsp;<span><a href="https://nztc.ac.nz/yptraining/" target="_blank">click here</a>.</span><br>
+<br>
+This training is open to all university aged and young working saints. This training will be a foretaste of the Full-time Training, similar to the Jubilee Week.</p>
 </blockquote>
 
                         </td>
@@ -288,9 +317,7 @@ For more details, please&nbsp;<span><a href="https://amanatrust.org.uk/page/2024
                         
                             <p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span><u>AUDIO&nbsp;AND VIDEO RECORDINGS&nbsp;FROM RECENT TRAININGS AND CONFERENCES</u>&nbsp;</span><br>
 <br>
-1. Parents and Serving One's Conference 2023 <a href="http://churchinsydney.org/psoc2023-video" target="_blank">click here</a><br>
-<br>
-<span>2.&nbsp;Encouraging the saints to get into the Life Studies (By Brother Minoru Chen)</span></p>
+<span>1.&nbsp;Encouraging the saints to get into the Life Studies (By Brother Minoru Chen)</span></p>
 
 <blockquote>
 <p>LSM app for reading 500 life-studies is ready to download <a href="https://play.google.com/store/apps/details?id=com.eng500ls.lsm&amp;hl=en_AU&amp;gl=US" target="_blank">click here</a>.</p>
@@ -344,8 +371,8 @@ Lord's Day 10:00am at the meeting hall and on Zoom (details below).</p>
 <p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>B. COORDINATION MEETING&nbsp;</span></p>
 
 <blockquote>
-<p>Next Meeting: 21st&nbsp;April 2024&nbsp;(after prophesying&nbsp;meeting)<br>
-Book: the tree of life - Message 1<br>
+<p>Next Meeting: 19th May 2024&nbsp;(after prophesying&nbsp;meeting)<br>
+Book: The Tree of Life - Message 2<br>
 Future Dates: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/images/b228da64-c30e-0dca-4808-00b288f708ad.png" target="_blank">click here</a><br>
 <br>
 This&nbsp;meeting&nbsp;is open to saints serving (or endeavouring to serve) and is predominantly a time to enjoy the Lord so that we may be built up together in our service. We strongly encourage the saints to read the chapter listed above&nbsp;in your personal time. We will share and fellowship on this chapter during the meeting. There will be Zoom available for those who cannot join physically.</p>
@@ -442,7 +469,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div><em>Previous announcements</em><br /><a href="https://us10.campaign-archive.com/?u=12a6ecea8fbc1ad37a233cac1&amp;id=d47b074689" title="Announcement - 14/04/2024" target="_blank">Announcement - 14/04/2024</a><br /><a href="https://us10.campaign-archive.com/?u=12a6ecea8fbc1ad37a233cac1&amp;id=b82b26149f" title="Announcement - 07/04/2024" target="_blank">Announcement - 07/04/2024</a><br /></div>
+</table><div><em>Previous announcements</em><br /><a href="https://us10.campaign-archive.com/?u=12a6ecea8fbc1ad37a233cac1&amp;id=49b3d7cae9" title="Announcement - 21/04/2024" target="_blank">Announcement - 21/04/2024</a><br /><a href="https://us10.campaign-archive.com/?u=12a6ecea8fbc1ad37a233cac1&amp;id=d47b074689" title="Announcement - 14/04/2024" target="_blank">Announcement - 14/04/2024</a><br /></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
