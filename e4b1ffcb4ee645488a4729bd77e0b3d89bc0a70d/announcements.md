@@ -73,17 +73,16 @@ description: Recent announcements and updates
                         <td valign="top">
                         
                             <p lang="EN-AU" xml:lang="EN-AU"><u data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>WEEKLY HIGHLIGHTS</span></u><span>&nbsp;</span><br>
-<br>
 <span>1.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
 
 <blockquote>
 <p><strong>English speaking - Thursday 7 pm</strong><br>
-Venue: Steer's House (Banks)<br>
-Topic: Inheriting the All-inclusive Christ as the Good Land by Taking Heed to His Words of Advice and Warnings and by Receiving His Renewed Training to Have Our Inner Man Renewed Day by Day.<br>
+Venue: Kaleen House<br>
+Topic:&nbsp;A Land of Wheat and Barley<br>
 <br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
-Venue: Ming &amp; Nadia's House (Palmerston)<br>
-Topic: Inheriting the All-inclusive Christ as the Good Land by Taking Heed to His Words of Advice and Warnings and by Receiving His Renewed Training to Have Our Inner Man Renewed Day by Day.</p>
+Venue: Victor &amp; Bing's House (Watson)<br>
+Topic: A Land of Wheat and Barley</p>
 </blockquote>
 
 <p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font color="#000000"><span>2. NEXT LOVE FEAST AT THE HALL</span></font></p>
@@ -94,23 +93,19 @@ Venue: Meeting Hall&nbsp;(after prophesying meeting)<br>
 All saints are welcome to join the&nbsp;love feast. Let's take this opportunity to cherish one another while enjoying mutual fellowship.&nbsp;The love feast will be followed by the monthly coordination meeting for those who wish to join.</p>
 </blockquote>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font color="#000000"><span>3.&nbsp; CHURCH OUTING</span></font></p>
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>3.&nbsp;HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>There will be a church outing to Cotter Dam on the 4th of May. All saints as well as&nbsp;gospel contacts and new ones are encouraged to join.<br>
-<br>
-Please confirm your attendance (for catering purposes) by filling out the form&nbsp;<a href="https://forms.office.com/pages/responsepage.aspx?id=rM8SkZi2m0aC6RYZGF3RMoLMgM10QYBIgeDkDZBWzrdUNENPRkZRTFkxUjZPS0s1R1ZUUTM0S0ZIVyQlQCN0PWcu" target="_blank">here</a>.<br>
-<br>
-Location: Cotter Dam (<a href="https://www.google.com/maps/search/-35.323034,+148.941850?entry=tts" target="_blank">click here</a> for maps)<br>
-Time/date: 10:00am- 1:00pm 4th of May<br>
-Food: The church will provide BBQ meat and bread. Saints are encouraged to bring salads, fruit, snacks and drinks.<br>
-What to bring: Hat, picnic blanket, sports equipment.</p>
+<p>Week 3 commencing Monday<br>
+HWMR title:&nbsp;Laboring on the All-Inclusive Christ Typified by the Good Land for the Building Up of the Church as the Body of Christ, for the Reality and the Manifestation of the Kingdom, and for the Bride to Make Herself Ready for the Lord’s Coming<br>
+Week 3 title:&nbsp;A Land of Wheat and Barley</p>
 </blockquote>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font color="#000000"><span>4. LIFE STUDY PURSUIT</span></font></p>
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><br>
+<font color="#000000"><span>4. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of Song of Songs&nbsp;Messages 9&nbsp;&amp; 10</p>
+<p>Life Study of First Corinthians Messages 1 &amp; 2</p>
 </blockquote>
 
                         </td>
@@ -160,7 +155,7 @@ What to bring: Hat, picnic blanket, sports equipment.</p>
 <p><font><span>Dates:&nbsp;Friday 5 July to Monday 8 July 2024<br>
 Location: The&nbsp;Tops Conference Centre<br>
 Registration&nbsp;Deadline:&nbsp;27 May 2024<br>
-Registration and Further information: <a href="https://new.express.adobe.com/webpage/zd2DrRfpxlZJV?" target="_blank">click here</a><a href="https://nhsc.site/" target="_blank">&nbsp;</a><br>
+Registration and Further information: <a href="https://nhsc.site/" target="_blank">click here&nbsp;</a><br>
 Cost: $290</span><br>
 Notes: Please see the notes on the website regarding year 6 registration and serving. Please fellowship with Billy Steer before registering to serve.</font></p>
 </blockquote>
@@ -178,22 +173,12 @@ Dates:&nbsp;&nbsp;Friday 12&nbsp;July to Monday 15 July 2024<br>
 Location:&nbsp;Sunshine Coast Recreation Centre<br>
 Cost: $295<br>
 <br>
-Registration and Further information: <a href="https://nuac.site" target="_blank">click here&nbsp;</a><br>
+Registration and Further information: <a href="https://new.express.adobe.com/webpage/6LihS8WUCDYcT" target="_blank">click here&nbsp;</a><br>
 Registration&nbsp;Deadline: 9 June 2024</span></font><br>
 &nbsp;</p>
 </blockquote>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>4. PERTH BLENDING CONFERENCE 2024</span></font></p>
-
-<blockquote>
-<p><font><span>Dates: 26th- 28th April</span></font><br>
-<font><span>Location:&nbsp;Camp Wattle Grove, Perth&nbsp;<a href="https://mail.campwattlegrove.com.au&nbsp;" target="_blank">https://mail.campwattlegrove.com.au&nbsp;</a></span></font><br>
-<span><span>Training Cost:&nbsp;$100 Adult, $50 for children&nbsp;(ages 4-12)</span></span><br>
-<font><span>Registration:&nbsp;<a href="https://forms.gle/qRz2Wcww6TntFkFZ9" target="_blank"><u>Click here</u></a><br>
-Enquiry:&nbsp;All other registration enquiries for saints from interstate should be directed to Tony Cleary 0459 239 879.</span></font></p>
-</blockquote>
-
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>5.&nbsp;TASMANIA BLENDING CONFERENCE 2024</span></font></p>
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>6.&nbsp;TASMANIA BLENDING CONFERENCE 2024</span></font></p>
 
 <blockquote>
 <p><font><span>Dates: 3rd May- 5th May 2024</span></font><br>
@@ -204,7 +189,7 @@ $130.00 per child from 3 to 13 years old. Free for children under 3 years old.&n
 Registration: <a href="https://docs.google.com/forms/d/e/1FAIpQLScEvetFCZgzi7N4rEnr6M03GdR7yAR1-cKRisJS9t7VZTpbjA/viewform" target="_blank">Click here</a></span></font></p>
 </blockquote>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>6. CAIRNS BLENDING CONFERENCE 2024</span></font></p>
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>7. CAIRNS BLENDING CONFERENCE 2024</span></font></p>
 
 <blockquote>
 <p><font><span>Dates: 26th&nbsp;&amp; 28th&nbsp;of July</span></font><br>
@@ -214,7 +199,7 @@ Schedule: Starts - Friday,7:30PM 26/07/24 Ends - Lord's Day, After lunch, 28/7/2
 <font><span>Registration: <a href="https://docs.google.com/forms/d/1B8mBGwEdEbQ8LR1EYzpuf7Pflel0RTITvpNEefd5CzI/viewform?edit_requested=true" target="_blank">Click here</a></span></font></p>
 </blockquote>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>7. TEACHERS TRAINING &amp; PARENTS AND SERVING ONES CONFERENCE</span></font></p>
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>8. TEACHERS TRAINING &amp; PARENTS AND SERVING ONES CONFERENCE</span></font></p>
 
 <blockquote>
 <p><font><span><strong>Teachers Training</strong><br>
@@ -264,14 +249,14 @@ Training&nbsp;Cost:&nbsp;$25 for those attending the Teachers' Training physical
                             <p lang="EN-AU" xml:lang="EN-AU"><a href="http://INTERNATIONAL ANNOUNCEMENTS" target="_blank"><u data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>INTERNATIONAL ANNOUNCEMENTS</span></u></a><br>
 &nbsp;</p>
 
-<p lang="EN-AU" xml:lang="EN-AU"><span>1. PARTICIPATION IN THE SUMMER 2024&nbsp;PARIS OLYMPIC DISTRIBUTION&nbsp;</span></p>
+<p lang="EN-AU" xml:lang="EN-AU"><span>1. BIBLE DISTRIBUTION&nbsp;AT THE SUMMER 2024&nbsp;PARIS OLYMPICS</span></p>
 
 <blockquote>
 <p>The Olympics will be returning to Europe in 2024 and will be hosted in Paris, France. We believe this is a wonderful opportunity prepared by the Lord as the Lord of the harvest. The saints are preparing to distribute free copies of the New Testament Recovery Version during the Torch Relay and the Olympic and&nbsp;Paralympic Games.<br>
 <br>
 During the torch relay there will be 9 gospel trips visiting 11 French cities. There will be another 5 gospel trips during the Olympic Games.&nbsp;<br>
 <br>
-For more details, please&nbsp;<span><a href="https://amanatrust.org.uk/page/2024paris" target="_blank">click here</a>.</span></p>
+For more details, please&nbsp;<span><a href="https://newsletters.lsm.org/having-this-ministry/issues/Apr2024-030/paris-olympics-gospel-trips.html" target="_blank">click here</a>.</span></p>
 </blockquote>
 
 <p lang="EN-AU" xml:lang="EN-AU"><span>2. YOUNG PEOPLE'S TRAINING 2024 (NEW ZEALAND)</span></p>
@@ -469,7 +454,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div><em>Previous announcements</em><br /><a href="https://us10.campaign-archive.com/?u=12a6ecea8fbc1ad37a233cac1&amp;id=49b3d7cae9" title="Announcement - 21/04/2024" target="_blank">Announcement - 21/04/2024</a><br /><a href="https://us10.campaign-archive.com/?u=12a6ecea8fbc1ad37a233cac1&amp;id=d47b074689" title="Announcement - 14/04/2024" target="_blank">Announcement - 14/04/2024</a><br /></div>
+</table><div><em>Previous announcements</em><br /><a href="https://us10.campaign-archive.com/?u=12a6ecea8fbc1ad37a233cac1&amp;id=a70f9010c6" title="Announcement - 28/04/2024" target="_blank">Announcement - 28/04/2024</a><br /><a href="https://us10.campaign-archive.com/?u=12a6ecea8fbc1ad37a233cac1&amp;id=49b3d7cae9" title="Announcement - 21/04/2024" target="_blank">Announcement - 21/04/2024</a><br /></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
