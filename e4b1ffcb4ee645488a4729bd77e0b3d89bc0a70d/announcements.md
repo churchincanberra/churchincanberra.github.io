@@ -38,7 +38,7 @@ description: Recent announcements and updates
                             <div>
 <hr>
 <p lang="EN-US" xml:lang="EN-US"><strong data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>28th April&nbsp;2024</span></strong></p>
+<strong data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>5th May&nbsp;2024</span></strong></p>
 </div>
 
                         </td>
