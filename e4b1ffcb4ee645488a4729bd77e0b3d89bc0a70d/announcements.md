@@ -468,6 +468,6 @@ Passcode:&nbsp;Eph4:16</p>
 <div class="container pt-6 pb-6 pb-md-10">
   <div class="row">
     Subscribe to the church announcements via:
-    <a href="https://churchincanberra.us10.list-manage.com/subscribe?u=12a6ecea8fbc1ad37a233cac1&id=d479a108b4" target="_blank" class="w-auto px-1">EMAIL</a>&VerticalLine;<a href="https://us10.campaign-archive.com/feed?u=12a6ecea8fbc1ad37a233cac1&id=d479a108b4" target="_blank" class="w-auto px-1">RSS</a>
+    <a href="https://churchincanberra.us10.list-manage.com/subscribe?u=12a6ecea8fbc1ad37a233cac1&id=d479a108b4" target="_blank" class="w-auto px-1"><small>EMAIL</small></a>&VerticalLine;<a href="https://us10.campaign-archive.com/feed?u=12a6ecea8fbc1ad37a233cac1&id=d479a108b4" target="_blank" class="w-auto px-1"><small>RSS</small></a>
   </div>
 </div>
