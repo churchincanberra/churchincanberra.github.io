@@ -14,6 +14,14 @@ bodyClass: "page-home"
   </div>
 </div>
 
+{% if page.accessibility %}
+	<div class="container">
+		<div class="row justify-content-center">
+			{% include accessibility-bar.html %}
+		</div>
+	</div>
+{% endif %}
+
 {% if site.data.ceremonies %}
 {% if site.data.ceremonies.meeting %}
 {% assign meetings = site.data.ceremonies.meeting | sort: 'weight' %}

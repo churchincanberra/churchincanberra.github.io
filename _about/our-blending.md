@@ -1,8 +1,9 @@
 ---
-title: "Our Blending"
-excerpt: "&hellip; God has blended the body together &hellip;"
+title: 'Our Blending'
+excerpt: '&hellip; God has blended the body together &hellip;'
 date: 2018-12-28T15:14:39+10:00
 weight: 4
+accessibility: true
 ---
 
 "&hellip; God has blended the body together &hellip;" &ndash;1&nbsp;Corinthians&nbsp;12:24.

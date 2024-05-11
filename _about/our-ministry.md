@@ -1,8 +1,9 @@
 ---
-title: "Our Ministry"
-excerpt: "God wants to have a throne on earth and a habitation on the earth."
+title: 'Our Ministry'
+excerpt: 'God wants to have a throne on earth and a habitation on the earth.'
 date: 2019-01-28T15:15:26+10:00
 weight: 2
+accessibility: true
 ---
 
 We nurture your believers with the "hope that the young brothers and sisters will see these two things - God wants to have a throne on earth and a habitation on the earth. The throne speaks of His ruling, and the habitation speaks of the expression of His glory".

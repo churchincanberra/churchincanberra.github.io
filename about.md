@@ -2,6 +2,7 @@
 title: About Us
 layout: services
 description: Who are we?
+accessibility: true
 ---
 
 # Our Faith

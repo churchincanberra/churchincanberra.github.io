@@ -1,8 +1,9 @@
 ---
-title: "Our Living"
-excerpt: "And every day, in the temple and from house to house, they did not cease teaching and announcing the gospel of Jesus as the Christ."
+title: 'Our Living'
+excerpt: 'And every day, in the temple and from house to house, they did not cease teaching and announcing the gospel of Jesus as the Christ.'
 date: 2019-02-28T15:15:34+10:00
 weight: 3
+accessibility: true
 ---
 
 "And every day, in the temple and from house to house, they did not cease teaching and announcing the gospel of Jesus as the Christ." &ndash;Acts&nbsp;5:42
