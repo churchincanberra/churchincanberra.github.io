@@ -45,18 +45,17 @@ accessibility: true
                         </td>
                     </tr>
                 </tbody></table>
-    			<!--[if mso]>
-    			</td>
-    			<![endif]-->
-
-    			<!--[if mso]>
-    			</tr>
-    			</table>
-    			<![endif]-->
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
             </td>
         </tr>
     </tbody>
-
 </table><table>
     <tbody>
         <tr>
@@ -113,18 +112,17 @@ Week 3 title:&nbsp;A Land of Wheat and Barley</p>
                         </td>
                     </tr>
                 </tbody></table>
-    			<!--[if mso]>
-    			</td>
-    			<![endif]-->
-
-    			<!--[if mso]>
-    			</tr>
-    			</table>
-    			<![endif]-->
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
             </td>
         </tr>
     </tbody>
-
 </table><table>
     <tbody>
         <tr>
@@ -221,18 +219,17 @@ Training&nbsp;Cost:&nbsp;$25 for those attending the Teachers' Training physical
                         </td>
                     </tr>
                 </tbody></table>
-    			<!--[if mso]>
-    			</td>
-    			<![endif]-->
-
-    			<!--[if mso]>
-    			</tr>
-    			</table>
-    			<![endif]-->
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
             </td>
         </tr>
     </tbody>
-
 </table><table>
     <tbody>
         <tr>
@@ -276,18 +273,17 @@ This training is open to all university aged and young working saints. This trai
                         </td>
                     </tr>
                 </tbody></table>
-    			<!--[if mso]>
-    			</td>
-    			<![endif]-->
-
-    			<!--[if mso]>
-    			</tr>
-    			</table>
-    			<![endif]-->
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
             </td>
         </tr>
     </tbody>
-
 </table><table>
     <tbody>
         <tr>
@@ -316,18 +312,17 @@ This training is open to all university aged and young working saints. This trai
                         </td>
                     </tr>
                 </tbody></table>
-    			<!--[if mso]>
-    			</td>
-    			<![endif]-->
-
-    			<!--[if mso]>
-    			</tr>
-    			</table>
-    			<![endif]-->
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
             </td>
         </tr>
     </tbody>
-
 </table><table>
     <tbody>
         <tr>
@@ -404,18 +399,17 @@ Passcode:&nbsp;Eph4:16</p>
                         </td>
                     </tr>
                 </tbody></table>
-    			<!--[if mso]>
-    			</td>
-    			<![endif]-->
-
-    			<!--[if mso]>
-    			</tr>
-    			</table>
-    			<![endif]-->
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
             </td>
         </tr>
     </tbody>
-
 </table><table>
     <tbody>
         <tr>
@@ -450,18 +444,17 @@ Passcode:&nbsp;Eph4:16</p>
                         </td>
                     </tr>
                 </tbody></table>
-    			<!--[if mso]>
-    			</td>
-    			<![endif]-->
-
-    			<!--[if mso]>
-    			</tr>
-    			</table>
-    			<![endif]-->
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
             </td>
         </tr>
     </tbody>
-
 </table><div><em>Previous announcements</em><br /><a href="https://us10.campaign-archive.com/?u=12a6ecea8fbc1ad37a233cac1&amp;id=a70f9010c6" title="Announcement - 28/04/2024" target="_blank">Announcement - 28/04/2024</a><br /><a href="https://us10.campaign-archive.com/?u=12a6ecea8fbc1ad37a233cac1&amp;id=49b3d7cae9" title="Announcement - 21/04/2024" target="_blank">Announcement - 21/04/2024</a><br /></div>
 <!-- ANNOUNCEMENT:END -->
 
