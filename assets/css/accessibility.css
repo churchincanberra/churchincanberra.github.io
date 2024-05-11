@@ -1,0 +1,45 @@
+.accessibility-btn {
+	cursor: pointer;
+}
+
+.reset {
+	font-size: 75%;
+}
+
+.goog-te-combo {
+	font-size: larger;
+}
+
+.goog-te-gadget {
+	display: flex;
+	line-height: 3em;
+	font-size: 55%;
+	padding-top: 0.5em;
+
+	>div,
+	span {
+		padding-left: 0.5em;
+		padding-right: 0.5em;
+	}
+}
+
+.page-service .content>p:first-of-type {
+	font-size: larger;
+}
+
+.intro-home p,
+.intro p {
+	font-size: larger;
+}
+
+.main-menu>ul>li,
+.main-menu form ul>li,
+.contact ul li {
+	font-size: unset;
+}
+
+.footer .address,
+.sub-footer .copyright,
+.button {
+	font-size: smaller;
+}

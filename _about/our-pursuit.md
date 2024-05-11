@@ -1,8 +1,9 @@
 ---
-title: "Our Pursuit"
-excerpt: "Let the word of Christ dwell in you richly"
+title: 'Our Pursuit'
+excerpt: 'Let the word of Christ dwell in you richly'
 date: 2018-11-18T12:33:46+10:00
 weight: 1
+accessibility: true
 ---
 
 "Let the word of Christ dwell in you richly in all wisdom, teaching and admonishing one another with psalms and hymns and spiritual songs, singing with grace in your hearts to God" &ndash;Colossians&nbsp;3:16

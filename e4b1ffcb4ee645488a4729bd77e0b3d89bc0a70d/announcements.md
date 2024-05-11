@@ -2,6 +2,7 @@
 title: Church Announcements
 layout: page
 description: Recent announcements and updates
+accessibility: true
 ---
 
 <style>
@@ -44,17 +45,18 @@ description: Recent announcements and updates
                         </td>
                     </tr>
                 </tbody></table>
-				<!--[if mso]>
-				</td>
-				<![endif]-->
-                
-				<!--[if mso]>
-				</tr>
-				</table>
-				<![endif]-->
+    			<!--[if mso]>
+    			</td>
+    			<![endif]-->
+
+    			<!--[if mso]>
+    			</tr>
+    			</table>
+    			<![endif]-->
             </td>
         </tr>
     </tbody>
+
 </table><table>
     <tbody>
         <tr>
@@ -111,17 +113,18 @@ Week 3 title:&nbsp;A Land of Wheat and Barley</p>
                         </td>
                     </tr>
                 </tbody></table>
-				<!--[if mso]>
-				</td>
-				<![endif]-->
-                
-				<!--[if mso]>
-				</tr>
-				</table>
-				<![endif]-->
+    			<!--[if mso]>
+    			</td>
+    			<![endif]-->
+
+    			<!--[if mso]>
+    			</tr>
+    			</table>
+    			<![endif]-->
             </td>
         </tr>
     </tbody>
+
 </table><table>
     <tbody>
         <tr>
@@ -218,17 +221,18 @@ Training&nbsp;Cost:&nbsp;$25 for those attending the Teachers' Training physical
                         </td>
                     </tr>
                 </tbody></table>
-				<!--[if mso]>
-				</td>
-				<![endif]-->
-                
-				<!--[if mso]>
-				</tr>
-				</table>
-				<![endif]-->
+    			<!--[if mso]>
+    			</td>
+    			<![endif]-->
+
+    			<!--[if mso]>
+    			</tr>
+    			</table>
+    			<![endif]-->
             </td>
         </tr>
     </tbody>
+
 </table><table>
     <tbody>
         <tr>
@@ -272,17 +276,18 @@ This training is open to all university aged and young working saints. This trai
                         </td>
                     </tr>
                 </tbody></table>
-				<!--[if mso]>
-				</td>
-				<![endif]-->
-                
-				<!--[if mso]>
-				</tr>
-				</table>
-				<![endif]-->
+    			<!--[if mso]>
+    			</td>
+    			<![endif]-->
+
+    			<!--[if mso]>
+    			</tr>
+    			</table>
+    			<![endif]-->
             </td>
         </tr>
     </tbody>
+
 </table><table>
     <tbody>
         <tr>
@@ -311,17 +316,18 @@ This training is open to all university aged and young working saints. This trai
                         </td>
                     </tr>
                 </tbody></table>
-				<!--[if mso]>
-				</td>
-				<![endif]-->
-                
-				<!--[if mso]>
-				</tr>
-				</table>
-				<![endif]-->
+    			<!--[if mso]>
+    			</td>
+    			<![endif]-->
+
+    			<!--[if mso]>
+    			</tr>
+    			</table>
+    			<![endif]-->
             </td>
         </tr>
     </tbody>
+
 </table><table>
     <tbody>
         <tr>
@@ -398,17 +404,18 @@ Passcode:&nbsp;Eph4:16</p>
                         </td>
                     </tr>
                 </tbody></table>
-				<!--[if mso]>
-				</td>
-				<![endif]-->
-                
-				<!--[if mso]>
-				</tr>
-				</table>
-				<![endif]-->
+    			<!--[if mso]>
+    			</td>
+    			<![endif]-->
+
+    			<!--[if mso]>
+    			</tr>
+    			</table>
+    			<![endif]-->
             </td>
         </tr>
     </tbody>
+
 </table><table>
     <tbody>
         <tr>
@@ -443,23 +450,24 @@ Passcode:&nbsp;Eph4:16</p>
                         </td>
                     </tr>
                 </tbody></table>
-				<!--[if mso]>
-				</td>
-				<![endif]-->
-                
-				<!--[if mso]>
-				</tr>
-				</table>
-				<![endif]-->
+    			<!--[if mso]>
+    			</td>
+    			<![endif]-->
+
+    			<!--[if mso]>
+    			</tr>
+    			</table>
+    			<![endif]-->
             </td>
         </tr>
     </tbody>
+
 </table><div><em>Previous announcements</em><br /><a href="https://us10.campaign-archive.com/?u=12a6ecea8fbc1ad37a233cac1&amp;id=a70f9010c6" title="Announcement - 28/04/2024" target="_blank">Announcement - 28/04/2024</a><br /><a href="https://us10.campaign-archive.com/?u=12a6ecea8fbc1ad37a233cac1&amp;id=49b3d7cae9" title="Announcement - 21/04/2024" target="_blank">Announcement - 21/04/2024</a><br /></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
   <div class="row">
     Subscribe to the church announcements via:
-    <a href="https://churchincanberra.us10.list-manage.com/subscribe?u=12a6ecea8fbc1ad37a233cac1&id=d479a108b4" target="_blank" class="w-auto px-1">EMAIL</a>&VerticalLine;<a href="https://us10.campaign-archive.com/feed?u=12a6ecea8fbc1ad37a233cac1&id=d479a108b4" target="_blank" class="w-auto px-1">RSS</a>
+    <a href="https://churchincanberra.us10.list-manage.com/subscribe?u=12a6ecea8fbc1ad37a233cac1&id=d479a108b4" target="_blank" class="w-auto px-1"><small>EMAIL</small></a>&VerticalLine;<a href="https://us10.campaign-archive.com/feed?u=12a6ecea8fbc1ad37a233cac1&id=d479a108b4" target="_blank" class="w-auto px-1"><small>RSS</small></a>
   </div>
 </div>

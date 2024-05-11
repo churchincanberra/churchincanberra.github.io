@@ -13,6 +13,12 @@ bodyClass: "page-services"
   </div>
 </div>
 
+{% if page.accessibility %}
+<div class="container">
+	{% include accessibility-bar.html %}
+</div>
+{% endif %}
+
 <div class="container container-fluid pt-6 pb-6">
   <div class="row">
     {% for service in site.about %}
