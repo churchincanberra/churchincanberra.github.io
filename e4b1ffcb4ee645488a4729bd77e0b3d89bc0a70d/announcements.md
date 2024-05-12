@@ -39,7 +39,7 @@ accessibility: true
                             <div>
 <hr>
 <p lang="EN-US" xml:lang="EN-US"><strong data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>28th April&nbsp;2024</span></strong></p>
+<strong data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>12th May&nbsp;2024</span></strong></p>
 </div>
 
                         </td>
@@ -78,12 +78,12 @@ accessibility: true
 
 <blockquote>
 <p><strong>English speaking - Thursday 7 pm</strong><br>
-Venue: Kaleen House<br>
-Topic:&nbsp;A Land of Wheat and Barley<br>
+Venue: Gungahlin&nbsp;House<br>
+Topic:&nbsp;The All-inclusive Christ as the Good Land - a Land of Waterbrooks, of Springs and of Fountains, Flowing Forth in Valleys and in Mountains<br>
 <br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
-Venue: Victor &amp; Bing's House (Watson)<br>
-Topic: A Land of Wheat and Barley</p>
+Venue: Ming &amp; Nadia's House (Palmerston)<br>
+Topic: The All-inclusive Christ as the Good Land - a Land of Waterbrooks, of Springs and of Fountains, Flowing Forth in Valleys and in Mountains</p>
 </blockquote>
 
 <p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font color="#000000"><span>2. NEXT LOVE FEAST AT THE HALL</span></font></p>
@@ -97,16 +97,16 @@ All saints are welcome to join the&nbsp;love feast. Let's take this opportunity 
 <p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>3.&nbsp;HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 3 commencing Monday<br>
+<p>Week 4&nbsp;commencing Monday<br>
 HWMR title:&nbsp;Laboring on the All-Inclusive Christ Typified by the Good Land for the Building Up of the Church as the Body of Christ, for the Reality and the Manifestation of the Kingdom, and for the Bride to Make Herself Ready for the Lord’s Coming<br>
-Week 3 title:&nbsp;A Land of Wheat and Barley</p>
+Week 4&nbsp;title:&nbsp;The All-inclusive Christ as the Good Land - a Land of Waterbrooks, of Springs and of Fountains, Flowing Forth in Valleys and in Mountains</p>
 </blockquote>
 
 <p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><br>
 <font color="#000000"><span>4. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of First Corinthians Messages 1 &amp; 2</p>
+<p>Life Study of First Corinthians Messages 3&nbsp;&amp; 4</p>
 </blockquote>
 
                         </td>
@@ -145,7 +145,7 @@ Week 3 title:&nbsp;A Land of Wheat and Barley</p>
 <p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>1. MONTHLY PERFECTING TRAINING&nbsp;2024</span></font></p>
 
 <blockquote>
-<p><font><span>Dates: 11 May, 20&nbsp;July,&nbsp;7&nbsp;September, and 16 November (There will be no training in the other months because of other conferences or the Bi-annual Perfecting Training)</span></font><br>
+<p><font><span>Dates: 20&nbsp;July,&nbsp;7&nbsp;September, and 16 November (There will be no training in the other months because of other conferences or the Bi-annual Perfecting Training)</span></font><br>
 <font><span>Venue: Meeting Hall Cluster</span></font><br>
 <font><span>Registration:&nbsp;</span></font><a href="https://docs.google.com/forms/d/e/1FAIpQLScs-1Xgc4YFXc22Q465C7BZjGGHPckq6kbx_0jxodPfS5dAww/viewform" target="_blank"><span><span>Click Here</span></span></a></p>
 </blockquote>
@@ -179,18 +179,7 @@ Registration&nbsp;Deadline: 9 June 2024</span></font><br>
 &nbsp;</p>
 </blockquote>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>6.&nbsp;TASMANIA BLENDING CONFERENCE 2024</span></font></p>
-
-<blockquote>
-<p><font><span>Dates: 3rd May- 5th May 2024</span></font><br>
-<font><span>Location:&nbsp;Poatina Chalet, Gordon St, Poatina 7302, Tasmania&nbsp;</span></font><br>
-<span><span>Training Cost:&nbsp;$250.00 per adult 14 years old and above<br>
-$130.00 per child from 3 to 13 years old. Free for children under 3 years old.&nbsp;The price will be capped for families at 2 adults, 2 children ($760)</span></span><br>
-<font><span>Registration Deadline: 7th April 2024<br>
-Registration: <a href="https://docs.google.com/forms/d/e/1FAIpQLScEvetFCZgzi7N4rEnr6M03GdR7yAR1-cKRisJS9t7VZTpbjA/viewform" target="_blank">Click here</a></span></font></p>
-</blockquote>
-
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>7. CAIRNS BLENDING CONFERENCE 2024</span></font></p>
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>4. CAIRNS BLENDING CONFERENCE 2024</span></font></p>
 
 <blockquote>
 <p><font><span>Dates: 26th&nbsp;&amp; 28th&nbsp;of July</span></font><br>
@@ -200,7 +189,7 @@ Schedule: Starts - Friday,7:30PM 26/07/24 Ends - Lord's Day, After lunch, 28/7/2
 <font><span>Registration: <a href="https://docs.google.com/forms/d/1B8mBGwEdEbQ8LR1EYzpuf7Pflel0RTITvpNEefd5CzI/viewform?edit_requested=true" target="_blank">Click here</a></span></font></p>
 </blockquote>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>8. TEACHERS TRAINING &amp; PARENTS AND SERVING ONES CONFERENCE</span></font></p>
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>5. TEACHERS TRAINING &amp; PARENTS AND SERVING ONES CONFERENCE</span></font></p>
 
 <blockquote>
 <p><font><span><strong>Teachers Training</strong><br>
@@ -214,6 +203,16 @@ Registration: <em>(registration will open early June)</em><br>
 Training&nbsp;Cost:&nbsp;$25 for those attending the Teachers' Training physically<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; $50 for those attending the Parents' and Serving Ones' Conference physically.<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; $10 for those attending on Zoom from Australia.</span></font></p>
+</blockquote>
+
+<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>6. ADELAIDE BLENDING CONFERENCE</span></font></p>
+
+<blockquote>
+<p><font><span>Date: 27th - 29th&nbsp;September&nbsp;2024<br>
+Locations:<br>
+Conference - Victor Harbour Recreation Centre, 5 George Main Rd, Victor Harbor, SA 5211<br>
+Accommodation - Bluff Resort Apartment, 123 Franklin Parade, Encounter Bay, SA 5211<br>
+Preliminary Information: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/7a926d05-3f33-596e-af8d-0ff3c444b7d1/20240511_204748.pdf" target="_blank">Click here</a></span></font></p>
 </blockquote>
 
                         </td>
@@ -455,7 +454,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div><em>Previous announcements</em><br /><a href="https://us10.campaign-archive.com/?u=12a6ecea8fbc1ad37a233cac1&amp;id=a70f9010c6" title="Announcement - 28/04/2024" target="_blank">Announcement - 28/04/2024</a><br /><a href="https://us10.campaign-archive.com/?u=12a6ecea8fbc1ad37a233cac1&amp;id=49b3d7cae9" title="Announcement - 21/04/2024" target="_blank">Announcement - 21/04/2024</a><br /></div>
+</table><div><em>Previous announcements</em><br /><a href="https://us10.campaign-archive.com/?u=12a6ecea8fbc1ad37a233cac1&amp;id=2a5c887a54" title="Announcement - 05/05/2024" target="_blank">Announcement - 05/05/2024</a><br /><a href="https://us10.campaign-archive.com/?u=12a6ecea8fbc1ad37a233cac1&amp;id=a70f9010c6" title="Announcement - 28/04/2024" target="_blank">Announcement - 28/04/2024</a><br /></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
