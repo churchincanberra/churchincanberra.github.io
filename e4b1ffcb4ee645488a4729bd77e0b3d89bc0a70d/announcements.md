@@ -384,7 +384,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="container pt-6 pb-6 pb-md-10"><div class="row"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13760892" target="_blank">Announcement – 05/05/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13760332" target="_blank">Announcement – 28/04/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13757628" target="_blank">Announcement – 21/04/2024</a><br /></div></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13760892" target="_blank">Announcement – 05/05/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13760332" target="_blank">Announcement – 28/04/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13757628" target="_blank">Announcement – 21/04/2024</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
