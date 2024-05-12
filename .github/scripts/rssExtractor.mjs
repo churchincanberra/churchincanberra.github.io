@@ -112,16 +112,16 @@ export const extractPreviousLinks = (xmlData, listSize, callback) => {
 	const items = document.querySelectorAll('item');
 
 	if (items.length > 1) {
-		let result = `<div class="container pt-6 pb-6 pb-md-10"><div class="row"><em>Previous announcements</em><br />`;
+		let result = `<div class="pt-6 pb-6"><em>Previous announcements</em>`;
 		for (let i = 1; i <= listSize && i < items.length; i++) {
 				const item = items[i];
 				const title = item.querySelector('title').textContent;
 				const url = item.querySelector('link').textContent;
 
-				const link = `<a href="${url}" target="_blank">${title}</a><br />`;
+				const link = `<br /><a href="${url}" target="_blank">${title}</a>`;
 				result += `${link}`;
 		}
-		result += `</div></div>`;
+		result += `</div>`;
 		return result;
 	} 
 	else {
