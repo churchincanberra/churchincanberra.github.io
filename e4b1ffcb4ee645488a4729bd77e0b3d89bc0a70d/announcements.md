@@ -22,58 +22,43 @@ accessibility: true
 <table>
     <tbody>
         <tr>
-            <td valign="top">
-              	<!--[if mso]>
-				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
-				<tr>
-				<![endif]-->
+            <td>
+              	
 			    
-				<!--[if mso]>
-				<td valign="top" width="600" style="width:600px;">
-				<![endif]-->
-                <table align="left">
+				
+                <table>
                     <tbody><tr>
                         
-                        <td valign="top">
+                        <td>
                         
                             <div>
 <hr>
-<p lang="EN-US" xml:lang="EN-US"><strong data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>12th May&nbsp;2024</span></strong></p>
+<p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
+<strong><span>12th May&nbsp;2024</span></strong></p>
 </div>
 
                         </td>
                     </tr>
                 </tbody></table>
-				<!--[if mso]>
-				</td>
-				<![endif]-->
+				
                 
-				<!--[if mso]>
-				</tr>
-				</table>
-				<![endif]-->
+				
             </td>
         </tr>
     </tbody>
 </table><table>
     <tbody>
         <tr>
-            <td valign="top">
-              	<!--[if mso]>
-				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
-				<tr>
-				<![endif]-->
+            <td>
+              	
 			    
-				<!--[if mso]>
-				<td valign="top" width="600" style="width:600px;">
-				<![endif]-->
-                <table align="left">
+				
+                <table>
                     <tbody><tr>
                         
-                        <td valign="top">
+                        <td>
                         
-                            <p lang="EN-AU" xml:lang="EN-AU"><u data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>WEEKLY HIGHLIGHTS</span></u><span>&nbsp;</span><br>
+                            <p><u><span>WEEKLY HIGHLIGHTS</span></u><span>&nbsp;</span><br>
 <span>1.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
 
 <blockquote>
@@ -86,7 +71,7 @@ Venue: Ming &amp; Nadia's House (Palmerston)<br>
 Topic: The All-inclusive Christ as the Good Land - a Land of Waterbrooks, of Springs and of Fountains, Flowing Forth in Valleys and in Mountains</p>
 </blockquote>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font color="#000000"><span>2. NEXT LOVE FEAST AT THE HALL</span></font></p>
+<p><font><span>2. NEXT LOVE FEAST AT THE HALL</span></font></p>
 
 <blockquote>
 <p>Date: 19th May<br>
@@ -94,7 +79,7 @@ Venue: Meeting Hall&nbsp;(after prophesying meeting)<br>
 All saints are welcome to join the&nbsp;love feast. Let's take this opportunity to cherish one another while enjoying mutual fellowship.&nbsp;The love feast will be followed by the monthly coordination meeting for those who wish to join.</p>
 </blockquote>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>3.&nbsp;HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
+<p><span>3.&nbsp;HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
 <p>Week 4&nbsp;commencing Monday<br>
@@ -102,8 +87,8 @@ HWMR title:&nbsp;Laboring on the All-Inclusive Christ Typified by the Good Land 
 Week 4&nbsp;title:&nbsp;The All-inclusive Christ as the Good Land - a Land of Waterbrooks, of Springs and of Fountains, Flowing Forth in Valleys and in Mountains</p>
 </blockquote>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><br>
-<font color="#000000"><span>4. LIFE STUDY PURSUIT</span></font></p>
+<p><br>
+<font><span>4. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
 <p>Life Study of First Corinthians Messages 3&nbsp;&amp; 4</p>
@@ -112,37 +97,27 @@ Week 4&nbsp;title:&nbsp;The All-inclusive Christ as the Good Land - a Land of Wa
                         </td>
                     </tr>
                 </tbody></table>
-				<!--[if mso]>
-				</td>
-				<![endif]-->
+				
                 
-				<!--[if mso]>
-				</tr>
-				</table>
-				<![endif]-->
+				
             </td>
         </tr>
     </tbody>
 </table><table>
     <tbody>
         <tr>
-            <td valign="top">
-              	<!--[if mso]>
-				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
-				<tr>
-				<![endif]-->
+            <td>
+              	
 			    
-				<!--[if mso]>
-				<td valign="top" width="600" style="width:600px;">
-				<![endif]-->
-                <table align="left">
+				
+                <table>
                     <tbody><tr>
                         
-                        <td valign="top">
+                        <td>
                         
-                            <p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span><u>TRAINING &amp; CONFERENCES</u>&nbsp;</span></p>
+                            <p><span><u>TRAINING &amp; CONFERENCES</u>&nbsp;</span></p>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>1. MONTHLY PERFECTING TRAINING&nbsp;2024</span></font></p>
+<p><font><span>1. MONTHLY PERFECTING TRAINING&nbsp;2024</span></font></p>
 
 <blockquote>
 <p><font><span>Dates: 20&nbsp;July,&nbsp;7&nbsp;September, and 16 November (There will be no training in the other months because of other conferences or the Bi-annual Perfecting Training)</span></font><br>
@@ -150,7 +125,7 @@ Week 4&nbsp;title:&nbsp;The All-inclusive Christ as the Good Land - a Land of Wa
 <font><span>Registration:&nbsp;</span></font><a href="https://docs.google.com/forms/d/e/1FAIpQLScs-1Xgc4YFXc22Q465C7BZjGGHPckq6kbx_0jxodPfS5dAww/viewform" target="_blank"><span><span>Click Here</span></span></a></p>
 </blockquote>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>2.&nbsp;NATIONAL HIGH SCHOOLERS&nbsp;CONFERENCE</span></font></p>
+<p><font><span>2.&nbsp;NATIONAL HIGH SCHOOLERS&nbsp;CONFERENCE</span></font></p>
 
 <blockquote>
 <p><font><span>Dates:&nbsp;Friday 5 July to Monday 8 July 2024<br>
@@ -161,7 +136,7 @@ Cost: $290</span><br>
 Notes: Please see the notes on the website regarding year 6 registration and serving. Please fellowship with Billy Steer before registering to serve.</font></p>
 </blockquote>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>3.&nbsp;NATIONAL UNIVERSITY AGED CONFERENCE (NUAC)</span></font></p>
+<p><font><span>3.&nbsp;NATIONAL UNIVERSITY AGED CONFERENCE (NUAC)</span></font></p>
 
 <blockquote>
 <p><font><span><u>Blending Trip</u><br>
@@ -179,7 +154,7 @@ Registration&nbsp;Deadline: 9 June 2024</span></font><br>
 &nbsp;</p>
 </blockquote>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>4. CAIRNS BLENDING CONFERENCE 2024</span></font></p>
+<p><font><span>4. CAIRNS BLENDING CONFERENCE 2024</span></font></p>
 
 <blockquote>
 <p><font><span>Dates: 26th&nbsp;&amp; 28th&nbsp;of July</span></font><br>
@@ -189,7 +164,7 @@ Schedule: Starts - Friday,7:30PM 26/07/24 Ends - Lord's Day, After lunch, 28/7/2
 <font><span>Registration: <a href="https://docs.google.com/forms/d/1B8mBGwEdEbQ8LR1EYzpuf7Pflel0RTITvpNEefd5CzI/viewform?edit_requested=true" target="_blank">Click here</a></span></font></p>
 </blockquote>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>5. TEACHERS TRAINING &amp; PARENTS AND SERVING ONES CONFERENCE</span></font></p>
+<p><font><span>5. TEACHERS TRAINING &amp; PARENTS AND SERVING ONES CONFERENCE</span></font></p>
 
 <blockquote>
 <p><font><span><strong>Teachers Training</strong><br>
@@ -205,7 +180,7 @@ Training&nbsp;Cost:&nbsp;$25 for those attending the Teachers' Training physical
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; $10 for those attending on Zoom from Australia.</span></font></p>
 </blockquote>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><font><span>6. ADELAIDE BLENDING CONFERENCE</span></font></p>
+<p><font><span>6. ADELAIDE BLENDING CONFERENCE</span></font></p>
 
 <blockquote>
 <p><font><span>Date: 27th - 29th&nbsp;September&nbsp;2024<br>
@@ -218,38 +193,28 @@ Preliminary Information: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a23
                         </td>
                     </tr>
                 </tbody></table>
-				<!--[if mso]>
-				</td>
-				<![endif]-->
+				
                 
-				<!--[if mso]>
-				</tr>
-				</table>
-				<![endif]-->
+				
             </td>
         </tr>
     </tbody>
 </table><table>
     <tbody>
         <tr>
-            <td valign="top">
-              	<!--[if mso]>
-				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
-				<tr>
-				<![endif]-->
+            <td>
+              	
 			    
-				<!--[if mso]>
-				<td valign="top" width="600" style="width:600px;">
-				<![endif]-->
-                <table align="left">
+				
+                <table>
                     <tbody><tr>
                         
-                        <td valign="top">
+                        <td>
                         
-                            <p lang="EN-AU" xml:lang="EN-AU"><a href="http://INTERNATIONAL ANNOUNCEMENTS" target="_blank"><u data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>INTERNATIONAL ANNOUNCEMENTS</span></u></a><br>
+                            <p><a href="http://INTERNATIONAL ANNOUNCEMENTS" target="_blank"><u><span>INTERNATIONAL ANNOUNCEMENTS</span></u></a><br>
 &nbsp;</p>
 
-<p lang="EN-AU" xml:lang="EN-AU"><span>1. BIBLE DISTRIBUTION&nbsp;AT THE SUMMER 2024&nbsp;PARIS OLYMPICS</span></p>
+<p><span>1. BIBLE DISTRIBUTION&nbsp;AT THE SUMMER 2024&nbsp;PARIS OLYMPICS</span></p>
 
 <blockquote>
 <p>The Olympics will be returning to Europe in 2024 and will be hosted in Paris, France. We believe this is a wonderful opportunity prepared by the Lord as the Lord of the harvest. The saints are preparing to distribute free copies of the New Testament Recovery Version during the Torch Relay and the Olympic and&nbsp;Paralympic Games.<br>
@@ -259,7 +224,7 @@ During the torch relay there will be 9 gospel trips visiting 11 French cities. T
 For more details, please&nbsp;<span><a href="https://newsletters.lsm.org/having-this-ministry/issues/Apr2024-030/paris-olympics-gospel-trips.html" target="_blank">click here</a>.</span></p>
 </blockquote>
 
-<p lang="EN-AU" xml:lang="EN-AU"><span>2. YOUNG PEOPLE'S TRAINING 2024 (NEW ZEALAND)</span></p>
+<p><span>2. YOUNG PEOPLE'S TRAINING 2024 (NEW ZEALAND)</span></p>
 
 <blockquote>
 <p>Dates: Monday 24th June to Friday 28th June 2024<br>
@@ -272,35 +237,25 @@ This training is open to all university aged and young working saints. This trai
                         </td>
                     </tr>
                 </tbody></table>
-				<!--[if mso]>
-				</td>
-				<![endif]-->
+				
                 
-				<!--[if mso]>
-				</tr>
-				</table>
-				<![endif]-->
+				
             </td>
         </tr>
     </tbody>
 </table><table>
     <tbody>
         <tr>
-            <td valign="top">
-              	<!--[if mso]>
-				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
-				<tr>
-				<![endif]-->
+            <td>
+              	
 			    
-				<!--[if mso]>
-				<td valign="top" width="600" style="width:600px;">
-				<![endif]-->
-                <table align="left">
+				
+                <table>
                     <tbody><tr>
                         
-                        <td valign="top">
+                        <td>
                         
-                            <p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span><u>AUDIO&nbsp;AND VIDEO RECORDINGS&nbsp;FROM RECENT TRAININGS AND CONFERENCES</u>&nbsp;</span><br>
+                            <p><span><u>AUDIO&nbsp;AND VIDEO RECORDINGS&nbsp;FROM RECENT TRAININGS AND CONFERENCES</u>&nbsp;</span><br>
 <br>
 <span>1.&nbsp;Encouraging the saints to get into the Life Studies (By Brother Minoru Chen)</span></p>
 
@@ -311,37 +266,27 @@ This training is open to all university aged and young working saints. This trai
                         </td>
                     </tr>
                 </tbody></table>
-				<!--[if mso]>
-				</td>
-				<![endif]-->
+				
                 
-				<!--[if mso]>
-				</tr>
-				</table>
-				<![endif]-->
+				
             </td>
         </tr>
     </tbody>
 </table><table>
     <tbody>
         <tr>
-            <td valign="top">
-              	<!--[if mso]>
-				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
-				<tr>
-				<![endif]-->
+            <td>
+              	
 			    
-				<!--[if mso]>
-				<td valign="top" width="600" style="width:600px;">
-				<![endif]-->
-                <table align="left">
+				
+                <table>
                     <tbody><tr>
                         
-                        <td valign="top">
+                        <td>
                         
-                            <p lang="EN-AU" xml:lang="EN-AU"><span><u data-contrast="auto" lang="EN-AU" xml:lang="EN-AU">GENERAL INFORMATION</u></span></p>
+                            <p><span><u>GENERAL INFORMATION</u></span></p>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><br>
+<p><br>
 <span>A. REGULAR MEETINGS OF THE CHURCH</span></p>
 
 <blockquote>
@@ -353,7 +298,7 @@ Friday 9pm on W<em>eChat. </em>If you wish to attend please contact Mark Lam or 
 Lord's Day 10:00am at the meeting hall and on Zoom (details below).</p>
 </blockquote>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>B. COORDINATION MEETING&nbsp;</span></p>
+<p><span>B. COORDINATION MEETING&nbsp;</span></p>
 
 <blockquote>
 <p>Next Meeting: 19th May 2024&nbsp;(after prophesying&nbsp;meeting)<br>
@@ -363,19 +308,19 @@ Future Dates: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/image
 This&nbsp;meeting&nbsp;is open to saints serving (or endeavouring to serve) and is predominantly a time to enjoy the Lord so that we may be built up together in our service. We strongly encourage the saints to read the chapter listed above&nbsp;in your personal time. We will share and fellowship on this chapter during the meeting. There will be Zoom available for those who cannot join physically.</p>
 </blockquote>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>C. CALENDAR FROM THE CHURCH IN SYDNEY</span></p>
+<p><span>C. CALENDAR FROM THE CHURCH IN SYDNEY</span></p>
 
 <blockquote>
 <p><a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/5028cc0f-17b5-7f92-7c3a-77e751acb762/20240224_232213.pdf" target="_blank">Click here</a><a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/9071e6cb-1864-9e35-539d-fd3920358b9a/CHURCH_CALENDAR_2024.pdf" target="_blank"> </a>for the calendar of yearly events. We encourage us all to consider before the Lord the various events this year for our enjoyment and perfecting. By His grace, let us be positively aggressive to set aside our time and work for this.</p>
 </blockquote>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>D. CHURCH IN CANBERRA VARIOUS OFFERING ACCOUNTS</span></p>
+<p><span>D. CHURCH IN CANBERRA VARIOUS OFFERING ACCOUNTS</span></p>
 
 <blockquote>
 <p>Please <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/6b4f0499-5273-dcfe-2022-308c20d84c42/Church_in_Canberra_Bank_Accounts.01.pdf" target="_blank">click here</a></p>
 </blockquote>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>E. ZOOM MEETING DETAILS</span></p>
+<p><span>E. ZOOM MEETING DETAILS</span></p>
 
 <blockquote>
 <p>To join, click this link&nbsp;<a href="https://us02web.zoom.us/j/86759516115?pwd=RGQrKzJWWkRtTXVkeS9ZNXdSSmwxdz09" target="_blank">https://us02web.zoom.us/j/86759516115?pwd=RGQrKzJWWkRtTXVkeS9ZNXdSSmwxdz09</a><br>
@@ -383,13 +328,13 @@ Meeting ID:&nbsp;867 5951 6115&nbsp;<br>
 Passcode:&nbsp;Eph4:16</p>
 </blockquote>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>F. ONLINE ANNOUNCEMENT</span></p>
+<p><span>F. ONLINE ANNOUNCEMENT</span></p>
 
 <blockquote>
 <p>The announcement page on the church in Canberra website (<a href="https://www.churchincanberra.org/announcements" target="_blank">https://www.churchincanberra.org/announcements</a>) requires the password, 'canberra'.</p>
 </blockquote>
 
-<p data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>G. LIST OF ACT SUBURBS AND DISTRICTS&nbsp;</span></p>
+<p><span>G. LIST OF ACT SUBURBS AND DISTRICTS&nbsp;</span></p>
 
 <blockquote>
 <p>Through the burden released at recent conferences and the prayer of the saints&nbsp;we look to the Lord for the increase&nbsp;of his testimony in Canberra. There is the need for much prayer that the Lord would gain his testimony across the whole of the ACT. The document <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/15584ad1-5cea-5f67-dfc0-44b4e246ee2a/ACT_Divisions_2023_v2.pdf" target="_blank">linked here</a> contains a full list of the ACT Districts and Divisions (Suburbs) to aid in your prayer for his move in Canberra.</p>
@@ -398,63 +343,48 @@ Passcode:&nbsp;Eph4:16</p>
                         </td>
                     </tr>
                 </tbody></table>
-				<!--[if mso]>
-				</td>
-				<![endif]-->
+				
                 
-				<!--[if mso]>
-				</tr>
-				</table>
-				<![endif]-->
+				
             </td>
         </tr>
     </tbody>
 </table><table>
     <tbody>
         <tr>
-            <td valign="top">
-              	<!--[if mso]>
-				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
-				<tr>
-				<![endif]-->
+            <td>
+              	
 			    
-				<!--[if mso]>
-				<td valign="top" width="600" style="width:600px;">
-				<![endif]-->
-                <table align="left">
+				
+                <table>
                     <tbody><tr>
                         
-                        <td valign="top">
+                        <td>
                         
-                            <p lang="EN-AU" xml:lang="EN-AU"><span data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>Past announcements can be found at the church website:<span>&nbsp;</span></span></span><a href="https://www.churchincanberra.org/announcements" rel="noreferrer noopener" target="_blank"><span data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>https://www.churchincanberra.org/announcements</span></span></a><span>&nbsp;</span></p>
+                            <p><span><span>Past announcements can be found at the church website:<span>&nbsp;</span></span></span><a href="https://www.churchincanberra.org/announcements" rel="noreferrer noopener" target="_blank"><span><span>https://www.churchincanberra.org/announcements</span></span></a><span>&nbsp;</span></p>
 
 <div>
-<p lang="EN-AU" xml:lang="EN-AU"><span data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>(Please refer to weekly email announcement for login password)</span></span><span>&nbsp;</span></p>
+<p><span><span>(Please refer to weekly email announcement for login password)</span></span><span>&nbsp;</span></p>
 </div>
 
 <div>
-<p dir="rtl" lang="EN-AU" xml:lang="EN-AU"><span>&nbsp;</span></p>
+<p dir="rtl"><span>&nbsp;</span></p>
 </div>
 
 <div>
-<p lang="EN-AU" xml:lang="EN-AU"><span data-contrast="auto" lang="EN-AU" xml:lang="EN-AU"><span>From coordinating ones, on behalf of the Church in Canberra&nbsp;</span></span><span> </span></p>
+<p><span><span>From coordinating ones, on behalf of the Church in Canberra&nbsp;</span></span><span> </span></p>
 </div>
 
                         </td>
                     </tr>
                 </tbody></table>
-				<!--[if mso]>
-				</td>
-				<![endif]-->
+				
                 
-				<!--[if mso]>
-				</tr>
-				</table>
-				<![endif]-->
+				
             </td>
         </tr>
     </tbody>
-</table><div><em>Previous announcements</em><br /><a href="https://us10.campaign-archive.com/?u=12a6ecea8fbc1ad37a233cac1&amp;id=2a5c887a54" title="Announcement - 05/05/2024" target="_blank">Announcement - 05/05/2024</a><br /><a href="https://us10.campaign-archive.com/?u=12a6ecea8fbc1ad37a233cac1&amp;id=a70f9010c6" title="Announcement - 28/04/2024" target="_blank">Announcement - 28/04/2024</a><br /></div>
+</table><div class="container pt-6 pb-6 pb-md-10"><div class="row"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13760892" target="_blank">Announcement – 05/05/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13760332" target="_blank">Announcement – 28/04/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13757628" target="_blank">Announcement – 21/04/2024</a><br /></div></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
