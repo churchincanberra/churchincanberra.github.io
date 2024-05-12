@@ -11,6 +11,7 @@ on:
   workflow_dispatch:
 
   schedule:
+    - cron: '0 20 * * 1-6' # This runs at 6:00 AM Australia/Sydney time (UTC+10) every Monday to Saturday
     - cron: '30 23 * * 6' # This runs at 9:30 AM Australia/Sydney time (UTC+10) every Sunday
     - cron: '30 22 * * 6' # This runs at 9:30 AM Australia/Sydney time (UTC+11) every Sunday during daylight saving
 
