@@ -1,2 +1,4 @@
 User-agent: *
 Disallow: /e4b1ffcb4ee645488a4729bd77e0b3d89bc0a70d/
+Disallow: /calendar/
+Disallow: /announcements/
