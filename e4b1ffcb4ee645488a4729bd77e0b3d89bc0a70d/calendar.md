@@ -2,6 +2,7 @@
 title: Church Calendar
 layout: page-full
 description: Upcoming events
+nofollow: true
 ---
 
 {% include calendar_categories.html %}
