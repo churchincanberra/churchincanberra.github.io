@@ -13,11 +13,9 @@
   <!-- Self host font -->
   <!-- <link rel="preload" href="{{ '/assets/fonts/playfair-display.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin> -->
   <link href="{{ '/assets/css/style.css' | relative_url }}" rel="stylesheet">
-
-	{% if page.accessibility %}<link href="{{ '/assets/css/accessibility.css' | relative_url }}" rel="stylesheet">{% endif %}
-
+  {% include site-analytics.html %}
   {% seo %}
-
+	{% if page.accessibility %}<link href="{{ '/assets/css/accessibility.css' | relative_url }}" rel="stylesheet">{% endif %}
 </head>
 
 <body class='page {{layout.bodyClass}}'>
@@ -29,6 +27,5 @@
   {% include footer.html %}
   {% include sub-footer.html %}
   <script type="text/javascript" src="{{ '/assets/js/scripts.js' | relative_url }}"></script>
-  {% include google-analytics.html %}
 </body>
 </html>
