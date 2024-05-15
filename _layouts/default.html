@@ -16,6 +16,7 @@
   {% include site-analytics.html %}
   {% seo %}
 	{% if page.accessibility %}<link href="{{ '/assets/css/accessibility.css' | relative_url }}" rel="stylesheet">{% endif %}
+	{% if page.nofollow %}<meta name="robots" content="nofollow">{% endif %}
 </head>
 
 <body class='page {{layout.bodyClass}}'>

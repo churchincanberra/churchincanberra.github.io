@@ -3,6 +3,7 @@ title: Church Announcements
 layout: page
 description: Recent announcements and updates
 accessibility: true
+nofollow: true
 ---
 
 <style>
@@ -40,12 +41,13 @@ accessibility: true
                         </td>
                     </tr>
                 </tbody></table>
-				
-                
-				
+
+
+
             </td>
         </tr>
     </tbody>
+
 </table><table>
     <tbody>
         <tr>
@@ -97,12 +99,13 @@ Week 4&nbsp;title:&nbsp;The All-inclusive Christ as the Good Land - a Land of Wa
                         </td>
                     </tr>
                 </tbody></table>
-				
-                
-				
+
+
+
             </td>
         </tr>
     </tbody>
+
 </table><table>
     <tbody>
         <tr>
@@ -193,12 +196,13 @@ Preliminary Information: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a23
                         </td>
                     </tr>
                 </tbody></table>
-				
-                
-				
+
+
+
             </td>
         </tr>
     </tbody>
+
 </table><table>
     <tbody>
         <tr>
@@ -237,12 +241,13 @@ This training is open to all university aged and young working saints. This trai
                         </td>
                     </tr>
                 </tbody></table>
-				
-                
-				
+
+
+
             </td>
         </tr>
     </tbody>
+
 </table><table>
     <tbody>
         <tr>
@@ -266,12 +271,13 @@ This training is open to all university aged and young working saints. This trai
                         </td>
                     </tr>
                 </tbody></table>
-				
-                
-				
+
+
+
             </td>
         </tr>
     </tbody>
+
 </table><table>
     <tbody>
         <tr>
@@ -343,12 +349,13 @@ Passcode:&nbsp;Eph4:16</p>
                         </td>
                     </tr>
                 </tbody></table>
-				
-                
-				
+
+
+
             </td>
         </tr>
     </tbody>
+
 </table><table>
     <tbody>
         <tr>
@@ -378,12 +385,13 @@ Passcode:&nbsp;Eph4:16</p>
                         </td>
                     </tr>
                 </tbody></table>
-				
-                
-				
+
+
+
             </td>
         </tr>
     </tbody>
+
 </table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13760892" target="_blank">Announcement – 05/05/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13760332" target="_blank">Announcement – 28/04/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13757628" target="_blank">Announcement – 21/04/2024</a></div>
 <!-- ANNOUNCEMENT:END -->
 
