@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>12th May&nbsp;2024</span></strong></p>
+<strong><span>19th May&nbsp;2024</span></strong></p>
 </div>
 
                         </td>
@@ -59,20 +59,21 @@ nofollow: true
                         
                         <td>
                         
-                            <p><u><span>WEEKLY HIGHLIGHTS</span></u><span>&nbsp;</span><br>
-<span>1.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
+                            <p><u><span>WEEKLY HIGHLIGHTS</span></u><span>&nbsp;</span></p>
+
+<p><span>1.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
 
 <blockquote>
 <p><strong>English speaking - Thursday 7 pm</strong><br>
-Venue: Gungahlin&nbsp;House<br>
-Topic:&nbsp;The All-inclusive Christ as the Good Land - a Land of Waterbrooks, of Springs and of Fountains, Flowing Forth in Valleys and in Mountains<br>
+Venue: Steer's House<br>
+Topic: A Land of Vines<br>
 <br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
-Venue: Ming &amp; Nadia's House (Palmerston)<br>
-Topic: The All-inclusive Christ as the Good Land - a Land of Waterbrooks, of Springs and of Fountains, Flowing Forth in Valleys and in Mountains</p>
+Venue: Victor &amp; Bing's&nbsp;House (Watson)<br>
+Topic: A Land of Vines</p>
 </blockquote>
 
-<p><font><span>2. NEXT LOVE FEAST AT THE HALL</span></font></p>
+<p><span>2. NEXT LOVE FEAST AT THE HALL</span></p>
 
 <blockquote>
 <p>Date: 19th May<br>
@@ -83,16 +84,15 @@ All saints are welcome to join the&nbsp;love feast. Let's take this opportunity 
 <p><span>3.&nbsp;HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 4&nbsp;commencing Monday<br>
+<p>Week 5&nbsp;commencing Monday<br>
 HWMR title:&nbsp;Laboring on the All-Inclusive Christ Typified by the Good Land for the Building Up of the Church as the Body of Christ, for the Reality and the Manifestation of the Kingdom, and for the Bride to Make Herself Ready for the Lord’s Coming<br>
-Week 4&nbsp;title:&nbsp;The All-inclusive Christ as the Good Land - a Land of Waterbrooks, of Springs and of Fountains, Flowing Forth in Valleys and in Mountains</p>
+Week 5 title: A Land of Vines&nbsp;</p>
 </blockquote>
 
-<p><br>
-<font><span>4. LIFE STUDY PURSUIT</span></font></p>
+<p><font><span>4. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of First Corinthians Messages 3&nbsp;&amp; 4</p>
+<p>Life Study of First Corinthians Messages 5&nbsp;&amp; 6</p>
 </blockquote>
 
                         </td>
@@ -385,7 +385,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13760892" target="_blank">Announcement – 05/05/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13760332" target="_blank">Announcement – 28/04/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13757628" target="_blank">Announcement – 21/04/2024</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13761360" target="_blank">Announcement – 12/05/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13760892" target="_blank">Announcement – 05/05/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13760332" target="_blank">Announcement – 28/04/2024</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
