@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>19th May&nbsp;2024</span></strong></p>
+<strong><span>26th May&nbsp;2024</span></strong></p>
 </div>
 
                         </td>
@@ -65,18 +65,18 @@ nofollow: true
 
 <blockquote>
 <p><strong>English speaking - Thursday 7 pm</strong><br>
-Venue: Steer's House<br>
-Topic: A Land of Vines<br>
+Venue: Ederosas House (Braddon)<br>
+Topic: Christ as Our Sabbath Rest, Typified by the Good Land of Canaan<br>
 <br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
-Venue: Victor &amp; Bing's&nbsp;House (Watson)<br>
-Topic: A Land of Vines</p>
+Venue: Ming &amp; Nadia's House (Palmerston)<br>
+Topic: Christ as Our Sabbath Rest, Typified by the Good Land of Canaan</p>
 </blockquote>
 
 <p><span>2. NEXT LOVE FEAST AT THE HALL</span></p>
 
 <blockquote>
-<p>Date: 19th May<br>
+<p>Date: 16th June<br>
 Venue: Meeting Hall&nbsp;(after prophesying meeting)<br>
 All saints are welcome to join the&nbsp;love feast. Let's take this opportunity to cherish one another while enjoying mutual fellowship.&nbsp;The love feast will be followed by the monthly coordination meeting for those who wish to join.</p>
 </blockquote>
@@ -84,15 +84,15 @@ All saints are welcome to join the&nbsp;love feast. Let's take this opportunity 
 <p><span>3.&nbsp;HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 5&nbsp;commencing Monday<br>
+<p>Week 6&nbsp;commencing Monday<br>
 HWMR title:&nbsp;Laboring on the All-Inclusive Christ Typified by the Good Land for the Building Up of the Church as the Body of Christ, for the Reality and the Manifestation of the Kingdom, and for the Bride to Make Herself Ready for the Lord’s Coming<br>
-Week 5 title: A Land of Vines&nbsp;</p>
+Week 5 title: Christ as Our Sabbath Rest, Typified by the Good Land of Canaan&nbsp;</p>
 </blockquote>
 
 <p><font><span>4. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of First Corinthians Messages 5&nbsp;&amp; 6</p>
+<p>Life Study of First Corinthians Messages 7&nbsp;&amp; 8</p>
 </blockquote>
 
                         </td>
@@ -118,15 +118,9 @@ Week 5 title: A Land of Vines&nbsp;</p>
                         
                             <p><span><u>TRAINING &amp; CONFERENCES</u>&nbsp;</span></p>
 
-<p><font><span>1. MONTHLY PERFECTING TRAINING&nbsp;2024</span></font></p>
+<p>&nbsp;</p>
 
-<blockquote>
-<p><font><span>Dates: 20&nbsp;July,&nbsp;7&nbsp;September, and 16 November (There will be no training in the other months because of other conferences or the Bi-annual Perfecting Training)</span></font><br>
-<font><span>Venue: Meeting Hall Cluster</span></font><br>
-<font><span>Registration:&nbsp;</span></font><a href="https://docs.google.com/forms/d/e/1FAIpQLScs-1Xgc4YFXc22Q465C7BZjGGHPckq6kbx_0jxodPfS5dAww/viewform" target="_blank"><span><span>Click Here</span></span></a></p>
-</blockquote>
-
-<p><font><span>2.&nbsp;NATIONAL HIGH SCHOOLERS&nbsp;CONFERENCE</span></font></p>
+<p><font><span>1.&nbsp;NATIONAL HIGH SCHOOLERS&nbsp;CONFERENCE</span></font></p>
 
 <blockquote>
 <p><font><span>Dates:&nbsp;Friday 5 July to Monday 8 July 2024<br>
@@ -137,7 +131,7 @@ Cost: $290</span><br>
 Notes: Please see the notes on the website regarding year 6 registration and serving. Please fellowship with Billy Steer before registering to serve.</font></p>
 </blockquote>
 
-<p><font><span>3.&nbsp;NATIONAL UNIVERSITY AGED CONFERENCE (NUAC)</span></font></p>
+<p><font><span>2.&nbsp;NATIONAL UNIVERSITY AGED CONFERENCE (NUAC)</span></font></p>
 
 <blockquote>
 <p><font><span><u>Blending Trip</u><br>
@@ -155,6 +149,14 @@ Registration&nbsp;Deadline: 9 June 2024</span></font><br>
 &nbsp;</p>
 </blockquote>
 
+<p><font><span>3. MONTHLY PERFECTING TRAINING&nbsp;2024</span></font></p>
+
+<blockquote>
+<p><font><span>Dates: 20&nbsp;July,&nbsp;7&nbsp;September, and 16 November (There will be no training in the other months because of other conferences or the Bi-annual Perfecting Training)</span></font><br>
+<font><span>Venue: Meeting Hall Cluster</span></font><br>
+<font><span>Registration:&nbsp;</span></font><a href="https://docs.google.com/forms/d/e/1FAIpQLScs-1Xgc4YFXc22Q465C7BZjGGHPckq6kbx_0jxodPfS5dAww/viewform" target="_blank"><span><span>Click Here</span></span></a></p>
+</blockquote>
+
 <p><font><span>4. CAIRNS BLENDING CONFERENCE 2024</span></font></p>
 
 <blockquote>
@@ -162,7 +164,7 @@ Registration&nbsp;Deadline: 9 June 2024</span></font><br>
 <font><span>Location: Ramada Hotel&nbsp;6/12 Florence St, Cairns City QLD 4870.</span></font><br>
 <span><span>Training Cost: $350&nbsp;per person<br>
 Schedule: Starts - Friday,7:30PM 26/07/24 Ends - Lord's Day, After lunch, 28/7/2024</span></span><br>
-<font><span>Registration: <a href="https://docs.google.com/forms/d/1B8mBGwEdEbQ8LR1EYzpuf7Pflel0RTITvpNEefd5CzI/viewform?edit_requested=true" target="_blank">Click here</a></span></font></p>
+<font><span>Registration: <a href="https://forms.gle/ESzEmWMrymgmwWSk9" target="_blank">Click here</a></span></font></p>
 </blockquote>
 
 <p><font><span>5. TEACHERS TRAINING &amp; PARENTS AND SERVING ONES CONFERENCE</span></font></p>
@@ -257,8 +259,16 @@ This training is open to all university aged and young working saints. This trai
                         <td>
                         
                             <p><span><u>AUDIO&nbsp;AND VIDEO RECORDINGS&nbsp;FROM RECENT TRAININGS AND CONFERENCES</u>&nbsp;</span><br>
-<br>
-<span>1.&nbsp;Encouraging the saints to get into the Life Studies (By Brother Minoru Chen)</span></p>
+&nbsp;</p>
+
+<p><span>1.&nbsp;</span>Patterns and Examples of Women in the Bible (<span>Sisters' Training New Zealand)</span></p>
+
+<blockquote>
+<p>General Subject: Patterns and Examples of Women in the Bible<br>
+Messages: <a href="https://nztc.ac.nz/sisters-training-recordings/" target="_blank">click here</a></p>
+</blockquote>
+
+<p><span>2.&nbsp;Encouraging the saints to get into the Life Studies (By Brother Minoru Chen)</span></p>
 
 <blockquote>
 <p>LSM app for reading 500 life-studies is ready to download <a href="https://play.google.com/store/apps/details?id=com.eng500ls.lsm&amp;hl=en_AU&amp;gl=US" target="_blank">click here</a>.</p>
@@ -302,8 +312,8 @@ Lord's Day 10:00am at the meeting hall and on Zoom (details below).</p>
 <p><span>B. COORDINATION MEETING&nbsp;</span></p>
 
 <blockquote>
-<p>Next Meeting: 19th May 2024&nbsp;(after prophesying&nbsp;meeting)<br>
-Book: The Tree of Life - Message 2<br>
+<p>Next Meeting: 16th June 2024&nbsp;(after prophesying&nbsp;meeting)<br>
+Book: The Tree of Life - Message 3<br>
 Future Dates: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/images/b228da64-c30e-0dca-4808-00b288f708ad.png" target="_blank">click here</a><br>
 <br>
 This&nbsp;meeting&nbsp;is open to saints serving (or endeavouring to serve) and is predominantly a time to enjoy the Lord so that we may be built up together in our service. We strongly encourage the saints to read the chapter listed above&nbsp;in your personal time. We will share and fellowship on this chapter during the meeting. There will be Zoom available for those who cannot join physically.</p>
@@ -385,7 +395,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13761360" target="_blank">Announcement – 12/05/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13760892" target="_blank">Announcement – 05/05/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13760332" target="_blank">Announcement – 28/04/2024</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13761840" target="_blank">Announcement – 19/05/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13761360" target="_blank">Announcement – 12/05/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13760892" target="_blank">Announcement – 05/05/2024</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
