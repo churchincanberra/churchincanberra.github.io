@@ -85,8 +85,7 @@ export const extractFirstContentEncoded = (xmlData, callback) => {
 	// Navigate to the 'item' tag and extract the 'content:encoded' data from the first item
 	const item = document.querySelector('item');
 	if (item) {
-    console.log(item);
-			const contentEncoded = item.querySelector('content\\:encoded').textContent;
+			const contentEncoded = item.querySelector('description').textContent;
 			const trimmedHtmlData = trimHtmlContent(contentEncoded);
 			return trimmedHtmlData;
 	} else {
