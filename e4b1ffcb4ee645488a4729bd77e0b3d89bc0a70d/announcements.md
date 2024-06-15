@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>9th June&nbsp;2024</span></strong></p>
+<strong><span>16th June&nbsp;2024</span></strong></p>
 </div>
 
                         </td>
@@ -65,12 +65,12 @@ nofollow: true
 
 <blockquote>
 <p><strong>English speaking - Thursday 7 pm</strong><br>
-Venue: Gungahlin&nbsp;House<br>
-Topic: Experiencing and Enjoying&nbsp;the All-inclusive Christ as the Good Land - a Land in Which We Do not Lack Anything<br>
+Venue: Steer's House&nbsp;(Banks)<br>
+Topic: A Land of Pomegranates<br>
 <br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
 Venue: Ming&nbsp;&amp; Nadia's House (Palmerston)&nbsp;<br>
-Topic: Experiencing and Enjoying&nbsp;the All-inclusive Christ as the Good Land - a Land in Which We Do not Lack Anything</p>
+Topic: A Land of Pomegranates</p>
 </blockquote>
 
 <p><span>2. NEXT LOVEFEAST AT THE HALL</span></p>
@@ -84,15 +84,15 @@ All saints are welcome to join the&nbsp;love feast. Let's take this opportunity 
 <p><span>3.&nbsp;HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 8&nbsp;commencing Monday<br>
+<p>Week 9&nbsp;commencing Monday<br>
 HWMR title:&nbsp;Laboring on the All-Inclusive Christ Typified by the Good Land for the Building Up of the Church as the Body of Christ, for the Reality and the Manifestation of the Kingdom, and for the Bride to Make Herself Ready for the Lord’s Coming<br>
-Week 8&nbsp;title: Experiencing and Enjoying&nbsp;the All-inclusive Christ as the Good Land - a Land in Which We Do not Lack Anything</p>
+Week 9&nbsp;title: A Land of Pomegranates</p>
 </blockquote>
 
 <p><font><span>4. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of First Corinthians Messages 11&nbsp;&amp; 12</p>
+<p>Life Study of First Corinthians Messages 13&nbsp;&amp; 14</p>
 </blockquote>
 
                         </td>
@@ -132,10 +132,7 @@ Details and Registration: To be confirmed</span></font></p>
 <blockquote>
 <p><font><span>Dates:&nbsp;Friday 5 July to Monday 8 July 2024<br>
 Location: The&nbsp;Tops Conference Centre<br>
-Registration&nbsp;Deadline:&nbsp;27 May 2024<br>
-Registration and Further information: <a href="https://nhsc.site/" target="_blank">click here&nbsp;</a><br>
-Cost: $290</span><br>
-Notes: Please see the notes on the website regarding year 6 registration and serving. Please fellowship with Billy Steer before registering to serve.</font></p>
+Further information: <a href="https://nhsc.site/" target="_blank">click here&nbsp;</a></span></font></p>
 </blockquote>
 
 <p><font><span>3.&nbsp;NATIONAL UNIVERSITY AGED CONFERENCE (NUAC)</span></font></p>
@@ -184,7 +181,7 @@ Dates: Saturday, 31 August 2024 - Lord's day, 1 September 2024<br>
 <br>
 Location:&nbsp;Physically held&nbsp;in Sydney and online, via Zoom.&nbsp;<br>
 Registration&nbsp;Deadline:&nbsp;Monday, 12 August 2023.<br>
-Registration: <em>(registration will open early June)</em><br>
+Registration: <a href="https://new.express.adobe.com/webpage/IW6YQikTZMOFx" target="_blank">C</a><a href="https://new.express.adobe.com/webpage/IW6YQikTZMOFx" target="_blank">lick Here</a><br>
 Training&nbsp;Cost:&nbsp;$25 for those attending the Teachers' Training physically<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; $50 for those attending the Parents' and Serving Ones' Conference physically.<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; $10 for those attending on Zoom from Australia.</span></font></p>
@@ -402,7 +399,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13778732" target="_blank">Online Invitation for FTTL Graduation Spring 2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13778532" target="_blank">Announcement – 02/06/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13762428" target="_blank">Announcement – 26/05/2024</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13819228" target="_blank">Announcement – 09/06/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13778732" target="_blank">Online Invitation for FTTL Graduation Spring 2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13778532" target="_blank">Announcement – 02/06/2024</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
