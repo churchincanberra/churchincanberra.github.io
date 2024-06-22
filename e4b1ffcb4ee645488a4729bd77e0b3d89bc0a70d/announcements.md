@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>16th June&nbsp;2024</span></strong></p>
+<strong><span>23rd June&nbsp;2024</span></strong></p>
 </div>
 
                         </td>
@@ -65,18 +65,18 @@ nofollow: true
 
 <blockquote>
 <p><strong>English speaking - Thursday 7 pm</strong><br>
-Venue: Steer's House&nbsp;(Banks)<br>
-Topic: A Land of Pomegranates<br>
+Venue: Ederosas's House&nbsp;(Braddon)<br>
+Topic: Governing Principles That We Need to See and Experience in Order to Possess Christ as the Good Land<br>
 <br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
 Venue: Ming&nbsp;&amp; Nadia's House (Palmerston)&nbsp;<br>
-Topic: A Land of Pomegranates</p>
+Topic: Governing Principles That We Need to See and Experience in Order to Possess Christ as the Good Land</p>
 </blockquote>
 
 <p><span>2. NEXT LOVEFEAST AT THE HALL</span></p>
 
 <blockquote>
-<p>Date: 16th June<br>
+<p>Date: 21st July<br>
 Venue: Meeting Hall&nbsp;(after prophesying meeting)<br>
 All saints are welcome to join the&nbsp;love feast. Let's take this opportunity to cherish one another while enjoying mutual fellowship.&nbsp;The love feast will be followed by the monthly coordination meeting for those who wish to join.</p>
 </blockquote>
@@ -84,15 +84,15 @@ All saints are welcome to join the&nbsp;love feast. Let's take this opportunity 
 <p><span>3.&nbsp;HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 9&nbsp;commencing Monday<br>
+<p>Week 10&nbsp;commencing Monday<br>
 HWMR title:&nbsp;Laboring on the All-Inclusive Christ Typified by the Good Land for the Building Up of the Church as the Body of Christ, for the Reality and the Manifestation of the Kingdom, and for the Bride to Make Herself Ready for the Lord’s Coming<br>
-Week 9&nbsp;title: A Land of Pomegranates</p>
+Week 10&nbsp;title: Governing Principles That We Need to See and Experience in Order to Possess Christ as the Good Land</p>
 </blockquote>
 
 <p><font><span>4. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of First Corinthians Messages 13&nbsp;&amp; 14</p>
+<p>Life Study of First Corinthians Messages 15&nbsp;&amp; 16</p>
 </blockquote>
 
                         </td>
@@ -121,10 +121,11 @@ Week 9&nbsp;title: A Land of Pomegranates</p>
 <p><span>1. CANBERRA VIDEO TRAINING JULY 2024</span></p>
 
 <blockquote>
-<p><font><span>Topic: Experiencing, Enjoying and Expressing Christ<br>
+<p><font><span>Topic: Experiencing, Enjoying and Expressing Christ (1)<br>
 Dates: 27th July - 25th&nbsp;August 2024<br>
-Venue: Church in Canberra Meeting Hall and via Zoom platform<br>
-Details and Registration: To be confirmed</span></font></p>
+Venue: Church in Canberra Meeting Hall<br>
+Details and Registration: <a href="https://form.jotform.com/241528785579878" target="_blank">Click Here</a><br>
+Languages: English and Mandarin&nbsp;</span></font></p>
 </blockquote>
 
 <p><font><span>2.&nbsp;NATIONAL HIGH SCHOOLERS&nbsp;CONFERENCE</span></font></p>
@@ -228,6 +229,9 @@ Preliminary Information: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a23
 <br>
 During the torch relay there will be 9 gospel trips visiting 11 French cities. There will be another 5 gospel trips during the Olympic Games.&nbsp;<br>
 <br>
+To read the report from&nbsp;Torch Replay Gospel Trip&nbsp;(TR 6) in Nantes&nbsp;<a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/7b790b8d-0f49-ba17-ecd6-7935b47a80d4/TR6Nantes.pdf" target="_blank">Click Here.</a><br>
+The coming Torch Replay Gospel Trip&nbsp;(TR 7) is at Strasbourg from 24/06 to 01/07.<br>
+<br>
 For more details, please&nbsp;<span><a href="https://newsletters.lsm.org/having-this-ministry/issues/Apr2024-030/paris-olympics-gospel-trips.html" target="_blank">click here</a>.</span></p>
 </blockquote>
 
@@ -316,8 +320,8 @@ Lord's Day 10:00am at the meeting hall and on Zoom (details below).</p>
 <p><span>B. COORDINATION MEETING&nbsp;</span></p>
 
 <blockquote>
-<p>Next Meeting: 16th June 2024&nbsp;(after prophesying&nbsp;meeting)<br>
-Book: The Tree of Life - Message 3<br>
+<p>Next Meeting: 21st&nbsp;July&nbsp;2024&nbsp;(after prophesying&nbsp;meeting)<br>
+Book: The Tree of Life - Message 4<br>
 Future Dates: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/images/b228da64-c30e-0dca-4808-00b288f708ad.png" target="_blank">click here</a><br>
 <br>
 This&nbsp;meeting&nbsp;is open to saints serving (or endeavouring to serve) and is predominantly a time to enjoy the Lord so that we may be built up together in our service. We strongly encourage the saints to read the chapter listed above&nbsp;in your personal time. We will share and fellowship on this chapter during the meeting. There will be Zoom available for those who cannot join physically.</p>
@@ -399,7 +403,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13819228" target="_blank">Announcement – 09/06/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13778732" target="_blank">Online Invitation for FTTL Graduation Spring 2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13778532" target="_blank">Announcement – 02/06/2024</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13824016" target="_blank">Announcement – 16/06/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13819228" target="_blank">Announcement – 09/06/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13778732" target="_blank">Online Invitation for FTTL Graduation Spring 2024</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
