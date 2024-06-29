@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>23rd June&nbsp;2024</span></strong></p>
+<strong><span>30th June&nbsp;2024</span></strong></p>
 </div>
 
                         </td>
@@ -65,12 +65,12 @@ nofollow: true
 
 <blockquote>
 <p><strong>English speaking - Thursday 7 pm</strong><br>
-Venue: Ederosas's House&nbsp;(Braddon)<br>
-Topic: Governing Principles That We Need to See and Experience in Order to Possess Christ as the Good Land<br>
+Venue: Kaleen&nbsp;House&nbsp;<br>
+Topic: The&nbsp;Surplus of the Produce of the Good Land and the Corporate Worship of God the Father in Truthfulness<br>
 <br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
-Venue: Ming&nbsp;&amp; Nadia's House (Palmerston)&nbsp;<br>
-Topic: Governing Principles That We Need to See and Experience in Order to Possess Christ as the Good Land</p>
+Venue: Victor&nbsp;&amp; Bing's House (Watson)&nbsp;<br>
+Topic: The&nbsp;Surplus of the Produce of the Good Land and the Corporate Worship of God the Father in Truthfulness</p>
 </blockquote>
 
 <p><span>2. NEXT LOVEFEAST AT THE HALL</span></p>
@@ -84,15 +84,15 @@ All saints are welcome to join the&nbsp;love feast. Let's take this opportunity 
 <p><span>3.&nbsp;HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 10&nbsp;commencing Monday<br>
+<p>Week 11&nbsp;commencing Monday<br>
 HWMR title:&nbsp;Laboring on the All-Inclusive Christ Typified by the Good Land for the Building Up of the Church as the Body of Christ, for the Reality and the Manifestation of the Kingdom, and for the Bride to Make Herself Ready for the Lord’s Coming<br>
-Week 10&nbsp;title: Governing Principles That We Need to See and Experience in Order to Possess Christ as the Good Land</p>
+Week 11&nbsp;title: The&nbsp;Surplus of the Produce of the Good Land and the Corporate Worship of God the Father in Truthfulness</p>
 </blockquote>
 
 <p><font><span>4. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of First Corinthians Messages 15&nbsp;&amp; 16</p>
+<p>Life Study of First Corinthians Messages 17&nbsp;&amp; 18</p>
 </blockquote>
 
                         </td>
@@ -230,7 +230,7 @@ Preliminary Information: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a23
 During the torch relay there will be 9 gospel trips visiting 11 French cities. There will be another 5 gospel trips during the Olympic Games.&nbsp;<br>
 <br>
 To read the report from&nbsp;Torch Replay Gospel Trip&nbsp;(TR 6) in Nantes&nbsp;<a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/7b790b8d-0f49-ba17-ecd6-7935b47a80d4/TR6Nantes.pdf" target="_blank">Click Here.</a><br>
-The coming Torch Replay Gospel Trip&nbsp;(TR 7) is at Strasbourg from 24/06 to 01/07.<br>
+The coming Torch Replay Gospel Trip&nbsp;(TR 8) is at Lille, France &amp; Brussels, Belgium&nbsp;from June 27&nbsp;to July 8.<br>
 <br>
 For more details, please&nbsp;<span><a href="https://newsletters.lsm.org/having-this-ministry/issues/Apr2024-030/paris-olympics-gospel-trips.html" target="_blank">click here</a>.</span></p>
 </blockquote>
@@ -403,7 +403,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13824016" target="_blank">Announcement – 16/06/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13819228" target="_blank">Announcement – 09/06/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13778732" target="_blank">Online Invitation for FTTL Graduation Spring 2024</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13824556" target="_blank">Announcement – 23/06/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13824016" target="_blank">Announcement – 16/06/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13819228" target="_blank">Announcement – 09/06/2024</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
