@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>7th July&nbsp;2024</span></strong></p>
+<strong><span>14th July&nbsp;2024</span></strong></p>
 </div>
 
                         </td>
@@ -65,12 +65,12 @@ nofollow: true
 
 <blockquote>
 <p><strong>English speaking - Thursday 7 pm</strong><br>
-Venue: Kaleen House<br>
-Topic: Living a Life of Enjoying Christ as the Good Land with the Temple, the Dwelling Place of God, and the City, the Kingdom of God, as Its Issue<br>
+Venue: None (see farewell&nbsp;love feast below)<br>
+Topic: -<br>
 <br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
-Venue: Ming &amp; Nadia's&nbsp;House (Watson)&nbsp;<br>
-Topic: Living a Life of Enjoying Christ as the Good Land with the Temple, the Dwelling Place of God, and the City, the Kingdom of God, as Its Issue</p>
+Venue: Ming &amp; Nadia's&nbsp;House (Palmerston)&nbsp;<br>
+Topic: Living in the Reality of God’s Eternal Economy for Its Fulfillment by Building Up a Habit of Exercising Our Spirit, Fanning Our God-given Spirit into Flame</p>
 </blockquote>
 
 <p><span>2.&nbsp;FAREWELL FOR NOAH AND GOLDEN</span></p>
@@ -93,15 +93,15 @@ All saints are welcome to join the&nbsp;love feast. Let's take this opportunity 
 <p><span>4.&nbsp;HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 12&nbsp;commencing Monday<br>
-HWMR title:&nbsp;Laboring on the All-Inclusive Christ Typified by the Good Land for the Building Up of the Church as the Body of Christ, for the Reality and the Manifestation of the Kingdom, and for the Bride to Make Herself Ready for the Lord’s Coming<br>
-Week 12&nbsp;title: Living a Life of Enjoying Christ as the Good Land with the Temple, the Dwelling Place of God, and the City, the Kingdom of God, as Its Issue</p>
+<p>Week 1&nbsp;commencing Monday<br>
+HWMR title:&nbsp;Being a Vessel unto Honour, a Fully Equipped Man of God, by Being Empowered in the Grace Which Is in Christ Jesus to Fully Accomplish Our Ministry in the Unique Ministry of God’s Economy<br>
+Week 1&nbsp;title:&nbsp;Living in the Reality of God’s Eternal Economy for Its Fulfillment by Building Up a Habit of Exercising Our Spirit, Fanning Our God-given Spirit into Flame</p>
 </blockquote>
 
 <p><font><span>5. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of First Corinthians Messages 19&nbsp;&amp; 20</p>
+<p>Life Study of First Corinthians Messages 21&nbsp;&amp; 22</p>
 </blockquote>
 
                         </td>
@@ -137,15 +137,7 @@ Details and Registration: <a href="https://form.jotform.com/241528785579878" tar
 Languages: English and Mandarin&nbsp;</span></font></p>
 </blockquote>
 
-<p><font><span>2.&nbsp;NATIONAL HIGH SCHOOLERS&nbsp;CONFERENCE</span></font></p>
-
-<blockquote>
-<p><font><span>Dates:&nbsp;Friday 5 July to Monday 8 July 2024<br>
-Location: The&nbsp;Tops Conference Centre<br>
-Further information: <a href="https://nhsc.site/" target="_blank">click here&nbsp;</a></span></font></p>
-</blockquote>
-
-<p><font><span>3.&nbsp;NATIONAL UNIVERSITY AGED CONFERENCE (NUAC)</span></font></p>
+<p><font><span>2.&nbsp;NATIONAL UNIVERSITY AGED CONFERENCE (NUAC)</span></font></p>
 
 <blockquote>
 <p><font><span><u>Blending Trip</u><br>
@@ -163,7 +155,7 @@ Registration&nbsp;Deadline: 9 June 2024</span></font><br>
 &nbsp;</p>
 </blockquote>
 
-<p><font><span>4. MONTHLY PERFECTING TRAINING&nbsp;2024</span></font></p>
+<p><font><span>3. MONTHLY PERFECTING TRAINING&nbsp;2024</span></font></p>
 
 <blockquote>
 <p><font><span>Dates: 20&nbsp;July,&nbsp;7&nbsp;September, and 16 November (There will be no training in the other months because of other conferences or the Bi-annual Perfecting Training)</span></font><br>
@@ -171,7 +163,7 @@ Registration&nbsp;Deadline: 9 June 2024</span></font><br>
 <font><span>Registration:&nbsp;</span></font><a href="https://docs.google.com/forms/d/e/1FAIpQLScs-1Xgc4YFXc22Q465C7BZjGGHPckq6kbx_0jxodPfS5dAww/viewform" target="_blank"><span><span>Click Here</span></span></a></p>
 </blockquote>
 
-<p><font><span>5. CAIRNS BLENDING CONFERENCE 2024</span></font></p>
+<p><font><span>4. CAIRNS BLENDING CONFERENCE 2024</span></font></p>
 
 <blockquote>
 <p><font><span>Dates: 26th&nbsp;&amp; 28th&nbsp;of July</span></font><br>
@@ -181,7 +173,7 @@ Schedule: Starts - Friday,7:30PM 26/07/24 Ends - Lord's Day, After lunch, 28/7/2
 <font><span>Registration: <a href="https://forms.gle/ESzEmWMrymgmwWSk9" target="_blank">Click here</a></span></font></p>
 </blockquote>
 
-<p><font><span>6. TEACHERS TRAINING &amp; PARENTS AND SERVING ONES CONFERENCE</span></font></p>
+<p><font><span>5. TEACHERS TRAINING &amp; PARENTS AND SERVING ONES CONFERENCE</span></font></p>
 
 <blockquote>
 <p><font><span><strong>Teachers Training</strong><br>
@@ -197,7 +189,7 @@ Training&nbsp;Cost:&nbsp;$25 for those attending the Teachers' Training physical
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; $10 for those attending on Zoom from Australia.</span></font></p>
 </blockquote>
 
-<p><font><span>7. ADELAIDE BLENDING CONFERENCE</span></font></p>
+<p><font><span>6. ADELAIDE BLENDING CONFERENCE</span></font></p>
 
 <blockquote>
 <p><font><span>Date: 27th - 29th&nbsp;September&nbsp;2024<br>
@@ -402,7 +394,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13825040" target="_blank">Announcement – 30/06/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13824556" target="_blank">Announcement – 23/06/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13824016" target="_blank">Announcement – 16/06/2024</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13825460" target="_blank">Announcement – 07/07/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13825040" target="_blank">Announcement – 30/06/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13824556" target="_blank">Announcement – 23/06/2024</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
