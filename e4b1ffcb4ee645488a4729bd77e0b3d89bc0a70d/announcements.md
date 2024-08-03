@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>28th&nbsp;July&nbsp;2024</span></strong></p>
+<strong><span>4th&nbsp;August 2024</span></strong></p>
 </div>
 
                         </td>
@@ -73,7 +73,7 @@ Please see schedule below for&nbsp;Lord's Day during Video Training Open session
 11:00am -&nbsp;Open Session&nbsp;(training message and testing trainees)<br>
 1:00 pm - Conclude and love feast<br>
 <br>
-We pray for more saints to be released to enjoy the open sessions of the training. There will be an alloted time for saints to share after the&nbsp;message&nbsp;<br>
+We pray for more saints to be released to enjoy the open sessions of the training. There will be an allotted time for saints to share after the&nbsp;message&nbsp;<br>
 <br>
 A&nbsp;<u><strong>love feast</strong></u>&nbsp;will follow the message. Please bring a dish.</p>
 </blockquote>
@@ -82,26 +82,26 @@ A&nbsp;<u><strong>love feast</strong></u>&nbsp;will follow the message. Please b
 
 <blockquote>
 <p><strong>English speaking - Thursday 7 pm</strong><br>
-Venue: Dermie &amp; April's Place&nbsp;(Braddon)<br>
-Topic: Being Empowered in the Grace Which Is in Christ Jesus to Be Teachers, Soldiers, Contenders, Farmers and Workmen<br>
+Venue: Kaleen House<br>
+Topic: Christ Nullifying Death and Bringing Life and Incorruption to Light, and Our Remembering Jesus Christ, the Seed of David, Raised from the Dead<br>
 <br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
-Venue: Ming&nbsp;&amp; Nadia's&nbsp;House (Palmerston)&nbsp;<br>
-Topic: Being Empowered in the Grace Which Is in Christ Jesus to Be Teachers, Soldiers, Contenders, Farmers and Workmen</p>
+Venue: Victor and Bing's House (Watson)&nbsp;<br>
+Topic: Christ Nullifying Death and Bringing Life and Incorruption to Light, and Our Remembering Jesus Christ, the Seed of David, Raised from the Dead</p>
 </blockquote>
 
 <p><span>3.&nbsp;HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 3&nbsp;commencing Monday<br>
+<p>Week 4&nbsp;commencing Monday<br>
 HWMR title:&nbsp;Being a Vessel unto Honour, a Fully Equipped Man of God, by Being Empowered in the Grace Which Is in Christ Jesus to Fully Accomplish Our Ministry in the Unique Ministry of God’s Economy<br>
-Week 3&nbsp;title:&nbsp;Being Empowered in the Grace Which Is in Christ Jesus to Be Teachers, Soldiers, Contenders, Farmers and Workmen</p>
+Week 4&nbsp;title:&nbsp;Christ Nullifying Death and Bringing Life and Incorruption to Light, and Our Remembering Jesus Christ, the Seed of David, Raised from the Dead</p>
 </blockquote>
 
 <p><font><span>4. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of First Corinthians Messages 25&nbsp;&amp; 26</p>
+<p>Life Study of First Corinthians Messages 27&nbsp;&amp; 28</p>
 </blockquote>
 
                         </td>
@@ -133,7 +133,6 @@ Week 3&nbsp;title:&nbsp;Being Empowered in the Grace Which Is in Christ Jesus to
 <p><font><span>Topic: Experiencing, Enjoying and Expressing Christ (1)<br>
 Dates: 27th July - 25th&nbsp;August 2024<br>
 Venue: Church in Canberra Meeting Hall<br>
-Details and Registration: <a href="https://form.jotform.com/241528785579878" target="_blank">Click Here</a><br>
 Languages: English and Mandarin&nbsp;</span></font></p>
 </blockquote>
 
@@ -145,17 +144,7 @@ Languages: English and Mandarin&nbsp;</span></font></p>
 <font><span>Registration:&nbsp;</span></font><a href="https://docs.google.com/forms/d/e/1FAIpQLScs-1Xgc4YFXc22Q465C7BZjGGHPckq6kbx_0jxodPfS5dAww/viewform" target="_blank"><span><span>Click Here</span></span></a></p>
 </blockquote>
 
-<p><font><span>3. CAIRNS BLENDING CONFERENCE 2024</span></font></p>
-
-<blockquote>
-<p><font><span>Dates: 26th&nbsp;&amp; 28th&nbsp;of July</span></font><br>
-<font><span>Location: Ramada Hotel&nbsp;6/12 Florence St, Cairns City QLD 4870.</span></font><br>
-<span><span>Training Cost: $350&nbsp;per person<br>
-Schedule: Starts - Friday,7:30PM 26/07/24 Ends - Lord's Day, After lunch, 28/7/2024</span></span><br>
-<font><span>Registration: <a href="https://forms.gle/ESzEmWMrymgmwWSk9" target="_blank">Click here</a></span></font></p>
-</blockquote>
-
-<p><font><span>4. TEACHERS TRAINING &amp; PARENTS AND SERVING ONES CONFERENCE</span></font></p>
+<p><font><span>3. TEACHERS TRAINING &amp; PARENTS AND SERVING ONES CONFERENCE</span></font></p>
 
 <blockquote>
 <p><font><span><strong>Teachers Training</strong><br>
@@ -169,6 +158,14 @@ Registration: <a href="https://new.express.adobe.com/webpage/IW6YQikTZMOFx" targ
 Training&nbsp;Cost:&nbsp;$25 for those attending the Teachers' Training physically<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; $50 for those attending the Parents' and Serving Ones' Conference physically.<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; $10 for those attending on Zoom from Australia.</span></font></p>
+</blockquote>
+
+<p><font><span>4. CANBERRA BLENDING CONFERENCE</span></font></p>
+
+<blockquote>
+<p><font><span>Dates: 14-15th&nbsp;September</span></font><br>
+<font><span>Venue: Canberra Meeting Hall</span></font><br>
+<font><span>Registration and details:&nbsp;</span></font><span><span>C</span></span>oming soon</p>
 </blockquote>
 
 <p><font><span>5. ADELAIDE BLENDING CONFERENCE</span></font></p>
@@ -212,11 +209,22 @@ Preliminary Information: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a23
 <br>
 During the torch relay there will be 9 gospel trips visiting 11 French cities. There will be another 5 gospel trips during the Olympic Games.&nbsp;<br>
 <br>
-To read the report from&nbsp;Torch Replay Gospel Trip&nbsp;(TR 6) in Nantes&nbsp;<a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/7b790b8d-0f49-ba17-ecd6-7935b47a80d4/TR6Nantes.pdf" target="_blank">Click Here.</a><br>
-To read the report from&nbsp;Torch Replay Gospel Trip&nbsp;(TR 7) in Strasbourg <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/ae6c0177-4a11-c907-d1b6-e891627fa297/TR7_Strasbourg.pdf" target="_blank">Click Here</a><br>
-The coming Torch Replay Gospel Trip&nbsp;(TR 9) is at Paris, France&nbsp;from July 11&nbsp;to 17.<br>
+To read the report from&nbsp;Torch Replay Gospel Trip&nbsp;(TR 8) in Lille and Brussels&nbsp;<a href="https://view.flodesk.com/emails/6696df45b19e0d4104dcc81f" target="_blank">Click Here</a>.<br>
+To read the report from&nbsp;Torch Replay Gospel Trip&nbsp;(TR 9) in Palaiseau and Versailles&nbsp;<a href="https://view.flodesk.com/emails/669f29e8c83666629d44ecea" target="_blank">Click Here</a>.<br>
+Olympic gospel trip 2&nbsp;is currently underway in Paris, Lille, Rouen, Mertzig (Luxembourg), Geneva (Switzerland), Strasbourg, France&nbsp;from July 31&nbsp;to August 9.<br>
+<br>
+The report given at the 2024 July Semi-annual training can be <a href="https://www.youtube.com/watch?v=69Vf1f2Q4sY" target="_blank">viewed here</a>.<br>
 <br>
 For more details, please&nbsp;<span><a href="https://newsletters.lsm.org/having-this-ministry/issues/Apr2024-030/paris-olympics-gospel-trips.html" target="_blank">click here</a>.</span></p>
+</blockquote>
+
+<p><span>2. NEW ZEALAND&nbsp;SPRING SISTERS TRAINING&nbsp;</span></p>
+
+<blockquote>
+<p><font><span>Dates: 6-8th&nbsp;September</span></font><br>
+<font><span>Venue: Hamilton NZ and Zoom</span></font><br>
+<font><span>Registration and details: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/4b102200-a251-726e-2f5d-fe2c65706bf4/Sisters_Training_Letter_Spring_2024_1_.pdf" target="_blank">click here</a></span></font><br>
+&nbsp;</p>
 </blockquote>
 
                         </td>
@@ -377,7 +385,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13826444" target="_blank">Lord's Day schedule during the Video Training</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13826232" target="_blank">Announcement – 21/07/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13826088" target="_blank">Love feast tonight</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13851848" target="_blank">Announcement – 28/07/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13826444" target="_blank">Lord's Day schedule during the Video Training</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13826232" target="_blank">Announcement – 21/07/2024</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
