@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>4th&nbsp;August 2024</span></strong></p>
+<strong><span>11th&nbsp;August 2024</span></strong></p>
 </div>
 
                         </td>
@@ -64,9 +64,9 @@ nofollow: true
 <p><span>1. LORD'S DAY SCHEDULE DURING VIDEO TRAINING</span></p>
 
 <blockquote>
-<p>Praise the Lord for the upcoming video training. The brothers are full of joy to enter into these messages on&nbsp;<strong>Experiencing, Enjoying, and Expressing Christ</strong>.&nbsp;In the opening of the first message it was brought out that this topic is intrinsically related to the heart of the divine revelation and the central thought of God's eternal economy.<br>
+<p>Praise the Lord for the upcoming video training. The brothers are full of joy to enter into these messages on&nbsp;<strong>Experiencing, Enjoying, and Expressing Christ</strong>.&nbsp;In the opening of the first message, it was brought out that this topic is intrinsically related to the heart of the divine revelation and the central thought of God's eternal economy.<br>
 <br>
-Please see schedule below for&nbsp;Lord's Day during Video Training Open sessions (28/7, 4/8, 18/8 &amp; 25/8).&nbsp;<br>
+Please see schedule below for&nbsp;Lord's Day during Video Training Open sessions (18/8 &amp; 25/8).&nbsp;<br>
 <br>
 10:00am - Bread breaking meeting<br>
 10:45am - Break/morning Tea<br>
@@ -82,26 +82,32 @@ A&nbsp;<u><strong>love feast</strong></u>&nbsp;will follow the message. Please b
 
 <blockquote>
 <p><strong>English speaking - Thursday 7 pm</strong><br>
-Venue: Kaleen House<br>
-Topic: Christ Nullifying Death and Bringing Life and Incorruption to Light, and Our Remembering Jesus Christ, the Seed of David, Raised from the Dead<br>
+Venue: April Huang's&nbsp;House (Belconnen)<br>
+Topic: Being a Fully Equipped Man of God by Inhaling and Exhaling the Word of God as the Breath of God<br>
 <br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
-Venue: Victor and Bing's House (Watson)&nbsp;<br>
-Topic: Christ Nullifying Death and Bringing Life and Incorruption to Light, and Our Remembering Jesus Christ, the Seed of David, Raised from the Dead</p>
+Venue: Ming and Nadia's House&nbsp;(Palmerston)<br>
+Topic:&nbsp;Being a Fully Equipped Man of God by Inhaling and Exhaling the Word of God as the Breath of God</p>
 </blockquote>
 
-<p><span>3.&nbsp;HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
+<p><span>3. MEETING TO COORDINATE FOR CANBERRA CONFERENCE</span></p>
 
 <blockquote>
-<p>Week 4&nbsp;commencing Monday<br>
+<p>Dates: 25 August (after Video Training) and&nbsp;8 September (after prophesying meeting)</p>
+</blockquote>
+
+<p><span>4.&nbsp;HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
+
+<blockquote>
+<p>Week 5&nbsp;commencing Monday<br>
 HWMR title:&nbsp;Being a Vessel unto Honour, a Fully Equipped Man of God, by Being Empowered in the Grace Which Is in Christ Jesus to Fully Accomplish Our Ministry in the Unique Ministry of God’s Economy<br>
-Week 4&nbsp;title:&nbsp;Christ Nullifying Death and Bringing Life and Incorruption to Light, and Our Remembering Jesus Christ, the Seed of David, Raised from the Dead</p>
+Week 5&nbsp;title:&nbsp;Being a Fully Equipped Man of God by Inhaling and Exhaling the Word of God as the Breath of God</p>
 </blockquote>
 
-<p><font><span>4. LIFE STUDY PURSUIT</span></font></p>
+<p><font><span>5. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of First Corinthians Messages 27&nbsp;&amp; 28</p>
+<p>Life Study of First Corinthians Messages 29&nbsp;&amp; 30</p>
 </blockquote>
 
                         </td>
@@ -136,7 +142,15 @@ Venue: Church in Canberra Meeting Hall<br>
 Languages: English and Mandarin&nbsp;</span></font></p>
 </blockquote>
 
-<p><font><span>2. MONTHLY PERFECTING TRAINING&nbsp;2024</span></font></p>
+<p><font><span>2. CANBERRA BLENDING CONFERENCE</span></font></p>
+
+<blockquote>
+<p><font><span>Dates: 14-15th&nbsp;September</span></font><br>
+<font><span>Venue: Canberra Meeting Hall</span></font><br>
+<font><span>Registration and details: <a href="https://form.jotform.com/Churchincanberra/CBC2024" target="_blank">Click Here</a></span></font></p>
+</blockquote>
+
+<p><font><span>3. MONTHLY PERFECTING TRAINING&nbsp;2024</span></font></p>
 
 <blockquote>
 <p><font><span>Dates: 7&nbsp;September, and 16 November (There will be no training in the other months because of other conferences or the Bi-annual Perfecting Training)</span></font><br>
@@ -144,28 +158,20 @@ Languages: English and Mandarin&nbsp;</span></font></p>
 <font><span>Registration:&nbsp;</span></font><a href="https://docs.google.com/forms/d/e/1FAIpQLScs-1Xgc4YFXc22Q465C7BZjGGHPckq6kbx_0jxodPfS5dAww/viewform" target="_blank"><span><span>Click Here</span></span></a></p>
 </blockquote>
 
-<p><font><span>3. TEACHERS TRAINING &amp; PARENTS AND SERVING ONES CONFERENCE</span></font></p>
+<p><font><span>4. TEACHERS TRAINING &amp; PARENTS AND SERVING ONES CONFERENCE</span></font></p>
 
 <blockquote>
 <p><font><span><strong>Teachers Training</strong><br>
 Date: Friday, 30 August 2024<br>
 <strong>Parents' and Serving Ones' Conference</strong><br>
-Dates: Saturday, 31 August 2024 - Lord's day, 1 September 2024<br>
+Dates: Saturday, 31 August 2024 - Lord's Day, 1 September 2024<br>
 <br>
 Location:&nbsp;Physically held&nbsp;in Sydney and online, via Zoom.&nbsp;<br>
-Registration&nbsp;Deadline:&nbsp;Monday, 12 August 2023.<br>
+Registration&nbsp;Deadline:&nbsp;Monday, 5&nbsp;August 2023.<br>
 Registration: <a href="https://new.express.adobe.com/webpage/IW6YQikTZMOFx" target="_blank">C</a><a href="https://new.express.adobe.com/webpage/IW6YQikTZMOFx" target="_blank">lick Here</a><br>
 Training&nbsp;Cost:&nbsp;$25 for those attending the Teachers' Training physically<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; $50 for those attending the Parents' and Serving Ones' Conference physically.<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; $10 for those attending on Zoom from Australia.</span></font></p>
-</blockquote>
-
-<p><font><span>4. CANBERRA BLENDING CONFERENCE</span></font></p>
-
-<blockquote>
-<p><font><span>Dates: 14-15th&nbsp;September</span></font><br>
-<font><span>Venue: Canberra Meeting Hall</span></font><br>
-<font><span>Registration and details:&nbsp;</span></font><span><span>C</span></span>oming soon</p>
 </blockquote>
 
 <p><font><span>5. ADELAIDE BLENDING CONFERENCE</span></font></p>
@@ -302,7 +308,7 @@ Lord's Day 10:00am at the meeting hall and on Zoom (details below).</p>
 <p><span>B. COORDINATION MEETING&nbsp;</span></p>
 
 <blockquote>
-<p>Next Meeting: 18th&nbsp;August&nbsp;2024&nbsp;(after prophesying&nbsp;meeting)<br>
+<p>Next Meeting: 25&nbsp;August&nbsp;2024&nbsp;(after Video Training) and 8 September 2024 (after prophesying meeting)<br>
 Book: The Tree of Life - Message 5<br>
 Future Dates: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/images/b228da64-c30e-0dca-4808-00b288f708ad.png" target="_blank">click here</a><br>
 <br>
@@ -385,7 +391,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13851848" target="_blank">Announcement – 28/07/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13826444" target="_blank">Lord's Day schedule during the Video Training</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13826232" target="_blank">Announcement – 21/07/2024</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13873650" target="_blank">Announcement – 04/08/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13851848" target="_blank">Announcement – 28/07/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13826444" target="_blank">Lord's Day schedule during the Video Training</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
