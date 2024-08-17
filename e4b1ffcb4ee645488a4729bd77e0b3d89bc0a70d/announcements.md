@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>11th&nbsp;August 2024</span></strong></p>
+<strong><span>18th&nbsp;August 2024</span></strong></p>
 </div>
 
                         </td>
@@ -82,32 +82,41 @@ A&nbsp;<u><strong>love feast</strong></u>&nbsp;will follow the message. Please b
 
 <blockquote>
 <p><strong>English speaking - Thursday 7 pm</strong><br>
-Venue: April Huang's&nbsp;House (Belconnen)<br>
-Topic: Being a Fully Equipped Man of God by Inhaling and Exhaling the Word of God as the Breath of God<br>
+Venue: None (see farewell&nbsp;love feast below)<br>
+Topic:<br>
 <br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
-Venue: Ming and Nadia's House&nbsp;(Palmerston)<br>
-Topic:&nbsp;Being a Fully Equipped Man of God by Inhaling and Exhaling the Word of God as the Breath of God</p>
+Venue: Victor&nbsp;and Bing's House&nbsp;(Watson)<br>
+Topic:&nbsp;Being a Vessel unto Honor, and Pursuing Righteousness, Faith, Love, Peace with Those Who Call on&nbsp;the Lord out of a Pure Heart</p>
 </blockquote>
 
-<p><span>3. MEETING TO COORDINATE FOR CANBERRA CONFERENCE</span></p>
+<p><span>3. FAREWELL FOR FELIX &amp;&nbsp;GOSPEL MEETING</span></p>
+
+<blockquote>
+<p>Date: 22nd&nbsp;August<br>
+Time: 7pm<br>
+Venue: Meeting Hall<br>
+All saints are welcome to join a love feast to farewell Felix who will be returning&nbsp;to China. It would be good&nbsp; for the saints to share testimonies and have&nbsp;gospel preaching for the invited friends of Felix.</p>
+</blockquote>
+
+<p><span>4. MEETING TO COORDINATE FOR CANBERRA CONFERENCE</span></p>
 
 <blockquote>
 <p>Dates: 25 August (after Video Training) and&nbsp;8 September (after prophesying meeting)</p>
 </blockquote>
 
-<p><span>4.&nbsp;HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
+<p><span>5.&nbsp;HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
 <p>Week 5&nbsp;commencing Monday<br>
 HWMR title:&nbsp;Being a Vessel unto Honour, a Fully Equipped Man of God, by Being Empowered in the Grace Which Is in Christ Jesus to Fully Accomplish Our Ministry in the Unique Ministry of God’s Economy<br>
-Week 5&nbsp;title:&nbsp;Being a Fully Equipped Man of God by Inhaling and Exhaling the Word of God as the Breath of God</p>
+Week 5&nbsp;title:&nbsp;Being a Vessel unto Honor, and Pursuing Righteousness, Faith, Love, Peace with Those Who Call on&nbsp;the Lord out of a Pure Heart</p>
 </blockquote>
 
-<p><font><span>5. LIFE STUDY PURSUIT</span></font></p>
+<p><font><span>6. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of First Corinthians Messages 29&nbsp;&amp; 30</p>
+<p>Life Study of First Corinthians Messages 31&nbsp;&amp; 32</p>
 </blockquote>
 
                         </td>
@@ -167,7 +176,7 @@ Date: Friday, 30 August 2024<br>
 Dates: Saturday, 31 August 2024 - Lord's Day, 1 September 2024<br>
 <br>
 Location:&nbsp;Physically held&nbsp;in Sydney and online, via Zoom.&nbsp;<br>
-Registration&nbsp;Deadline:&nbsp;Monday, 5&nbsp;August 2023.<br>
+Registration&nbsp;Deadline: Sunday, 18&nbsp;August 2023.<br>
 Registration: <a href="https://new.express.adobe.com/webpage/IW6YQikTZMOFx" target="_blank">C</a><a href="https://new.express.adobe.com/webpage/IW6YQikTZMOFx" target="_blank">lick Here</a><br>
 Training&nbsp;Cost:&nbsp;$25 for those attending the Teachers' Training physically<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; $50 for those attending the Parents' and Serving Ones' Conference physically.<br>
@@ -181,7 +190,7 @@ Training&nbsp;Cost:&nbsp;$25 for those attending the Teachers' Training physical
 Locations:<br>
 Conference - Victor Harbour Recreation Centre, 5 George Main Rd, Victor Harbor, SA 5211<br>
 Accommodation - Bluff Resort Apartment, 123 Franklin Parade, Encounter Bay, SA 5211<br>
-Preliminary Information: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/7a926d05-3f33-596e-af8d-0ff3c444b7d1/20240511_204748.pdf" target="_blank">Click here</a></span></font></p>
+Registration is closed</span></font></p>
 </blockquote>
 
                         </td>
@@ -220,6 +229,7 @@ To read the report from&nbsp;Torch Replay Gospel Trip&nbsp;(TR 9) in Palaiseau a
 Olympic gospel trip 2&nbsp;is currently underway in Paris, Lille, Rouen, Mertzig (Luxembourg), Geneva (Switzerland), Strasbourg, France&nbsp;from July 31&nbsp;to August 9.<br>
 <br>
 The report given at the 2024 July Semi-annual training can be <a href="https://www.youtube.com/watch?v=69Vf1f2Q4sY" target="_blank">viewed here</a>.<br>
+Bible distribution during Paris Olympics can be <a href="https://9xdq3.r.sp1-brevo.net/mk/cl/f/sh/6rqJfgq8dINmOJmPlxVlHKc71eP/ykZqSl5lzN4N" target="_blank">viewed here</a>.<br>
 <br>
 For more details, please&nbsp;<span><a href="https://newsletters.lsm.org/having-this-ministry/issues/Apr2024-030/paris-olympics-gospel-trips.html" target="_blank">click here</a>.</span></p>
 </blockquote>
@@ -391,7 +401,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13873650" target="_blank">Announcement – 04/08/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13851848" target="_blank">Announcement – 28/07/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13826444" target="_blank">Lord's Day schedule during the Video Training</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13887394" target="_blank">Announcement – 11/08/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13873650" target="_blank">Announcement – 04/08/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13851848" target="_blank">Announcement – 28/07/2024</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
