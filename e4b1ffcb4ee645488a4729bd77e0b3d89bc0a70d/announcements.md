@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>18th&nbsp;August 2024</span></strong></p>
+<strong><span>25th&nbsp;August 2024</span></strong></p>
 </div>
 
                         </td>
@@ -61,12 +61,18 @@ nofollow: true
                         
                             <p><u><span>WEEKLY HIGHLIGHTS</span></u><span>&nbsp;</span></p>
 
-<p><span>1. LORD'S DAY SCHEDULE DURING VIDEO TRAINING</span></p>
+<p><span>1.&nbsp;COORDINATION MEETING&nbsp;FOR CANBERRA CONFERENCE</span></p>
+
+<blockquote>
+<p>Dates: 25 August&nbsp;and&nbsp;8 September (after love feast)</p>
+</blockquote>
+
+<p><span>2. LORD'S DAY SCHEDULE DURING VIDEO TRAINING</span></p>
 
 <blockquote>
 <p>Praise the Lord for the upcoming video training. The brothers are full of joy to enter into these messages on&nbsp;<strong>Experiencing, Enjoying, and Expressing Christ</strong>.&nbsp;In the opening of the first message, it was brought out that this topic is intrinsically related to the heart of the divine revelation and the central thought of God's eternal economy.<br>
 <br>
-Please see schedule below for&nbsp;Lord's Day during Video Training Open sessions (18/8 &amp; 25/8).&nbsp;<br>
+Please see schedule below for&nbsp;Lord's Day during Video Training Open sessions (25/8).&nbsp;<br>
 <br>
 10:00am - Bread breaking meeting<br>
 10:45am - Break/morning Tea<br>
@@ -78,45 +84,30 @@ We pray for more saints to be released to enjoy the open sessions of the trainin
 A&nbsp;<u><strong>love feast</strong></u>&nbsp;will follow the message. Please bring a dish.</p>
 </blockquote>
 
-<p><span>2.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
+<p><span>3.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
 
 <blockquote>
 <p><strong>English speaking - Thursday 7 pm</strong><br>
-Venue: None (see farewell&nbsp;love feast below)<br>
-Topic:<br>
+Venue: Brothers House (Gungahlin)<br>
+Topic:&nbsp;Jubilee week 3<br>
 <br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
-Venue: Victor&nbsp;and Bing's House&nbsp;(Watson)<br>
-Topic:&nbsp;Being a Vessel unto Honor, and Pursuing Righteousness, Faith, Love, Peace with Those Who Call on&nbsp;the Lord out of a Pure Heart</p>
+Venue: Ming and Nadia's House&nbsp;(Palmerston)<br>
+Topic:&nbsp;The Lord Being with Our Spirit to Be Our Empowering Grace, Enabling Us to Minister the Healthy Teaching of God’s Eternal Economy, Speaking with Healthy Words of the Grace of Life for the Organic Building Up of the Church as the Body of Christ.</p>
 </blockquote>
 
-<p><span>3. FAREWELL FOR FELIX &amp;&nbsp;GOSPEL MEETING</span></p>
+<p><span>4.&nbsp;HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Date: 22nd&nbsp;August<br>
-Time: 7pm<br>
-Venue: Meeting Hall<br>
-All saints are welcome to join a love feast to farewell Felix who will be returning&nbsp;to China. It would be good&nbsp; for the saints to share testimonies and have&nbsp;gospel preaching for the invited friends of Felix.</p>
-</blockquote>
-
-<p><span>4. MEETING TO COORDINATE FOR CANBERRA CONFERENCE</span></p>
-
-<blockquote>
-<p>Dates: 25 August (after Video Training) and&nbsp;8 September (after prophesying meeting)</p>
-</blockquote>
-
-<p><span>5.&nbsp;HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
-
-<blockquote>
-<p>Week 5&nbsp;commencing Monday<br>
+<p>Week 7&nbsp;commencing Monday<br>
 HWMR title:&nbsp;Being a Vessel unto Honour, a Fully Equipped Man of God, by Being Empowered in the Grace Which Is in Christ Jesus to Fully Accomplish Our Ministry in the Unique Ministry of God’s Economy<br>
-Week 5&nbsp;title:&nbsp;Being a Vessel unto Honor, and Pursuing Righteousness, Faith, Love, Peace with Those Who Call on&nbsp;the Lord out of a Pure Heart</p>
+Week 7&nbsp;title:&nbsp;The Lord Being with Our Spirit to Be Our Empowering Grace, Enabling Us to Minister the Healthy Teaching of God’s Eternal Economy, Speaking with Healthy Words of the Grace of Life for the Organic Building Up of the Church as the Body of Christ.</p>
 </blockquote>
 
-<p><font><span>6. LIFE STUDY PURSUIT</span></font></p>
+<p><font><span>5. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of First Corinthians Messages 31&nbsp;&amp; 32</p>
+<p>Life Study of First Corinthians Messages 31&nbsp;&amp; 32&nbsp;</p>
 </blockquote>
 
                         </td>
@@ -163,7 +154,7 @@ Languages: English and Mandarin&nbsp;</span></font></p>
 
 <blockquote>
 <p><font><span>Dates: 7&nbsp;September, and 16 November (There will be no training in the other months because of other conferences or the Bi-annual Perfecting Training)</span></font><br>
-<font><span>Venue: Meeting Hall Cluster</span></font><br>
+<font><span>Venue: Meeting Hall Cluster (No cluster in meeting hall on 7th September).</span></font><br>
 <font><span>Registration:&nbsp;</span></font><a href="https://docs.google.com/forms/d/e/1FAIpQLScs-1Xgc4YFXc22Q465C7BZjGGHPckq6kbx_0jxodPfS5dAww/viewform" target="_blank"><span><span>Click Here</span></span></a></p>
 </blockquote>
 
@@ -176,20 +167,13 @@ Date: Friday, 30 August 2024<br>
 Dates: Saturday, 31 August 2024 - Lord's Day, 1 September 2024<br>
 <br>
 Location:&nbsp;Physically held&nbsp;in Sydney and online, via Zoom.&nbsp;<br>
-Registration&nbsp;Deadline: Sunday, 18&nbsp;August 2023.<br>
-Registration: <a href="https://new.express.adobe.com/webpage/IW6YQikTZMOFx" target="_blank">C</a><a href="https://new.express.adobe.com/webpage/IW6YQikTZMOFx" target="_blank">lick Here</a><br>
-Training&nbsp;Cost:&nbsp;$25 for those attending the Teachers' Training physically<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; $50 for those attending the Parents' and Serving Ones' Conference physically.<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; $10 for those attending on Zoom from Australia.</span></font></p>
+Registration: Closed</span></font></p>
 </blockquote>
 
 <p><font><span>5. ADELAIDE BLENDING CONFERENCE</span></font></p>
 
 <blockquote>
 <p><font><span>Date: 27th - 29th&nbsp;September&nbsp;2024<br>
-Locations:<br>
-Conference - Victor Harbour Recreation Centre, 5 George Main Rd, Victor Harbor, SA 5211<br>
-Accommodation - Bluff Resort Apartment, 123 Franklin Parade, Encounter Bay, SA 5211<br>
 Registration is closed</span></font></p>
 </blockquote>
 
@@ -224,12 +208,9 @@ Registration is closed</span></font></p>
 <br>
 During the torch relay there will be 9 gospel trips visiting 11 French cities. There will be another 5 gospel trips during the Olympic Games.&nbsp;<br>
 <br>
-To read the report from&nbsp;Torch Replay Gospel Trip&nbsp;(TR 8) in Lille and Brussels&nbsp;<a href="https://view.flodesk.com/emails/6696df45b19e0d4104dcc81f" target="_blank">Click Here</a>.<br>
-To read the report from&nbsp;Torch Replay Gospel Trip&nbsp;(TR 9) in Palaiseau and Versailles&nbsp;<a href="https://view.flodesk.com/emails/669f29e8c83666629d44ecea" target="_blank">Click Here</a>.<br>
-Olympic gospel trip 2&nbsp;is currently underway in Paris, Lille, Rouen, Mertzig (Luxembourg), Geneva (Switzerland), Strasbourg, France&nbsp;from July 31&nbsp;to August 9.<br>
+Olympic gospel trip 4&nbsp;is currently underway in Paris, Lille, Rouen, Mertzig (Luxembourg)&nbsp;from&nbsp;August 20-29.<br>
 <br>
 The report given at the 2024 July Semi-annual training can be <a href="https://www.youtube.com/watch?v=69Vf1f2Q4sY" target="_blank">viewed here</a>.<br>
-Bible distribution during Paris Olympics can be <a href="https://9xdq3.r.sp1-brevo.net/mk/cl/f/sh/6rqJfgq8dINmOJmPlxVlHKc71eP/ykZqSl5lzN4N" target="_blank">viewed here</a>.<br>
 <br>
 For more details, please&nbsp;<span><a href="https://newsletters.lsm.org/having-this-ministry/issues/Apr2024-030/paris-olympics-gospel-trips.html" target="_blank">click here</a>.</span></p>
 </blockquote>
@@ -238,9 +219,27 @@ For more details, please&nbsp;<span><a href="https://newsletters.lsm.org/having-
 
 <blockquote>
 <p><font><span>Dates: 6-8th&nbsp;September</span></font><br>
-<font><span>Venue: Hamilton NZ and Zoom</span></font><br>
-<font><span>Registration and details: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/4b102200-a251-726e-2f5d-fe2c65706bf4/Sisters_Training_Letter_Spring_2024_1_.pdf" target="_blank">click here</a></span></font><br>
-&nbsp;</p>
+<font><span>Venue: Hamilton NZ and Zoom (possible local cluster in Canberra meeting hall on Saturday)</span></font><br>
+<font><span>Registration and details: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/4b102200-a251-726e-2f5d-fe2c65706bf4/Sisters_Training_Letter_Spring_2024_1_.pdf" target="_blank">click here</a></span></font></p>
+</blockquote>
+
+<p><span>3. BROTHER RAY MACNEE’S DEPARTURE TO BE WITH THE LORD</span></p>
+
+<blockquote>
+<p><font><span>At around 8 p.m. on the 22nd&nbsp;of August 2024, our dear brother Ray Macnee went to be with the Lord after a two-year battle with cancer.<br>
+We are very thankful to the Lord for giving us such a gift to the Body. We pray that the Lord will cover and supply his family during this time.<br>
+There will be a funeral and testimony meeting on Friday 6 September. Details of this are given below:<br>
+<br>
+<strong>Friday 6 September, 2024</strong><br>
+Claudelands Events Centre, Hamilton<br>
+Exhibition Hall A.&nbsp;<br>
+Parking off Brooklyn Road, Gate 4<br>
+&nbsp; &nbsp; &nbsp;12:30 p.m. – 2:30 p.m. - Funeral service<br>
+&nbsp; &nbsp; &nbsp;2:30 p.m. – 4:00 p.m. - Light refreshments and private burial<br>
+&nbsp; &nbsp; &nbsp;4:00 p.m. – 6:00 p.m. - Testimony meeting with open sharing<br>
+<br>
+There will be an opportunity for saints to share a short testimony regarding Brother Ray during the 4:00 p.m. testimony meeting.<br>
+The funeral service and testimony meeting will also be available online via Zoom. Please visit&nbsp;www.nztc.ac.nz&nbsp;on the day for these Zoom details.</span></font></p>
 </blockquote>
 
                         </td>
@@ -401,7 +400,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13887394" target="_blank">Announcement – 11/08/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13873650" target="_blank">Announcement – 04/08/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13851848" target="_blank">Announcement – 28/07/2024</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13887560" target="_blank">Announcement – 18/08/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13887394" target="_blank">Announcement – 11/08/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13873650" target="_blank">Announcement – 04/08/2024</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
