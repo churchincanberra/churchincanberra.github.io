@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>22nd&nbsp;September&nbsp;2024</span></strong></p>
+<strong><span>29th&nbsp;September&nbsp;2024</span></strong></p>
 </div>
 
                         </td>
@@ -73,26 +73,26 @@ This&nbsp;meeting&nbsp;is open to saints serving (or endeavouring to serve) and 
 
 <blockquote>
 <p><strong>English speaking&nbsp;</strong><br>
-Venue: Lyons house (new corporate living)<br>
-Topic: The Intrinsic Significance and Revelation of the Compound Ointment as the Holy Anointing Oil—a Full Type of the Compound, All-inclusive Spirit of the Processed Triune God<br>
+Venue: Billy and Len's place (Banks)<br>
+Topic: Abiding in Christ as the True Vine<br>
 <br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
 Venue: Victor and Bing's&nbsp;Place (Watson)<br>
-Topic: The Intrinsic Significance and Revelation of the Compound Ointment as the Holy Anointing Oil—a Full Type of the Compound, All-inclusive Spirit of the Processed Triune God</p>
+Topic: Abiding in Christ as the True Vine</p>
 </blockquote>
 
 <p><span>3.&nbsp;HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 3&nbsp;commencing Monday<br>
+<p>Week 4&nbsp;commencing Monday<br>
 HWMR title:&nbsp;The Christian Life<br>
-Week 3&nbsp;title: The Intrinsic Significance and Revelation of the Compound Ointment as the Holy Anointing Oil—a Full Type of the Compound, All-inclusive Spirit of the Processed Triune God</p>
+Week 4&nbsp;title: Abiding in Christ as the True Vine</p>
 </blockquote>
 
 <p><font><span>4. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of First Corinthians Messages 39&nbsp;&amp; 40</p>
+<p>Life Study of First Corinthians Messages 41&nbsp;&amp; 42</p>
 </blockquote>
 
                         </td>
@@ -356,7 +356,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13888533" target="_blank">Brother's House Move</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13888257" target="_blank">Announcement – 08/09/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13887994" target="_blank">Announcement – 01/09/2024</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13888755" target="_blank">Announcement – 22/09/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13888533" target="_blank">Brother's House Move</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13888257" target="_blank">Announcement – 08/09/2024</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
