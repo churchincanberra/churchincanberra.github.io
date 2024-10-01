@@ -1,7 +1,7 @@
 {
 	"devDependencies": {
 		"globals": "^15.9.0",
-		"jsdom": "^25.0.0",
+		"jsdom": "^25.0.1",
 		"node-fetch": "^3.3.2"
 	}
 }
