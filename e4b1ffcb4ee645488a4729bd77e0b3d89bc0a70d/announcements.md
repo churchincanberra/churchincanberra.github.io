@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>6th October&nbsp;2024</span></strong></p>
+<strong><span>13th October&nbsp;2024</span></strong></p>
 </div>
 
                         </td>
@@ -61,45 +61,52 @@ nofollow: true
                         
                             <p><u><span>WEEKLY HIGHLIGHTS</span></u><span>&nbsp;</span></p>
 
-<p><span>1.&nbsp;</span><font><span>BIANNUAL PERFECTING TRAINING REGISTRATION DEADLINE</span></font></p>
+<p><span>1. PAUL &amp; ESTER&nbsp;HON VISITATION</span></p>
 
 <blockquote>
-<p>There will be a cluster in Canberra joining this training via Zoom. Register as soon as possible (the deadline is today). Please see the details below.<br>
+<p>Paul and Ester Hon will be visiting&nbsp;Canberra after the Biannual Perfecting Training in Brisbane.&nbsp;The schedule during their visit is as follows.<br>
 <br>
-Date: 19&nbsp;- 20&nbsp;October&nbsp;2024<br>
-Locality: Brisbane (or Zoom cluster in CBR)<br>
-Full details and registration:&nbsp;<a href="https://churchinbrisbane.com/bpt" target="_blank">Click Here</a><br>
+<strong>Wednesday 23rd October</strong><br>
+7pm - Fellowship at Chinese home meeting (all Chinese speaking saints welcome to attend). Location to be confirmed.<br>
 <br>
-<strong>Proposed location for local cluster</strong><br>
-Saturday sessions: Meeting Hall<br>
-LD Sessions: Lyons corporate living<br>
-Further details regarding location, times and meals will be given close to the date.</p>
+<strong>Thursday 24th&nbsp;October</strong><br>
+10am - 5pm - Various opportunities for saints to make appointments for fellowship (Please contact Mark Lam to arrange a specific time).<br>
+7pm - Love feast and fellowship at meeting hall.<br>
+<br>
+<strong>Friday&nbsp;25th&nbsp;October</strong><br>
+Depart</p>
 </blockquote>
 
-<p><span>2.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
+<p><span>2.&nbsp;NO COORDINAITON MEETING TODAY</span></p>
+
+<blockquote>
+<p>The coordination meeting scheduled for today has been postponed. The next meeting will be the 17th of November.</p>
+</blockquote>
+
+<p><span>3.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
 
 <blockquote>
 <p><strong>English speaking&nbsp;</strong><br>
-Venue: Kaleen House<br>
-Topic: Living the Christian Life by Enjoying the Flow of Life with the Ministry of Life out of and for the Magnificent House of God<br>
+Venue: Lyons House<br>
+Topic: The Triune God in Christ Being Life to Us by Shining in Our Hearts<br>
 <br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
-Venue: Ming&nbsp;and Nadia's&nbsp;Place (Palmerston)<br>
-Topic: Living the Christian Life by Enjoying the Flow of Life with the Ministry of Life out of and for the Magnificent House of God</p>
+Venue: Victor and Bing's Place (Watson)<br>
+Topic: The Triune God in Christ Being Life to Us by Shining in Our Hearts</p>
 </blockquote>
 
-<p><span>3.&nbsp;HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
+<p><span>4.&nbsp;HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 5&nbsp;commencing Monday<br>
+<p>Week 6&nbsp;commencing Monday<br>
 HWMR title:&nbsp;The Christian Life<br>
-Week 5&nbsp;title: Living the Christian Life by Enjoying the Flow of Life with the Ministry of Life out of and for the Magnificent House of God</p>
+Week 6&nbsp;title: The Triune God in Christ Being Life to Us by Shining in Our Hearts</p>
 </blockquote>
 
-<p><font><span>4. LIFE STUDY PURSUIT</span></font></p>
+<p><font><span>5. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of First Corinthians Messages 43&nbsp;&amp; 44</p>
+<p>Life Study of First Corinthians Messages 45&nbsp;&amp; 46</p>
 </blockquote>
 
                         </td>
@@ -132,9 +139,9 @@ Week 5&nbsp;title: Living the Christian Life by Enjoying the Flow of Life with t
 Locality: Brisbane<br>
 Details and Registration: <a href="https://churchinbrisbane.com/bpt" target="_blank">Click Here</a><br>
 <br>
-For Airport pickup and drop Off:<br>
-Friday 18 Oct: Arrive by 5pm or 8pm<br>
-Lord's Day 20 Oct: Depart after 7:30pm</span></font></p>
+<strong>Local cluster</strong><br>
+Location: All sessions in the meeting hall<br>
+Further details regarding times and meals will be given directly to those registered.</span></font></p>
 </blockquote>
 
 <p><font><span>2. CAMPUS WORK FELLOWSHIP</span></font></p>
@@ -270,7 +277,8 @@ Lord's Day 10:00am at the meeting hall and on Zoom (details below).</p>
 <p><span>B. COORDINATION MEETING&nbsp;</span></p>
 
 <blockquote>
-<p>Next Meeting: 13&nbsp;October&nbsp;2024 (after lovefeast)<br>
+<p>Next Meeting: 17&nbsp;November 2024 (after lovefeast)<br>
+(meeting on October 13 postponed).<br>
 Future Dates: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/images/b228da64-c30e-0dca-4808-00b288f708ad.png" target="_blank">click here</a><br>
 <br>
 This&nbsp;meeting&nbsp;is open to saints serving (or endeavouring to serve) and is predominantly a time to enjoy the Lord so that we may be built up together in our service. There will be Zoom available for those who cannot join physically.</p>
@@ -352,7 +360,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13889136" target="_blank">Biannual perfecting training registration deadline</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13889005" target="_blank">Announcement – 29/09/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13888755" target="_blank">Announcement – 22/09/2024</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13889255" target="_blank">Announcement – 06/10/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13889136" target="_blank">Biannual perfecting training registration deadline</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13889005" target="_blank">Announcement – 29/09/2024</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
