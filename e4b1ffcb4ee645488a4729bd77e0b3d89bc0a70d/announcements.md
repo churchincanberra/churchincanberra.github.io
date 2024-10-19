@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>13th October&nbsp;2024</span></strong></p>
+<strong><span>20th October&nbsp;2024</span></strong></p>
 </div>
 
                         </td>
@@ -61,52 +61,61 @@ nofollow: true
                         
                             <p><u><span>WEEKLY HIGHLIGHTS</span></u><span>&nbsp;</span></p>
 
-<p><span>1. PAUL &amp; ESTER&nbsp;HON VISITATION</span></p>
+<p><font><span>1. </span></font><span>&nbsp;SCHEDULE OF LORD'S TABLE MEETING (20th October)</span></p>
 
 <blockquote>
-<p>Paul and Ester Hon will be visiting&nbsp;Canberra after the Biannual Perfecting Training in Brisbane.&nbsp;The schedule during their visit is as follows.<br>
+<p><font><span>10:00 - 10:45am Bread breaking meeting<br>
+10:45 - 11am: Announcement and break<br>
+11am - 12:30pm: Open Session (Biannual Perfecting Training)</span></font><br>
 <br>
-<strong>Wednesday 23rd October</strong><br>
-7pm - Fellowship at Chinese home meeting (all Chinese speaking saints welcome to attend). Location to be confirmed.<br>
+<font><span>Zoom Link:</span></font><br>
+<a href="https://us02web.zoom.us/j/88386714225?pwd=L2d2SE5WV3ltbjNVMjUrYjYrYm9OUT09" target="_blank">https://us02web.zoom.us/j/88386714225?pwd=L2d2SE5WV3ltbjNVMjUrYjYrYm9OUT09</a><br>
 <br>
-<strong>Thursday 24th&nbsp;October</strong><br>
-10am - 5pm - Various opportunities for saints to make appointments for fellowship (Please contact Mark Lam to arrange a specific time).<br>
-7pm - Love feast and fellowship at meeting hall.<br>
-<br>
-<strong>Friday&nbsp;25th&nbsp;October</strong><br>
-Depart</p>
+<font><span>Meeting Id: 883 8671 4225<br>
+Passcode 144000</span></font></p>
 </blockquote>
 
-<p><span>2.&nbsp;NO COORDINAITON MEETING TODAY</span></p>
+<p><span>2. PAUL &amp; ESTHER&nbsp;HON's VISITATION</span></p>
 
 <blockquote>
-<p>The coordination meeting scheduled for today has been postponed. The next meeting will be the 17th of November.</p>
+<p>Paul and Esther Hon will be visiting&nbsp;Canberra after the Biannual Perfecting Training in Brisbane.&nbsp;The schedule during their visit is as follows.<br>
+<br>
+<strong>Wednesday 23rd October</strong><br>
+7pm - Fellowship at Chinese home meeting (all Chinese speaking saints welcome to attend). Ming &amp; Nadia's place (Palmerston)<br>
+<br>
+<strong>Thursday 24th&nbsp;October</strong><br>
+10am - 5pm:&nbsp;Various opportunities for saints to make appointments for fellowship (Please contact Mark Lam to arrange a specific time).<br>
+7pm:&nbsp;Love feast and fellowship at meeting hall.<br>
+<br>
+<strong>Friday&nbsp;25th&nbsp;October</strong><br>
+8:30am: Breakfast with the couple&nbsp;at Lyons House (94 Launceston St. Lyons). This is open to all&nbsp;sisters&nbsp;who are available<br>
+10am: &nbsp;Sisters&nbsp;can have fellowship with Sister Esther<br>
+11:30am: Drive&nbsp;to Sydney</p>
 </blockquote>
 
 <p><span>3.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
 
 <blockquote>
 <p><strong>English speaking&nbsp;</strong><br>
-Venue: Lyons House<br>
-Topic: The Triune God in Christ Being Life to Us by Shining in Our Hearts<br>
+No small group meeting this week. There will be love feast in the meeting hall together with Brother Paul Hon &amp; Sister Esther<br>
 <br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
-Venue: Victor and Bing's Place (Watson)<br>
-Topic: The Triune God in Christ Being Life to Us by Shining in Our Hearts</p>
+Venue: Ming&nbsp;and Nadia's Place (Palmerston)<br>
+Topic: Christ as the Great Light, the One Who Has the Authority, the Physician, The Bridegroom, the Unfulled Cloth, and the New Wine</p>
 </blockquote>
 
 <p><span>4.&nbsp;HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 6&nbsp;commencing Monday<br>
-HWMR title:&nbsp;The Christian Life<br>
-Week 6&nbsp;title: The Triune God in Christ Being Life to Us by Shining in Our Hearts</p>
+<p>Week 1&nbsp;commencing Monday<br>
+HWMR Title: Experiencing, Enjoying and Expressing Christ<br>
+Week 1&nbsp;Title: Christ as the Great Light, the One Who Has the Authority, the Physician, The Bridegroom, the Unfulled Cloth, and the New Wine</p>
 </blockquote>
 
 <p><font><span>5. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of First Corinthians Messages 45&nbsp;&amp; 46</p>
+<p>Life Study of First Corinthians Messages 47&nbsp;&amp; 48</p>
 </blockquote>
 
                         </td>
@@ -165,7 +174,12 @@ Details and Registration: Coming Soon</span></font></p>
 <blockquote>
 <p><font><span>Date: 20&nbsp;- 24&nbsp;December 2024<br>
 Locality: Sydney<br>
-Details and Registration: Coming Soon</span></font></p>
+<br>
+<strong>National Blending Conference</strong><br>
+Details and Registration: <a href="https://churchinsydney.org/nbc" target="_blank">Click Here</a></span></font><br>
+<br>
+<font><span><strong>Summer School of Truth</strong><br>
+Details and Registration: <a href="https://churchinsydney.org/ssot" target="_blank">Click Here</a></span></font></p>
 </blockquote>
 
                         </td>
@@ -360,7 +374,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13889255" target="_blank">Announcement – 06/10/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13889136" target="_blank">Biannual perfecting training registration deadline</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13889005" target="_blank">Announcement – 29/09/2024</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13889431" target="_blank">Announcement – 13/10/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13889255" target="_blank">Announcement – 06/10/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13889136" target="_blank">Biannual perfecting training registration deadline</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
