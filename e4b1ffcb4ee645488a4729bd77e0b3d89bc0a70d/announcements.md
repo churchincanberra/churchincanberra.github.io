@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>27th October&nbsp;2024</span></strong></p>
+<strong><span>3rd November&nbsp;2024</span></strong></p>
 </div>
 
                         </td>
@@ -65,26 +65,26 @@ nofollow: true
 
 <blockquote>
 <p><strong>English speaking -Thursday 7 pm</strong><br>
-Venue: Billy and Len's house<br>
-Topic: Christ as the One with the Heavenly-ruled Deeds, Our Shepherd, Our Rest, and the Sower<br>
+Venue: April Huang's&nbsp;place (Phillip)&nbsp;&nbsp;<br>
+Topic: Discipling All the Nations by Baptizing Them into the Name of the Father, the Son, and the Holy Spirit<br>
 <br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
-Venue: Victor and Bing's house&nbsp;(Watson)<br>
-Topic: Christ as the One with the Heavenly-ruled Deeds, Our Shepherd, Our Rest, and the Sower</p>
+Venue: Ming&nbsp;and Nadia's house&nbsp;(Palmerston)<br>
+Topic: Discipling All the Nations by Baptizing Them into the Name of the Father, the Son, and the Holy Spirit</p>
 </blockquote>
 
 <p><span>2.&nbsp;HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 2&nbsp;commencing Monday<br>
+<p>Week 3&nbsp;commencing Monday<br>
 HWMR Title: Experiencing, Enjoying and Expressing Christ<br>
-Week 2&nbsp;Title: Christ as the One with the Heavenly-ruled Deeds, Our Shepherd, Our Rest, and the Sower</p>
+Week 3&nbsp;Title: Discipling All the Nations by Baptizing Them into the Name of the Father, the Son, and the Holy Spirit</p>
 </blockquote>
 
 <p><font><span>3. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of First Corinthians Messages 49&nbsp;&amp; 50</p>
+<p>Life Study of First Corinthians Messages 51&nbsp;&amp; 52</p>
 </blockquote>
 
                         </td>
@@ -339,7 +339,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13889658" target="_blank">Announcement – 20/10/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13889431" target="_blank">Announcement – 13/10/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13889255" target="_blank">Announcement – 06/10/2024</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13889882" target="_blank">Announcement – 27/10/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13889658" target="_blank">Announcement – 20/10/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13889431" target="_blank">Announcement – 13/10/2024</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
