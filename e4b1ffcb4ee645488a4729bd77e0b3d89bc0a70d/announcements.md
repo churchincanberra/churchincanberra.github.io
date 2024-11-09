@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>3rd November&nbsp;2024</span></strong></p>
+<strong><span>10th November&nbsp;2024</span></strong></p>
 </div>
 
                         </td>
@@ -65,26 +65,34 @@ nofollow: true
 
 <blockquote>
 <p><strong>English speaking -Thursday 7 pm</strong><br>
-Venue: April Huang's&nbsp;place (Phillip)&nbsp;&nbsp;<br>
-Topic: Discipling All the Nations by Baptizing Them into the Name of the Father, the Son, and the Holy Spirit<br>
+Venue: Lyons House (Lyons)<br>
+Topic: The Kingdom as the Subduing of Rebellion and as the Transfiguration of the Lord Jesus<br>
 <br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
-Venue: Ming&nbsp;and Nadia's house&nbsp;(Palmerston)<br>
-Topic: Discipling All the Nations by Baptizing Them into the Name of the Father, the Son, and the Holy Spirit</p>
+Venue: Victor and Bing's&nbsp;house&nbsp;(Watson)<br>
+Topic: The Kingdom as the Subduing of Rebellion and as the Transfiguration of the Lord Jesus</p>
+</blockquote>
+
+<p><span>2.&nbsp;NEXT&nbsp;LOVEFEAST&nbsp;AT THE HALL (FOLLOWED BY COORDINATION MEETING)</span></p>
+
+<blockquote>
+<p>Date: 17th&nbsp;November<br>
+Venue: Meeting Hall&nbsp;(after prophesying meeting)<br>
+All saints are welcome to join the&nbsp;love&nbsp;feast. Let's take this opportunity to cherish one another while enjoying mutual fellowship.&nbsp;The&nbsp;love&nbsp;feast&nbsp;will be followed by the monthly coordination meeting for those who wish to join.</p>
 </blockquote>
 
 <p><span>2.&nbsp;HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 3&nbsp;commencing Monday<br>
+<p>Week 4&nbsp;commencing Monday<br>
 HWMR Title: Experiencing, Enjoying and Expressing Christ<br>
-Week 3&nbsp;Title: Discipling All the Nations by Baptizing Them into the Name of the Father, the Son, and the Holy Spirit</p>
+Week 4&nbsp;Title: The Kingdom as the Subduing of Rebellion and as the Transfiguration of the Lord Jesus</p>
 </blockquote>
 
 <p><font><span>3. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of First Corinthians Messages 51&nbsp;&amp; 52</p>
+<p>Life Study of First Corinthians Messages 53&nbsp;&amp; 54</p>
 </blockquote>
 
                         </td>
@@ -205,17 +213,24 @@ Details and Registration: <a href="https://nztc.ac.nz/jubilee/" target="_blank">
                             <p><span><u>AUDIO&nbsp;AND VIDEO RECORDINGS&nbsp;FROM RECENT TRAININGS AND CONFERENCES</u>&nbsp;</span><br>
 &nbsp;</p>
 
-<p><span>1.&nbsp;</span>Patterns and Examples of Women in the Bible (<span>Sisters' Training New Zealand)</span></p>
+<p><span>1. Fellowship at recent ITERO (see topics below)</span></p>
 
 <blockquote>
-<p>General Subject: Patterns and Examples of Women in the Bible<br>
-Messages: <a href="https://nztc.ac.nz/sisters-training-recordings/" target="_blank">click here</a></p>
+<p>Topics:<br>
+&nbsp; &nbsp; Lord’s table meeting (the recording does not contain this part)<br>
+&nbsp; &nbsp; Fellowship from brother Kon Kangas<br>
+&nbsp; &nbsp; Fellowship on the Lord’s move in France<br>
+&nbsp; &nbsp; Fellowship on the Lord’s move in CEEB region<br>
+&nbsp; &nbsp; Fellowship on the Lord’s move in Poland<br>
+&nbsp; &nbsp; Fellowship from brother Joe Davis<br>
+<br>
+Fellowship: <a href="https://itero2024warsaw.org/" target="_blank">click here</a></p>
 </blockquote>
 
-<p><span>2.&nbsp;Encouraging the saints to get into the Life Studies (By Brother Minoru Chen)</span></p>
+<p><span>2.&nbsp;Fellowship regarding the Lord's move in Central and Eastern Europe and the Balkans</span></p>
 
 <blockquote>
-<p>LSM app for reading 500 life-studies is ready to download <a href="https://play.google.com/store/apps/details?id=com.eng500ls.lsm&amp;hl=en_AU&amp;gl=US" target="_blank">click here</a>.</p>
+<p>Fellowship:&nbsp;<a href="https://churchesceeb.org/reports/2024-reports-english/" target="_blank">click here</a></p>
 </blockquote>
 
                         </td>
@@ -339,7 +354,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13889882" target="_blank">Announcement – 27/10/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13889658" target="_blank">Announcement – 20/10/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13889431" target="_blank">Announcement – 13/10/2024</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13890071" target="_blank">Announcement – 03/11/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13889882" target="_blank">Announcement – 27/10/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13889658" target="_blank">Announcement – 20/10/2024</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
