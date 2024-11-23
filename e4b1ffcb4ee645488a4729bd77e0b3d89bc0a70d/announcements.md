@@ -33,7 +33,9 @@ nofollow: true
                         <td>
                         
                             <div>
-<h2>Thursday meeting location and moving to Friday</h2>
+<hr>
+<p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
+<strong><span>24th November&nbsp;2024</span></strong></p>
 </div>
 
                         </td>
@@ -57,16 +59,46 @@ nofollow: true
                         
                         <td>
                         
-                            <p>Dear saints,&nbsp;<br>
-&nbsp;</p>
+                            <p><u><span>WEEKLY HIGHLIGHTS</span></u><span>&nbsp;</span></p>
 
-<p>This weeks English&nbsp;small group meeting (the 21st) will be moved to Jonathan and Marie's House (Braddon).<br>
+<p><span>1. CHERRY PICKING</span></p>
+
+<blockquote>
+<p>Date: 7th December 2024<br>
+Time: 10:30am<br>
+Location: Allambie Orchard<br>
+Address: 3725 Olympic Hwy, Wombat NSW 2587<br>
+Detailed instructions how to get there:<br>
+<a href="https://www.allambieorchard.com/howtogethere" target="_blank">https://www.allambieorchard.com/howtogethere</a><br>
+We aim to have picnic style lunch at 12 noon near the lake.<br>
+Potlock - saints are encourage to bring a dish for sharing</p>
+</blockquote>
+
+<p><span>2.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
+
+<blockquote>
+<p><strong>English speaking -Friday&nbsp;7 pm</strong><br>
+Venue: Lyon's&nbsp;House<br>
+Topic: Christ as the Word of God<br>
 <br>
-In subsequent weeks the meeting will be moved to Fridays. The first Friday meeting will be on the 29th. The change of&nbsp;day is due to continued clashes with other meetings and fellowships on Thursdays.<br>
-<br>
-In Him,<br>
-<br>
-The Brothers in Canberra</p>
+<strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
+Venue: Ming and Nadia's House (Palmerston)<br>
+Topic: Christ as the Word of God</p>
+</blockquote>
+
+<p><span>3.&nbsp;HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
+
+<blockquote>
+<p>Week 6&nbsp;commencing Monday<br>
+HWMR Title: Experiencing, Enjoying and Expressing Christ<br>
+Week 6&nbsp;Title: Christ as the Word of God</p>
+</blockquote>
+
+<p><font><span>4. LIFE STUDY PURSUIT</span></font></p>
+
+<blockquote>
+<p>Life Study of First Corinthians Messages 57&nbsp;&amp; 58</p>
+</blockquote>
 
                         </td>
                     </tr>
@@ -77,7 +109,232 @@ The Brothers in Canberra</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13890461" target="_blank">Announcement – 17/11/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13890327" target="_blank">Wagga Blending 23th-24th November 2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13890289" target="_blank">Announcement – 10/11/2024</a></div>
+</table><table>
+    <tbody>
+        <tr>
+            <td>
+              	
+			    
+				
+                <table>
+                    <tbody><tr>
+                        
+                        <td>
+                        
+                            <p><span><u>TRAINING &amp; CONFERENCES</u>&nbsp;</span></p>
+
+<p><font><span>1. NATIONAL BLENDING CONFERENCE AND SUMMER SCHOOL OF TRUTH</span></font></p>
+
+<blockquote>
+<p><font><span>Date: 20&nbsp;- 24&nbsp;December 2024<br>
+Locality: Sydney<br>
+<br>
+<strong>National Blending Conference</strong><br>
+Details and Registration: <a href="https://churchinsydney.org/nbc" target="_blank">Click Here</a></span></font><br>
+<br>
+<font><span><strong>Summer School of Truth</strong><br>
+Details and Registration: <a href="https://churchinsydney.org/ssot" target="_blank">Click Here</a></span></font></p>
+</blockquote>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				
+                
+				
+            </td>
+        </tr>
+    </tbody>
+</table><table>
+    <tbody>
+        <tr>
+            <td>
+              	
+			    
+				
+                <table>
+                    <tbody><tr>
+                        
+                        <td>
+                        
+                            <p><a href="http://INTERNATIONAL ANNOUNCEMENTS" target="_blank"><u><span>INTERNATIONAL ANNOUNCEMENTS</span></u></a><br>
+&nbsp;</p>
+
+<p><span>1. JUBILEE WEEK</span></p>
+
+<blockquote>
+<p><font><span>Date: 17&nbsp;- 23&nbsp;November 2024<br>
+Locality: Hamilton, New Zealand (NZ training centre)<br>
+Details and Registration: <a href="https://nztc.ac.nz/jubilee/" target="_blank">Click Here&nbsp;</a></span></font></p>
+</blockquote>
+
+<p>&nbsp;</p>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				
+                
+				
+            </td>
+        </tr>
+    </tbody>
+</table><table>
+    <tbody>
+        <tr>
+            <td>
+              	
+			    
+				
+                <table>
+                    <tbody><tr>
+                        
+                        <td>
+                        
+                            <p><span><u>AUDIO&nbsp;AND VIDEO RECORDINGS&nbsp;FROM RECENT TRAININGS AND CONFERENCES</u>&nbsp;</span><br>
+&nbsp;</p>
+
+<p><span>1. Fellowship at recent ITERO (see topics below)</span></p>
+
+<blockquote>
+<p>Topics:<br>
+&nbsp; &nbsp; Lord’s table meeting (the recording does not contain this part)<br>
+&nbsp; &nbsp; Fellowship from brother Ron Kangas<br>
+&nbsp; &nbsp; Fellowship on the Lord’s move in France<br>
+&nbsp; &nbsp; Fellowship on the Lord’s move in CEEB region<br>
+&nbsp; &nbsp; Fellowship on the Lord’s move in Poland<br>
+&nbsp; &nbsp; Fellowship from brother Joe Davis<br>
+<br>
+Fellowship: <a href="https://itero2024warsaw.org/" target="_blank">click here</a></p>
+</blockquote>
+
+<p><span>2.&nbsp;Fellowship regarding the Lord's move in Central and Eastern Europe and the Balkans</span></p>
+
+<blockquote>
+<p>Fellowship:&nbsp;<a href="https://churchesceeb.org/reports/2024-reports-english/" target="_blank">click here</a></p>
+</blockquote>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				
+                
+				
+            </td>
+        </tr>
+    </tbody>
+</table><table>
+    <tbody>
+        <tr>
+            <td>
+              	
+			    
+				
+                <table>
+                    <tbody><tr>
+                        
+                        <td>
+                        
+                            <p><span><u>GENERAL INFORMATION</u></span></p>
+
+<p><br>
+<span>A. REGULAR MEETINGS OF THE CHURCH</span></p>
+
+<blockquote>
+<p><u><strong>Prayer Meeting (English)</strong></u><br>
+Tuesday 7:30pm at the meeting hall and on Zoom (details below).<br>
+<u><strong>Prayer Meeting (Chinese)</strong></u><br>
+Friday 9pm on W<em>eChat. </em>If you wish to attend please contact Mark Lam or Sister Zhi Bing and they will add you to the WeChat group.<br>
+<u><strong>Lord's Table and Prophesying Meeting</strong></u><br>
+Lord's Day 10:00am at the meeting hall and on Zoom (details below).</p>
+</blockquote>
+
+<p><span>B. COORDINATION MEETING&nbsp;</span></p>
+
+<blockquote>
+<p>Next Meeting: 15 December&nbsp;2024 (after lovefeast)<br>
+Future Dates: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/images/b228da64-c30e-0dca-4808-00b288f708ad.png" target="_blank">click here</a><br>
+<br>
+This&nbsp;meeting&nbsp;is open to saints serving (or endeavouring to serve) and is predominantly a time to enjoy the Lord so that we may be built up together in our service. There will be Zoom available for those who cannot join physically.</p>
+</blockquote>
+
+<p><span>C. CALENDAR FROM THE CHURCH IN SYDNEY</span></p>
+
+<blockquote>
+<p><a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/5028cc0f-17b5-7f92-7c3a-77e751acb762/20240224_232213.pdf" target="_blank">Click here</a><a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/9071e6cb-1864-9e35-539d-fd3920358b9a/CHURCH_CALENDAR_2024.pdf" target="_blank"> </a>for the calendar of yearly events. We encourage us all to consider before the Lord the various events this year for our enjoyment and perfecting. By His grace, let us be positively aggressive to set aside our time and work for this.</p>
+</blockquote>
+
+<p><span>D. CHURCH IN CANBERRA VARIOUS OFFERING ACCOUNTS</span></p>
+
+<blockquote>
+<p>Please <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/6b4f0499-5273-dcfe-2022-308c20d84c42/Church_in_Canberra_Bank_Accounts.01.pdf" target="_blank">click here</a></p>
+</blockquote>
+
+<p><span>E. ZOOM MEETING DETAILS</span></p>
+
+<blockquote>
+<p>To join, click this link&nbsp;<a href="https://us02web.zoom.us/j/86759516115?pwd=RGQrKzJWWkRtTXVkeS9ZNXdSSmwxdz09" target="_blank">https://us02web.zoom.us/j/86759516115?pwd=RGQrKzJWWkRtTXVkeS9ZNXdSSmwxdz09</a><br>
+Meeting ID:&nbsp;867 5951 6115&nbsp;<br>
+Passcode:&nbsp;Eph4:16</p>
+</blockquote>
+
+<p><span>F. ONLINE ANNOUNCEMENT</span></p>
+
+<blockquote>
+<p>The announcement page on the church in Canberra website (<a href="https://www.churchincanberra.org/announcements" target="_blank">https://www.churchincanberra.org/announcements</a>) requires the password, 'canberra'.</p>
+</blockquote>
+
+<p><span>G. LIST OF ACT SUBURBS AND DISTRICTS&nbsp;</span></p>
+
+<blockquote>
+<p>Through the burden released at recent conferences and the prayer of the saints&nbsp;we look to the Lord for the increase&nbsp;of his testimony in Canberra. There is the need for much prayer that the Lord would gain his testimony across the whole of the ACT. The document <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/15584ad1-5cea-5f67-dfc0-44b4e246ee2a/ACT_Divisions_2023_v2.pdf" target="_blank">linked here</a> contains a full list of the ACT Districts and Divisions (Suburbs) to aid in your prayer for his move in Canberra.</p>
+</blockquote>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				
+                
+				
+            </td>
+        </tr>
+    </tbody>
+</table><table>
+    <tbody>
+        <tr>
+            <td>
+              	
+			    
+				
+                <table>
+                    <tbody><tr>
+                        
+                        <td>
+                        
+                            <p><span><span>Past announcements can be found at the church website:<span>&nbsp;</span></span></span><a href="https://www.churchincanberra.org/announcements" rel="noreferrer noopener" target="_blank"><span><span>https://www.churchincanberra.org/announcements</span></span></a><span>&nbsp;</span></p>
+
+<div>
+<p><span><span>(Please refer to weekly email announcement for login password)</span></span><span>&nbsp;</span></p>
+</div>
+
+<div>
+<p dir="rtl"><span>&nbsp;</span></p>
+</div>
+
+<div>
+<p><span><span>From coordinating ones, on behalf of the Church in Canberra&nbsp;</span></span><span> </span></p>
+</div>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				
+                
+				
+            </td>
+        </tr>
+    </tbody>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13890586" target="_blank">Thursday meeting location and moving to Friday</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13890461" target="_blank">Announcement – 17/11/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13890327" target="_blank">Wagga Blending 23th-24th November 2024</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
