@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>24th November&nbsp;2024</span></strong></p>
+<strong><span>1st December 2024</span></strong></p>
 </div>
 
                         </td>
@@ -78,26 +78,37 @@ Potlock - saints are encourage to bring a dish for sharing</p>
 
 <blockquote>
 <p><strong>English speaking -Friday&nbsp;7 pm</strong><br>
-Venue: Lyon's&nbsp;House<br>
-Topic: Christ as the Word of God<br>
+Venue: Kaleen House<br>
+Topic: The Bread of Life<br>
 <br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
 Venue: Ming and Nadia's House (Palmerston)<br>
-Topic: Christ as the Word of God</p>
+Topic: The Bread of Life</p>
 </blockquote>
 
 <p><span>3.&nbsp;HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 6&nbsp;commencing Monday<br>
+<p>Week 7&nbsp;commencing Monday<br>
 HWMR Title: Experiencing, Enjoying and Expressing Christ<br>
-Week 6&nbsp;Title: Christ as the Word of God</p>
+Week 7&nbsp;Title: The Bread of Life</p>
 </blockquote>
 
 <p><font><span>4. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of First Corinthians Messages 57&nbsp;&amp; 58</p>
+<p>Life Study of First Corinthians Messages 59&nbsp;&amp; 60</p>
+</blockquote>
+
+<p><font><span>5. OFFERING FOR SYDNEY CONFERENCE AND TRAINING CENTRE</span></font></p>
+
+<blockquote>
+<p>Those burdened&nbsp;to offer to the Sydney Conference and Training Centre project can offer directly to the Church in Sydney building account using the below details. Please ensure the reference 'SCTC - Canberra' is used.<br>
+<br>
+Account name: Church in Sydney Building Account<br>
+BSB:&nbsp;032-282<br>
+Account No.: 39-3426<br>
+Transaction reference:&nbsp;SCTC - Canberra</p>
 </blockquote>
 
                         </td>
@@ -136,6 +147,15 @@ Details and Registration: <a href="https://churchinsydney.org/nbc" target="_blan
 Details and Registration: <a href="https://churchinsydney.org/ssot" target="_blank">Click Here</a></span></font></p>
 </blockquote>
 
+<p><font><span>2. SUMMER INTERNSHIP 2025</span></font></p>
+
+<blockquote>
+<p><font><span>Date: 21 Jan to 14 Feb 2025<br>
+Locality: Sydney<br>
+Who:&nbsp;University students and year 12 graduates<br>
+Details and Registration: <a href="http://tinyurl.com/sydinternship2025" target="_blank">Click Here</a></span></font></p>
+</blockquote>
+
                         </td>
                     </tr>
                 </tbody></table>
@@ -160,15 +180,12 @@ Details and Registration: <a href="https://churchinsydney.org/ssot" target="_bla
                             <p><a href="http://INTERNATIONAL ANNOUNCEMENTS" target="_blank"><u><span>INTERNATIONAL ANNOUNCEMENTS</span></u></a><br>
 &nbsp;</p>
 
-<p><span>1. JUBILEE WEEK</span></p>
+<p><span>1.&nbsp;Report regarding the Lord's move in Central and Eastern Europe and the Balkans (CEEB).</span></p>
 
 <blockquote>
-<p><font><span>Date: 17&nbsp;- 23&nbsp;November 2024<br>
-Locality: Hamilton, New Zealand (NZ training centre)<br>
-Details and Registration: <a href="https://nztc.ac.nz/jubilee/" target="_blank">Click Here&nbsp;</a></span></font></p>
+<p>The below link is regarding the Lord's move in&nbsp;CEEB. Work will begin on the&nbsp;translation of the NT into Czech and Slovak. The church in Canberra will be offering $5,000 to support the translation work.<br>
+Report:&nbsp;<a href="https://churchesceeb.org/reports/2024-reports-english/" target="_blank">click here</a></p>
 </blockquote>
-
-<p>&nbsp;</p>
 
                         </td>
                     </tr>
@@ -206,12 +223,6 @@ Details and Registration: <a href="https://nztc.ac.nz/jubilee/" target="_blank">
 &nbsp; &nbsp; Fellowship from brother Joe Davis<br>
 <br>
 Fellowship: <a href="https://itero2024warsaw.org/" target="_blank">click here</a></p>
-</blockquote>
-
-<p><span>2.&nbsp;Fellowship regarding the Lord's move in Central and Eastern Europe and the Balkans</span></p>
-
-<blockquote>
-<p>Fellowship:&nbsp;<a href="https://churchesceeb.org/reports/2024-reports-english/" target="_blank">click here</a></p>
 </blockquote>
 
                         </td>
@@ -334,7 +345,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13890586" target="_blank">Thursday meeting location and moving to Friday</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13890461" target="_blank">Announcement – 17/11/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13890327" target="_blank">Wagga Blending 23th-24th November 2024</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13890696" target="_blank">Announcement – 24/11/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13890586" target="_blank">Thursday meeting location and moving to Friday</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13890461" target="_blank">Announcement – 17/11/2024</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
