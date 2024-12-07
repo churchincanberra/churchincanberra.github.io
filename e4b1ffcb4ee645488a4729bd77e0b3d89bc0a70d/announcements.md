@@ -33,7 +33,9 @@ nofollow: true
                         <td>
                         
                             <div>
-<h2>Outing Cancelled&nbsp;</h2>
+<hr>
+<p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
+<strong><span>8th&nbsp;December 2024</span></strong></p>
 </div>
 
                         </td>
@@ -57,14 +59,50 @@ nofollow: true
                         
                         <td>
                         
-                            <p>Dear saints,&nbsp;<br>
-&nbsp;</p>
+                            <p><span>1. LOVEFEAST AT THE HALL (FOLLOWED BY COORDINATION MEETING)</span></p>
 
-<p>The outing to Allambie orchard tomorrow is cancelled due to bad weather. Storms and over 20mm of rain are expected at the orchard. Sorry for the inconvenience.<br>
+<blockquote>
+<p>Date: 15 December&nbsp;2024&nbsp;<br>
+Venue: Meeting Hall (after prophesying meeting)<br>
+All saints are welcome to join the love feast. Let's take this opportunity to cherish one another while enjoying mutual fellowship. The love feast will be followed by the monthly coordination meeting for those who wish to join.</p>
+</blockquote>
+
+<p><span>2.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
+
+<blockquote>
+<p><strong>English speaking -Friday&nbsp;7 pm</strong><br>
+Venue: Billy and Len's House (Banks)<br>
+Topic: Christ as the Feast of Tabernacles and as the Spirit Flowing out of the Believers as River of Living Water<br>
 <br>
-In Him,<br>
+<strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
+Venue: Victor and Bing's House (Watson)<br>
+Topic:&nbsp;Christ as the Feast of Tabernacles and as the Spirit Flowing out of the Believers as River of Living Water</p>
+</blockquote>
+
+<p><span>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
+
+<blockquote>
+<p>Week 8 commencing Monday<br>
+HWMR Title: Experiencing, Enjoying and Expressing Christ<br>
+Week 8&nbsp;Title:&nbsp;Christ as the Feast of Tabernacles and as the Spirit Flowing out of the Believers as River of Living Water</p>
+</blockquote>
+
+<p><font><span>4. LIFE STUDY PURSUIT</span></font></p>
+
+<blockquote>
+<p>Life Study of First Corinthians Messages 61&nbsp;&amp; 62</p>
+</blockquote>
+
+<p><font><span>5. OFFERING FOR SYDNEY CONFERENCE AND TRAINING CENTRE</span></font></p>
+
+<blockquote>
+<p>Those burdened&nbsp;to offer to the Sydney Conference and Training Centre project can offer directly to the Church in Sydney building account using the below details. Please ensure the reference 'SCTC - Canberra' is used.<br>
 <br>
-The Brothers in Canberra</p>
+Account name: Church in Sydney Building Account<br>
+BSB:&nbsp;032-282<br>
+Account No.: 39-3426<br>
+Transaction reference:&nbsp;SCTC - Canberra</p>
+</blockquote>
 
                         </td>
                     </tr>
@@ -75,7 +113,232 @@ The Brothers in Canberra</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13891084" target="_blank">Thursday meeting location and moving to Friday</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13890908" target="_blank">Announcement 01/12/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13890696" target="_blank">Announcement – 24/11/2024</a></div>
+</table><table>
+    <tbody>
+        <tr>
+            <td>
+              	
+			    
+				
+                <table>
+                    <tbody><tr>
+                        
+                        <td>
+                        
+                            <p><span><u>TRAINING &amp; CONFERENCES</u>&nbsp;</span></p>
+
+<p><font><span>1. NATIONAL BLENDING CONFERENCE AND SUMMER SCHOOL OF TRUTH</span></font></p>
+
+<blockquote>
+<p><font><span>Date: 20&nbsp;- 24&nbsp;December 2024<br>
+Locality: Sydney<br>
+<br>
+<strong>National Blending Conference</strong><br>
+Details and Registration: <a href="https://churchinsydney.org/nbc" target="_blank">Click Here</a></span></font><br>
+<br>
+<font><span><strong>Summer School of Truth</strong><br>
+Details and Registration: <a href="https://churchinsydney.org/ssot" target="_blank">Click Here</a></span></font></p>
+</blockquote>
+
+<p><font><span>2. SUMMER INTERNSHIP 2025</span></font></p>
+
+<blockquote>
+<p><font><span>Date: 21 Jan to 14 Feb 2025<br>
+Locality: Sydney<br>
+Who:&nbsp;University students and year 12 graduates<br>
+Details and Registration: <a href="http://tinyurl.com/sydinternship2025" target="_blank">Click Here</a></span></font></p>
+</blockquote>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				
+                
+				
+            </td>
+        </tr>
+    </tbody>
+</table><table>
+    <tbody>
+        <tr>
+            <td>
+              	
+			    
+				
+                <table>
+                    <tbody><tr>
+                        
+                        <td>
+                        
+                            <p><a href="http://INTERNATIONAL ANNOUNCEMENTS" target="_blank"><u><span>INTERNATIONAL ANNOUNCEMENTS</span></u></a><br>
+&nbsp;</p>
+
+<p><span>1.&nbsp;Report regarding the Lord's move in Central and Eastern Europe and the Balkans (CEEB).</span></p>
+
+<blockquote>
+<p>The below link is regarding the Lord's move in&nbsp;CEEB. Work will begin on the&nbsp;translation of the NT into Czech and Slovak. The church in Canberra will be offering $5,000 to support the translation work.<br>
+Report:&nbsp;<a href="https://churchesceeb.org/reports/2024-reports-english/" target="_blank">click here</a></p>
+</blockquote>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				
+                
+				
+            </td>
+        </tr>
+    </tbody>
+</table><table>
+    <tbody>
+        <tr>
+            <td>
+              	
+			    
+				
+                <table>
+                    <tbody><tr>
+                        
+                        <td>
+                        
+                            <p><span><u>AUDIO&nbsp;AND VIDEO RECORDINGS&nbsp;FROM RECENT TRAININGS AND CONFERENCES</u>&nbsp;</span><br>
+&nbsp;</p>
+
+<p><span>1. Fellowship at recent ITERO (see topics below)</span></p>
+
+<blockquote>
+<p>Topics:<br>
+&nbsp; &nbsp; Lord’s table meeting (the recording does not contain this part)<br>
+&nbsp; &nbsp; Fellowship from brother Ron Kangas<br>
+&nbsp; &nbsp; Fellowship on the Lord’s move in France<br>
+&nbsp; &nbsp; Fellowship on the Lord’s move in CEEB region<br>
+&nbsp; &nbsp; Fellowship on the Lord’s move in Poland<br>
+&nbsp; &nbsp; Fellowship from brother Joe Davis<br>
+<br>
+Fellowship: <a href="https://itero2024warsaw.org/" target="_blank">click here</a></p>
+</blockquote>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				
+                
+				
+            </td>
+        </tr>
+    </tbody>
+</table><table>
+    <tbody>
+        <tr>
+            <td>
+              	
+			    
+				
+                <table>
+                    <tbody><tr>
+                        
+                        <td>
+                        
+                            <p><span><u>GENERAL INFORMATION</u></span></p>
+
+<p><br>
+<span>A. REGULAR MEETINGS OF THE CHURCH</span></p>
+
+<blockquote>
+<p><u><strong>Prayer Meeting (English)</strong></u><br>
+Tuesday 7:30pm at the meeting hall and on Zoom (details below).<br>
+<u><strong>Prayer Meeting (Chinese)</strong></u><br>
+Friday 9pm on W<em>eChat. </em>If you wish to attend please contact Mark Lam or Sister Zhi Bing and they will add you to the WeChat group.<br>
+<u><strong>Lord's Table and Prophesying Meeting</strong></u><br>
+Lord's Day 10:00am at the meeting hall and on Zoom (details below).</p>
+</blockquote>
+
+<p><span>B. COORDINATION MEETING&nbsp;</span></p>
+
+<blockquote>
+<p>Next Meeting: 15 December&nbsp;2024 (after lovefeast)<br>
+Future Dates: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/images/b228da64-c30e-0dca-4808-00b288f708ad.png" target="_blank">click here</a><br>
+<br>
+This&nbsp;meeting&nbsp;is open to saints serving (or endeavouring to serve) and is predominantly a time to enjoy the Lord so that we may be built up together in our service. There will be Zoom available for those who cannot join physically.</p>
+</blockquote>
+
+<p><span>C. CALENDAR FROM THE CHURCH IN SYDNEY</span></p>
+
+<blockquote>
+<p><a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/5028cc0f-17b5-7f92-7c3a-77e751acb762/20240224_232213.pdf" target="_blank">Click here</a><a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/9071e6cb-1864-9e35-539d-fd3920358b9a/CHURCH_CALENDAR_2024.pdf" target="_blank"> </a>for the calendar of yearly events. We encourage us all to consider before the Lord the various events this year for our enjoyment and perfecting. By His grace, let us be positively aggressive to set aside our time and work for this.</p>
+</blockquote>
+
+<p><span>D. CHURCH IN CANBERRA VARIOUS OFFERING ACCOUNTS</span></p>
+
+<blockquote>
+<p>Please <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/6b4f0499-5273-dcfe-2022-308c20d84c42/Church_in_Canberra_Bank_Accounts.01.pdf" target="_blank">click here</a></p>
+</blockquote>
+
+<p><span>E. ZOOM MEETING DETAILS</span></p>
+
+<blockquote>
+<p>To join, click this link&nbsp;<a href="https://us02web.zoom.us/j/86759516115?pwd=RGQrKzJWWkRtTXVkeS9ZNXdSSmwxdz09" target="_blank">https://us02web.zoom.us/j/86759516115?pwd=RGQrKzJWWkRtTXVkeS9ZNXdSSmwxdz09</a><br>
+Meeting ID:&nbsp;867 5951 6115&nbsp;<br>
+Passcode:&nbsp;Eph4:16</p>
+</blockquote>
+
+<p><span>F. ONLINE ANNOUNCEMENT</span></p>
+
+<blockquote>
+<p>The announcement page on the church in Canberra website (<a href="https://www.churchincanberra.org/announcements" target="_blank">https://www.churchincanberra.org/announcements</a>) requires the password, 'canberra'.</p>
+</blockquote>
+
+<p><span>G. LIST OF ACT SUBURBS AND DISTRICTS&nbsp;</span></p>
+
+<blockquote>
+<p>Through the burden released at recent conferences and the prayer of the saints&nbsp;we look to the Lord for the increase&nbsp;of his testimony in Canberra. There is the need for much prayer that the Lord would gain his testimony across the whole of the ACT. The document <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/15584ad1-5cea-5f67-dfc0-44b4e246ee2a/ACT_Divisions_2023_v2.pdf" target="_blank">linked here</a> contains a full list of the ACT Districts and Divisions (Suburbs) to aid in your prayer for his move in Canberra.</p>
+</blockquote>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				
+                
+				
+            </td>
+        </tr>
+    </tbody>
+</table><table>
+    <tbody>
+        <tr>
+            <td>
+              	
+			    
+				
+                <table>
+                    <tbody><tr>
+                        
+                        <td>
+                        
+                            <p><span><span>Past announcements can be found at the church website:<span>&nbsp;</span></span></span><a href="https://www.churchincanberra.org/announcements" rel="noreferrer noopener" target="_blank"><span><span>https://www.churchincanberra.org/announcements</span></span></a><span>&nbsp;</span></p>
+
+<div>
+<p><span><span>(Please refer to weekly email announcement for login password)</span></span><span>&nbsp;</span></p>
+</div>
+
+<div>
+<p dir="rtl"><span>&nbsp;</span></p>
+</div>
+
+<div>
+<p><span><span>From coordinating ones, on behalf of the Church in Canberra&nbsp;</span></span><span> </span></p>
+</div>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				
+                
+				
+            </td>
+        </tr>
+    </tbody>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13891085" target="_blank">Outing Cancelled</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13891084" target="_blank">Thursday meeting location and moving to Friday</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13890908" target="_blank">Announcement 01/12/2024</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
