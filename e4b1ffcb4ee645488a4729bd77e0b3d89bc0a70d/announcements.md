@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>8th&nbsp;December 2024</span></strong></p>
+<strong><span>15th&nbsp;December 2024</span></strong></p>
 </div>
 
                         </td>
@@ -70,27 +70,27 @@ All saints are welcome to join the love feast. Let's take this opportunity to ch
 <p><span>2.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
 
 <blockquote>
-<p><strong>English speaking -Friday&nbsp;7 pm</strong><br>
-Venue: Billy and Len's House (Banks)<br>
-Topic: Christ as the Feast of Tabernacles and as the Spirit Flowing out of the Believers as River of Living Water<br>
+<p><strong>English speaking - No small group meeting</strong><br>
+Venue: NA<br>
+Topic: NA<br>
 <br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
-Venue: Victor and Bing's House (Watson)<br>
-Topic:&nbsp;Christ as the Feast of Tabernacles and as the Spirit Flowing out of the Believers as River of Living Water</p>
+Venue: Ming and Nadia's House (Palmerston)<br>
+Topic:&nbsp;Christ as the Resurrection and the&nbsp;Grain of Wheat</p>
 </blockquote>
 
 <p><span>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 8 commencing Monday<br>
+<p>Week 9&nbsp;commencing Monday<br>
 HWMR Title: Experiencing, Enjoying and Expressing Christ<br>
-Week 8&nbsp;Title:&nbsp;Christ as the Feast of Tabernacles and as the Spirit Flowing out of the Believers as River of Living Water</p>
+Week 9&nbsp;Title:&nbsp;Christ as the Feast of Tabernacles and as the Spirit Flowing out of the Believers as River of Living Water</p>
 </blockquote>
 
 <p><font><span>4. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of First Corinthians Messages 61&nbsp;&amp; 62</p>
+<p>Life Study of First Corinthians Messages 63&nbsp;&amp; 64</p>
 </blockquote>
 
 <p><font><span>5. OFFERING FOR SYDNEY CONFERENCE AND TRAINING CENTRE</span></font></p>
@@ -147,6 +147,14 @@ Details and Registration: <a href="https://churchinsydney.org/ssot" target="_bla
 Locality: Sydney<br>
 Who:&nbsp;University students and year 12 graduates<br>
 Details and Registration: <a href="http://tinyurl.com/sydinternship2025" target="_blank">Click Here</a></span></font></p>
+</blockquote>
+
+<p><font><span>3. CABERRA VIDEO TRAINING FEBRUARY 2025</span></font></p>
+
+<blockquote>
+<p><font><span>Date: 01 Feb to 02&nbsp;March&nbsp;2025<br>
+Venue: Church in Canberra Meeting Hall<br>
+Details and Registration to follow</span></font></p>
 </blockquote>
 
                         </td>
@@ -338,7 +346,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13891085" target="_blank">Outing Cancelled</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13891084" target="_blank">Thursday meeting location and moving to Friday</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13890908" target="_blank">Announcement 01/12/2024</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13891112" target="_blank">Announcement 08/12/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13891085" target="_blank">Outing Cancelled</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13891084" target="_blank">Thursday meeting location and moving to Friday</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
