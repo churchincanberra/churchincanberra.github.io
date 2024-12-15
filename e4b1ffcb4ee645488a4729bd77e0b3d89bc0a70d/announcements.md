@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>3rd November&nbsp;2024</span></strong></p>
+<strong><span>15th&nbsp;December 2024</span></strong></p>
 </div>
 
                         </td>
@@ -59,32 +59,49 @@ nofollow: true
                         
                         <td>
                         
-                            <p><u><span>WEEKLY HIGHLIGHTS</span></u><span>&nbsp;</span></p>
-
-<p><span>1.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
+                            <p><span>1. LOVEFEAST AT THE HALL (FOLLOWED BY COORDINATION MEETING)</span></p>
 
 <blockquote>
-<p><strong>English speaking -Thursday 7 pm</strong><br>
-Venue: April Huang's&nbsp;place (Phillip)&nbsp;&nbsp;<br>
-Topic: Discipling All the Nations by Baptizing Them into the Name of the Father, the Son, and the Holy Spirit<br>
+<p>Date: 15 December&nbsp;2024&nbsp;<br>
+Venue: Meeting Hall (after prophesying meeting)<br>
+All saints are welcome to join the love feast. Let's take this opportunity to cherish one another while enjoying mutual fellowship. The love feast will be followed by the monthly coordination meeting for those who wish to join.</p>
+</blockquote>
+
+<p><span>2.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
+
+<blockquote>
+<p><strong>English speaking - No small group meeting</strong><br>
+Venue: NA<br>
+Topic: NA<br>
 <br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
-Venue: Ming&nbsp;and Nadia's house&nbsp;(Palmerston)<br>
-Topic: Discipling All the Nations by Baptizing Them into the Name of the Father, the Son, and the Holy Spirit</p>
+Venue: Ming and Nadia's House (Palmerston)<br>
+Topic:&nbsp;Christ as the Resurrection and the&nbsp;Grain of Wheat</p>
 </blockquote>
 
-<p><span>2.&nbsp;HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
+<p><span>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 3&nbsp;commencing Monday<br>
+<p>Week 9&nbsp;commencing Monday<br>
 HWMR Title: Experiencing, Enjoying and Expressing Christ<br>
-Week 3&nbsp;Title: Discipling All the Nations by Baptizing Them into the Name of the Father, the Son, and the Holy Spirit</p>
+Week 9&nbsp;Title:&nbsp;Christ as the Feast of Tabernacles and as the Spirit Flowing out of the Believers as River of Living Water</p>
 </blockquote>
 
-<p><font><span>3. LIFE STUDY PURSUIT</span></font></p>
+<p><font><span>4. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of First Corinthians Messages 51&nbsp;&amp; 52</p>
+<p>Life Study of First Corinthians Messages 63&nbsp;&amp; 64</p>
+</blockquote>
+
+<p><font><span>5. OFFERING FOR SYDNEY CONFERENCE AND TRAINING CENTRE</span></font></p>
+
+<blockquote>
+<p>Those burdened&nbsp;to offer to the Sydney Conference and Training Centre project can offer directly to the Church in Sydney building account using the below details. Please ensure the reference 'SCTC - Canberra' is used.<br>
+<br>
+Account name: Church in Sydney Building Account<br>
+BSB:&nbsp;032-282<br>
+Account No.: 39-3426<br>
+Transaction reference:&nbsp;SCTC - Canberra</p>
 </blockquote>
 
                         </td>
@@ -110,31 +127,7 @@ Week 3&nbsp;Title: Discipling All the Nations by Baptizing Them into the Name of
                         
                             <p><span><u>TRAINING &amp; CONFERENCES</u>&nbsp;</span></p>
 
-<p><font><span>1. MONTHLY&nbsp;PERFECTING TRAINING</span></font></p>
-
-<blockquote>
-<p><font><span>Date: 16 November 2024 (there will be no training in the other months because of other conference or the Bi-annual Perfecting Training)<br>
-Venue: Meeting Hall Cluster<br>
-Details and Registration: <a href="https://docs.google.com/forms/d/e/1FAIpQLScs-1Xgc4YFXc22Q465C7BZjGGHPckq6kbx_0jxodPfS5dAww/viewform" target="_blank">Click Here</a></span></font></p>
-</blockquote>
-
-<p><font><span>2. CAMPUS WORK FELLOWSHIP</span></font></p>
-
-<blockquote>
-<p><font><span>Date: 9&nbsp;- 10&nbsp;November 2024<br>
-Locality: Sydney<br>
-Details and Registration: <a href="https://new.express.adobe.com/webpage/gbtP1DQLinNIW?" target="_blank">Click Here</a></span></font></p>
-</blockquote>
-
-<p><font><span>3. WAGGA WAGGA&nbsp;&amp; CANBERRA BLENDING CONFERENCE</span></font></p>
-
-<blockquote>
-<p><font><span>Date: 23&nbsp;- 24 November&nbsp;2024<br>
-Venue: Duke of Kent Community Centre (Room 1 and 2):26 Shaw Street Wagga Wagga 2650<br>
-Details and Registration: Coming Soon</span></font></p>
-</blockquote>
-
-<p><font><span>4. NATIONAL BLENDING CONFERENCE AND SUMMER SCHOOL OF TRUTH</span></font></p>
+<p><font><span>1. NATIONAL BLENDING CONFERENCE AND SUMMER SCHOOL OF TRUTH</span></font></p>
 
 <blockquote>
 <p><font><span>Date: 20&nbsp;- 24&nbsp;December 2024<br>
@@ -145,6 +138,23 @@ Details and Registration: <a href="https://churchinsydney.org/nbc" target="_blan
 <br>
 <font><span><strong>Summer School of Truth</strong><br>
 Details and Registration: <a href="https://churchinsydney.org/ssot" target="_blank">Click Here</a></span></font></p>
+</blockquote>
+
+<p><font><span>2. SUMMER INTERNSHIP 2025</span></font></p>
+
+<blockquote>
+<p><font><span>Date: 21 Jan to 14 Feb 2025<br>
+Locality: Sydney<br>
+Who:&nbsp;University students and year 12 graduates<br>
+Details and Registration: <a href="http://tinyurl.com/sydinternship2025" target="_blank">Click Here</a></span></font></p>
+</blockquote>
+
+<p><font><span>3. CABERRA VIDEO TRAINING FEBRUARY 2025</span></font></p>
+
+<blockquote>
+<p><font><span>Date: 01 Feb to 02&nbsp;March&nbsp;2025<br>
+Venue: Church in Canberra Meeting Hall<br>
+Details and Registration to follow</span></font></p>
 </blockquote>
 
                         </td>
@@ -171,15 +181,12 @@ Details and Registration: <a href="https://churchinsydney.org/ssot" target="_bla
                             <p><a href="http://INTERNATIONAL ANNOUNCEMENTS" target="_blank"><u><span>INTERNATIONAL ANNOUNCEMENTS</span></u></a><br>
 &nbsp;</p>
 
-<p><span>1. JUBILEE WEEK</span></p>
+<p><span>1.&nbsp;Report regarding the Lord's move in Central and Eastern Europe and the Balkans (CEEB).</span></p>
 
 <blockquote>
-<p><font><span>Date: 17&nbsp;- 23&nbsp;November 2024<br>
-Locality: Hamilton, New Zealand (NZ training centre)<br>
-Details and Registration: <a href="https://nztc.ac.nz/jubilee/" target="_blank">Click Here&nbsp;</a></span></font></p>
+<p>The below link is regarding the Lord's move in&nbsp;CEEB. Work will begin on the&nbsp;translation of the NT into Czech and Slovak. The church in Canberra will be offering $5,000 to support the translation work.<br>
+Report:&nbsp;<a href="https://churchesceeb.org/reports/2024-reports-english/" target="_blank">click here</a></p>
 </blockquote>
-
-<p>&nbsp;</p>
 
                         </td>
                     </tr>
@@ -205,17 +212,18 @@ Details and Registration: <a href="https://nztc.ac.nz/jubilee/" target="_blank">
                             <p><span><u>AUDIO&nbsp;AND VIDEO RECORDINGS&nbsp;FROM RECENT TRAININGS AND CONFERENCES</u>&nbsp;</span><br>
 &nbsp;</p>
 
-<p><span>1.&nbsp;</span>Patterns and Examples of Women in the Bible (<span>Sisters' Training New Zealand)</span></p>
+<p><span>1. Fellowship at recent ITERO (see topics below)</span></p>
 
 <blockquote>
-<p>General Subject: Patterns and Examples of Women in the Bible<br>
-Messages: <a href="https://nztc.ac.nz/sisters-training-recordings/" target="_blank">click here</a></p>
-</blockquote>
-
-<p><span>2.&nbsp;Encouraging the saints to get into the Life Studies (By Brother Minoru Chen)</span></p>
-
-<blockquote>
-<p>LSM app for reading 500 life-studies is ready to download <a href="https://play.google.com/store/apps/details?id=com.eng500ls.lsm&amp;hl=en_AU&amp;gl=US" target="_blank">click here</a>.</p>
+<p>Topics:<br>
+&nbsp; &nbsp; Lord’s table meeting (the recording does not contain this part)<br>
+&nbsp; &nbsp; Fellowship from brother Ron Kangas<br>
+&nbsp; &nbsp; Fellowship on the Lord’s move in France<br>
+&nbsp; &nbsp; Fellowship on the Lord’s move in CEEB region<br>
+&nbsp; &nbsp; Fellowship on the Lord’s move in Poland<br>
+&nbsp; &nbsp; Fellowship from brother Joe Davis<br>
+<br>
+Fellowship: <a href="https://itero2024warsaw.org/" target="_blank">click here</a></p>
 </blockquote>
 
                         </td>
@@ -256,8 +264,7 @@ Lord's Day 10:00am at the meeting hall and on Zoom (details below).</p>
 <p><span>B. COORDINATION MEETING&nbsp;</span></p>
 
 <blockquote>
-<p>Next Meeting: 17&nbsp;November 2024 (after lovefeast)<br>
-(meeting on October 13 postponed).<br>
+<p>Next Meeting: 15 December&nbsp;2024 (after lovefeast)<br>
 Future Dates: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/images/b228da64-c30e-0dca-4808-00b288f708ad.png" target="_blank">click here</a><br>
 <br>
 This&nbsp;meeting&nbsp;is open to saints serving (or endeavouring to serve) and is predominantly a time to enjoy the Lord so that we may be built up together in our service. There will be Zoom available for those who cannot join physically.</p>
@@ -339,7 +346,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13889882" target="_blank">Announcement – 27/10/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13889658" target="_blank">Announcement – 20/10/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13889431" target="_blank">Announcement – 13/10/2024</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13891112" target="_blank">Announcement 08/12/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13891085" target="_blank">Outing Cancelled</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13891084" target="_blank">Thursday meeting location and moving to Friday</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
