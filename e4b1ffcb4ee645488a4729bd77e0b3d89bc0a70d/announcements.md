@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>29th&nbsp;December 2024</span></strong></p>
+<strong><span>5th January&nbsp;2025</span></strong></p>
 </div>
 
                         </td>
@@ -59,40 +59,39 @@ nofollow: true
                         
                         <td>
                         
-                            <p><span>1. SPECIAL PRAYER MEETING AND LOVEFEAST</span></p>
+                            <p><span>1. FAREWELL FOR BOAZ</span></p>
 
 <blockquote>
-<p>This week we will have a love feast and special prayer meeting.&nbsp;During this time we will thank the Lord for His faithfulness to us in 2024 and spend time to consecrate and pray for His moving in and among us in 2025.<br>
-<br>
-Location: Meeting Hall<br>
-Love Feast: 6:30pm<br>
-Prayer Meeting: 7:30pm</p>
+<p>Date: 9th January 2025 (Thursday)<br>
+Time: 7pm<br>
+Venue: Meeting Hall<br>
+All saints are welcome to join a love feast to farewell Boaz&nbsp;for the full time training in&nbsp; Hamilton. We will eat together then pray and fellowship. Zoom will also be turned on for those who can not come physically (<a href="https://us02web.zoom.us/j/86759516115?pwd=RGQrKzJWWkRtTXVkeS9ZNXdSSmwxdz09" target="_blank">Click here</a>).</p>
 </blockquote>
 
 <p><span>2.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
 
 <blockquote>
 <p><strong>English speaking - Friday 7pm</strong><br>
-Venue: Sisters House (Kaleen)<br>
-Topic:&nbsp;In the Father’s House—Living in the Place Prepared for Us through the Death and Resurrection of Christ<br>
+Venue: Brother's&nbsp;House (Lyons)<br>
+Topic: The Divine Trinity, the Spirit of Jesus, and the Kingdom of God<br>
 <br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
-Venue: Victor and Bing's House (*<u><strong>Lyons</strong></u>*)<br>
-Topic:&nbsp;In the Father’s House—Living in the Place Prepared for Us through the Death and Resurrection of Christ</p>
+Venue: Ming&nbsp;and Nadia's House (Palmerston)<br>
+Topic:&nbsp;The Divine Trinity, the Spirit of Jesus, and the Kingdom of God</p>
 </blockquote>
 
 <p><span>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 11&nbsp;commencing Monday<br>
+<p>Week 12&nbsp;commencing Monday<br>
 HWMR Title: Experiencing, Enjoying and Expressing Christ<br>
-Week 11&nbsp;Title:&nbsp;In the Father’s House—Living in the Place Prepared for Us through the Death and Resurrection of Christ</p>
+Week 12&nbsp;Title:&nbsp;The Divine Trinity, the Spirit of Jesus, and the Kingdom of God</p>
 </blockquote>
 
 <p><font><span>4. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of First Corinthians Messages 67&nbsp;&amp; 68</p>
+<p>Life Study of First Corinthians Message&nbsp;69</p>
 </blockquote>
 
 <p><font><span>5. OFFERING FOR SYDNEY CONFERENCE AND TRAINING CENTRE</span></font></p>
@@ -135,6 +134,13 @@ Transaction reference:&nbsp;SCTC - Canberra</p>
 <p><font><span>Date: 01 Feb to 02&nbsp;March&nbsp;2025<br>
 Venue: Church in Canberra Meeting Hall<br>
 Details and Registration to follow</span></font></p>
+</blockquote>
+
+<p><font><span>2. COMBINED MONTHLY PERFECTING TRAINING</span></font></p>
+
+<blockquote>
+<p><font><span>Combined Monthly Perfecting Training for 2025 will start&nbsp; on 15th of February. It will be online and also by clustering locally over 6 months. Saints are encourage to participate. Please register on&nbsp;the link below even if you have joined in previous years.<br>
+The details and registration form please <a href="https://docs.google.com/forms/d/e/1FAIpQLSdhdpac16TzUJWMspsFJ1w8p8uYVsbCwjet-dqrTyWP34CQFg/viewform`" target="_blank">click here</a></span></font></p>
 </blockquote>
 
                         </td>
@@ -245,7 +251,7 @@ Lord's Day 10:00am at the meeting hall and on Zoom (details below).</p>
 
 <blockquote>
 <p>Next Meeting: TBD<br>
-Future Dates: click here<br>
+Future Dates: to follow<br>
 <br>
 This&nbsp;meeting&nbsp;is open to saints serving (or endeavouring to serve) and is predominantly a time to enjoy the Lord so that we may be built up together in our service. There will be Zoom available for those who cannot join physically.</p>
 </blockquote>
@@ -326,7 +332,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13891420" target="_blank">Special prayer meeting (31/12) and meetings in the coming weeks</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13891328" target="_blank">Announcement 15/12/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13891112" target="_blank">Announcement 08/12/2024</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13891639" target="_blank">Announcement 29/12/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13891420" target="_blank">Special prayer meeting (31/12) and meetings in the coming weeks</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13891328" target="_blank">Announcement 15/12/2024</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
