@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>5th January&nbsp;2025</span></strong></p>
+<strong><span>12th January&nbsp;2025</span></strong></p>
 </div>
 
                         </td>
@@ -59,39 +59,40 @@ nofollow: true
                         
                         <td>
                         
-                            <p><span>1. FAREWELL FOR BOAZ</span></p>
+                            <p><span>1. LOVEFEAST AT THE HALL (FOLLOWED BY COORDINATION MEETING)</span></p>
 
 <blockquote>
-<p>Date: 9th January 2025 (Thursday)<br>
-Time: 7pm<br>
-Venue: Meeting Hall<br>
-All saints are welcome to join a love feast to farewell Boaz&nbsp;for the full time training in&nbsp; Hamilton. We will eat together then pray and fellowship. Zoom will also be turned on for those who can not come physically (<a href="https://us02web.zoom.us/j/86759516115?pwd=RGQrKzJWWkRtTXVkeS9ZNXdSSmwxdz09" target="_blank">Click here</a>).</p>
+<p>Date: 19 January 2025<br>
+Venue: Meeting Hall (after prophesying meeting)<br>
+<br>
+All saints are welcome to join the love feast. Let's take this opportunity to cherish one another while enjoying mutual fellowship. The love feast will be followed by the monthly coordination meeting for those who wish to join</p>
 </blockquote>
 
 <p><span>2.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
 
 <blockquote>
 <p><strong>English speaking - Friday 7pm</strong><br>
-Venue: Brother's&nbsp;House (Lyons)<br>
-Topic: The Divine Trinity, the Spirit of Jesus, and the Kingdom of God<br>
+Northside Venue: Kaleen House<br>
+Southside Venue: Billy and Len's place (Banks)<br>
+Topic: The Kingdon of God- the Realm of the Divine Life and of the Divine Species<br>
 <br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
-Venue: Ming&nbsp;and Nadia's House (Palmerston)<br>
-Topic:&nbsp;The Divine Trinity, the Spirit of Jesus, and the Kingdom of God</p>
+Venue: Ming and Nadia's place (Palmerston)<br>
+Topic: The Kingdom of God- the Realm of the Divine Life and of the Divine Species</p>
 </blockquote>
 
 <p><span>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 12&nbsp;commencing Monday<br>
-HWMR Title: Experiencing, Enjoying and Expressing Christ<br>
-Week 12&nbsp;Title:&nbsp;The Divine Trinity, the Spirit of Jesus, and the Kingdom of God</p>
+<p>Week 1&nbsp;commencing Monday<br>
+HWMR Title: Living in the Reality of the Kingdom of God.<br>
+Week 1&nbsp;Title:&nbsp;The Kingdom of God- the Realm of the Divine Life and of the Divine Species</p>
 </blockquote>
 
 <p><font><span>4. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of First Corinthians Message&nbsp;69</p>
+<p>Life Study of First Corinthians Message&nbsp;69 + review 1 Corinthians</p>
 </blockquote>
 
 <p><font><span>5. OFFERING FOR SYDNEY CONFERENCE AND TRAINING CENTRE</span></font></p>
@@ -170,8 +171,10 @@ The details and registration form please <a href="https://docs.google.com/forms/
 <p><span>1.&nbsp;Report regarding the Lord's move in Central and Eastern Europe and the Balkans (CEEB).</span></p>
 
 <blockquote>
-<p>The below link is regarding the Lord's move in&nbsp;CEEB. Work will begin on the&nbsp;translation of the NT into Czech and Slovak. The church in Canberra will be offering $5,000 to support the translation work.<br>
-Report:&nbsp;<a href="https://churchesceeb.org/reports/2024-reports-english/" target="_blank">click here</a></p>
+<p>The link below concerns the Lord's move in CEEB. Work will begin on translating the NT into Czech and Slovak. The church in Canberra will offer $5,000 to support the translation work.<br>
+Report:&nbsp;<a href="https://churchesceeb.org/reports/2024-reports-english/" target="_blank">click here</a><br>
+<br>
+<span>Update&nbsp;regarding the New Testament Recovery Version translation into Czech and Slovak,&nbsp;<a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/78b27a9c-d420-9566-c006-7c3a38b93005/Update_on_New_Testament_Recovery_versio_tramslationn_into_the_Slovak_and_Czech_languages_.01.pdf" target="_blank">click here</a></span></p>
 </blockquote>
 
                         </td>
@@ -250,8 +253,9 @@ Lord's Day 10:00am at the meeting hall and on Zoom (details below).</p>
 <p><span>B. COORDINATION MEETING&nbsp;</span></p>
 
 <blockquote>
-<p>Next Meeting: TBD<br>
-Future Dates: to follow<br>
+<p>Next Meeting: 19 January 2025<br>
+Book: Tree of Life- Message 5<br>
+Future Dates: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/217085b8-c53f-f6e5-98b5-85a05354b978/2025_Coordination_Meeting_Schedule.01.pdf" target="_blank">Click here</a><br>
 <br>
 This&nbsp;meeting&nbsp;is open to saints serving (or endeavouring to serve) and is predominantly a time to enjoy the Lord so that we may be built up together in our service. There will be Zoom available for those who cannot join physically.</p>
 </blockquote>
@@ -259,7 +263,7 @@ This&nbsp;meeting&nbsp;is open to saints serving (or endeavouring to serve) and 
 <p><span>C. CALENDAR FROM THE CHURCH IN SYDNEY</span></p>
 
 <blockquote>
-<p>Calendar coming soon.</p>
+<p>Please <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/69a41739-1456-dcdf-4b30-45870dd9e049/Church_Planner_2025_version_1_4__4146108f_06fb_421f_b5ff_e7065bba4ed1.pdf" target="_blank">click here</a></p>
 </blockquote>
 
 <p><span>D. CHURCH IN CANBERRA VARIOUS OFFERING ACCOUNTS</span></p>
@@ -332,7 +336,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13891639" target="_blank">Announcement 29/12/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13891420" target="_blank">Special prayer meeting (31/12) and meetings in the coming weeks</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13891328" target="_blank">Announcement 15/12/2024</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13891794" target="_blank">Announcement 05/01/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13891639" target="_blank">Announcement 29/12/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13891420" target="_blank">Special prayer meeting (31/12) and meetings in the coming weeks</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
