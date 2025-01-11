@@ -4,112 +4,112 @@
   category: International
   singular: true
   date: '2025-02-14'
-  location: 'Anaheim, United States'
+  location: 'Anaheim, CA, United States'
 - id: int20250216
   name: International Chinese-Speaking Conference
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
   date: '2025-02-15'
-  location: 'Anaheim, United States'
+  location: 'Anaheim, CA, United States'
 - id: int20250215
   name: International Chinese-Speaking Conference
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
   date: '2025-02-16'
-  location: 'Anaheim, United States'
+  location: 'Anaheim, CA, United States'
 - id: int20250404
   name: International Training for Elders & Responsible Ones
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
   date: '2025-04-04'
-  location: 'Anaheim, United States'
+  location: 'Anaheim, CA, United States'
 - id: int20250405
   name: International Training for Elders & Responsible Ones
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
   date: '2025-04-05'
-  location: 'Anaheim, United States'
+  location: 'Anaheim, CA, United States'
 - id: int20250406
   name: International Training for Elders & Responsible Ones
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
   date: '2025-04-06'
-  location: 'Anaheim, United States'
+  location: 'Anaheim, CA, United States'
 - id: int20250524
   name: Memorial Day Blending Conference
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
   date: '2025-05-24'
-  location: 'Phoenix, Arizona'
+  location: 'Phoenix, AZ, United States'
 - id: int20250525
   name: Memorial Day Blending Conference
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
   date: '2025-05-25'
-  location: 'Phoenix, Arizona'
+  location: 'Phoenix, AZ, United States'
 - id: int20250526
   name: Memorial Day Blending Conference
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
   date: '2025-05-26'
-  location: 'Phoenix, Arizona'
+  location: 'Phoenix, AZ, United States'
 - id: int20250523
   name: Memorial Day Blending Conference
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
   date: '2025-05-23'
-  location: 'Phoenix, Arizona'
+  location: 'Phoenix, AZ, United States'
 - id: int20250701
   name: July Semiannual Training
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
   date: '2025-07-01'
-  location: 'Anaheim, United States'
+  location: 'Anaheim, CA, United States'
 - id: int20250702
   name: July Semiannual Training
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
   date: '2025-07-02'
-  location: 'Anaheim, United States'
+  location: 'Anaheim, CA, United States'
 - id: int20250703
   name: July Semiannual Training
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
   date: '2025-07-03'
-  location: 'Anaheim, United States'
+  location: 'Anaheim, CA, United States'
 - id: int20250704
   name: July Semiannual Training
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
   date: '2025-07-04'
-  location: 'Anaheim, United States'
+  location: 'Anaheim, CA, United States'
 - id: int20250705
   name: July Semiannual Training
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
   date: '2025-07-05'
-  location: 'Anaheim, United States'
+  location: 'Anaheim, CA, United States'
 - id: int20250630
   name: July Semiannual Training
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
   date: '2025-06-30'
-  location: 'Anaheim, United States'
+  location: 'Anaheim, CA, United States'
 - id: int20250925
   name: International Training for Elders & Responsible Ones
   description: 'https://www.lsm.org/events'
@@ -137,70 +137,70 @@
   category: International
   singular: true
   date: '2025-11-28'
-  location: 'Indianapolis, Indiana'
+  location: 'Indianapolis, IN, United States'
 - id: int20251129
   name: Thanksgiving Blending Conference
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
   date: '2025-11-29'
-  location: 'Indianapolis, Indiana'
+  location: 'Indianapolis, IN, United States'
 - id: int20251130
   name: Thanksgiving Blending Conference
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
   date: '2025-11-30'
-  location: 'Indianapolis, Indiana'
+  location: 'Indianapolis, IN, United States'
 - id: int20251127
   name: Thanksgiving Blending Conference
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
   date: '2025-11-27'
-  location: 'Indianapolis, Indiana'
-- id: int20241223
+  location: 'Indianapolis, IN, United States'
+- id: int20251223
   name: December Semiannual Training
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
-  date: '2024-12-23'
-  location: 'Anaheim, United States'
-- id: int20241224
+  date: '2025-12-23'
+  location: 'Anaheim, CA, United States'
+- id: int20251224
   name: December Semiannual Training
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
-  date: '2024-12-24'
-  location: 'Anaheim, United States'
-- id: int20241225
+  date: '2025-12-24'
+  location: 'Anaheim, CA, United States'
+- id: int20251225
   name: December Semiannual Training
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
-  date: '2024-12-25'
-  location: 'Anaheim, United States'
-- id: int20241226
+  date: '2025-12-25'
+  location: 'Anaheim, CA, United States'
+- id: int20251226
   name: December Semiannual Training
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
-  date: '2024-12-26'
-  location: 'Anaheim, United States'
-- id: int20241227
+  date: '2025-12-26'
+  location: 'Anaheim, CA, United States'
+- id: int20251227
   name: December Semiannual Training
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
-  date: '2024-12-27'
-  location: 'Anaheim, United States'
-- id: int20241228
+  date: '2025-12-27'
+  location: 'Anaheim, CA, United States'
+- id: int20251222
   name: December Semiannual Training
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
-  date: '2024-12-28'
-  location: 'Anaheim, United States'
+  date: '2025-12-22'
+  location: 'Anaheim, CA, United States'
 - id: regnz20250418
   name: New Zealand National Conference
   description: 'https://nztc.ac.nz/national-conference/'
@@ -292,500 +292,409 @@
   singular: true
   date: '2025-11-29'
   location: 'Hamilton, New Zealand'
-- id: regadl20241005
-  name: Adelaide Blending Conference
-  description: ''
-  category: Regional
-  singular: true
-  date: '2024-09-27'
-  location: 'Adelaide, SA, Australia'
-- id: regadl20241006
-  name: Adelaide Blending Conference
-  description: ''
-  category: Regional
-  singular: true
-  date: '2024-09-28'
-  location: 'Adelaide, SA, Australia'
-- id: regadl20241007
-  name: Adelaide Blending Conference
-  description: ''
-  category: Regional
-  singular: true
-  date: '2024-09-29'
-  location: 'Adelaide, SA, Australia'
-- id: regcampus20241109
+- id: regcampus20251108
   name: Elders & Player Coaches Fellowship
   description: ''
   category: Regional
   singular: true
-  date: '2024-11-09'
+  date: '2025-11-08'
   location: 'Sydney, NSW, Australia'
-- id: regcampus20241109b
+- id: regcampus20251109b
   name: Campus Work Fellowship
   description: ''
   category: Regional
   singular: true
-  date: '2024-11-09'
+  date: '2025-11-09'
   location: 'Sydney, NSW, Australia'
-- id: regcampus20241110
+- id: regcampus20251108
   name: Campus Work Fellowship
   description: ''
   category: Regional
   singular: true
-  date: '2024-11-10'
+  date: '2025-11-08'
   location: 'Sydney, NSW, Australia'
-- id: regcns20240726
+- id: regcns20250726
   name: Cairns Blending Conference
   description: ''
   category: Regional
   singular: true
-  date: '2024-07-26'
+  date: '2025-07-26'
   location: 'Cairns, QLD, Australia'
-- id: regcns20240727
+- id: regcns20250727
   name: Cairns Blending Conference
   description: ''
   category: Regional
   singular: true
-  date: '2024-07-27'
+  date: '2025-07-27'
   location: 'Cairns, QLD, Australia'
-- id: regcns20240728
+- id: regcns20250725
   name: Cairns Blending Conference
   description: ''
   category: Regional
   singular: true
-  date: '2024-07-28'
+  date: '2025-07-25'
   location: 'Cairns, QLD, Australia'
-- id: regmel20240920
-  name: Melbourne Blending Conference
-  description: ''
-  category: Regional
-  singular: true
-  date: '2024-09-20'
-  location: 'Melbourne, VIC, Australia'
-- id: regmel20240921
-  name: Melbourne Blending Conference
-  description: ''
-  category: Regional
-  singular: true
-  date: '2024-09-21'
-  location: 'Melbourne, VIC, Australia'
-- id: regmel20240922
-  name: Melbourne Blending Conference
-  description: ''
-  category: Regional
-  singular: true
-  date: '2024-09-22'
-  location: 'Melbourne, VIC, Australia'
-- id: regper20240426
+- id: regper20250426
   name: Perth Blending Conference
   description: ''
   category: Regional
   singular: true
-  date: '2024-04-26'
+  date: '2025-04-26'
   location: 'Perth, WA, Australia'
-- id: regper20240427
+- id: regper20250427
   name: Perth Blending Conference
   description: ''
   category: Regional
   singular: true
-  date: '2024-04-27'
+  date: '2025-04-27'
   location: 'Perth, WA, Australia'
-- id: regper20240428
+- id: regper20250425
   name: Perth Blending Conference
   description: ''
   category: Regional
   singular: true
-  date: '2024-04-28'
+  date: '2025-04-25'
   location: 'Perth, WA, Australia'
-- id: regsuv20241206
+- id: regsuv20251206
   name: South Pacific Blending Conference
   description: ''
   category: Regional
   singular: true
-  date: '2024-12-06'
+  date: '2025-12-06'
   location: 'Suva, Fiji'
-- id: regsuv20241207
+- id: regsuv20251207
   name: South Pacific Blending Conference
   description: ''
   category: Regional
   singular: true
-  date: '2024-12-07'
+  date: '2025-12-07'
   location: 'Suva, Fiji'
-- id: regsuv20241208
+- id: regsuv20251205
   name: South Pacific Blending Conference
   description: ''
   category: Regional
   singular: true
-  date: '2024-12-08'
+  date: '2025-12-05'
   location: 'Suva, Fiji'
-- id: regsyd20240224
+- id: regsyd20250222
   name: Sydney Campus Orientation Retreat
   description: ''
   category: Regional
   singular: true
-  date: '2024-02-24'
+  date: '2025-02-22'
   location: 'Sydney, NSW, Australia'
-- id: regsyd20240329
+- id: regsyd20250418
   name: Sydney Campus Retreat
   description: ''
   category: Regional
   singular: true
-  date: '2024-03-29'
+  date: '2025-04-18'
   location: 'Sydney, NSW, Australia'
-- id: regsyd20240330
+- id: regsyd20250419
   name: Sydney Campus Retreat
   description: ''
   category: Regional
   singular: true
-  date: '2024-03-30'
+  date: '2025-04-19'
   location: 'Sydney, NSW, Australia'
-- id: regsyd20240331
+- id: regsyd20250420
   name: Sydney Campus Retreat
   description: ''
   category: Regional
   singular: true
-  date: '2024-03-31'
+  date: '2025-04-20'
   location: 'Sydney, NSW, Australia'
-- id: regsyd20240927
+- id: regsyd20251003
   name: Sydney Campus Retreat
   description: ''
   category: Regional
   singular: true
-  date: '2024-09-27'
+  date: '2025-10-03'
   location: 'Sydney, NSW, Australia'
-- id: regsyd20240928
+- id: regsyd20251004
   name: Sydney Campus Retreat
   description: ''
   category: Regional
   singular: true
-  date: '2024-09-28'
+  date: '2025-10-04'
   location: 'Sydney, NSW, Australia'
-- id: regsyd20240929
+- id: regsyd20251005
   name: Sydney Campus Retreat
   description: ''
   category: Regional
   singular: true
-  date: '2024-09-29'
+  date: '2025-10-05'
   location: 'Sydney, NSW, Australia'
-- id: regtas20240503
+- id: regtas20250509
   name: Tasmania Blending Conference
   description: ''
   category: Regional
   singular: true
-  date: '2024-05-03'
+  date: '2025-05-09'
   location: 'Launceston, TAS, Australia'
-- id: regtas20240504
+- id: regtas20250510
   name: Tasmania Blending Conference
   description: ''
   category: Regional
   singular: true
-  date: '2024-05-04'
+  date: '2025-05-10'
   location: 'Launceston, TAS, Australia'
-- id: regtas20240505
+- id: regtas20250511
   name: Tasmania Blending Conference
   description: ''
   category: Regional
   singular: true
-  date: '2024-05-05'
+  date: '2025-05-11'
   location: 'Launceston, TAS, Australia'
-- id: loc20240210
-  name: Monthly Perfecting Training
-  description: Local cluster at the meeting hall
-  category: Local
-  singular: true
-  date: '2024-02-10'
-  location: 'Canberra, ACT, Australia'
-- id: loc20240413
-  name: Monthly Perfecting Training
-  description: Local cluster at the meeting hall
-  category: Local
-  singular: true
-  date: '2024-04-13'
-  location: 'Canberra, ACT, Australia'
-- id: loc20240511
-  name: Monthly Perfecting Training
-  description: Local cluster at the meeting hall
-  category: Local
-  singular: true
-  date: '2024-05-11'
-  location: 'Canberra, ACT, Australia'
-- id: loc20240720
-  name: Monthly Perfecting Training
-  description: Local cluster at the meeting hall
-  category: Local
-  singular: true
-  date: '2024-07-20'
-  location: 'Canberra, ACT, Australia'
-- id: loc20240907
-  name: Monthly Perfecting Training
-  description: Local cluster at the meeting hall
-  category: Local
-  singular: true
-  date: '2024-09-07'
-  location: 'Canberra, ACT, Australia'
-- id: loc20241116
-  name: Monthly Perfecting Training
-  description: Local cluster at the meeting hall
-  category: Local
-  singular: true
-  date: '2024-11-16'
-  location: 'Canberra, ACT, Australia'
-- id: loc20240914
+- id: loc20250914
   name: Canberra Blending Conference
   description: ''
   category: Local
   singular: true
-  date: '2024-09-14'
+  date: '2025-09-14'
   location: 'Canberra, ACT, Australia'
-- id: loc20240915
+- id: loc20250913
   name: Canberra Blending Conference
   description: ''
   category: Local
   singular: true
-  date: '2024-09-15'
+  date: '2025-09-13'
   location: 'Canberra, ACT, Australia'
-- id: nat20240316
+- id: nat20250316
   name: Biannual Perfecting Training
   description: ''
   category: National
   singular: true
-  date: '2024-03-16'
+  date: '2025-03-16'
   location: 'Sydney, NSW, Australia'
-- id: nat20240317
+- id: nat20250315
   name: Biannual Perfecting Training
   description: ''
   category: National
   singular: true
-  date: '2024-03-17'
+  date: '2025-03-15'
   location: 'Sydney, NSW, Australia'
-- id: nat20240606
+- id: nat20250606
   name: Training for Serving Brothers
   description: ''
   category: National
   singular: true
-  date: '2024-06-06'
-  location: 'Melbourne, VIC, Australia'
-- id: nat20240607
+  date: '2025-06-06'
+  location: 'Adelaide, SA, Australia'
+- id: nat20250605
   name: Training for Serving Brothers
   description: ''
   category: National
   singular: true
-  date: '2024-06-07'
-  location: 'Melbourne, VIC, Australia'
-- id: nat20240607
+  date: '2025-06-05'
+  location: 'Adelaide, SA, Australia'
+- id: nat20250607
   name: National Serving Ones' Training
   description: ''
   category: National
   singular: true
-  date: '2024-06-07'
-  location: 'Melbourne, VIC, Australia'
-- id: nat20240608
+  date: '2025-06-07'
+  location: 'Adelaide, SA, Australia'
+- id: nat20250608
   name: National Serving Ones' Training
   description: ''
   category: National
   singular: true
-  date: '2024-06-08'
-  location: 'Melbourne, VIC, Australia'
-- id: nat20240609
+  date: '2025-06-08'
+  location: 'Adelaide, SA, Australia'
+- id: nat20250609
   name: National Serving Ones' Training
   description: ''
   category: National
   singular: true
-  date: '2024-06-09'
-  location: 'Melbourne, VIC, Australia'
-- id: nat20240610
+  date: '2025-06-09'
+  location: 'Adelaide, SA, Australia'
+- id: nat20250606
   name: National Serving Ones' Training
   description: ''
   category: National
   singular: true
-  date: '2024-06-10'
-  location: 'Melbourne, VIC, Australia'
-- id: nat20240705
+  date: '2025-06-06'
+  location: 'Adelaide, SA, Australia'
+- id: nat20250705
   name: National High-Schoolers' Conference
   description: ''
   category: National
   singular: true
-  date: '2024-07-05'
-  location: 'Sydney, NSW, Australia'
-- id: nat20240706
+  date: '2025-07-05'
+  location: 'Brisbane, QLD, Australia'
+- id: nat20250706
   name: National High-Schoolers' Conference
   description: ''
   category: National
   singular: true
-  date: '2024-07-06'
-  location: 'Sydney, NSW, Australia'
-- id: nat20240707
+  date: '2025-07-06'
+  location: 'Brisbane, QLD, Australia'
+- id: nat20250707
   name: National High-Schoolers' Conference
   description: ''
   category: National
   singular: true
-  date: '2024-07-07'
-  location: 'Sydney, NSW, Australia'
-- id: nat20240708
+  date: '2025-07-07'
+  location: 'Brisbane, QLD, Australia'
+- id: nat20250704
   name: National High-Schoolers' Conference
   description: ''
   category: National
   singular: true
-  date: '2024-07-08'
-  location: 'Sydney, NSW, Australia'
-- id: nat20240711
+  date: '2025-07-04'
+  location: 'Brisbane, QLD, Australia'
+- id: nat20250710
   name: Campus Clustering Fellowship
   description: ''
   category: National
   singular: true
-  date: '2024-07-11'
-  location: 'Brisbane, QLD, Australia'
-- id: nat20240712
-  name: Campus Clustering Fellowship
-  description: ''
-  category: National
-  singular: true
-  date: '2024-07-12'
-  location: 'Brisbane, QLD, Australia'
-- id: nat20240712
+  date: '2025-07-10'
+  location: 'Sydney, NSW, Australia'
+- id: nat20250710b
   name: National University Age Conference
   description: ''
   category: National
   singular: true
-  date: '2024-07-12'
-  location: 'Brisbane, QLD, Australia'
-- id: nat20240713
+  date: '2025-07-10'
+  location: 'Sydney, NSW, Australia'
+- id: nat20250711
   name: National University Age Conference
   description: ''
   category: National
   singular: true
-  date: '2024-07-13'
-  location: 'Brisbane, QLD, Australia'
-- id: nat20240714
+  date: '2025-07-11'
+  location: 'Sydney, NSW, Australia'
+- id: nat20250712
   name: National University Age Conference
   description: ''
   category: National
   singular: true
-  date: '2024-07-14'
-  location: 'Brisbane, QLD, Australia'
-- id: nat20240715
+  date: '2025-07-12'
+  location: 'Sydney, NSW, Australia'
+- id: nat20250713
   name: National University Age Conference
   description: ''
   category: National
   singular: true
-  date: '2024-07-15'
-  location: 'Brisbane, QLD, Australia'
-- id: nat20240830
+  date: '2025-07-13'
+  location: 'Sydney, NSW, Australia'
+- id: nat20250830
+  name: Parents' and Serving Ones' Conference
+  description: ''
+  category: National
+  singular: true
+  date: '2025-08-30'
+  location: TBD
+- id: nat20250831
+  name: Parents' and Serving Ones' Conference
+  description: ''
+  category: National
+  singular: true
+  date: '2025-08-31'
+  location: TBD
+- id: nat20250829
   name: Teachers' Training
   description: ''
   category: National
   singular: true
-  date: '2024-08-30'
-  location: 'Sydney, NSW, Australia'
-- id: nat20240831
-  name: Parents' and Serving Ones' Conference
-  description: ''
-  category: National
-  singular: true
-  date: '2024-08-31'
-  location: 'Sydney, NSW, Australia'
-- id: nat20240901
-  name: Parents' and Serving Ones' Conference
-  description: ''
-  category: National
-  singular: true
-  date: '2024-09-01'
-  location: 'Sydney, NSW, Australia'
-- id: nat20241019
+  date: '2025-08-29'
+  location: TBD
+- id: nat20251019
   name: Biannual Perfecting Training
   description: ''
   category: National
   singular: true
-  date: '2024-10-19'
-  location: 'Brisbane, QLD, Australia'
-- id: nat20241020
+  date: '2025-10-19'
+  location: 'Melbourne, VIC, Australia'
+- id: nat20251018
   name: Biannual Perfecting Training
   description: ''
   category: National
   singular: true
-  date: '2024-10-20'
-  location: 'Brisbane, QLD, Australia'
-- id: nat20241219
+  date: '2025-10-18'
+  location: 'Melbourne, VIC, Australia'
+- id: nat20251219
   name: Training for Serving Brothers
   description: ''
   category: National
   singular: true
-  date: '2024-12-19'
+  date: '2025-12-19'
   location: 'Sydney, NSW, Australia'
-- id: nat20241220
+- id: nat20251218
   name: Training for Serving Brothers
   description: ''
   category: National
   singular: true
-  date: '2024-12-20'
+  date: '2025-12-18'
   location: 'Sydney, NSW, Australia'
-- id: nat20241220
+- id: nat20251219
   name: Summer School of Truth
   description: ''
   category: National
   singular: true
-  date: '2024-12-20'
-  location: 'The Collaroy Centre, Sydney, NSW, Australia'
-- id: nat20241220b
+  date: '2025-12-19'
+  location: 'The CRU Galston Gorge, Sydney, NSW, Australia'
+- id: nat20251219b
   name: National Blending Conference
   description: ''
   category: National
   singular: true
-  date: '2024-12-20'
+  date: '2025-12-19'
   location: 'The Tops Conference Centre, Stanwell Tops, NSW, Australia'
-- id: nat20241221
+- id: nat20251220
   name: Summer School of Truth
   description: ''
   category: National
   singular: true
-  date: '2024-12-21'
-  location: 'The Collaroy Centre, Sydney, NSW, Australia'
-- id: nat20241221b
+  date: '2025-12-20'
+  location: 'The CRU Galston Gorge, Sydney, NSW, Australia'
+- id: nat20251220b
   name: National Blending Conference
   description: ''
   category: National
   singular: true
-  date: '2024-12-21'
+  date: '2025-12-20'
   location: 'The Tops Conference Centre, Stanwell Tops, NSW, Australia'
-- id: nat20241222
+- id: nat20251221
   name: Summer School of Truth
   description: ''
   category: National
   singular: true
-  date: '2024-12-22'
-  location: 'The Collaroy Centre, Sydney, NSW, Australia'
-- id: nat20241222b
+  date: '2025-12-21'
+  location: 'The CRU Galston Gorge, Sydney, NSW, Australia'
+- id: nat20251221b
   name: National Blending Conference
   description: ''
   category: National
   singular: true
-  date: '2024-12-22'
+  date: '2025-12-21'
   location: 'The Tops Conference Centre, Stanwell Tops, NSW, Australia'
-- id: nat20241223
+- id: nat20251222
   name: Summer School of Truth
   description: ''
   category: National
   singular: true
-  date: '2024-12-23'
-  location: 'The Collaroy Centre, Sydney, NSW, Australia'
-- id: nat20241223b
+  date: '2025-12-22'
+  location: 'The CRU Galston Gorge, Sydney, NSW, Australia'
+- id: nat20251222b
   name: National Blending Conference
   description: ''
   category: National
   singular: true
-  date: '2024-12-23'
+  date: '2025-12-22'
   location: 'The Tops Conference Centre, Stanwell Tops, NSW, Australia'
-- id: nat20241224
+- id: nat20251223
   name: Summer School of Truth
   description: ''
   category: National
   singular: true
-  date: '2024-12-24'
-  location: 'The Collaroy Centre, Sydney, NSW, Australia'
-- id: nat20241224b
+  date: '2025-12-23'
+  location: 'The CRU Galston Gorge, Sydney, NSW, Australia'
+- id: nat20251223b
   name: National Blending Conference
   description: ''
   category: National
   singular: true
-  date: '2024-12-24'
+  date: '2025-12-23'
   location: 'The Tops Conference Centre, Stanwell Tops, NSW, Australia'
