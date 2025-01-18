@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>12th January&nbsp;2025</span></strong></p>
+<strong><span>19th January&nbsp;2025</span></strong></p>
 </div>
 
                         </td>
@@ -65,34 +65,35 @@ nofollow: true
 <p>Date: 19 January 2025<br>
 Venue: Meeting Hall (after prophesying meeting)<br>
 <br>
-All saints are welcome to join the love feast. Let's take this opportunity to cherish one another while enjoying mutual fellowship. The love feast will be followed by the monthly coordination meeting for those who wish to join</p>
+All saints are welcome to join the love feast. Let's take this opportunity to cherish one another while enjoying mutual fellowship. The love feast will be followed by the monthly coordination meeting for those who wish to join.</p>
 </blockquote>
 
 <p><span>2.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
 
 <blockquote>
 <p><strong>English speaking - Friday 7pm</strong><br>
-Northside Venue: Kaleen House<br>
-Southside Venue: Billy and Len's place (Banks)<br>
-Topic: The Kingdon of God- the Realm of the Divine Life and of the Divine Species<br>
+Northside: Mark and&nbsp;Yashan's place (Kaleen)<br>
+Southside: Dermie and April's place (Lyons)<br>
 <br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
 Venue: Ming and Nadia's place (Palmerston)<br>
-Topic: The Kingdom of God- the Realm of the Divine Life and of the Divine Species</p>
+<br>
+<strong>Topic</strong><br>
+Living the Kingdom Life by Living a Hidden Life</p>
 </blockquote>
 
 <p><span>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 1&nbsp;commencing Monday<br>
+<p>Week 2&nbsp;commencing Monday<br>
 HWMR Title: Living in the Reality of the Kingdom of God.<br>
-Week 1&nbsp;Title:&nbsp;The Kingdom of God- the Realm of the Divine Life and of the Divine Species</p>
+Week 2&nbsp;Title:&nbsp;Living the Kingdom Life by Living a Hidden Life</p>
 </blockquote>
 
 <p><font><span>4. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of First Corinthians Message&nbsp;69 + review 1 Corinthians</p>
+<p>Life Study of Mathew&nbsp;message 1</p>
 </blockquote>
 
 <p><font><span>5. OFFERING FOR SYDNEY CONFERENCE AND TRAINING CENTRE</span></font></p>
@@ -132,16 +133,17 @@ Transaction reference:&nbsp;SCTC - Canberra</p>
 <p><font><span>1. CANBERRA VIDEO TRAINING FEBRUARY 2025</span></font></p>
 
 <blockquote>
-<p><font><span>Date: 01 Feb to 02&nbsp;March&nbsp;2025<br>
+<p><font><span>Date: 02&nbsp;Feb to 02&nbsp;March&nbsp;2025<br>
 Venue: Church in Canberra Meeting Hall<br>
-Details and Registration to follow</span></font></p>
+Registration: <a href="https://form.jotform.com/Churchincanberra/video-training-Feb-2025" target="_blank">click here</a><br>
+Deadline:&nbsp;</span>Tuesday,&nbsp;28th January&nbsp; </font></p>
 </blockquote>
 
-<p><font><span>2. COMBINED MONTHLY PERFECTING TRAINING</span></font></p>
+<p><font><font><span>2. MONTHLY PERFECTING TRAINING</span></font></font></p>
 
 <blockquote>
-<p><font><span>Combined Monthly Perfecting Training for 2025 will start&nbsp; on 15th of February. It will be online and also by clustering locally over 6 months. Saints are encourage to participate. Please register on&nbsp;the link below even if you have joined in previous years.<br>
-The details and registration form please <a href="https://docs.google.com/forms/d/e/1FAIpQLSdhdpac16TzUJWMspsFJ1w8p8uYVsbCwjet-dqrTyWP34CQFg/viewform`" target="_blank">click here</a></span></font></p>
+<p><font><font><span>Monthly Perfecting Training for 2025 will start&nbsp; on 15th of February. It will be online and also by clustering locally over 6 months. Saints are encourage to participate. Please register on&nbsp;the link below even if you have joined in previous years.<br>
+The details and registration form please <a href="https://docs.google.com/forms/d/e/1FAIpQLSdhdpac16TzUJWMspsFJ1w8p8uYVsbCwjet-dqrTyWP34CQFg/viewform" target="_blank">click here</a></span></font></font></p>
 </blockquote>
 
                         </td>
@@ -336,7 +338,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13891794" target="_blank">Announcement 05/01/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13891639" target="_blank">Announcement 29/12/2024</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13891420" target="_blank">Special prayer meeting (31/12) and meetings in the coming weeks</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13891998" target="_blank">Announcement 12/01/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13891794" target="_blank">Announcement 05/01/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13891639" target="_blank">Announcement 29/12/2024</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
