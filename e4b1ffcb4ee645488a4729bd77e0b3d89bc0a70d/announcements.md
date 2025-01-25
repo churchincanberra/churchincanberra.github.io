@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>19th January&nbsp;2025</span></strong></p>
+<strong><span>26th January&nbsp;2025</span></strong></p>
 </div>
 
                         </td>
@@ -59,41 +59,45 @@ nofollow: true
                         
                         <td>
                         
-                            <p><span>1. LOVEFEAST AT THE HALL (FOLLOWED BY COORDINATION MEETING)</span></p>
+                            <p><span>1. VIDEO TRAINING MESSAGE 1 (OPEN SESSION)</span></p>
 
 <blockquote>
-<p>Date: 19 January 2025<br>
-Venue: Meeting Hall (after prophesying meeting)<br>
+<p>Date: 02&nbsp;February&nbsp;2025<br>
+Message 1:&nbsp; The Seed of David Becoming the Son of God<br>
 <br>
-All saints are welcome to join the love feast. Let's take this opportunity to cherish one another while enjoying mutual fellowship. The love feast will be followed by the monthly coordination meeting for those who wish to join.</p>
+Schedule:<br>
+10:00am - Bread breaking meeting<br>
+10:45am - Break / Morning Tea<br>
+11:00am - Open Session (Message 1)<br>
+12:30pm - End</p>
 </blockquote>
 
 <p><span>2.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
 
 <blockquote>
 <p><strong>English speaking - Friday 7pm</strong><br>
-Northside: Mark and&nbsp;Yashan's place (Kaleen)<br>
-Southside: Dermie and April's place (Lyons)<br>
+Northside: James&nbsp;and Lahra's place (Kaleen)<br>
+Southside: Vasti's&nbsp;place (Holder)<br>
 <br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
 Venue: Ming and Nadia's place (Palmerston)<br>
 <br>
 <strong>Topic</strong><br>
-Living the Kingdom Life by Living a Hidden Life</p>
+The Kingdom and the Church</p>
 </blockquote>
 
 <p><span>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 2&nbsp;commencing Monday<br>
+<p>Week 3&nbsp;commencing Monday<br>
 HWMR Title: Living in the Reality of the Kingdom of God.<br>
-Week 2&nbsp;Title:&nbsp;Living the Kingdom Life by Living a Hidden Life</p>
+Week 3&nbsp;Title:&nbsp;The Kingdom and the Church</p>
 </blockquote>
 
 <p><font><span>4. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of Mathew&nbsp;message 1</p>
+<p>Life Study of Mathew&nbsp;message 2</p>
 </blockquote>
 
 <p><font><span>5. OFFERING FOR SYDNEY CONFERENCE AND TRAINING CENTRE</span></font></p>
@@ -203,7 +207,14 @@ Report:&nbsp;<a href="https://churchesceeb.org/reports/2024-reports-english/" ta
                             <p><span><u>AUDIO&nbsp;AND VIDEO RECORDINGS&nbsp;FROM RECENT TRAININGS AND CONFERENCES</u>&nbsp;</span><br>
 &nbsp;</p>
 
-<p><span>1. Fellowship at recent ITERO (see topics below)</span></p>
+<p><span>1. National Blending Conference (NBC) Dec. 2024</span></p>
+
+<blockquote>
+<p>General Subject: Living in the Reality of the Kingdom of God<br>
+The recorded messages are ready for download: <a href="http://www.churchinsydney.org/NBC2024-audio" target="_blank">Click here</a>&nbsp; &nbsp;</p>
+</blockquote>
+
+<p><span>2. Fellowship at recent ITERO (see topics below)</span></p>
 
 <blockquote>
 <p>Topics:<br>
@@ -244,10 +255,11 @@ Fellowship: <a href="https://itero2024warsaw.org/" target="_blank">click here</a
 <span>A. REGULAR MEETINGS OF THE CHURCH</span></p>
 
 <blockquote>
-<p><u><strong>Prayer Meeting (English)</strong></u><br>
-Tuesday 7:30pm at the meeting hall and on Zoom (details below).<br>
-<u><strong>Prayer Meeting (Chinese)</strong></u><br>
-Friday 9pm on W<em>eChat. </em>If you wish to attend please contact Mark Lam or Sister Zhi Bing and they will add you to the WeChat group.<br>
+<p><u><strong>Prayer Meeting (English &amp; Chinese)</strong></u><br>
+Tuesday 7:30pm at the meeting hall and online\<br>
+Online:&nbsp;<br>
+Zoom for English (details below)<br>
+Wechat for Chinese (Contact Mark Lam or Zhi Bing to be added in the group chat)<br>
 <u><strong>Lord's Table and Prophesying Meeting</strong></u><br>
 Lord's Day 10:00am at the meeting hall and on Zoom (details below).</p>
 </blockquote>
@@ -255,8 +267,8 @@ Lord's Day 10:00am at the meeting hall and on Zoom (details below).</p>
 <p><span>B. COORDINATION MEETING&nbsp;</span></p>
 
 <blockquote>
-<p>Next Meeting: 19 January 2025<br>
-Book: Tree of Life- Message 5<br>
+<p>Next Meeting: 15&nbsp;March&nbsp;2025<br>
+Book: Tree of Life- Message 6<br>
 Future Dates: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/217085b8-c53f-f6e5-98b5-85a05354b978/2025_Coordination_Meeting_Schedule.01.pdf" target="_blank">Click here</a><br>
 <br>
 This&nbsp;meeting&nbsp;is open to saints serving (or endeavouring to serve) and is predominantly a time to enjoy the Lord so that we may be built up together in our service. There will be Zoom available for those who cannot join physically.</p>
@@ -338,7 +350,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13891998" target="_blank">Announcement 12/01/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13891794" target="_blank">Announcement 05/01/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13891639" target="_blank">Announcement 29/12/2024</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13892281" target="_blank">Announcement 19/01/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13891998" target="_blank">Announcement 12/01/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13891794" target="_blank">Announcement 05/01/2025</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
