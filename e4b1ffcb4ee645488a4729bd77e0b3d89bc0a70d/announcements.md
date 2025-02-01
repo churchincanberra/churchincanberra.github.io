@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>26th January&nbsp;2025</span></strong></p>
+<strong><span>2nd February 2025</span></strong></p>
 </div>
 
                         </td>
@@ -76,28 +76,28 @@ Schedule:<br>
 
 <blockquote>
 <p><strong>English speaking - Friday 7pm</strong><br>
-Northside: James&nbsp;and Lahra's place (Kaleen)<br>
-Southside: Vasti's&nbsp;place (Holder)<br>
+Northside: Sara's place (Reid)- Please contact her for the details.<br>
+Southside: Zi' place&nbsp;(Phillip)- Please contact him for the details.<br>
 <br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
-Venue: Ming and Nadia's place (Palmerston)<br>
+Venue: Victor and Bing' place&nbsp;(Lyons)<br>
 <br>
 <strong>Topic</strong><br>
-The Kingdom and the Church</p>
+The Exercise of the Kingdom for the Building Up of the Church&nbsp;</p>
 </blockquote>
 
 <p><span>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 3&nbsp;commencing Monday<br>
+<p>Week 4&nbsp;commencing Monday<br>
 HWMR Title: Living in the Reality of the Kingdom of God.<br>
-Week 3&nbsp;Title:&nbsp;The Kingdom and the Church</p>
+Week 4&nbsp;Title:&nbsp;The Exercise of the Kingdom for&nbsp;the Building Up of the Church</p>
 </blockquote>
 
 <p><font><span>4. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of Mathew&nbsp;message 2</p>
+<p>Life Study of Matthew&nbsp;message 3 and 4</p>
 </blockquote>
 
 <p><font><span>5. OFFERING FOR SYDNEY CONFERENCE AND TRAINING CENTRE</span></font></p>
@@ -350,7 +350,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13892281" target="_blank">Announcement 19/01/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13891998" target="_blank">Announcement 12/01/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13891794" target="_blank">Announcement 05/01/2025</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13892434" target="_blank">Announcement 26/01/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13892281" target="_blank">Announcement 19/01/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13891998" target="_blank">Announcement 12/01/2025</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
