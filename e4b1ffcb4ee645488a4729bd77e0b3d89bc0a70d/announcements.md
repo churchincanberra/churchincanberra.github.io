@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>2nd February 2025</span></strong></p>
+<strong><span>9th February 2025</span></strong></p>
 </div>
 
                         </td>
@@ -59,45 +59,37 @@ nofollow: true
                         
                         <td>
                         
-                            <p><span>1. VIDEO TRAINING MESSAGE 1 (OPEN SESSION)</span></p>
+                            <p><span>1. ANNUAL GENERAL MEETING OF CHURCH IN CANBERRA</span></p>
 
 <blockquote>
-<p>Date: 02&nbsp;February&nbsp;2025<br>
-Message 1:&nbsp; The Seed of David Becoming the Son of God<br>
-<br>
-Schedule:<br>
-10:00am - Bread breaking meeting<br>
-10:45am - Break / Morning Tea<br>
-11:00am - Open Session (Message 1)<br>
-12:30pm - End</p>
+<p>The Church in Canberra is a registered charity and is required at law to have an Annual General Meeting. This years meeting will be held following the meeting at 12:15 (today). The meeting will take less than 15 minuets. Saints are welcome to stay for the proceedings. The church annual financial report will also be delivered during the meeting.</p>
 </blockquote>
 
 <p><span>2.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
 
 <blockquote>
 <p><strong>English speaking - Friday 7pm</strong><br>
-Northside: Sara's place (Reid)- Please contact her for the details.<br>
-Southside: Zi' place&nbsp;(Phillip)- Please contact him for the details.<br>
+Northside: Lydia's place (Casey)<br>
+Southside: Steer's place&nbsp;(Banks)<br>
 <br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
 Venue: Victor and Bing' place&nbsp;(Lyons)<br>
 <br>
-<strong>Topic</strong><br>
-The Exercise of the Kingdom for the Building Up of the Church&nbsp;</p>
+<strong>Topic:&nbsp;</strong>Living under the Sovereignty of God and according to the Mercy of God</p>
 </blockquote>
 
 <p><span>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 4&nbsp;commencing Monday<br>
+<p>Week 5&nbsp;commencing Monday<br>
 HWMR Title: Living in the Reality of the Kingdom of God.<br>
-Week 4&nbsp;Title:&nbsp;The Exercise of the Kingdom for&nbsp;the Building Up of the Church</p>
+Week 5&nbsp;Title:&nbsp;Living under the Sovereignty of God and according to the Mercy of God</p>
 </blockquote>
 
 <p><font><span>4. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of Matthew&nbsp;message 3 and 4</p>
+<p>Life Study of Matthew&nbsp;message 5&nbsp;and 6</p>
 </blockquote>
 
 <p><font><span>5. OFFERING FOR SYDNEY CONFERENCE AND TRAINING CENTRE</span></font></p>
@@ -350,7 +342,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13892434" target="_blank">Announcement 26/01/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13892281" target="_blank">Announcement 19/01/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13891998" target="_blank">Announcement 12/01/2025</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13892629" target="_blank">Announcement 02/02/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13892434" target="_blank">Announcement 26/01/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13892281" target="_blank">Announcement 19/01/2025</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
