@@ -33,7 +33,9 @@ nofollow: true
                         <td>
                         
                             <div>
-<h2>Zual going to the training</h2>
+<hr>
+<p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
+<strong><span>16th February 2025</span></strong></p>
 </div>
 
                         </td>
@@ -57,25 +59,49 @@ nofollow: true
                         
                         <td>
                         
-                            <p><br>
-Dear saints,&nbsp;<br>
-&nbsp;</p>
+                            <p><span>1. ANNUAL GENERAL MEETING OF CHURCH IN CANBERRA</span></p>
 
-<p>There will be a Love feast at the meeting hall on Wednesday to pray for and farewell Zual for the full time training..&nbsp;<br>
+<blockquote>
+<p>The Church in Canberra is a registered charity and is required at law to have an Annual General Meeting. This years meeting will be held following the meeting at 12:15 (today). The meeting will take less than 15 minuets. Saints are welcome to stay for the proceedings. The church annual financial report will also be delivered during the meeting.</p>
+</blockquote>
+
+<p><span>2.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
+
+<blockquote>
+<p><strong>English speaking - Friday 7pm</strong><br>
+Northside: Brother Mark's place (Kaleen)<br>
+Southside: Ederosas'&nbsp;place&nbsp;(Lyons)<br>
 <br>
-Date: 12th Feb<br>
-Time: 7pm dinner, 8pm fellowship and prayer<br>
-Venue: Meeting Hall &amp; Zoom&nbsp;<br>
+<strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
+Venue: Victor&nbsp;and Bing' place&nbsp;(Lyons)<br>
 <br>
-All saints are welcome to join a love feast to farewell Zual for the full time training in Anaheim. We will&nbsp;eat together then pray and fellowship.&nbsp;<br>
+<strong>Topic:&nbsp;</strong>Being Watchful in Life and Faithful in Service</p>
+</blockquote>
+
+<p><span>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
+
+<blockquote>
+<p>Week 6&nbsp;commencing Monday<br>
+HWMR Title: Living in the Reality of the Kingdom of God.<br>
+Week 6&nbsp;Title:&nbsp;Being Watchful in Life and Faithful in Service</p>
+</blockquote>
+
+<p><font><span>4. LIFE STUDY PURSUIT</span></font></p>
+
+<blockquote>
+<p>Life Study of Matthew&nbsp;message 7&nbsp;and 8</p>
+</blockquote>
+
+<p><font><span>5. OFFERING FOR SYDNEY CONFERENCE AND TRAINING CENTRE</span></font></p>
+
+<blockquote>
+<p>Those burdened&nbsp;to offer to the Sydney Conference and Training Centre project can offer directly to the Church in Sydney building account using the below details. Please ensure the reference 'SCTC - Canberra' is used.<br>
 <br>
-Zoom will be turned on at 8pm for those who cannot come physically (<a href="https://us02web.zoom.us/j/86759516115?pwd=RGQrKzJWWkRtTXVkeS9ZNXdSSmwxdz09" target="_blank">click here</a>).<br>
-<br>
-Sorry for the short notice.<br>
-<br>
-In Him,<br>
-<br>
-The Brothers in Canberra</p>
+Account name: Church in Sydney Building Account<br>
+BSB:&nbsp;032-282<br>
+Account No.: 39-3426<br>
+Transaction reference:&nbsp;SCTC - Canberra</p>
+</blockquote>
 
                         </td>
                     </tr>
@@ -86,7 +112,257 @@ The Brothers in Canberra</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13892847" target="_blank">Announcement 09/02/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13892629" target="_blank">Announcement 02/02/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13892434" target="_blank">Announcement 26/01/2025</a></div>
+</table><table>
+    <tbody>
+        <tr>
+            <td>
+              	
+			    
+				
+                <table>
+                    <tbody><tr>
+                        
+                        <td>
+                        
+                            <p><span><u>TRAINING &amp; CONFERENCES</u>&nbsp;</span></p>
+
+<p><font><span>1. CANBERRA VIDEO TRAINING FEBRUARY 2025</span></font></p>
+
+<blockquote>
+<p><font><span>Date: 02&nbsp;Feb -&nbsp;02&nbsp;March&nbsp;2025<br>
+Venue: Church in Canberra Meeting Hall<br>
+Registration: <a href="https://form.jotform.com/Churchincanberra/video-training-Feb-2025" target="_blank">click here</a><br>
+Deadline:&nbsp;</span>Tuesday,&nbsp;28th January&nbsp; </font></p>
+</blockquote>
+
+<p><font><font><span>2. BIANNUAL&nbsp;PERFECTING TRAINING</span></font></font></p>
+
+<blockquote>
+<p><font><span>Dates: 15 -&nbsp;16 March 2025<br>
+Venue: 169 Foxall Road, Kellyville North, NSW<br>
+Registration: <a href="https://new.express.adobe.com/webpage/uk2bcysOqt4dK" target="_blank">click here</a><br>
+Deadline: 05&nbsp;March</span>&nbsp;2025</font></p>
+</blockquote>
+
+<p><font><font><span>3. MONTHLY PERFECTING TRAINING</span></font></font></p>
+
+<blockquote>
+<p><font><font><span>Monthly Perfecting Training for 2025 will start&nbsp; on 12th of April. It will be online and also by clustering locally over 6 months. Saints are encourage to participate. Please register on&nbsp;the link below even if you have joined in previous years.<br>
+The details and registration form please <a href="https://docs.google.com/forms/d/e/1FAIpQLSdhdpac16TzUJWMspsFJ1w8p8uYVsbCwjet-dqrTyWP34CQFg/viewform" target="_blank">click here</a></span></font></font></p>
+</blockquote>
+
+<p><font><font><span>4. PERTH BLENDING CONFERENCE</span></font></font></p>
+
+<blockquote>
+<p><font><span>Dates: 25 -&nbsp;27&nbsp;April&nbsp;2025<br>
+Venue: Woodman Point Recreation Camp<br>
+Registration: <a href="https://fingertip.com/perthblendingconference" target="_blank">click here</a><br>
+Deadline: 10&nbsp;March</span>&nbsp;2025</font></p>
+</blockquote>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				
+                
+				
+            </td>
+        </tr>
+    </tbody>
+</table><table>
+    <tbody>
+        <tr>
+            <td>
+              	
+			    
+				
+                <table>
+                    <tbody><tr>
+                        
+                        <td>
+                        
+                            <p><a href="http://INTERNATIONAL ANNOUNCEMENTS" target="_blank"><u><span>INTERNATIONAL ANNOUNCEMENTS</span></u></a><br>
+&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><span>1.&nbsp;Report regarding the Lord's move in Central and Eastern Europe and the Balkans (CEEB).</span></p>
+
+<blockquote>
+<p>The link below concerns the Lord's move in CEEB. Work will begin on translating the NT into Czech and Slovak. The church in Canberra will offer $5,000 to support the translation work.<br>
+Report:&nbsp;<a href="https://churchesceeb.org/reports/2024-reports-english/" target="_blank">click here</a><br>
+<br>
+<span>Update&nbsp;regarding the New Testament Recovery Version translation into Czech and Slovak,&nbsp;<a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/78b27a9c-d420-9566-c006-7c3a38b93005/Update_on_New_Testament_Recovery_versio_tramslationn_into_the_Slovak_and_Czech_languages_.01.pdf" target="_blank">click here</a></span></p>
+</blockquote>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				
+                
+				
+            </td>
+        </tr>
+    </tbody>
+</table><table>
+    <tbody>
+        <tr>
+            <td>
+              	
+			    
+				
+                <table>
+                    <tbody><tr>
+                        
+                        <td>
+                        
+                            <p><span><u>AUDIO&nbsp;AND VIDEO RECORDINGS&nbsp;FROM RECENT TRAININGS AND CONFERENCES</u>&nbsp;</span><br>
+&nbsp;</p>
+
+<p><span>1. National Blending Conference (NBC) Dec. 2024</span></p>
+
+<blockquote>
+<p>General Subject: Living in the Reality of the Kingdom of God<br>
+The recorded messages are ready for download: <a href="http://www.churchinsydney.org/NBC2024-audio" target="_blank">Click here</a>&nbsp; &nbsp;</p>
+</blockquote>
+
+<p><span>2. Fellowship at recent ITERO (see topics below)</span></p>
+
+<blockquote>
+<p>Topics:<br>
+&nbsp; &nbsp; Lord’s table meeting (the recording does not contain this part)<br>
+&nbsp; &nbsp; Fellowship from brother Ron Kangas<br>
+&nbsp; &nbsp; Fellowship on the Lord’s move in France<br>
+&nbsp; &nbsp; Fellowship on the Lord’s move in CEEB region<br>
+&nbsp; &nbsp; Fellowship on the Lord’s move in Poland<br>
+&nbsp; &nbsp; Fellowship from brother Joe Davis<br>
+<br>
+Fellowship: <a href="https://itero2024warsaw.org/" target="_blank">click here</a></p>
+</blockquote>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				
+                
+				
+            </td>
+        </tr>
+    </tbody>
+</table><table>
+    <tbody>
+        <tr>
+            <td>
+              	
+			    
+				
+                <table>
+                    <tbody><tr>
+                        
+                        <td>
+                        
+                            <p><span><u>GENERAL INFORMATION</u></span></p>
+
+<p><br>
+<span>A. REGULAR MEETINGS OF THE CHURCH</span></p>
+
+<blockquote>
+<p><u><strong>Prayer Meeting (English &amp; Chinese)</strong></u><br>
+Tuesday 7:30pm at the meeting hall and online\<br>
+Online:&nbsp;<br>
+Zoom for English (details below)<br>
+Wechat for Chinese (Contact Mark Lam or Zhi Bing to be added in the group chat)<br>
+<u><strong>Lord's Table and Prophesying Meeting</strong></u><br>
+Lord's Day 10:00am at the meeting hall and on Zoom (details below).</p>
+</blockquote>
+
+<p><span>B. COORDINATION MEETING&nbsp;</span></p>
+
+<blockquote>
+<p>Next Meeting: 23&nbsp;March&nbsp;2025<br>
+Book: Tree of Life- Message 6<br>
+Future Dates: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/bd377fc8-bb60-c003-f011-77487b28048d/Coordination_Meeting_Schedule_2025.pdf" target="_blank">click here</a><br>
+<br>
+This&nbsp;meeting&nbsp;is open to saints serving (or endeavouring to serve) and is predominantly a time to enjoy the Lord so that we may be built up together in our service. There will be Zoom available for those who cannot join physically.</p>
+</blockquote>
+
+<p><span>C. CALENDAR FROM THE CHURCH IN SYDNEY</span></p>
+
+<blockquote>
+<p>Please <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/69a41739-1456-dcdf-4b30-45870dd9e049/Church_Planner_2025_version_1_4__4146108f_06fb_421f_b5ff_e7065bba4ed1.pdf" target="_blank">click here</a></p>
+</blockquote>
+
+<p><span>D. CHURCH IN CANBERRA VARIOUS OFFERING ACCOUNTS</span></p>
+
+<blockquote>
+<p>Please <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/6b4f0499-5273-dcfe-2022-308c20d84c42/Church_in_Canberra_Bank_Accounts.01.pdf" target="_blank">click here</a></p>
+</blockquote>
+
+<p><span>E. ZOOM MEETING DETAILS</span></p>
+
+<blockquote>
+<p>To join, click this link&nbsp;<a href="https://us02web.zoom.us/j/86759516115?pwd=RGQrKzJWWkRtTXVkeS9ZNXdSSmwxdz09" target="_blank">https://us02web.zoom.us/j/86759516115?pwd=RGQrKzJWWkRtTXVkeS9ZNXdSSmwxdz09</a><br>
+Meeting ID:&nbsp;867 5951 6115&nbsp;<br>
+Passcode:&nbsp;Eph4:16</p>
+</blockquote>
+
+<p><span>F. ONLINE ANNOUNCEMENT</span></p>
+
+<blockquote>
+<p>The announcement page on the church in Canberra website (<a href="https://www.churchincanberra.org/announcements" target="_blank">https://www.churchincanberra.org/announcements</a>) requires the password, 'canberra'.</p>
+</blockquote>
+
+<p><span>G. LIST OF ACT SUBURBS AND DISTRICTS&nbsp;</span></p>
+
+<blockquote>
+<p>Through the burden released at recent conferences and the prayer of the saints&nbsp;we look to the Lord for the increase&nbsp;of his testimony in Canberra. There is the need for much prayer that the Lord would gain his testimony across the whole of the ACT. The document <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/15584ad1-5cea-5f67-dfc0-44b4e246ee2a/ACT_Divisions_2023_v2.pdf" target="_blank">linked here</a> contains a full list of the ACT Districts and Divisions (Suburbs) to aid in your prayer for his move in Canberra.</p>
+</blockquote>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				
+                
+				
+            </td>
+        </tr>
+    </tbody>
+</table><table>
+    <tbody>
+        <tr>
+            <td>
+              	
+			    
+				
+                <table>
+                    <tbody><tr>
+                        
+                        <td>
+                        
+                            <p><span><span>Past announcements can be found at the church website:<span>&nbsp;</span></span></span><a href="https://www.churchincanberra.org/announcements" rel="noreferrer noopener" target="_blank"><span><span>https://www.churchincanberra.org/announcements</span></span></a><span>&nbsp;</span></p>
+
+<div>
+<p><span><span>(Please refer to weekly email announcement for login password)</span></span><span>&nbsp;</span></p>
+</div>
+
+<div>
+<p dir="rtl"><span>&nbsp;</span></p>
+</div>
+
+<div>
+<p><span><span>From coordinating ones, on behalf of the Church in Canberra&nbsp;</span></span><span> </span></p>
+</div>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				
+                
+				
+            </td>
+        </tr>
+    </tbody>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13892885" target="_blank">Love feast and Zual going to the training</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13892847" target="_blank">Announcement 09/02/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13892629" target="_blank">Announcement 02/02/2025</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
