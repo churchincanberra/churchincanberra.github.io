@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>2nd February 2025</span></strong></p>
+<strong><span>16th February 2025</span></strong></p>
 </div>
 
                         </td>
@@ -59,45 +59,37 @@ nofollow: true
                         
                         <td>
                         
-                            <p><span>1. VIDEO TRAINING MESSAGE 1 (OPEN SESSION)</span></p>
+                            <p><span>1. ANNUAL GENERAL MEETING OF CHURCH IN CANBERRA</span></p>
 
 <blockquote>
-<p>Date: 02&nbsp;February&nbsp;2025<br>
-Message 1:&nbsp; The Seed of David Becoming the Son of God<br>
-<br>
-Schedule:<br>
-10:00am - Bread breaking meeting<br>
-10:45am - Break / Morning Tea<br>
-11:00am - Open Session (Message 1)<br>
-12:30pm - End</p>
+<p>The Church in Canberra is a registered charity and is required at law to have an Annual General Meeting. This years meeting will be held following the meeting at 12:15 (today). The meeting will take less than 15 minuets. Saints are welcome to stay for the proceedings. The church annual financial report will also be delivered during the meeting.</p>
 </blockquote>
 
 <p><span>2.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
 
 <blockquote>
 <p><strong>English speaking - Friday 7pm</strong><br>
-Northside: Sara's place (Reid)- Please contact her for the details.<br>
-Southside: Zi' place&nbsp;(Phillip)- Please contact him for the details.<br>
+Northside: Brother Mark's place (Kaleen)<br>
+Southside: Ederosas'&nbsp;place&nbsp;(Lyons)<br>
 <br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
-Venue: Victor and Bing' place&nbsp;(Lyons)<br>
+Venue: Victor&nbsp;and Bing' place&nbsp;(Lyons)<br>
 <br>
-<strong>Topic</strong><br>
-The Exercise of the Kingdom for the Building Up of the Church&nbsp;</p>
+<strong>Topic:&nbsp;</strong>Being Watchful in Life and Faithful in Service</p>
 </blockquote>
 
 <p><span>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 4&nbsp;commencing Monday<br>
+<p>Week 6&nbsp;commencing Monday<br>
 HWMR Title: Living in the Reality of the Kingdom of God.<br>
-Week 4&nbsp;Title:&nbsp;The Exercise of the Kingdom for&nbsp;the Building Up of the Church</p>
+Week 6&nbsp;Title:&nbsp;Being Watchful in Life and Faithful in Service</p>
 </blockquote>
 
 <p><font><span>4. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of Matthew&nbsp;message 3 and 4</p>
+<p>Life Study of Matthew&nbsp;message 7&nbsp;and 8</p>
 </blockquote>
 
 <p><font><span>5. OFFERING FOR SYDNEY CONFERENCE AND TRAINING CENTRE</span></font></p>
@@ -137,17 +129,35 @@ Transaction reference:&nbsp;SCTC - Canberra</p>
 <p><font><span>1. CANBERRA VIDEO TRAINING FEBRUARY 2025</span></font></p>
 
 <blockquote>
-<p><font><span>Date: 02&nbsp;Feb to 02&nbsp;March&nbsp;2025<br>
+<p><font><span>Date: 02&nbsp;Feb -&nbsp;02&nbsp;March&nbsp;2025<br>
 Venue: Church in Canberra Meeting Hall<br>
 Registration: <a href="https://form.jotform.com/Churchincanberra/video-training-Feb-2025" target="_blank">click here</a><br>
 Deadline:&nbsp;</span>Tuesday,&nbsp;28th January&nbsp; </font></p>
 </blockquote>
 
-<p><font><font><span>2. MONTHLY PERFECTING TRAINING</span></font></font></p>
+<p><font><font><span>2. BIANNUAL&nbsp;PERFECTING TRAINING</span></font></font></p>
 
 <blockquote>
-<p><font><font><span>Monthly Perfecting Training for 2025 will start&nbsp; on 15th of February. It will be online and also by clustering locally over 6 months. Saints are encourage to participate. Please register on&nbsp;the link below even if you have joined in previous years.<br>
+<p><font><span>Dates: 15 -&nbsp;16 March 2025<br>
+Venue: 169 Foxall Road, Kellyville North, NSW<br>
+Registration: <a href="https://new.express.adobe.com/webpage/uk2bcysOqt4dK" target="_blank">click here</a><br>
+Deadline: 05&nbsp;March</span>&nbsp;2025</font></p>
+</blockquote>
+
+<p><font><font><span>3. MONTHLY PERFECTING TRAINING</span></font></font></p>
+
+<blockquote>
+<p><font><font><span>Monthly Perfecting Training for 2025 will start&nbsp; on 12th of April. It will be online and also by clustering locally over 6 months. Saints are encourage to participate. Please register on&nbsp;the link below even if you have joined in previous years.<br>
 The details and registration form please <a href="https://docs.google.com/forms/d/e/1FAIpQLSdhdpac16TzUJWMspsFJ1w8p8uYVsbCwjet-dqrTyWP34CQFg/viewform" target="_blank">click here</a></span></font></font></p>
+</blockquote>
+
+<p><font><font><span>4. PERTH BLENDING CONFERENCE</span></font></font></p>
+
+<blockquote>
+<p><font><span>Dates: 25 -&nbsp;27&nbsp;April&nbsp;2025<br>
+Venue: Woodman Point Recreation Camp<br>
+Registration: <a href="https://fingertip.com/perthblendingconference" target="_blank">click here</a><br>
+Deadline: 10&nbsp;March</span>&nbsp;2025</font></p>
 </blockquote>
 
                         </td>
@@ -173,6 +183,8 @@ The details and registration form please <a href="https://docs.google.com/forms/
                         
                             <p><a href="http://INTERNATIONAL ANNOUNCEMENTS" target="_blank"><u><span>INTERNATIONAL ANNOUNCEMENTS</span></u></a><br>
 &nbsp;</p>
+
+<p>&nbsp;</p>
 
 <p><span>1.&nbsp;Report regarding the Lord's move in Central and Eastern Europe and the Balkans (CEEB).</span></p>
 
@@ -267,9 +279,9 @@ Lord's Day 10:00am at the meeting hall and on Zoom (details below).</p>
 <p><span>B. COORDINATION MEETING&nbsp;</span></p>
 
 <blockquote>
-<p>Next Meeting: 15&nbsp;March&nbsp;2025<br>
+<p>Next Meeting: 23&nbsp;March&nbsp;2025<br>
 Book: Tree of Life- Message 6<br>
-Future Dates: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/217085b8-c53f-f6e5-98b5-85a05354b978/2025_Coordination_Meeting_Schedule.01.pdf" target="_blank">Click here</a><br>
+Future Dates: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/bd377fc8-bb60-c003-f011-77487b28048d/Coordination_Meeting_Schedule_2025.pdf" target="_blank">click here</a><br>
 <br>
 This&nbsp;meeting&nbsp;is open to saints serving (or endeavouring to serve) and is predominantly a time to enjoy the Lord so that we may be built up together in our service. There will be Zoom available for those who cannot join physically.</p>
 </blockquote>
@@ -350,7 +362,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13892434" target="_blank">Announcement 26/01/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13892281" target="_blank">Announcement 19/01/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13891998" target="_blank">Announcement 12/01/2025</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13892885" target="_blank">Love feast and Zual going to the training</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13892847" target="_blank">Announcement 09/02/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13892629" target="_blank">Announcement 02/02/2025</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
