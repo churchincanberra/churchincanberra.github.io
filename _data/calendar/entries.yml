@@ -698,3 +698,108 @@
   singular: true
   date: '2025-12-23'
   location: 'The Tops Conference Centre, Stanwell Tops, NSW, Australia'
+- id: loc20250119
+  name: Coordination Meeting
+  description: 'Tree of Life message 5'
+  category: Local
+  singular: true
+  date: '2025-01-19'
+  location: 'Canberra, ACT, Australia'
+- id: loc20250216
+  name: Coordination Meeting
+  description: 'Video training'
+  category: Local
+  singular: true
+  date: '2025-02-16'
+  location: 'Canberra, ACT, Australia'
+- id: loc20250323
+  name: Coordination Meeting
+  description: 'Tree of Life message 6'
+  category: Local
+  singular: true
+  date: '2025-03-23'
+  location: 'Canberra, ACT, Australia'
+- id: loc20250427
+  name: Coordination Meeting
+  description: 'Tree of Life message 7'
+  category: Local
+  singular: true
+  date: '2025-04-27'
+  location: 'Canberra, ACT, Australia'
+- id: loc20250518
+  name: Coordination Meeting
+  description: 'Tree of Life message 8'
+  category: Local
+  singular: true
+  date: '2025-05-18'
+  location: 'Canberra, ACT, Australia'
+- id: loc20250615
+  name: Coordination Meeting
+  description: 'Tree of Life message 9'
+  category: Local
+  singular: true
+  date: '2025-06-15'
+  location: 'Canberra, ACT, Australia'
+- id: loc20250720
+  name: Coordination Meeting
+  description: 'Tree of Life message 10'
+  category: Local
+  singular: true
+  date: '2025-07-20'
+  location: 'Canberra, ACT, Australia'
+- id: loc20250817
+  name: Coordination Meeting
+  description: 'Video Training'
+  category: Local
+  singular: true
+  date: '2025-08-17'
+  location: 'Canberra, ACT, Australia'
+- id: loc20250914
+  name: Coordination Meeting
+  description: 'Prepare for Canberra Blending Conference'
+  category: Local
+  singular: true
+  date: '2025-09-14'
+  location: 'Canberra, ACT, Australia'
+- id: loc20250921
+  name: Coordination Meeting
+  description: 'Prepare for Canberra Blending Conference'
+  category: Local
+  singular: true
+  date: '2025-09-21'
+  location: 'Canberra, ACT, Australia'
+- id: loc20251026
+  name: Coordination Meeting
+  description: 'Tree of Life message 11'
+  category: Local
+  singular: true
+  date: '2025-10-26'
+  location: 'Canberra, ACT, Australia'
+- id: loc20251116
+  name: Coordination Meeting
+  description: 'Tree of Life message 12'
+  category: Local
+  singular: true
+  date: '2025-11-16'
+  location: 'Canberra, ACT, Australia'
+- id: loc20250404
+  name: Canberra Blending Church Outing
+  description: ''
+  category: Local
+  singular: true
+  date: '2025-04-04'
+  location: 'Tathra, NSW, Australia'
+- id: loc20250405
+  name: Canberra Blending Church Outing
+  description: ''
+  category: Local
+  singular: true
+  date: '2025-04-05'
+  location: 'Tathra, NSW, Australia'
+- id: loc20250406
+  name: Canberra Blending Church Outing
+  description: ''
+  category: Local
+  singular: true
+  date: '2025-04-06'
+  location: 'Tathra, NSW, Australia'
