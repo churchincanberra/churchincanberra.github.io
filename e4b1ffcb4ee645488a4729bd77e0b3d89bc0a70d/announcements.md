@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>23rd February 2025</span></strong></p>
+<strong><span>2nd March 2025</span></strong></p>
 </div>
 
                         </td>
@@ -59,15 +59,7 @@ nofollow: true
                         
                         <td>
                         
-                            <p><span>1. LOVEFEAST AT THE HALL (AFTER PROPHESYING MEETING)</span></p>
-
-<blockquote>
-<p>There will be a Lovefeast at the meeting hall today&nbsp;after the Prophesying&nbsp;meeting.<br>
-<br>
-All saints are welcome to join the&nbsp;lovefeast to pray for and farewell Brother Arameo &amp; Sister Carmen&nbsp;going back to El Salvador.&nbsp;</p>
-</blockquote>
-
-<p><span>2. VIDEO TRAINING MESSAGE 12&nbsp;(OPEN SESSION)</span></p>
+                            <p><span>1. VIDEO TRAINING MESSAGE 12&nbsp;(OPEN SESSION)</span></p>
 
 <blockquote>
 <p>Date: 2&nbsp;March 2025<br>
@@ -80,20 +72,20 @@ Schedule:<br>
 12:45pm- End</p>
 </blockquote>
 
-<p><span>3.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
+<p><span>2.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
 
 <blockquote>
 <p><strong>English speaking - Friday 7pm</strong><br>
-Northside: Kaleen House<br>
-Southside: April Huang's&nbsp;place&nbsp;(Phillip)<br>
+Northside: Mark's House (Kaleen)<br>
+Southside: combined with northside<br>
 <br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
-Venue: Ming and Nadia's place (Palmerston)<br>
+Venue: Victor&nbsp;and Bing's place (Lyons)<br>
 <br>
-<strong>Topic:&nbsp;</strong>Spiritual Warfare to Bring In the Kingdom of God and Living in the Kingdom of the Son of God's Love.</p>
+<strong>Topic:&nbsp;</strong>Preaching the Gospel of the Kingdom and Discipling the Nations<strong>.</strong></p>
 </blockquote>
 
-<p><span>4.&nbsp; CANBERRA BLENDING OUTING</span></p>
+<p><span>3.&nbsp; CANBERRA BLENDING OUTING</span></p>
 
 <blockquote>
 <p>Date: 4th- 6th April 2025<br>
@@ -101,21 +93,21 @@ Venue: Kianinny Bush Cottage (246 Tathra NSW 2550)<br>
 Registration: <a href="https://form.jotform.com/250481008199862" target="_blank"><u>click here</u></a></p>
 </blockquote>
 
-<p><span>5. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
+<p><span>4. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 7&nbsp;commencing Monday<br>
+<p>Week 8&nbsp;commencing Monday<br>
 HWMR Title: Living in the Reality of the Kingdom of God.<br>
-Week 7&nbsp;Title:&nbsp;Spiritual Warfare to Bring In the Kingdom of God and Living in the Kingdom of the Son of God's Love.</p>
+Week 8&nbsp;Title:&nbsp;Preaching the Gospel of the Kingdom and Discipling the Nations</p>
 </blockquote>
 
-<p><font><span>6. LIFE STUDY PURSUIT</span></font></p>
+<p><font><span>5. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of Matthew&nbsp;message 9&nbsp;and 10</p>
+<p>Life Study of Matthew&nbsp;message 11&nbsp;and 12</p>
 </blockquote>
 
-<p><font><span>7. OFFERING FOR SYDNEY CONFERENCE AND TRAINING CENTRE</span></font></p>
+<p><font><span>6. OFFERING FOR SYDNEY CONFERENCE AND TRAINING CENTRE</span></font></p>
 
 <blockquote>
 <p>Those burdened&nbsp;to offer to the Sydney Conference and Training Centre project can offer directly to the Church in Sydney building account using the below details. Please ensure the reference 'SCTC - Canberra' is used.<br>
@@ -149,16 +141,7 @@ Transaction reference:&nbsp;SCTC - Canberra</p>
                         
                             <p><span><u>TRAINING &amp; CONFERENCES</u>&nbsp;</span></p>
 
-<p><font><span>1. CANBERRA VIDEO TRAINING FEBRUARY 2025</span></font></p>
-
-<blockquote>
-<p><font><span>Date: 02&nbsp;Feb -&nbsp;02&nbsp;March&nbsp;2025<br>
-Venue: Church in Canberra Meeting Hall<br>
-Registration: <a href="https://form.jotform.com/Churchincanberra/video-training-Feb-2025" target="_blank">click here</a><br>
-Deadline:&nbsp;</span>Tuesday,&nbsp;28th January&nbsp; </font></p>
-</blockquote>
-
-<p><font><font><span>2. BIANNUAL&nbsp;PERFECTING TRAINING</span></font></font></p>
+<p><font><font><span>1. BIANNUAL&nbsp;PERFECTING TRAINING</span></font></font></p>
 
 <blockquote>
 <p><font><span>Dates: 15 -&nbsp;16 March 2025<br>
@@ -167,14 +150,14 @@ Registration: <a href="https://new.express.adobe.com/webpage/uk2bcysOqt4dK" targ
 Deadline: 05&nbsp;March</span>&nbsp;2025</font></p>
 </blockquote>
 
-<p><font><font><span>3. MONTHLY PERFECTING TRAINING</span></font></font></p>
+<p><font><font><span>2. MONTHLY PERFECTING TRAINING</span></font></font></p>
 
 <blockquote>
 <p><font><font><span>Monthly Perfecting Training for 2025 will start&nbsp; on 12th of April. It will be online and also by clustering locally over 6 months. Saints are encourage to participate. Please register on&nbsp;the link below even if you have joined in previous years.<br>
 The details and registration form please <a href="https://docs.google.com/forms/d/e/1FAIpQLSdhdpac16TzUJWMspsFJ1w8p8uYVsbCwjet-dqrTyWP34CQFg/viewform" target="_blank">click here</a></span></font></font></p>
 </blockquote>
 
-<p><font><font><span>4. PERTH BLENDING CONFERENCE</span></font></font></p>
+<p><font><font><span>3. PERTH BLENDING CONFERENCE</span></font></font></p>
 
 <blockquote>
 <p><font><span>Dates: 25 -&nbsp;27&nbsp;April&nbsp;2025<br>
@@ -249,20 +232,6 @@ Report:&nbsp;<a href="https://churchesceeb.org/reports/2024-reports-english/" ta
 The recorded messages are ready for download: <a href="http://www.churchinsydney.org/NBC2024-audio" target="_blank">Click here</a>&nbsp; &nbsp;</p>
 </blockquote>
 
-<p><span>2. Fellowship at recent ITERO (see topics below)</span></p>
-
-<blockquote>
-<p>Topics:<br>
-&nbsp; &nbsp; Lord’s table meeting (the recording does not contain this part)<br>
-&nbsp; &nbsp; Fellowship from brother Ron Kangas<br>
-&nbsp; &nbsp; Fellowship on the Lord’s move in France<br>
-&nbsp; &nbsp; Fellowship on the Lord’s move in CEEB region<br>
-&nbsp; &nbsp; Fellowship on the Lord’s move in Poland<br>
-&nbsp; &nbsp; Fellowship from brother Joe Davis<br>
-<br>
-Fellowship: <a href="https://itero2024warsaw.org/" target="_blank">click here</a></p>
-</blockquote>
-
                         </td>
                     </tr>
                 </tbody></table>
@@ -295,6 +264,7 @@ Tuesday 7:30pm at the meeting hall and online\<br>
 Online:&nbsp;<br>
 Zoom for English (details below)<br>
 Wechat for Chinese (Contact Mark Lam or Zhi Bing to be added in the group chat)<br>
+<br>
 <u><strong>Lord's Table and Prophesying Meeting</strong></u><br>
 Lord's Day 10:00am at the meeting hall and on Zoom (details below).</p>
 </blockquote>
@@ -385,7 +355,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13893291" target="_blank">Lovefeast after Prophesying Meeting this Lord's Day  (23rd Feb 2025)</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13893090" target="_blank">Announcement 16/02/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13892885" target="_blank">Love feast and Zual going to the training</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13893293" target="_blank">Announcement 23/02/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13893291" target="_blank">Lovefeast after Prophesying Meeting this Lord's Day  (23rd Feb 2025)</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13893090" target="_blank">Announcement 16/02/2025</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
