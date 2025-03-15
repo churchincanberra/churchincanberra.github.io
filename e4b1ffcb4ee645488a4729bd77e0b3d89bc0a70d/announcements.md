@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>9th March&nbsp;2025</span></strong></p>
+<strong><span>16th March&nbsp;2025</span></strong></p>
 </div>
 
                         </td>
@@ -65,14 +65,13 @@ nofollow: true
 
 <blockquote>
 <p><strong>English speaking - Friday 7pm</strong><br>
-Southside: Zhi's&nbsp;House<br>
-Northside: Combined with southside<br>
+Southside: Lyons House<br>
+Northside: Kaleen House<br>
 <br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
-Venue: Sophies's place (Chiefly)<br>
-Contact Brother Mark for the address<br>
+Venue: Ming and Nadia's place (Palmerston)<br>
 <br>
-<strong>Topic:&nbsp;</strong>The Seed of David Becoming the Son of God</p>
+<strong>Topic: </strong>Christ as the Emancipator and as the One Who Makes Us More Than Conquerors</p>
 </blockquote>
 
 <p><span>2.&nbsp; CANBERRA BLENDING OUTING</span></p>
@@ -86,15 +85,15 @@ Registration: <a href="https://form.jotform.com/250481008199862" target="_blank"
 <p><span>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 13&nbsp;commencing Monday<br>
+<p>Week 14&nbsp;commencing Monday<br>
 HWMR Title: Experiencing, Enjoying, and Expressing Christ.<br>
-Week 13&nbsp;Title:&nbsp;The Seed of David Becoming the Son of God</p>
+Week 14&nbsp;Title: Christ as the Emancipator and as the One Who Makes Us More Than Conquerors</p>
 </blockquote>
 
 <p><font><span>4. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of Matthew&nbsp;message 12&nbsp;and 13</p>
+<p>Life Study of Matthew&nbsp;message 13 and 14</p>
 </blockquote>
 
 <p><font><span>5. OFFERING FOR SYDNEY CONFERENCE AND TRAINING CENTRE</span></font></p>
@@ -156,6 +155,16 @@ Registration: <a href="https://fingertip.com/perthblendingconference" target="_b
 Deadline: 10&nbsp;March</span>&nbsp;2025</font></p>
 </blockquote>
 
+<p><font><font><span>4. CAIRNS&nbsp;BLENDING CONFERENCE</span></font></font></p>
+
+<blockquote>
+<p><font><span>Dates: 25 -&nbsp;27 July&nbsp;2025<br>
+Venue: Ramada Hotel, 6/12 Florence St., Cairns City, QLD. 4870<br>
+Cost:&nbsp;$370.00 *AUD per person (inclusive of 2 nights' accommodation and meals). The two nights' accommodation will be for Friday and Saturday&nbsp; (25 &amp; 26 July). *5-12 years old $185 **4 years old and below&nbsp;<br>
+Registration:<a href="http:// https://forms.gle/EtSgPQDJogjMF5FH8" target="_blank"> </a><a href="https://docs.google.com/forms/d/e/1FAIpQLSd34SFMAtRoXwNSzzZMeHNLMx9j5zXeN_G7Edmnh3vclmI9Lw/viewform" target="_blank">click here</a><br>
+Deadline: 29 June&nbsp;</span>2025</font></p>
+</blockquote>
+
                         </td>
                     </tr>
                 </tbody></table>
@@ -178,6 +187,7 @@ Deadline: 10&nbsp;March</span>&nbsp;2025</font></p>
                         <td>
                         
                             <p><a href="http://INTERNATIONAL ANNOUNCEMENTS" target="_blank"><u><span>INTERNATIONAL ANNOUNCEMENTS</span></u></a><br>
+<br>
 <span>1.&nbsp;Report regarding the Lord's move in Central and Eastern Europe and the Balkans (CEEB).</span></p>
 
 <blockquote>
@@ -340,7 +350,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13893714" target="_blank">South Coast Outing and Blending</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13893493" target="_blank">Announcement 02/03/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13893293" target="_blank">Announcement 23/02/2025</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13893746" target="_blank">Announcement 09/03/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13893714" target="_blank">South Coast Outing and Blending</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13893493" target="_blank">Announcement 02/03/2025</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
