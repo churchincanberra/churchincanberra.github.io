@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>23rd March&nbsp;2025</span></strong></p>
+<strong><span>30th March&nbsp;2025</span></strong></p>
 </div>
 
                         </td>
@@ -61,26 +61,20 @@ nofollow: true
                         
                             <p>&nbsp;</p>
 
-<p><span>1. COORDINATION MEETING AND SOUTH COAST OUTING</span></p>
-
-<blockquote>
-<p>There will be a coordination meeting this Lord's Day at 12:45 pm after a love feast lunch. This time will be used to enjoy the Lord and prepare for the South Coast outing. Saints attending the outing are encouraged to attend.</p>
-</blockquote>
-
-<p><span>2.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
+<p><span>1.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
 
 <blockquote>
 <p><strong>English speaking - Friday 7pm</strong><br>
-Northside: Brother Mark's&nbsp;House<br>
-Southside: Sister April Huang's&nbsp;House<br>
+Northside: None<br>
+Southside: None<br>
 <br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
-Venue: Victor&nbsp;and Bing's place (Lyons)<br>
+Venue: Ming and Nadia's place (Palmerston)<br>
 <br>
-<strong>Topic: </strong>God's Power and God's Wisdom</p>
+<strong>Topic: </strong>Our Spiritual Food, Our Spiritual Rock, and the Contents of the Lord’s Table</p>
 </blockquote>
 
-<p><span>3.&nbsp; CANBERRA BLENDING OUTING</span></p>
+<p><span>2.&nbsp; SOUTH COAST OUTING</span></p>
 
 <blockquote>
 <p>Date: 4th- 6th April 2025<br>
@@ -88,21 +82,21 @@ Venue: Kianinny Bush Cottage (246 Tathra NSW 2550)<br>
 Details: <a href="https://form.jotform.com/250481008199862" target="_blank"><u>click here</u></a></p>
 </blockquote>
 
-<p><span>4. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
+<p><span>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 15&nbsp;commencing Monday<br>
+<p>Week 16&nbsp;commencing Monday<br>
 HWMR Title: Experiencing, Enjoying, and Expressing Christ.<br>
-Week 15&nbsp;Title: God's Power and God's Wisdom</p>
+Week 16&nbsp;Title:&nbsp;Our Spiritual Food, Our Spiritual Rock, and the Contents of the Lord’s Table</p>
 </blockquote>
 
-<p><font><span>5. LIFE STUDY PURSUIT</span></font></p>
+<p><font><span>4. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of Matthew&nbsp;message 17&nbsp;and 18</p>
+<p>Life Study of Matthew&nbsp;message 19&nbsp;and 20</p>
 </blockquote>
 
-<p><font><span>6. OFFERING FOR SYDNEY CONFERENCE AND TRAINING CENTRE</span></font></p>
+<p><font><span>5. OFFERING FOR SYDNEY CONFERENCE AND TRAINING CENTRE</span></font></p>
 
 <blockquote>
 <p>Those burdened&nbsp;to offer to the Sydney Conference and Training Centre project can offer directly to the Church in Sydney building account using the below details. Please ensure the reference 'SCTC - Canberra' is used.<br>
@@ -139,11 +133,20 @@ Transaction reference:&nbsp;SCTC - Canberra</p>
 <p><font><font><span>1. MONTHLY PERFECTING TRAINING</span></font></font></p>
 
 <blockquote>
-<p><font><font><span>Monthly Perfecting Training for 2025 will start&nbsp; on 12th of April. It will be online and also by clustering locally over 6 months. Saints are encourage to participate. Please register on&nbsp;the link below even if you have joined in previous years.<br>
+<p><font><font><span>The next Monthly Perfecting Training&nbsp;will be on the 12th of April. It will be online and also by clustering locally. Saints are encourage to participate. Please register on&nbsp;the link below even if you have joined in previous years.<br>
 The details and registration form please <a href="https://docs.google.com/forms/d/e/1FAIpQLSdhdpac16TzUJWMspsFJ1w8p8uYVsbCwjet-dqrTyWP34CQFg/viewform" target="_blank">click here</a></span></font></font></p>
 </blockquote>
 
-<p><font><font><span>2. PERTH BLENDING CONFERENCE</span></font></font></p>
+<p><font><font><span>2. UNI AGED RETREAT 2025</span></font></font></p>
+
+<blockquote>
+<p><font><span>Dates: 18 - 20 April&nbsp;2025<br>
+Venue: Newcastle<br>
+Registration: <a href="https://new.express.adobe.com/webpage/vtafUsy8AFir0" target="_blank">click here</a><br>
+For all university aged students, year 11 &amp; 12 students and young working christians.</span></font></p>
+</blockquote>
+
+<p><font><font><span>3. PERTH BLENDING CONFERENCE</span></font></font></p>
 
 <blockquote>
 <p><font><span>Dates: 25 -&nbsp;27&nbsp;April&nbsp;2025<br>
@@ -152,7 +155,7 @@ Registration: <a href="https://fingertip.com/perthblendingconference" target="_b
 Deadline: 10&nbsp;March</span>&nbsp;2025</font></p>
 </blockquote>
 
-<p><font><font><span>3. CAIRNS&nbsp;BLENDING CONFERENCE</span></font></font></p>
+<p><font><font><span>4. CAIRNS&nbsp;BLENDING CONFERENCE</span></font></font></p>
 
 <blockquote>
 <p><font><span>Dates: 25 -&nbsp;27 July&nbsp;2025<br>
@@ -162,7 +165,7 @@ Registration:<a href="http:// https://forms.gle/EtSgPQDJogjMF5FH8" target="_blan
 Deadline: 29 June&nbsp;</span>2025</font></p>
 </blockquote>
 
-<p><font><font><span>4. 2025 INTERNATIONAL MEMORIAL DAY BLENDING CONFERENCE</span></font></font></p>
+<p><font><font><span>5. 2025 INTERNATIONAL MEMORIAL DAY BLENDING CONFERENCE</span></font></font></p>
 
 <blockquote>
 <p><font><span>Dates: 23&nbsp;-&nbsp;26&nbsp; May&nbsp;2025<br>
@@ -272,8 +275,8 @@ Lord's Day 10:00am at the meeting hall and on Zoom (details below).</p>
 <p><span>B. COORDINATION MEETING&nbsp;</span></p>
 
 <blockquote>
-<p>Next Meeting: 23&nbsp;March&nbsp;2025<br>
-Book: Tree of Life- Message 6<br>
+<p>Next Meeting: 27&nbsp;April 2025<br>
+Book: Tree of Life- Message 7<br>
 Future Dates: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/bd377fc8-bb60-c003-f011-77487b28048d/Coordination_Meeting_Schedule_2025.pdf" target="_blank">click here</a><br>
 <br>
 This&nbsp;meeting&nbsp;is open to saints serving (or endeavouring to serve) and is predominantly a time to enjoy the Lord so that we may be built up together in our service. There will be Zoom available for those who cannot join physically.</p>
@@ -355,7 +358,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13894053" target="_blank">Coordination Meeting & South Coast Outing</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13893941" target="_blank">Announcement 16/03/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13893746" target="_blank">Announcement 09/03/2025</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13894105" target="_blank">Announcement 23/03/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13894053" target="_blank">Coordination Meeting & South Coast Outing</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13893941" target="_blank">Announcement 16/03/2025</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
