@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>30th March&nbsp;2025</span></strong></p>
+<strong><span>6th April&nbsp;2025</span></strong></p>
 </div>
 
                         </td>
@@ -65,38 +65,30 @@ nofollow: true
 
 <blockquote>
 <p><strong>English speaking - Friday 7pm</strong><br>
-Northside: None<br>
-Southside: None<br>
+Northside: Mark Lam's place<br>
+Southside: Zi 's place<br>
 <br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
-Venue: Ming and Nadia's place (Palmerston)<br>
+Venue: Victor and Bing's&nbsp;place (Lyons)<br>
 <br>
-<strong>Topic: </strong>Our Spiritual Food, Our Spiritual Rock, and the Contents of the Lord’s Table</p>
+<strong>Topic: </strong>Christ as the Image of God and the Treasure</p>
 </blockquote>
 
-<p><span>2.&nbsp; SOUTH COAST OUTING</span></p>
+<p><span>2. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Date: 4th- 6th April 2025<br>
-Venue: Kianinny Bush Cottage (246 Tathra NSW 2550)<br>
-Details: <a href="https://form.jotform.com/250481008199862" target="_blank"><u>click here</u></a></p>
-</blockquote>
-
-<p><span>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
-
-<blockquote>
-<p>Week 16&nbsp;commencing Monday<br>
+<p>Week 17&nbsp;commencing Monday<br>
 HWMR Title: Experiencing, Enjoying, and Expressing Christ.<br>
-Week 16&nbsp;Title:&nbsp;Our Spiritual Food, Our Spiritual Rock, and the Contents of the Lord’s Table</p>
+Week 17&nbsp;Title: Christ as the Image of God and the Treasure</p>
 </blockquote>
 
-<p><font><span>4. LIFE STUDY PURSUIT</span></font></p>
+<p><font><span>3. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of Matthew&nbsp;message 19&nbsp;and 20</p>
+<p>Life Study of Matthew&nbsp;message 21&nbsp;and 22</p>
 </blockquote>
 
-<p><font><span>5. OFFERING FOR SYDNEY CONFERENCE AND TRAINING CENTRE</span></font></p>
+<p><font><span>4. OFFERING FOR SYDNEY CONFERENCE AND TRAINING CENTRE</span></font></p>
 
 <blockquote>
 <p>Those burdened&nbsp;to offer to the Sydney Conference and Training Centre project can offer directly to the Church in Sydney building account using the below details. Please ensure the reference 'SCTC - Canberra' is used.<br>
@@ -155,7 +147,16 @@ Registration: <a href="https://fingertip.com/perthblendingconference" target="_b
 Deadline: 10&nbsp;March</span>&nbsp;2025</font></p>
 </blockquote>
 
-<p><font><font><span>4. CAIRNS&nbsp;BLENDING CONFERENCE</span></font></font></p>
+<p><span>4. TASMANIA BLENDING CONFERENCE</span></p>
+
+<blockquote>
+<p><font><span>Dates: 9-11 May&nbsp;2025<br>
+Venue: Camp Clayton, 41 Clayton Road, Ulverstone 7315, Tasmania<br>
+Registration: <a href="https://docs.google.com/forms/d/e/1FAIpQLSeu5p7bdsRZt8V_8yEm7Tew2zRHKNCgNh-UFyprwaSQCF-jmg/viewform" target="_blank">click here</a><br>
+Deadline: 27 April 2025</span></font></p>
+</blockquote>
+
+<p><font><font><span>5. CAIRNS&nbsp;BLENDING CONFERENCE</span></font></font></p>
 
 <blockquote>
 <p><font><span>Dates: 25 -&nbsp;27 July&nbsp;2025<br>
@@ -165,7 +166,7 @@ Registration:<a href="http:// https://forms.gle/EtSgPQDJogjMF5FH8" target="_blan
 Deadline: 29 June&nbsp;</span>2025</font></p>
 </blockquote>
 
-<p><font><font><span>5. 2025 INTERNATIONAL MEMORIAL DAY BLENDING CONFERENCE</span></font></font></p>
+<p><font><font><span>6. 2025 INTERNATIONAL MEMORIAL DAY BLENDING CONFERENCE</span></font></font></p>
 
 <blockquote>
 <p><font><span>Dates: 23&nbsp;-&nbsp;26&nbsp; May&nbsp;2025<br>
@@ -358,7 +359,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13894105" target="_blank">Announcement 23/03/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13894053" target="_blank">Coordination Meeting & South Coast Outing</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13893941" target="_blank">Announcement 16/03/2025</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13894275" target="_blank">Announcement 30/03/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13894105" target="_blank">Announcement 23/03/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13894053" target="_blank">Coordination Meeting & South Coast Outing</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
