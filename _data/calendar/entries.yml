@@ -782,24 +782,24 @@
   singular: true
   date: '2025-11-16'
   location: 'Canberra, ACT, Australia'
-- id: loc20250404
-  name: Canberra Blending Church Outing
+- id: loc20260417
+  name: South Coast Blending Outing
   description: ''
   category: Local
   singular: true
-  date: '2025-04-04'
-  location: 'Tathra, NSW, Australia'
-- id: loc20250405
-  name: Canberra Blending Church Outing
+  date: '2026-04-17'
+  location: 'Kianinny Bush Cottage, 246 Tathra Road, Tathra, NSW, Australia'
+- id: loc20260418
+  name: South Coast Blending Outing
   description: ''
   category: Local
   singular: true
-  date: '2025-04-05'
-  location: 'Tathra, NSW, Australia'
-- id: loc20250406
-  name: Canberra Blending Church Outing
+  date: '2026-04-18'
+  location: 'Kianinny Bush Cottage, 246 Tathra Road, Tathra, NSW, Australia'
+- id: loc20260419
+  name: South Coast Blending Outing
   description: ''
   category: Local
   singular: true
-  date: '2025-04-06'
-  location: 'Tathra, NSW, Australia'
+  date: '2026-04-19'
+  location: 'Kianinny Bush Cottage, 246 Tathra Road, Tathra, NSW, Australia'
