@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>13th April&nbsp;2025</span></strong></p>
+<strong><span>20th April&nbsp;2025</span></strong></p>
 </div>
 
                         </td>
@@ -65,27 +65,27 @@ nofollow: true
 
 <blockquote>
 <p><strong>English speaking - Friday 7pm</strong><br>
-Northside: Kaleen House<br>
-Southside: combined with Northside<br>
+Northside: Brother Mark's Place (Kaleen)<br>
+Southside: Lyon's House<br>
 <br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
-Venue: Victor and Bing's&nbsp;place (Lyons)<br>
+Venue: Sister Sophie's House&nbsp;(Chifley)<br>
 <br>
-<strong>Topic: </strong>The Grace of God and the All-inclusive Spirit</p>
+<strong>Topic: </strong>The One Who Is Formed in the Believers</p>
 </blockquote>
 
 <p><span>2. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 18&nbsp;commencing Monday<br>
+<p>Week 19&nbsp;commencing Monday<br>
 HWMR Title: Experiencing, Enjoying, and Expressing Christ.<br>
-Week 18&nbsp;Title:&nbsp;The Grace of God and the All-inclusive Spirit</p>
+Week 19&nbsp;Title:&nbsp;The One Who Is Formed in the Believers</p>
 </blockquote>
 
 <p><font><span>3. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of Matthew&nbsp;message 23&nbsp;and 24</p>
+<p>Life Study of Matthew&nbsp;message 25&nbsp;and 26</p>
 </blockquote>
 
 <p><font><span>4. OFFERING FOR SYDNEY CONFERENCE AND TRAINING CENTRE</span></font></p>
@@ -359,7 +359,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13894524" target="_blank">Steer's Moving this Saturday</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13894471" target="_blank">Announcement 06/04/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13894275" target="_blank">Announcement 30/03/2025</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13894640" target="_blank">Announcement 13/04/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13894524" target="_blank">Steer's Moving this Saturday</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13894471" target="_blank">Announcement 06/04/2025</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
