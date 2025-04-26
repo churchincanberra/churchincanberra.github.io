@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>20th April&nbsp;2025</span></strong></p>
+<strong><span>27th April&nbsp;2025</span></strong></p>
 </div>
 
                         </td>
@@ -61,34 +61,43 @@ nofollow: true
                         
                             <p>&nbsp;</p>
 
-<p><span>1.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
+<p><font><span>1. LOVEFEAST AT THE MEETING HALL (FOLLOWED BY COORDINATION MEETING)</span></font></p>
+
+<blockquote>
+<p>Date: 27 April 2025<br>
+Venue: Meeting Hall (after prophesying meeting)<br>
+<br>
+All saints are welcome to join the&nbsp;love feast. Let's take this opportunity to cherish one another while enjoying mutual fellowship. The&nbsp;love feast&nbsp;will be followed by the monthly&nbsp;coordination meeting&nbsp;for those who wish to join.</p>
+</blockquote>
+
+<p><span>2.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
 
 <blockquote>
 <p><strong>English speaking - Friday 7pm</strong><br>
-Northside: Brother Mark's Place (Kaleen)<br>
-Southside: Lyon's House<br>
+Northside: combined with Southside<br>
+Southside: Billy and Len's new place (Banks)<br>
 <br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
-Venue: Sister Sophie's House&nbsp;(Chifley)<br>
+Venue: Nadia and Ming's place (Palmerston)<br>
 <br>
-<strong>Topic: </strong>The One Who Is Formed in the Believers</p>
+<strong>Topic: </strong>The Way to Receive, Experience, and Enjoy the All-inclusive Christ as the All-inclusive Life-giving Spirit- the Aggregate of the All- embracing Blessing of the Full Gospel of God</p>
 </blockquote>
 
-<p><span>2. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
+<p><span>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 19&nbsp;commencing Monday<br>
+<p>Week 20:&nbsp;commencing Monday<br>
 HWMR Title: Experiencing, Enjoying, and Expressing Christ.<br>
-Week 19&nbsp;Title:&nbsp;The One Who Is Formed in the Believers</p>
+Week 20&nbsp;Title:&nbsp;The Way to Receive, Experience, and Enjoy the All-inclusive Christ as the All-inclusive Life-giving Spirit- the Aggregate of the All- embracing Blessing of the Full Gospel of God</p>
 </blockquote>
 
-<p><font><span>3. LIFE STUDY PURSUIT</span></font></p>
+<p><font><span>4. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of Matthew&nbsp;message 25&nbsp;and 26</p>
+<p>Life Study of Matthew&nbsp;message 27&nbsp;and 28</p>
 </blockquote>
 
-<p><font><span>4. OFFERING FOR SYDNEY CONFERENCE AND TRAINING CENTRE</span></font></p>
+<p><font><span>5. OFFERING FOR SYDNEY CONFERENCE AND TRAINING CENTRE</span></font></p>
 
 <blockquote>
 <p>Those burdened&nbsp;to offer to the Sydney Conference and Training Centre project can offer directly to the Church in Sydney building account using the below details. Please ensure the reference 'SCTC - Canberra' is used.<br>
@@ -129,16 +138,7 @@ Transaction reference:&nbsp;SCTC - Canberra</p>
 The details and registration form please <a href="https://docs.google.com/forms/d/e/1FAIpQLSdhdpac16TzUJWMspsFJ1w8p8uYVsbCwjet-dqrTyWP34CQFg/viewform" target="_blank">click here</a></span></font></font></p>
 </blockquote>
 
-<p><font><font><span>2. UNI AGED RETREAT 2025</span></font></font></p>
-
-<blockquote>
-<p><font><span>Dates: 18 - 20 April&nbsp;2025<br>
-Venue: Newcastle<br>
-Registration: <a href="https://new.express.adobe.com/webpage/vtafUsy8AFir0" target="_blank">click here</a><br>
-For all university aged students, year 11 &amp; 12 students and young working christians.</span></font></p>
-</blockquote>
-
-<p><font><font><span>3. PERTH BLENDING CONFERENCE</span></font></font></p>
+<p><font><font><span>2. PERTH BLENDING CONFERENCE</span></font></font></p>
 
 <blockquote>
 <p><font><span>Dates: 25 -&nbsp;27&nbsp;April&nbsp;2025<br>
@@ -147,13 +147,23 @@ Registration: <a href="https://fingertip.com/perthblendingconference" target="_b
 Deadline: 10&nbsp;March</span>&nbsp;2025</font></p>
 </blockquote>
 
-<p><span>4. TASMANIA BLENDING CONFERENCE</span></p>
+<p><span>3. TASMANIA BLENDING CONFERENCE</span></p>
 
 <blockquote>
 <p><font><span>Dates: 9-11 May&nbsp;2025<br>
 Venue: Camp Clayton, 41 Clayton Road, Ulverstone 7315, Tasmania<br>
 Registration: <a href="https://docs.google.com/forms/d/e/1FAIpQLSeu5p7bdsRZt8V_8yEm7Tew2zRHKNCgNh-UFyprwaSQCF-jmg/viewform" target="_blank">click here</a><br>
 Deadline: 27 April 2025</span></font></p>
+</blockquote>
+
+<p><font><font><span>4. NATIONAL HIGH SCHOOLERS' CONFERENCE 2025</span></font></font></p>
+
+<blockquote>
+<p><font><span>Dates: 4-7 July 2025<br>
+Venue: Sunshine Coast Recreation Precinct- 80 Currimundi Rd, Currimundi QLD 4551<br>
+Cost:&nbsp;$340.00 Adults, Year 7 and above<br>
+Registration:&nbsp;<a href="https://nhsc.site/" target="_blank">click here</a><br>
+Deadline: 25 May&nbsp;</span>2025</font></p>
 </blockquote>
 
 <p><font><font><span>5. CAIRNS&nbsp;BLENDING CONFERENCE</span></font></font></p>
@@ -359,7 +369,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13894640" target="_blank">Announcement 13/04/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13894524" target="_blank">Steer's Moving this Saturday</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13894471" target="_blank">Announcement 06/04/2025</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13894790" target="_blank">Announcement 20/04/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13894640" target="_blank">Announcement 13/04/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13894524" target="_blank">Steer's Moving this Saturday</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
