@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>27th April&nbsp;2025</span></strong></p>
+<strong><span>4th May 2025</span></strong></p>
 </div>
 
                         </td>
@@ -61,40 +61,31 @@ nofollow: true
                         
                             <p>&nbsp;</p>
 
-<p><font><span>1. LOVEFEAST AT THE MEETING HALL (FOLLOWED BY COORDINATION MEETING)</span></font></p>
-
-<blockquote>
-<p>Date: 27 April 2025<br>
-Venue: Meeting Hall (after prophesying meeting)<br>
-<br>
-All saints are welcome to join the&nbsp;love feast. Let's take this opportunity to cherish one another while enjoying mutual fellowship. The&nbsp;love feast&nbsp;will be followed by the monthly&nbsp;coordination meeting&nbsp;for those who wish to join.</p>
-</blockquote>
-
-<p><span>2.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
+<p><span>1.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
 
 <blockquote>
 <p><strong>English speaking - Friday 7pm</strong><br>
-Northside: combined with Southside<br>
-Southside: Billy and Len's new place (Banks)<br>
+Northside: Kaleen sister's house<br>
+Southside: combined with Northside<br>
 <br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
-Venue: Nadia and Ming's place (Palmerston)<br>
+Venue: Lyons corporate living<br>
 <br>
-<strong>Topic: </strong>The Way to Receive, Experience, and Enjoy the All-inclusive Christ as the All-inclusive Life-giving Spirit- the Aggregate of the All- embracing Blessing of the Full Gospel of God</p>
+<strong>Topic: </strong>The Mystery of the Church</p>
 </blockquote>
 
 <p><span>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 20:&nbsp;commencing Monday<br>
+<p>Week 21:&nbsp;commencing Monday<br>
 HWMR Title: Experiencing, Enjoying, and Expressing Christ.<br>
-Week 20&nbsp;Title:&nbsp;The Way to Receive, Experience, and Enjoy the All-inclusive Christ as the All-inclusive Life-giving Spirit- the Aggregate of the All- embracing Blessing of the Full Gospel of God</p>
+Week 21&nbsp;Title:&nbsp;The Mystery of the Church</p>
 </blockquote>
 
 <p><font><span>4. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of Matthew&nbsp;message 27&nbsp;and 28</p>
+<p>Life Study of Matthew&nbsp;message 29&nbsp;and 30</p>
 </blockquote>
 
 <p><font><span>5. OFFERING FOR SYDNEY CONFERENCE AND TRAINING CENTRE</span></font></p>
@@ -138,16 +129,7 @@ Transaction reference:&nbsp;SCTC - Canberra</p>
 The details and registration form please <a href="https://docs.google.com/forms/d/e/1FAIpQLSdhdpac16TzUJWMspsFJ1w8p8uYVsbCwjet-dqrTyWP34CQFg/viewform" target="_blank">click here</a></span></font></font></p>
 </blockquote>
 
-<p><font><font><span>2. PERTH BLENDING CONFERENCE</span></font></font></p>
-
-<blockquote>
-<p><font><span>Dates: 25 -&nbsp;27&nbsp;April&nbsp;2025<br>
-Venue: Woodman Point Recreation Camp<br>
-Registration: <a href="https://fingertip.com/perthblendingconference" target="_blank">click here</a><br>
-Deadline: 10&nbsp;March</span>&nbsp;2025</font></p>
-</blockquote>
-
-<p><span>3. TASMANIA BLENDING CONFERENCE</span></p>
+<p><span>2. TASMANIA BLENDING CONFERENCE</span></p>
 
 <blockquote>
 <p><font><span>Dates: 9-11 May&nbsp;2025<br>
@@ -156,7 +138,7 @@ Registration: <a href="https://docs.google.com/forms/d/e/1FAIpQLSeu5p7bdsRZt8V_8
 Deadline: 27 April 2025</span></font></p>
 </blockquote>
 
-<p><font><font><span>4. NATIONAL HIGH SCHOOLERS' CONFERENCE 2025</span></font></font></p>
+<p><font><font><span>3. NATIONAL HIGH SCHOOLERS' CONFERENCE 2025</span></font></font></p>
 
 <blockquote>
 <p><font><span>Dates: 4-7 July 2025<br>
@@ -166,7 +148,7 @@ Registration:&nbsp;<a href="https://nhsc.site/" target="_blank">click here</a><b
 Deadline: 25 May&nbsp;</span>2025</font></p>
 </blockquote>
 
-<p><font><font><span>5. CAIRNS&nbsp;BLENDING CONFERENCE</span></font></font></p>
+<p><font><font><span>4. CAIRNS&nbsp;BLENDING CONFERENCE</span></font></font></p>
 
 <blockquote>
 <p><font><span>Dates: 25 -&nbsp;27 July&nbsp;2025<br>
@@ -176,7 +158,7 @@ Registration:<a href="http:// https://forms.gle/EtSgPQDJogjMF5FH8" target="_blan
 Deadline: 29 June&nbsp;</span>2025</font></p>
 </blockquote>
 
-<p><font><font><span>6. 2025 INTERNATIONAL MEMORIAL DAY BLENDING CONFERENCE</span></font></font></p>
+<p><font><font><span>5. 2025 INTERNATIONAL MEMORIAL DAY BLENDING CONFERENCE</span></font></font></p>
 
 <blockquote>
 <p><font><span>Dates: 23&nbsp;-&nbsp;26&nbsp; May&nbsp;2025<br>
@@ -275,7 +257,7 @@ The recorded messages are ready for download: <a href="http://www.churchinsydney
 
 <blockquote>
 <p><u><strong>Prayer Meeting (English &amp; Chinese)</strong></u><br>
-Tuesday 7:30pm at the meeting hall and online\<br>
+Tuesday 7:30pm at the meeting hall and online.<br>
 Online:&nbsp;<br>
 Zoom for English (details below)<br>
 Wechat for Chinese (Contact Mark Lam or Zhi Bing to be added in the group chat)<br>
@@ -286,8 +268,8 @@ Lord's Day 10:00am at the meeting hall and on Zoom (details below).</p>
 <p><span>B. COORDINATION MEETING&nbsp;</span></p>
 
 <blockquote>
-<p>Next Meeting: 27&nbsp;April 2025<br>
-Book: Tree of Life- Message 7<br>
+<p>Next Meeting: 18&nbsp;May 2025<br>
+Book: Tree of Life- Message 8<br>
 Future Dates: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/bd377fc8-bb60-c003-f011-77487b28048d/Coordination_Meeting_Schedule_2025.pdf" target="_blank">click here</a><br>
 <br>
 This&nbsp;meeting&nbsp;is open to saints serving (or endeavouring to serve) and is predominantly a time to enjoy the Lord so that we may be built up together in our service. There will be Zoom available for those who cannot join physically.</p>
@@ -319,7 +301,13 @@ Passcode:&nbsp;Eph4:16</p>
 <p>The announcement page on the church in Canberra website (<a href="https://www.churchincanberra.org/announcements" target="_blank">https://www.churchincanberra.org/announcements</a>) requires the password, 'canberra'.</p>
 </blockquote>
 
-<p><span>G. LIST OF ACT SUBURBS AND DISTRICTS&nbsp;</span></p>
+<p><span>G. BFA weekly prayer times</span></p>
+
+<blockquote>
+<p>There is a national prayer for Bibles for Australia on LD (6pm) and Monday (8:30pm) weekly on Zoom (<a href="https://us02web.zoom.us/j/88413747323?pwd=K041K1BPU0gvVlpMOXdOaTM4dUJjZz09" target="_blank">click here</a>).&nbsp;</p>
+</blockquote>
+
+<p><span>H. LIST OF ACT SUBURBS AND DISTRICTS&nbsp;</span></p>
 
 <blockquote>
 <p>Through the burden released at recent conferences and the prayer of the saints&nbsp;we look to the Lord for the increase&nbsp;of his testimony in Canberra. There is the need for much prayer that the Lord would gain his testimony across the whole of the ACT. The document <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/15584ad1-5cea-5f67-dfc0-44b4e246ee2a/ACT_Divisions_2023_v2.pdf" target="_blank">linked here</a> contains a full list of the ACT Districts and Divisions (Suburbs) to aid in your prayer for his move in Canberra.</p>
@@ -369,7 +357,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13894790" target="_blank">Announcement 20/04/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13894640" target="_blank">Announcement 13/04/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13894524" target="_blank">Steer's Moving this Saturday</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13894940" target="_blank">Announcement 27/04/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13894790" target="_blank">Announcement 20/04/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13894640" target="_blank">Announcement 13/04/2025</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
