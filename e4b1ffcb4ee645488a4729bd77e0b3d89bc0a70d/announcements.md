@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>4th May 2025</span></strong></p>
+<strong><span>11th May 2025</span></strong></p>
 </div>
 
                         </td>
@@ -59,36 +59,34 @@ nofollow: true
                         
                         <td>
                         
-                            <p>&nbsp;</p>
-
-<p><span>1.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
+                            <p><span>1.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
 
 <blockquote>
 <p><strong>English speaking - Friday 7pm</strong><br>
-Northside: Kaleen sister's house<br>
-Southside: combined with Northside<br>
+Northside: combined with Southside<br>
+Southside: Lyons corporate living<br>
 <br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
-Venue: Lyons corporate living<br>
+Venue: Ming and Nadia's place (Palmerston)<br>
 <br>
-<strong>Topic: </strong>The Mystery of the Church</p>
+<strong>Topic: </strong>The Creator of the One New Man as the Masterpiece of God</p>
 </blockquote>
 
-<p><span>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
+<p><span>2. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 21:&nbsp;commencing Monday<br>
+<p>Week 22:&nbsp;commencing Monday<br>
 HWMR Title: Experiencing, Enjoying, and Expressing Christ.<br>
-Week 21&nbsp;Title:&nbsp;The Mystery of the Church</p>
+Week 22&nbsp;Title:&nbsp;The Creator of the One New Man as the Masterpiece of God</p>
 </blockquote>
 
-<p><font><span>4. LIFE STUDY PURSUIT</span></font></p>
+<p><font><span>3. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of Matthew&nbsp;message 29&nbsp;and 30</p>
+<p>Life Study of Matthew&nbsp;message 31&nbsp;and 32</p>
 </blockquote>
 
-<p><font><span>5. OFFERING FOR SYDNEY CONFERENCE AND TRAINING CENTRE</span></font></p>
+<p><font><span>4. OFFERING FOR SYDNEY CONFERENCE AND TRAINING CENTRE</span></font></p>
 
 <blockquote>
 <p>Those burdened&nbsp;to offer to the Sydney Conference and Training Centre project can offer directly to the Church in Sydney building account using the below details. Please ensure the reference 'SCTC - Canberra' is used.<br>
@@ -148,7 +146,17 @@ Registration:&nbsp;<a href="https://nhsc.site/" target="_blank">click here</a><b
 Deadline: 25 May&nbsp;</span>2025</font></p>
 </blockquote>
 
-<p><font><font><span>4. CAIRNS&nbsp;BLENDING CONFERENCE</span></font></font></p>
+<p><font><font><span>4. NUAC- NATIONAL UNIVERISTY AGE CONFERENCE 2025</span></font></font></p>
+
+<blockquote>
+<p><font><span>Dates: 10-13 July 2025<br>
+Venue:&nbsp;The Collaroy Centre - 22 Homestead Ave, Collaroy NSW 2097<br>
+Cost:&nbsp;$350.00<br>
+Registration:&nbsp;<a href="https://new.express.adobe.com/webpage/Kv5BzelLRIkNr" target="_blank">click here</a><br>
+Deadline: 1 June&nbsp;</span>2025</font></p>
+</blockquote>
+
+<p><font><font><span>5. CAIRNS&nbsp;BLENDING CONFERENCE</span></font></font></p>
 
 <blockquote>
 <p><font><span>Dates: 25 -&nbsp;27 July&nbsp;2025<br>
@@ -158,10 +166,10 @@ Registration:<a href="http:// https://forms.gle/EtSgPQDJogjMF5FH8" target="_blan
 Deadline: 29 June&nbsp;</span>2025</font></p>
 </blockquote>
 
-<p><font><font><span>5. 2025 INTERNATIONAL MEMORIAL DAY BLENDING CONFERENCE</span></font></font></p>
+<p><font><font><span>6. 2025 INTERNATIONAL MEMORIAL DAY BLENDING CONFERENCE</span></font></font></p>
 
 <blockquote>
-<p><font><span>Dates: 23&nbsp;-&nbsp;26&nbsp; May&nbsp;2025<br>
+<p><font><span>Dates: 23&nbsp;- 26 May 2025<br>
 Venue: 340 North 3rd Street, Phoenix, AZ 85004 USA<br>
 Details: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/d0857626-2d0b-3b56-893b-23e99b849577/2025_Memorial_Day_Conf_English.pdf" target="_blank">click here</a></span></font></p>
 </blockquote>
@@ -357,7 +365,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13894940" target="_blank">Announcement 27/04/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13894790" target="_blank">Announcement 20/04/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13894640" target="_blank">Announcement 13/04/2025</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13895096" target="_blank">Announcement 04/05/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13894940" target="_blank">Announcement 27/04/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13894790" target="_blank">Announcement 20/04/2025</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
