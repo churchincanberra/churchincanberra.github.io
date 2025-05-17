@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>11th May 2025</span></strong></p>
+<strong><span>18th May 2025</span></strong></p>
 </div>
 
                         </td>
@@ -59,34 +59,43 @@ nofollow: true
                         
                         <td>
                         
-                            <p><span>1.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
+                            <p><span>1. LOVEFEAST AT THE MEETINGHALL (FOLLOWED BY COORDINATION MEETING)</span></p>
+
+<blockquote>
+<p>Date: 18 May 2025<br>
+Venue: Meeting Hall (after prophesying meeting)<br>
+<br>
+All saints are welcome to join the love feast. Let's take this opportunity to cherish one another while enjoying mutual fellowship. The love feast will be followed by the monthly coordination meeting for those who wish to join.</p>
+</blockquote>
+
+<p><span>2.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
 
 <blockquote>
 <p><strong>English speaking - Friday 7pm</strong><br>
-Northside: combined with Southside<br>
-Southside: Lyons corporate living<br>
+Northside: Kaleen House<br>
+Southside: combined with Northside<br>
 <br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
-Venue: Ming and Nadia's place (Palmerston)<br>
+Venue: Sister Sophie's&nbsp;place (Chifley)<br>
 <br>
-<strong>Topic: </strong>The Creator of the One New Man as the Masterpiece of God</p>
+<strong>Topic: </strong>The Children of God Walking&nbsp;in Love and Light</p>
 </blockquote>
 
-<p><span>2. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
+<p><span>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 22:&nbsp;commencing Monday<br>
+<p>Week 23:&nbsp;commencing Monday<br>
 HWMR Title: Experiencing, Enjoying, and Expressing Christ.<br>
-Week 22&nbsp;Title:&nbsp;The Creator of the One New Man as the Masterpiece of God</p>
+Week 23&nbsp;Title:&nbsp;The Children of God Walking&nbsp;in Love and Light</p>
 </blockquote>
 
-<p><font><span>3. LIFE STUDY PURSUIT</span></font></p>
+<p><font><span>4. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of Matthew&nbsp;message 31&nbsp;and 32</p>
+<p>Life Study of Matthew&nbsp;message 33&nbsp;and 34</p>
 </blockquote>
 
-<p><font><span>4. OFFERING FOR SYDNEY CONFERENCE AND TRAINING CENTRE</span></font></p>
+<p><font><span>5. OFFERING FOR SYDNEY CONFERENCE AND TRAINING CENTRE</span></font></p>
 
 <blockquote>
 <p>Those burdened&nbsp;to offer to the Sydney Conference and Training Centre project can offer directly to the Church in Sydney building account using the below details. Please ensure the reference 'SCTC - Canberra' is used.<br>
@@ -120,23 +129,15 @@ Transaction reference:&nbsp;SCTC - Canberra</p>
                         
                             <p><span><u>TRAINING &amp; CONFERENCES</u>&nbsp;</span></p>
 
-<p><font><font><span>1. MONTHLY PERFECTING TRAINING</span></font></font></p>
+<p><font><font><span>1. 2025 INTERNATIONAL MEMORIAL DAY BLENDING CONFERENCE</span></font></font></p>
 
 <blockquote>
-<p><font><font><span>The next Monthly Perfecting Training&nbsp;will be on the 17th of May. It will be online and also by clustering locally. Saints are encourage to participate. Please register on&nbsp;the link below even if you have joined in previous years.<br>
-The details and registration form please <a href="https://docs.google.com/forms/d/e/1FAIpQLSdhdpac16TzUJWMspsFJ1w8p8uYVsbCwjet-dqrTyWP34CQFg/viewform" target="_blank">click here</a></span></font></font></p>
+<p><font><span>Dates: 23&nbsp;- 26 May 2025<br>
+Venue: 340 North 3rd Street, Phoenix, AZ 85004 USA<br>
+Details: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/d0857626-2d0b-3b56-893b-23e99b849577/2025_Memorial_Day_Conf_English.pdf" target="_blank">click here</a></span></font></p>
 </blockquote>
 
-<p><span>2. TASMANIA BLENDING CONFERENCE</span></p>
-
-<blockquote>
-<p><font><span>Dates: 9-11 May&nbsp;2025<br>
-Venue: Camp Clayton, 41 Clayton Road, Ulverstone 7315, Tasmania<br>
-Registration: <a href="https://docs.google.com/forms/d/e/1FAIpQLSeu5p7bdsRZt8V_8yEm7Tew2zRHKNCgNh-UFyprwaSQCF-jmg/viewform" target="_blank">click here</a><br>
-Deadline: 27 April 2025</span></font></p>
-</blockquote>
-
-<p><font><font><span>3. NATIONAL HIGH SCHOOLERS' CONFERENCE 2025</span></font></font></p>
+<p><font><font><span>2. NATIONAL HIGH SCHOOLERS' CONFERENCE 2025</span></font></font></p>
 
 <blockquote>
 <p><font><span>Dates: 4-7 July 2025<br>
@@ -146,7 +147,7 @@ Registration:&nbsp;<a href="https://nhsc.site/" target="_blank">click here</a><b
 Deadline: 25 May&nbsp;</span>2025</font></p>
 </blockquote>
 
-<p><font><font><span>4. NUAC- NATIONAL UNIVERISTY AGE CONFERENCE 2025</span></font></font></p>
+<p><font><font><span>3. NUAC- NATIONAL UNIVERISTY AGE CONFERENCE 2025</span></font></font></p>
 
 <blockquote>
 <p><font><span>Dates: 10-13 July 2025<br>
@@ -156,7 +157,7 @@ Registration:&nbsp;<a href="https://new.express.adobe.com/webpage/Kv5BzelLRIkNr"
 Deadline: 1 June&nbsp;</span>2025</font></p>
 </blockquote>
 
-<p><font><font><span>5. CAIRNS&nbsp;BLENDING CONFERENCE</span></font></font></p>
+<p><font><font><span>4. CAIRNS&nbsp;BLENDING CONFERENCE</span></font></font></p>
 
 <blockquote>
 <p><font><span>Dates: 25 -&nbsp;27 July&nbsp;2025<br>
@@ -166,12 +167,12 @@ Registration:<a href="http:// https://forms.gle/EtSgPQDJogjMF5FH8" target="_blan
 Deadline: 29 June&nbsp;</span>2025</font></p>
 </blockquote>
 
-<p><font><font><span>6. 2025 INTERNATIONAL MEMORIAL DAY BLENDING CONFERENCE</span></font></font></p>
+<p><font><font><span>5. CANBERRA VIDEO TRAINING</span></font></font></p>
 
 <blockquote>
-<p><font><span>Dates: 23&nbsp;- 26 May 2025<br>
-Venue: 340 North 3rd Street, Phoenix, AZ 85004 USA<br>
-Details: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/d0857626-2d0b-3b56-893b-23e99b849577/2025_Memorial_Day_Conf_English.pdf" target="_blank">click here</a></span></font></p>
+<p><font><span>Dates: 19 July&nbsp;- 24&nbsp;Aug&nbsp;2025<br>
+Venue: Meeting Hall<br>
+Details: TBC</span></font></p>
 </blockquote>
 
                         </td>
@@ -365,7 +366,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13895096" target="_blank">Announcement 04/05/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13894940" target="_blank">Announcement 27/04/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13894790" target="_blank">Announcement 20/04/2025</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13895270" target="_blank">Announcement 11/05/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13895096" target="_blank">Announcement 04/05/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13894940" target="_blank">Announcement 27/04/2025</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
