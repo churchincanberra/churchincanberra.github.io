@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>18th May 2025</span></strong></p>
+<strong><span>25th May 2025</span></strong></p>
 </div>
 
                         </td>
@@ -59,43 +59,34 @@ nofollow: true
                         
                         <td>
                         
-                            <p><span>1. LOVEFEAST AT THE MEETINGHALL (FOLLOWED BY COORDINATION MEETING)</span></p>
-
-<blockquote>
-<p>Date: 18 May 2025<br>
-Venue: Meeting Hall (after prophesying meeting)<br>
-<br>
-All saints are welcome to join the love feast. Let's take this opportunity to cherish one another while enjoying mutual fellowship. The love feast will be followed by the monthly coordination meeting for those who wish to join.</p>
-</blockquote>
-
-<p><span>2.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
+                            <p><span>1.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
 
 <blockquote>
 <p><strong>English speaking - Friday 7pm</strong><br>
-Northside: Kaleen House<br>
-Southside: combined with Northside<br>
+Northside: combined with southside<br>
+Southside: Steer's House (Banks)<br>
 <br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
-Venue: Sister Sophie's&nbsp;place (Chifley)<br>
+Venue: Ming and Nadia's place (Palmerston)<br>
 <br>
-<strong>Topic: </strong>The Children of God Walking&nbsp;in Love and Light</p>
+<strong>Topic: </strong>The Giver of Gifts and the Constituents of God’s Armor</p>
 </blockquote>
 
-<p><span>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
+<p><span>2. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 23:&nbsp;commencing Monday<br>
+<p>Week 24:&nbsp;commencing Monday<br>
 HWMR Title: Experiencing, Enjoying, and Expressing Christ.<br>
-Week 23&nbsp;Title:&nbsp;The Children of God Walking&nbsp;in Love and Light</p>
+Week 24&nbsp;Title:&nbsp;The Giver of Gifts and the Constituents of God’s Armor</p>
 </blockquote>
 
-<p><font><span>4. LIFE STUDY PURSUIT</span></font></p>
+<p><font><span>3. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of Matthew&nbsp;message 33&nbsp;and 34</p>
+<p>Life Study of Matthew&nbsp;message 35&nbsp;and 36</p>
 </blockquote>
 
-<p><font><span>5. OFFERING FOR SYDNEY CONFERENCE AND TRAINING CENTRE</span></font></p>
+<p><font><span>4. OFFERING FOR SYDNEY CONFERENCE AND TRAINING CENTRE</span></font></p>
 
 <blockquote>
 <p>Those burdened&nbsp;to offer to the Sydney Conference and Training Centre project can offer directly to the Church in Sydney building account using the below details. Please ensure the reference 'SCTC - Canberra' is used.<br>
@@ -141,17 +132,17 @@ Details: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/d085
 
 <blockquote>
 <p><font><span>Dates: 4-7 July 2025<br>
-Venue: Sunshine Coast Recreation Precinct- 80 Currimundi Rd, Currimundi QLD 4551<br>
+Venue: Sunshine Coast Recreation Precinct<br>
 Cost:&nbsp;$340.00 Adults, Year 7 and above<br>
 Registration:&nbsp;<a href="https://nhsc.site/" target="_blank">click here</a><br>
 Deadline: 25 May&nbsp;</span>2025</font></p>
 </blockquote>
 
-<p><font><font><span>3. NUAC- NATIONAL UNIVERISTY AGE CONFERENCE 2025</span></font></font></p>
+<p><font><font><span>3.&nbsp;NATIONAL UNIVERISTY AGE CONFERENCE 2025</span></font></font></p>
 
 <blockquote>
 <p><font><span>Dates: 10-13 July 2025<br>
-Venue:&nbsp;The Collaroy Centre - 22 Homestead Ave, Collaroy NSW 2097<br>
+Venue:&nbsp;The Collaroy Centre&nbsp;<br>
 Cost:&nbsp;$350.00<br>
 Registration:&nbsp;<a href="https://new.express.adobe.com/webpage/Kv5BzelLRIkNr" target="_blank">click here</a><br>
 Deadline: 1 June&nbsp;</span>2025</font></p>
@@ -161,7 +152,7 @@ Deadline: 1 June&nbsp;</span>2025</font></p>
 
 <blockquote>
 <p><font><span>Dates: 25 -&nbsp;27 July&nbsp;2025<br>
-Venue: Ramada Hotel, 6/12 Florence St., Cairns City, QLD. 4870<br>
+Venue: Ramada Hotel<br>
 Cost:&nbsp;$370.00 *AUD per person (inclusive of 2 nights' accommodation and meals). The two nights' accommodation will be for Friday and Saturday&nbsp; (25 &amp; 26 July). *5-12 years old $185 **4 years old and below&nbsp;<br>
 Registration:<a href="http:// https://forms.gle/EtSgPQDJogjMF5FH8" target="_blank"> </a><a href="https://docs.google.com/forms/d/e/1FAIpQLSd34SFMAtRoXwNSzzZMeHNLMx9j5zXeN_G7Edmnh3vclmI9Lw/viewform" target="_blank">click here</a><br>
 Deadline: 29 June&nbsp;</span>2025</font></p>
@@ -277,8 +268,8 @@ Lord's Day 10:00am at the meeting hall and on Zoom (details below).</p>
 <p><span>B. COORDINATION MEETING&nbsp;</span></p>
 
 <blockquote>
-<p>Next Meeting: 18&nbsp;May 2025<br>
-Book: Tree of Life- Message 8<br>
+<p>Next Meeting: 15&nbsp;June&nbsp;2025<br>
+Book: Tree of Life - Message 9<br>
 Future Dates: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/bd377fc8-bb60-c003-f011-77487b28048d/Coordination_Meeting_Schedule_2025.pdf" target="_blank">click here</a><br>
 <br>
 This&nbsp;meeting&nbsp;is open to saints serving (or endeavouring to serve) and is predominantly a time to enjoy the Lord so that we may be built up together in our service. There will be Zoom available for those who cannot join physically.</p>
@@ -366,7 +357,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13895270" target="_blank">Announcement 11/05/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13895096" target="_blank">Announcement 04/05/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13894940" target="_blank">Announcement 27/04/2025</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13895458" target="_blank">Announcement 18/05/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13895270" target="_blank">Announcement 11/05/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13895096" target="_blank">Announcement 04/05/2025</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
