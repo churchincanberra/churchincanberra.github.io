@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>1st June 2025</span></strong></p>
+<strong><span>8th June 2025</span></strong></p>
 </div>
 
                         </td>
@@ -59,45 +59,33 @@ nofollow: true
                         
                         <td>
                         
-                            <p><span>1.&nbsp;CHURCH PICNIC LOVE FEAST THIS LORD'S DAY</span></p>
-
-<blockquote>
-<p>There will be a church&nbsp;picnic&nbsp;love feast this Lord's Day after the prophesying meeting. Please see further detail below,<br>
-<br>
-Location: Lennox Garden (<a data-saferedirecturl="https://www.google.com/url?q=https://maps.app.goo.gl/EDupDpXK1ePeyWer9&amp;source=gmail&amp;ust=1748777639711000&amp;usg=AOvVaw3wIg3tsppZKmIZXJkmDSP5" href="https://maps.app.goo.gl/EDupDpXK1ePeyWer9" target="_blank">click here</a>)<br>
-Time: 12:30-2:00pm<br>
-What to bring:&nbsp;Picnic&nbsp;rug, a dish to share<br>
-<br>
-Note - In the case of poor weather we will stay at the meeting hall.</p>
-</blockquote>
-
-<p><span>2.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
+                            <p><span>1.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
 
 <blockquote>
 <p><strong>English speaking - Friday 7pm</strong><br>
-Northside: Mark Lam's place (Kaleen)<br>
-Southside:&nbsp;combined with north side<br>
+Northside: Kaleen House<br>
+Southside: Steer's House (Banks)<br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
-Venue: Victor and Bing's place (Lyons)<br>
+Venue: Ming&nbsp;and Nadia's place (Palmerston)<br>
 <br>
-<strong>Topic: </strong>The Line of Life and the Line of Death in Chapters 5 through 8 of&nbsp;Romans</p>
+<strong>Topic: </strong>The Result of Our Justification&nbsp; - the Full Enjoyment of God in Christ as Our Life</p>
 </blockquote>
 
-<p><span>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
+<p><span>2. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 1:&nbsp;commencing Monday<br>
+<p>Week 2:&nbsp;commencing Monday<br>
 HWMR Title: Chapters 5 Through 8 of Romans- The Kernel of the Bible<br>
-Week 1 Title:&nbsp;The Line of Life and the Line of Death in Chapters 5 through 8 of Romans</p>
+Week 2&nbsp;Title:&nbsp;The Result of Our Justification&nbsp; - the Full Enjoyment of God in Christ as Our Life</p>
 </blockquote>
 
-<p><font><span>4. LIFE STUDY PURSUIT</span></font></p>
+<p><font><span>3. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of Matthew&nbsp;message 37&nbsp;and 38</p>
+<p>Life Study of Matthew&nbsp;message 39&nbsp;and 40</p>
 </blockquote>
 
-<p><font><span>5. OFFERING FOR SYDNEY CONFERENCE AND TRAINING CENTRE</span></font></p>
+<p><font><span>4. OFFERING FOR SYDNEY CONFERENCE AND TRAINING CENTRE</span></font></p>
 
 <blockquote>
 <p>Those burdened&nbsp;to offer to the Sydney Conference and Training Centre project can offer directly to the Church in Sydney building account using the below details. Please ensure the reference 'SCTC - Canberra' is used.<br>
@@ -360,7 +348,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13895753" target="_blank">Church Picnic this Lord's Day</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13895616" target="_blank">Announcement 25/05/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13895458" target="_blank">Announcement 18/05/2025</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13895791" target="_blank">Announcement 01/06/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13895753" target="_blank">Church Picnic this Lord's Day</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13895616" target="_blank">Announcement 25/05/2025</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
