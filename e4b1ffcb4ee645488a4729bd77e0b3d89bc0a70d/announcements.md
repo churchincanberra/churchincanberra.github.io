@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>8th June 2025</span></strong></p>
+<strong><span>15th June 2025</span></strong></p>
 </div>
 
                         </td>
@@ -59,33 +59,41 @@ nofollow: true
                         
                         <td>
                         
-                            <p><span>1.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
+                            <p><span>1.&nbsp;LOVEFEAST&nbsp;AT THE HALL (FOLLOWED BY COORDINATION MEETING)</span></p>
+
+<blockquote>
+<p>Date: Today (after prophesying meeting)<br>
+<br>
+All saints are welcome to join the&nbsp;love feast. Let's take this opportunity to cherish one another while enjoying mutual fellowship. The&nbsp;love feast&nbsp;will be followed by the monthly coordination meeting for those who wish to join.</p>
+</blockquote>
+
+<p><span>2.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
 
 <blockquote>
 <p><strong>English speaking - Friday 7pm</strong><br>
-Northside: Kaleen House<br>
-Southside: Steer's House (Banks)<br>
+Northside: Mark &amp; Yashan's&nbsp;(Kaleen)<br>
+Southside: Meeting Hall<br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
-Venue: Ming&nbsp;and Nadia's place (Palmerston)<br>
+Venue: Lyons House<br>
 <br>
-<strong>Topic: </strong>The Result of Our Justification&nbsp; - the Full Enjoyment of God in Christ as Our Life</p>
+<strong>Topic: </strong>The Likeness of the Death and Resurrection of Christ</p>
 </blockquote>
 
-<p><span>2. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
+<p><span>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 2:&nbsp;commencing Monday<br>
+<p>Week 3:&nbsp;commencing Monday<br>
 HWMR Title: Chapters 5 Through 8 of Romans- The Kernel of the Bible<br>
-Week 2&nbsp;Title:&nbsp;The Result of Our Justification&nbsp; - the Full Enjoyment of God in Christ as Our Life</p>
+Week 3&nbsp;Title:&nbsp;The Likeness of the Death and Resurrection of Christ</p>
 </blockquote>
 
-<p><font><span>3. LIFE STUDY PURSUIT</span></font></p>
+<p><font><span>4. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of Matthew&nbsp;message 39&nbsp;and 40</p>
+<p>Life Study of Matthew&nbsp;message 41&nbsp;and 42</p>
 </blockquote>
 
-<p><font><span>4. OFFERING FOR SYDNEY CONFERENCE AND TRAINING CENTRE</span></font></p>
+<p><font><span>5. OFFERING FOR SYDNEY CONFERENCE AND TRAINING CENTRE</span></font></p>
 
 <blockquote>
 <p>Those burdened&nbsp;to offer to the Sydney Conference and Training Centre project can offer directly to the Church in Sydney building account using the below details. Please ensure the reference 'SCTC - Canberra' is used.<br>
@@ -136,10 +144,19 @@ Deadline: 25 May&nbsp;</span>2025</font></p>
 Venue:&nbsp;The Collaroy Centre&nbsp;<br>
 Cost:&nbsp;$350.00<br>
 Registration:&nbsp;<a href="https://new.express.adobe.com/webpage/Kv5BzelLRIkNr" target="_blank">click here</a><br>
-Deadline: 1 June&nbsp;</span>2025</font></p>
+Deadline: 16 June&nbsp;</span>2025</font></p>
 </blockquote>
 
-<p><font><font><span>3. CAIRNS&nbsp;BLENDING CONFERENCE</span></font></font></p>
+<p><font><font><span>3. CANBERRA VIDEO TRAINING</span></font></font></p>
+
+<blockquote>
+<p><font><span>Title:&nbsp;Experiencing, Enjoying, and Expressing Christ (3)<br>
+Dates: 20&nbsp;July&nbsp;- 17&nbsp;Aug&nbsp;2025<br>
+Venue: Canberra Meeting Hall &amp; Wagga<br>
+Details: <a href="https://form.jotform.com/251642798837877" target="_blank">click here</a></span></font></p>
+</blockquote>
+
+<p><font><font><span>4. CAIRNS&nbsp;BLENDING CONFERENCE</span></font></font></p>
 
 <blockquote>
 <p><font><span>Dates: 25 -&nbsp;27 July&nbsp;2025<br>
@@ -149,12 +166,35 @@ Registration:<a href="http:// https://forms.gle/EtSgPQDJogjMF5FH8" target="_blan
 Deadline: 29 June&nbsp;</span>2025</font></p>
 </blockquote>
 
-<p><font><font><span>4. CANBERRA VIDEO TRAINING</span></font></font></p>
+                        </td>
+                    </tr>
+                </tbody></table>
+				
+                
+				
+            </td>
+        </tr>
+    </tbody>
+</table><table>
+    <tbody>
+        <tr>
+            <td>
+              	
+			    
+				
+                <table>
+                    <tbody><tr>
+                        
+                        <td>
+                        
+                            <p><span><u>AUDIO&nbsp;AND VIDEO RECORDINGS&nbsp;FROM RECENT TRAININGS AND CONFERENCES</u>&nbsp;</span><br>
+&nbsp;</p>
+
+<p><span>1. National Serving Ones Training&nbsp;(NSOT) June&nbsp;2025</span></p>
 
 <blockquote>
-<p><font><span>Dates: 19 July&nbsp;- 24&nbsp;Aug&nbsp;2025<br>
-Venue: Meeting Hall<br>
-Details: TBC</span></font></p>
+<p>General Subject:&nbsp;One Accord and Crucial Aspects of the Book of Acts<br>
+The recorded messages are ready for download: <a href="https://drive.google.com/drive/folders/1P3xb3yYnhREl-OMUC_urFY9sY6t6RGqh" target="_blank">Click here&nbsp;</a> &nbsp;</p>
 </blockquote>
 
                         </td>
@@ -187,37 +227,6 @@ Details: TBC</span></font></p>
 Report:&nbsp;<a href="https://churchesceeb.org/reports/2024-reports-english/" target="_blank">click here</a><br>
 <br>
 <span>Update&nbsp;regarding the New Testament Recovery Version translation into Czech and Slovak,&nbsp;<a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/78b27a9c-d420-9566-c006-7c3a38b93005/Update_on_New_Testament_Recovery_versio_tramslationn_into_the_Slovak_and_Czech_languages_.01.pdf" target="_blank">click here</a></span></p>
-</blockquote>
-
-                        </td>
-                    </tr>
-                </tbody></table>
-				
-                
-				
-            </td>
-        </tr>
-    </tbody>
-</table><table>
-    <tbody>
-        <tr>
-            <td>
-              	
-			    
-				
-                <table>
-                    <tbody><tr>
-                        
-                        <td>
-                        
-                            <p><span><u>AUDIO&nbsp;AND VIDEO RECORDINGS&nbsp;FROM RECENT TRAININGS AND CONFERENCES</u>&nbsp;</span><br>
-&nbsp;</p>
-
-<p><span>1. National Blending Conference (NBC) Dec. 2024</span></p>
-
-<blockquote>
-<p>General Subject: Living in the Reality of the Kingdom of God<br>
-The recorded messages are ready for download: <a href="http://www.churchinsydney.org/NBC2024-audio" target="_blank">Click here</a>&nbsp; &nbsp;</p>
 </blockquote>
 
                         </td>
@@ -348,7 +357,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13895791" target="_blank">Announcement 01/06/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13895753" target="_blank">Church Picnic this Lord's Day</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13895616" target="_blank">Announcement 25/05/2025</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13895933" target="_blank">Announcement 08/06/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13895791" target="_blank">Announcement 01/06/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13895753" target="_blank">Church Picnic this Lord's Day</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
