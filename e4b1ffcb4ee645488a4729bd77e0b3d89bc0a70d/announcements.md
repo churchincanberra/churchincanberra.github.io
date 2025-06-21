@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>15th June 2025</span></strong></p>
+<strong><span>22nd June 2025</span></strong></p>
 </div>
 
                         </td>
@@ -59,41 +59,33 @@ nofollow: true
                         
                         <td>
                         
-                            <p><span>1.&nbsp;LOVEFEAST&nbsp;AT THE HALL (FOLLOWED BY COORDINATION MEETING)</span></p>
-
-<blockquote>
-<p>Date: Today (after prophesying meeting)<br>
-<br>
-All saints are welcome to join the&nbsp;love feast. Let's take this opportunity to cherish one another while enjoying mutual fellowship. The&nbsp;love feast&nbsp;will be followed by the monthly coordination meeting for those who wish to join.</p>
-</blockquote>
-
-<p><span>2.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
+                            <p><span>1</span><span>.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
 
 <blockquote>
 <p><strong>English speaking - Friday 7pm</strong><br>
 Northside: Mark &amp; Yashan's&nbsp;(Kaleen)<br>
-Southside: Meeting Hall<br>
+Southside: Lyons House<br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
 Venue: Lyons House<br>
 <br>
-<strong>Topic: </strong>The Likeness of the Death and Resurrection of Christ</p>
+<strong>Topic: </strong>The New Husband</p>
 </blockquote>
 
-<p><span>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
+<p><span>2. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 3:&nbsp;commencing Monday<br>
+<p>Week 4:&nbsp;commencing Monday<br>
 HWMR Title: Chapters 5 Through 8 of Romans- The Kernel of the Bible<br>
-Week 3&nbsp;Title:&nbsp;The Likeness of the Death and Resurrection of Christ</p>
+Week 4&nbsp;Title:&nbsp;The New Husband</p>
 </blockquote>
 
-<p><font><span>4. LIFE STUDY PURSUIT</span></font></p>
+<p><font><span>3. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of Matthew&nbsp;message 41&nbsp;and 42</p>
+<p>Life Study of Matthew&nbsp;message 43&nbsp;and 44</p>
 </blockquote>
 
-<p><font><span>5. OFFERING FOR SYDNEY CONFERENCE AND TRAINING CENTRE</span></font></p>
+<p><font><span>4. OFFERING FOR SYDNEY CONFERENCE AND TRAINING CENTRE</span></font></p>
 
 <blockquote>
 <p>Those burdened&nbsp;to offer to the Sydney Conference and Training Centre project can offer directly to the Church in Sydney building account using the below details. Please ensure the reference 'SCTC - Canberra' is used.<br>
@@ -268,9 +260,9 @@ Lord's Day 10:00am at the meeting hall and on Zoom (details below).</p>
 <p><span>B. COORDINATION MEETING&nbsp;</span></p>
 
 <blockquote>
-<p>Next Meeting: 15&nbsp;June&nbsp;2025<br>
-Book: Tree of Life - Message 9<br>
-Future Dates: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/bd377fc8-bb60-c003-f011-77487b28048d/Coordination_Meeting_Schedule_2025.pdf" target="_blank">click here</a><br>
+<p>Next Meeting: 27 July 2025<br>
+Book: Tree of Life - Message 10<br>
+Future Dates: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/caf880c7-9e17-1d97-a079-9cd34e5a13f9/Coordination_Meeting_Schedule_2025.01.pdf" target="_blank">click here</a><br>
 <br>
 This&nbsp;meeting&nbsp;is open to saints serving (or endeavouring to serve) and is predominantly a time to enjoy the Lord so that we may be built up together in our service. There will be Zoom available for those who cannot join physically.</p>
 </blockquote>
@@ -357,7 +349,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13895933" target="_blank">Announcement 08/06/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13895791" target="_blank">Announcement 01/06/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13895753" target="_blank">Church Picnic this Lord's Day</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13896100" target="_blank">Announcement 15/06/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13895933" target="_blank">Announcement 08/06/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13895791" target="_blank">Announcement 01/06/2025</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
