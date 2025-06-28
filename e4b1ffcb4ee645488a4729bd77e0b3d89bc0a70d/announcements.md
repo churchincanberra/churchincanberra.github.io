@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>22nd June 2025</span></strong></p>
+<strong><span>29th&nbsp;June 2025</span></strong></p>
 </div>
 
                         </td>
@@ -63,26 +63,26 @@ nofollow: true
 
 <blockquote>
 <p><strong>English speaking - Friday 7pm</strong><br>
-Northside: Mark &amp; Yashan's&nbsp;(Kaleen)<br>
-Southside: Lyons House<br>
+Northside: Kaleen house<br>
+Southside: Combined with northside<br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
-Venue: Lyons House<br>
+Venue: Victor and Bing's (Lyons)<br>
 <br>
-<strong>Topic: </strong>The New Husband</p>
+<strong>Topic: </strong>The Indwelling Christ</p>
 </blockquote>
 
 <p><span>2. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 4:&nbsp;commencing Monday<br>
+<p>Week 5:&nbsp;commencing Monday<br>
 HWMR Title: Chapters 5 Through 8 of Romans- The Kernel of the Bible<br>
-Week 4&nbsp;Title:&nbsp;The New Husband</p>
+Week 5&nbsp;Title: The Indwelling Christ</p>
 </blockquote>
 
 <p><font><span>3. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of Matthew&nbsp;message 43&nbsp;and 44</p>
+<p>Life Study of Matthew&nbsp;message 45&nbsp;and 46</p>
 </blockquote>
 
 <p><font><span>4. OFFERING FOR SYDNEY CONFERENCE AND TRAINING CENTRE</span></font></p>
@@ -156,6 +156,13 @@ Venue: Ramada Hotel<br>
 Cost:&nbsp;$370.00 *AUD per person (inclusive of 2 nights' accommodation and meals). The two nights' accommodation will be for Friday and Saturday&nbsp; (25 &amp; 26 July). *5-12 years old $185 **4 years old and below&nbsp;<br>
 Registration:<a href="http:// https://forms.gle/EtSgPQDJogjMF5FH8" target="_blank"> </a><a href="https://docs.google.com/forms/d/e/1FAIpQLSd34SFMAtRoXwNSzzZMeHNLMx9j5zXeN_G7Edmnh3vclmI9Lw/viewform" target="_blank">click here</a><br>
 Deadline: 29 June&nbsp;</span>2025</font></p>
+</blockquote>
+
+<p><font><font><span>5.&nbsp; SOLOMON ISLANDS BLENDING CONFERENCE &amp; FIRST TABLE MEETING</span></font></font></p>
+
+<blockquote>
+<p><font><span>Dates: 29&nbsp;- 31&nbsp;August 2025<br>
+Registration: <a href="https://docs.google.com/forms/d/e/1FAIpQLSfm-4lXLREPkskizegHM5BwbWGQ4UCrT0S7EaXXbtWhVLbBTg/viewform" target="_blank">click here</a></span></font></p>
 </blockquote>
 
                         </td>
@@ -257,7 +264,25 @@ Wechat for Chinese (Contact Mark Lam or Zhi Bing to be added in the group chat)<
 Lord's Day 10:00am at the meeting hall and on Zoom (details below).</p>
 </blockquote>
 
-<p><span>B. COORDINATION MEETING&nbsp;</span></p>
+<p><span>B. REGULAR ADDITIONAL PRAYER TIMES</span></p>
+
+<blockquote>
+<p><u><strong>Bibles for Australia</strong></u><br>
+Monday 8:30pm&nbsp;on Zoom<br>
+Zoom: <a href="https://us02web.zoom.us/j/88413747323?pwd=K041K1BPU0gvVlpMOXdOaTM4dUJjZz09" target="_blank">click here&nbsp;</a><br>
+Burden: The the bible distribution work throughout Australia.<br>
+<br>
+<u><strong>High School service</strong></u><br>
+Thursday 9:00 pm&nbsp;on church in Canberra zoom.<br>
+Burden: Our high-schoolers and the LD HS meeting.<br>
+Note: On hold until&nbsp;after the NHSC.<br>
+<br>
+<u><strong>Migration and Europe</strong></u><br>
+Saturday 8:45&nbsp;pm&nbsp;on church in Canberra zoom.<br>
+Burden: (1) To pray that the Lord would open the way for migration in Australia. (2) The Lord's move in Europe and the upcoming gospel trips in Italy.</p>
+</blockquote>
+
+<p><span>C. COORDINATION MEETING&nbsp;</span></p>
 
 <blockquote>
 <p>Next Meeting: 27 July 2025<br>
@@ -267,19 +292,19 @@ Future Dates: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files
 This&nbsp;meeting&nbsp;is open to saints serving (or endeavouring to serve) and is predominantly a time to enjoy the Lord so that we may be built up together in our service. There will be Zoom available for those who cannot join physically.</p>
 </blockquote>
 
-<p><span>C. CALENDAR FROM THE CHURCH IN SYDNEY</span></p>
+<p><span>D. CALENDAR FROM THE CHURCH IN SYDNEY</span></p>
 
 <blockquote>
 <p>Please <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/69a41739-1456-dcdf-4b30-45870dd9e049/Church_Planner_2025_version_1_4__4146108f_06fb_421f_b5ff_e7065bba4ed1.pdf" target="_blank">click here</a></p>
 </blockquote>
 
-<p><span>D. CHURCH IN CANBERRA VARIOUS OFFERING ACCOUNTS</span></p>
+<p><span>E. CHURCH IN CANBERRA VARIOUS OFFERING ACCOUNTS</span></p>
 
 <blockquote>
 <p>Please <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/6b4f0499-5273-dcfe-2022-308c20d84c42/Church_in_Canberra_Bank_Accounts.01.pdf" target="_blank">click here</a></p>
 </blockquote>
 
-<p><span>E. ZOOM MEETING DETAILS</span></p>
+<p><span>F. CHURCH ZOOM MEETING DETAILS</span></p>
 
 <blockquote>
 <p>To join, click this link&nbsp;<a href="https://us02web.zoom.us/j/86759516115?pwd=RGQrKzJWWkRtTXVkeS9ZNXdSSmwxdz09" target="_blank">https://us02web.zoom.us/j/86759516115?pwd=RGQrKzJWWkRtTXVkeS9ZNXdSSmwxdz09</a><br>
@@ -287,16 +312,10 @@ Meeting ID:&nbsp;867 5951 6115&nbsp;<br>
 Passcode:&nbsp;Eph4:16</p>
 </blockquote>
 
-<p><span>F. ONLINE ANNOUNCEMENT</span></p>
+<p><span>G. ONLINE ANNOUNCEMENT</span></p>
 
 <blockquote>
 <p>The announcement page on the church in Canberra website (<a href="https://www.churchincanberra.org/announcements" target="_blank">https://www.churchincanberra.org/announcements</a>) requires the password, 'canberra'.</p>
-</blockquote>
-
-<p><span>G. BFA weekly prayer times</span></p>
-
-<blockquote>
-<p>There is a national prayer for Bibles for Australia on LD (6pm) and Monday (8:30pm) weekly on Zoom (<a href="https://us02web.zoom.us/j/88413747323?pwd=K041K1BPU0gvVlpMOXdOaTM4dUJjZz09" target="_blank">click here</a>).&nbsp;</p>
 </blockquote>
 
 <p><span>H. LIST OF ACT SUBURBS AND DISTRICTS&nbsp;</span></p>
@@ -349,7 +368,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13896100" target="_blank">Announcement 15/06/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13895933" target="_blank">Announcement 08/06/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13895791" target="_blank">Announcement 01/06/2025</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13896236" target="_blank">Announcement 22/06/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13896100" target="_blank">Announcement 15/06/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13895933" target="_blank">Announcement 08/06/2025</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
