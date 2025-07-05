@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>29th&nbsp;June 2025</span></strong></p>
+<strong><span>6th&nbsp;July&nbsp;2025</span></strong></p>
 </div>
 
                         </td>
@@ -63,26 +63,26 @@ nofollow: true
 
 <blockquote>
 <p><strong>English speaking - Friday 7pm</strong><br>
-Northside: Kaleen house<br>
-Southside: Combined with northside<br>
+Northside: Combined with Southside<br>
+Southside: Zi's place<br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
-Venue: Victor and Bing's (Lyons)<br>
+Venue: Ming&nbsp;and Nadia's (Palmerston)<br>
 <br>
-<strong>Topic: </strong>The Indwelling Christ</p>
+<strong>Topic: </strong>The Continuation of the Book of Acts - the Corporate Continuation of Christ</p>
 </blockquote>
 
 <p><span>2. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 5:&nbsp;commencing Monday<br>
-HWMR Title: Chapters 5 Through 8 of Romans- The Kernel of the Bible<br>
-Week 5&nbsp;Title: The Indwelling Christ</p>
+<p>Week 1:&nbsp;commencing Monday<br>
+HWMR Title: One Accord and Crucial Aspects of the Book of Acts<br>
+Week 1&nbsp;Title: The Continuation of the Book of Acts - the Corporate Continuation of Christ</p>
 </blockquote>
 
 <p><font><span>3. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of Matthew&nbsp;message 45&nbsp;and 46</p>
+<p>Life Study of Matthew&nbsp;message 47&nbsp;and 48</p>
 </blockquote>
 
 <p><font><span>4. OFFERING FOR SYDNEY CONFERENCE AND TRAINING CENTRE</span></font></p>
@@ -268,7 +268,7 @@ Lord's Day 10:00am at the meeting hall and on Zoom (details below).</p>
 
 <blockquote>
 <p><u><strong>Bibles for Australia</strong></u><br>
-Monday 8:30pm&nbsp;on Zoom<br>
+Monday 8:30pm and Lord's day 6pm&nbsp;on Zoom<br>
 Zoom: <a href="https://us02web.zoom.us/j/88413747323?pwd=K041K1BPU0gvVlpMOXdOaTM4dUJjZz09" target="_blank">click here&nbsp;</a><br>
 Burden: The the bible distribution work throughout Australia.<br>
 <br>
@@ -368,7 +368,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13896236" target="_blank">Announcement 22/06/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13896100" target="_blank">Announcement 15/06/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13895933" target="_blank">Announcement 08/06/2025</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13896388" target="_blank">Announcement 29/06/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13896236" target="_blank">Announcement 22/06/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13896100" target="_blank">Announcement 15/06/2025</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
