@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>6th&nbsp;July&nbsp;2025</span></strong></p>
+<strong><span>13th&nbsp;July&nbsp;2025</span></strong></p>
 </div>
 
                         </td>
@@ -59,33 +59,45 @@ nofollow: true
                         
                         <td>
                         
-                            <p><span>1</span><span>.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
+                            <p><span>1</span><span>. LOVEFEAST AT THE MEETING HALL ON MONDAY (14th July, 2025)</span></p>
+
+<blockquote>
+<p>Dear Saints,&nbsp;<br>
+&nbsp;<br>
+There will be a Lovefeast at the meeting hall this Monday night&nbsp;(July&nbsp;14) to welcome the young people from Melbourne. All saints are welcome to join and blend with the interstate saints.&nbsp;<br>
+<br>
+In Him,<br>
+<br>
+The Brothers in Canberra</p>
+</blockquote>
+
+<p><span>2.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
 
 <blockquote>
 <p><strong>English speaking - Friday 7pm</strong><br>
 Northside: Combined with Southside<br>
-Southside: Zi's place<br>
+Southside: Lyons's House<br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
-Venue: Ming&nbsp;and Nadia's (Palmerston)<br>
+Venue: Sister Sophie's place (Chifley)<br>
 <br>
-<strong>Topic: </strong>The Continuation of the Book of Acts - the Corporate Continuation of Christ</p>
+<strong>Topic: </strong>One Accord</p>
 </blockquote>
 
-<p><span>2. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
+<p><span>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 1:&nbsp;commencing Monday<br>
+<p>Week 2:&nbsp;commencing Monday<br>
 HWMR Title: One Accord and Crucial Aspects of the Book of Acts<br>
-Week 1&nbsp;Title: The Continuation of the Book of Acts - the Corporate Continuation of Christ</p>
+Week 2&nbsp;Title: One Accord</p>
 </blockquote>
 
-<p><font><span>3. LIFE STUDY PURSUIT</span></font></p>
+<p><font><span>4. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of Matthew&nbsp;message 47&nbsp;and 48</p>
+<p>Life Study of Matthew&nbsp;message 49&nbsp;and 50</p>
 </blockquote>
 
-<p><font><span>4. OFFERING FOR SYDNEY CONFERENCE AND TRAINING CENTRE</span></font></p>
+<p><font><span>5. OFFERING FOR SYDNEY CONFERENCE AND TRAINING CENTRE</span></font></p>
 
 <blockquote>
 <p>Those burdened&nbsp;to offer to the Sydney Conference and Training Centre project can offer directly to the Church in Sydney building account using the below details. Please ensure the reference 'SCTC - Canberra' is used.<br>
@@ -119,17 +131,7 @@ Transaction reference:&nbsp;SCTC - Canberra</p>
                         
                             <p><span><u>TRAINING &amp; CONFERENCES</u>&nbsp;</span></p>
 
-<p><font><font><span>1. NATIONAL HIGH SCHOOLERS' CONFERENCE 2025</span></font></font></p>
-
-<blockquote>
-<p><font><span>Dates: 4-7 July 2025<br>
-Venue: Sunshine Coast Recreation Precinct<br>
-Cost:&nbsp;$340.00 Adults, Year 7 and above<br>
-Registration:&nbsp;<a href="https://nhsc.site/" target="_blank">click here</a><br>
-Deadline: 25 May&nbsp;</span>2025</font></p>
-</blockquote>
-
-<p><font><font><span>2.&nbsp;NATIONAL UNIVERISTY AGE CONFERENCE 2025</span></font></font></p>
+<p><font><font><span>1.&nbsp;NATIONAL UNIVERISTY AGE CONFERENCE 2025</span></font></font></p>
 
 <blockquote>
 <p><font><span>Dates: 10-13 July 2025<br>
@@ -139,7 +141,7 @@ Registration:&nbsp;<a href="https://new.express.adobe.com/webpage/Kv5BzelLRIkNr"
 Deadline: 16 June&nbsp;</span>2025</font></p>
 </blockquote>
 
-<p><font><font><span>3. CANBERRA VIDEO TRAINING</span></font></font></p>
+<p><font><font><span>2. CANBERRA VIDEO TRAINING</span></font></font></p>
 
 <blockquote>
 <p><font><span>Title:&nbsp;Experiencing, Enjoying, and Expressing Christ (3)<br>
@@ -148,7 +150,7 @@ Venue: Canberra Meeting Hall &amp; Wagga<br>
 Details: <a href="https://form.jotform.com/251642798837877" target="_blank">click here</a></span></font></p>
 </blockquote>
 
-<p><font><font><span>4. CAIRNS&nbsp;BLENDING CONFERENCE</span></font></font></p>
+<p><font><font><span>3. CAIRNS&nbsp;BLENDING CONFERENCE</span></font></font></p>
 
 <blockquote>
 <p><font><span>Dates: 25 -&nbsp;27 July&nbsp;2025<br>
@@ -158,7 +160,7 @@ Registration:<a href="http:// https://forms.gle/EtSgPQDJogjMF5FH8" target="_blan
 Deadline: 29 June&nbsp;</span>2025</font></p>
 </blockquote>
 
-<p><font><font><span>5.&nbsp; SOLOMON ISLANDS BLENDING CONFERENCE &amp; FIRST TABLE MEETING</span></font></font></p>
+<p><font><font><span>4.&nbsp; SOLOMON ISLANDS BLENDING CONFERENCE &amp; FIRST TABLE MEETING</span></font></font></p>
 
 <blockquote>
 <p><font><span>Dates: 29&nbsp;- 31&nbsp;August 2025<br>
@@ -368,7 +370,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13896388" target="_blank">Announcement 29/06/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13896236" target="_blank">Announcement 22/06/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13896100" target="_blank">Announcement 15/06/2025</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13896544" target="_blank">Announcement 06/07/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13896388" target="_blank">Announcement 29/06/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13896236" target="_blank">Announcement 22/06/2025</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
