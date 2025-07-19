@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>13th&nbsp;July&nbsp;2025</span></strong></p>
+<strong><span>20th&nbsp;July&nbsp;2025</span></strong></p>
 </div>
 
                         </td>
@@ -59,42 +59,39 @@ nofollow: true
                         
                         <td>
                         
-                            <p><span>1</span><span>. LOVEFEAST AT THE MEETING HALL ON MONDAY (14th July, 2025)</span></p>
+                            <p><span>1. SCHEDULE OF LORD'S TABLE MEETING (20th July)</span></p>
 
 <blockquote>
-<p>Dear Saints,&nbsp;<br>
-&nbsp;<br>
-There will be a Lovefeast at the meeting hall this Monday night&nbsp;(July&nbsp;14) to welcome the young people from Melbourne. All saints are welcome to join and blend with the interstate saints.&nbsp;<br>
-<br>
-In Him,<br>
-<br>
-The Brothers in Canberra</p>
+<p>10:00 am- 10:45 am- Bread Breaking&nbsp;<br>
+10:45 am- 11:00 am- NUAC overflow<br>
+11:00 am- 11:10 am- Break<br>
+11:10 am-&nbsp; &nbsp;1:00&nbsp;pm- Video Training open session</p>
 </blockquote>
 
 <p><span>2.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
 
 <blockquote>
 <p><strong>English speaking - Friday 7pm</strong><br>
-Northside: Combined with Southside<br>
-Southside: Lyons's House<br>
+Northside: Kaleen House<br>
+Southside: Billy and Len's place (Banks)<br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
-Venue: Sister Sophie's place (Chifley)<br>
+Venue: Lyons House<br>
 <br>
-<strong>Topic: </strong>One Accord</p>
+<strong>Topic: </strong>Maintaining the One Accord by the Three Substances of the Power in the Lord's Recovery- Prayer, the Spirit and the Word</p>
 </blockquote>
 
 <p><span>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 2:&nbsp;commencing Monday<br>
+<p>Week 3:&nbsp;commencing Monday<br>
 HWMR Title: One Accord and Crucial Aspects of the Book of Acts<br>
-Week 2&nbsp;Title: One Accord</p>
+Week 3&nbsp;Title:&nbsp;Maintaining the One Accord by the Three Substances of the Power in the Lord's Recovery- Prayer, the Spirit and the Word</p>
 </blockquote>
 
 <p><font><span>4. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of Matthew&nbsp;message 49&nbsp;and 50</p>
+<p>Life Study of Matthew&nbsp;message 51&nbsp;and 52</p>
 </blockquote>
 
 <p><font><span>5. OFFERING FOR SYDNEY CONFERENCE AND TRAINING CENTRE</span></font></p>
@@ -131,17 +128,7 @@ Transaction reference:&nbsp;SCTC - Canberra</p>
                         
                             <p><span><u>TRAINING &amp; CONFERENCES</u>&nbsp;</span></p>
 
-<p><font><font><span>1.&nbsp;NATIONAL UNIVERISTY AGE CONFERENCE 2025</span></font></font></p>
-
-<blockquote>
-<p><font><span>Dates: 10-13 July 2025<br>
-Venue:&nbsp;The Collaroy Centre&nbsp;<br>
-Cost:&nbsp;$350.00<br>
-Registration:&nbsp;<a href="https://new.express.adobe.com/webpage/Kv5BzelLRIkNr" target="_blank">click here</a><br>
-Deadline: 16 June&nbsp;</span>2025</font></p>
-</blockquote>
-
-<p><font><font><span>2. CANBERRA VIDEO TRAINING</span></font></font></p>
+<p><font><font><span>1. CANBERRA VIDEO TRAINING</span></font></font></p>
 
 <blockquote>
 <p><font><span>Title:&nbsp;Experiencing, Enjoying, and Expressing Christ (3)<br>
@@ -150,7 +137,7 @@ Venue: Canberra Meeting Hall &amp; Wagga<br>
 Details: <a href="https://form.jotform.com/251642798837877" target="_blank">click here</a></span></font></p>
 </blockquote>
 
-<p><font><font><span>3. CAIRNS&nbsp;BLENDING CONFERENCE</span></font></font></p>
+<p><font><font><span>2. CAIRNS&nbsp;BLENDING CONFERENCE</span></font></font></p>
 
 <blockquote>
 <p><font><span>Dates: 25 -&nbsp;27 July&nbsp;2025<br>
@@ -160,7 +147,7 @@ Registration:<a href="http:// https://forms.gle/EtSgPQDJogjMF5FH8" target="_blan
 Deadline: 29 June&nbsp;</span>2025</font></p>
 </blockquote>
 
-<p><font><font><span>4.&nbsp; SOLOMON ISLANDS BLENDING CONFERENCE &amp; FIRST TABLE MEETING</span></font></font></p>
+<p><font><font><span>3.&nbsp; SOLOMON ISLANDS BLENDING CONFERENCE &amp; FIRST TABLE MEETING</span></font></font></p>
 
 <blockquote>
 <p><font><span>Dates: 29&nbsp;- 31&nbsp;August 2025<br>
@@ -277,7 +264,6 @@ Burden: The the bible distribution work throughout Australia.<br>
 <u><strong>High School service</strong></u><br>
 Thursday 9:00 pm&nbsp;on church in Canberra zoom.<br>
 Burden: Our high-schoolers and the LD HS meeting.<br>
-Note: On hold until&nbsp;after the NHSC.<br>
 <br>
 <u><strong>Migration and Europe</strong></u><br>
 Saturday 8:45&nbsp;pm&nbsp;on church in Canberra zoom.<br>
@@ -370,7 +356,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13896544" target="_blank">Announcement 06/07/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13896388" target="_blank">Announcement 29/06/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13896236" target="_blank">Announcement 22/06/2025</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13896697" target="_blank">Announcement 13/07/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13896544" target="_blank">Announcement 06/07/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13896388" target="_blank">Announcement 29/06/2025</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
