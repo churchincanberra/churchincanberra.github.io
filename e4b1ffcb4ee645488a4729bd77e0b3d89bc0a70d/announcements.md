@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>20th&nbsp;July&nbsp;2025</span></strong></p>
+<strong><span>27th&nbsp;July&nbsp;2025</span></strong></p>
 </div>
 
                         </td>
@@ -59,42 +59,47 @@ nofollow: true
                         
                         <td>
                         
-                            <p><span>1. SCHEDULE OF LORD'S TABLE MEETING (20th July)</span></p>
+                            <p><span>1. LOVEFEAST AT THE HALL&nbsp;(FOLLOWED BY COORDINATION MEETING)</span></p>
 
 <blockquote>
-<p>10:00 am- 10:45 am- Bread Breaking&nbsp;<br>
-10:45 am- 11:00 am- NUAC overflow<br>
-11:00 am- 11:10 am- Break<br>
-11:10 am-&nbsp; &nbsp;1:00&nbsp;pm- Video Training open session</p>
+<p>Date: Today<br>
+All saints are welcome to join the&nbsp;love feast. Let's take this opportunity to cherish one another while enjoying mutual fellowship. The&nbsp;love feast&nbsp;will be&nbsp;followed&nbsp;by the monthly&nbsp;coordination meeting&nbsp;for those who wish to join.</p>
 </blockquote>
 
-<p><span>2.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
+<p><span>2. SPECIAL FELLOWSHIP&nbsp;REGARDING SCTC</span></p>
+
+<blockquote>
+<p>Date: 10 August 2025 (after prophesying meeting)<br>
+We will have a time of fellowship and a report regarding the <em>Sydney Conference and Training Centre</em> (SCTC) project after the prophesying meeting on the 10th of August.&nbsp;All saints are encouraged to attend.</p>
+</blockquote>
+
+<p><span>3.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
 
 <blockquote>
 <p><strong>English speaking - Friday 7pm</strong><br>
 Northside: Kaleen House<br>
 Southside: Billy and Len's place (Banks)<br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
-Venue: Lyons House<br>
+Venue: Ming and Nadia's House (Palmerston)<br>
 <br>
-<strong>Topic: </strong>Maintaining the One Accord by the Three Substances of the Power in the Lord's Recovery- Prayer, the Spirit and the Word</p>
+<strong>Topic: </strong>The Resurrected, Ascended, and All-inclusive Christ</p>
 </blockquote>
 
-<p><span>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
+<p><span>4. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 3:&nbsp;commencing Monday<br>
+<p>Week 4:&nbsp;commencing Monday<br>
 HWMR Title: One Accord and Crucial Aspects of the Book of Acts<br>
-Week 3&nbsp;Title:&nbsp;Maintaining the One Accord by the Three Substances of the Power in the Lord's Recovery- Prayer, the Spirit and the Word</p>
+Week 4&nbsp;Title:&nbsp;The Resurrected, Ascended, and All-inclusive Christ</p>
 </blockquote>
 
-<p><font><span>4. LIFE STUDY PURSUIT</span></font></p>
+<p><font><span>5. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of Matthew&nbsp;message 51&nbsp;and 52</p>
+<p>Life Study of Matthew&nbsp;message 53&nbsp;and 54</p>
 </blockquote>
 
-<p><font><span>5. OFFERING FOR SYDNEY CONFERENCE AND TRAINING CENTRE</span></font></p>
+<p><font><span>6. OFFERING FOR SYDNEY CONFERENCE AND TRAINING CENTRE</span></font></p>
 
 <blockquote>
 <p>Those burdened&nbsp;to offer to the Sydney Conference and Training Centre project can offer directly to the Church in Sydney building account using the below details. Please ensure the reference 'SCTC - Canberra' is used.<br>
@@ -154,6 +159,13 @@ Deadline: 29 June&nbsp;</span>2025</font></p>
 Registration: <a href="https://docs.google.com/forms/d/e/1FAIpQLSfm-4lXLREPkskizegHM5BwbWGQ4UCrT0S7EaXXbtWhVLbBTg/viewform" target="_blank">click here</a></span></font></p>
 </blockquote>
 
+<p><font><font><span>3.&nbsp; CANBERRA&nbsp;BLENDING CONFERENCE</span></font></font></p>
+
+<blockquote>
+<p><font><span>Dates: 13-14 September 2025<br>
+Registration and details: coming soon</span></font></p>
+</blockquote>
+
                         </td>
                     </tr>
                 </tbody></table>
@@ -178,7 +190,7 @@ Registration: <a href="https://docs.google.com/forms/d/e/1FAIpQLSfm-4lXLREPkskiz
                             <p><span><u>AUDIO&nbsp;AND VIDEO RECORDINGS&nbsp;FROM RECENT TRAININGS AND CONFERENCES</u>&nbsp;</span><br>
 &nbsp;</p>
 
-<p><span>1. National Serving Ones Training&nbsp;(NSOT) June&nbsp;2025</span></p>
+<p><span>1. NATIONAL SERVING ONES TRAINING&nbsp;(NSOT) JUNE&nbsp;2025</span></p>
 
 <blockquote>
 <p>General Subject:&nbsp;One Accord and Crucial Aspects of the Book of Acts<br>
@@ -207,14 +219,19 @@ The recorded messages are ready for download: <a href="https://drive.google.com/
                         <td>
                         
                             <p><a href="http://INTERNATIONAL ANNOUNCEMENTS" target="_blank"><u><span>INTERNATIONAL ANNOUNCEMENTS</span></u></a><br>
-<br>
-<span>1.&nbsp;Report regarding the Lord's move in Central and Eastern Europe and the Balkans (CEEB).</span></p>
+&nbsp;</p>
+
+<p><span>1.&nbsp;GOSPEL TRIPS TO GERMAN-SPEAKING COUNTRIES</span></p>
 
 <blockquote>
-<p>The link below concerns the Lord's move in CEEB. Work will begin on translating the NT into Czech and Slovak. The church in Canberra will offer $5,000 to support the translation work.<br>
-Report:&nbsp;<a href="https://churchesceeb.org/reports/2024-reports-english/" target="_blank">click here</a><br>
-<br>
-<span>Update&nbsp;regarding the New Testament Recovery Version translation into Czech and Slovak,&nbsp;<a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/78b27a9c-d420-9566-c006-7c3a38b93005/Update_on_New_Testament_Recovery_versio_tramslationn_into_the_Slovak_and_Czech_languages_.01.pdf" target="_blank">click here</a></span></p>
+<p>During the report on Europe given at the 2025 June Semi-annual Training in Anaheim an invitation was made to all the saints to participate in gospel trips in German-speaking countries—Germany, Switzerland, and Austria—on October 5 through 19 for the purpose of contacting university students. An invitation letter, and further details,&nbsp;are&nbsp;available <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/629a2ea1-4087-52f5-963d-44388180ffac/Gospel_trips_to_German_speaking_countiries_7_2025.pdf" target="_blank">here</a>.&nbsp;</p>
+</blockquote>
+
+<p><span>2.&nbsp;SPRING NATIONAL&nbsp;SISTERS’ TRAINING (NZ)</span></p>
+
+<blockquote>
+<p><font><span>Dates: 5&nbsp;- 7&nbsp;September 2025<br>
+Details: <a href="https://nztc.ac.nz/sisters-training/" target="_blank">click here</a></span></font>.&nbsp;</p>
 </blockquote>
 
                         </td>
@@ -356,7 +373,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13896697" target="_blank">Announcement 13/07/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13896544" target="_blank">Announcement 06/07/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13896388" target="_blank">Announcement 29/06/2025</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13896839" target="_blank">Announcement 20/07/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13896697" target="_blank">Announcement 13/07/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13896544" target="_blank">Announcement 06/07/2025</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
