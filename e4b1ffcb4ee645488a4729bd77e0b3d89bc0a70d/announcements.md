@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>27th&nbsp;July&nbsp;2025</span></strong></p>
+<strong><span>3rd August&nbsp;2025</span></strong></p>
 </div>
 
                         </td>
@@ -59,55 +59,37 @@ nofollow: true
                         
                         <td>
                         
-                            <p><span>1. LOVEFEAST AT THE HALL&nbsp;(FOLLOWED BY COORDINATION MEETING)</span></p>
-
-<blockquote>
-<p>Date: Today<br>
-All saints are welcome to join the&nbsp;love feast. Let's take this opportunity to cherish one another while enjoying mutual fellowship. The&nbsp;love feast&nbsp;will be&nbsp;followed&nbsp;by the monthly&nbsp;coordination meeting&nbsp;for those who wish to join.</p>
-</blockquote>
-
-<p><span>2. SPECIAL FELLOWSHIP&nbsp;REGARDING SCTC</span></p>
+                            <p><span>1. SPECIAL FELLOWSHIP&nbsp;REGARDING SCTC</span></p>
 
 <blockquote>
 <p>Date: 10 August 2025 (after prophesying meeting)<br>
 We will have a time of fellowship and a report regarding the <em>Sydney Conference and Training Centre</em> (SCTC) project after the prophesying meeting on the 10th of August.&nbsp;All saints are encouraged to attend.</p>
 </blockquote>
 
-<p><span>3.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
+<p><span>2.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
 
 <blockquote>
 <p><strong>English speaking - Friday 7pm</strong><br>
-Northside: Kaleen House<br>
-Southside: Billy and Len's place (Banks)<br>
+Northside: Mark &amp; Yashan's&nbsp;Place<br>
+Southside: Lyon's House&nbsp;<br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
-Venue: Ming and Nadia's House (Palmerston)<br>
+Venue: Victor&nbsp;and Bing's House (Lyons)<br>
 <br>
-<strong>Topic: </strong>The Resurrected, Ascended, and All-inclusive Christ</p>
+<strong>Topic: </strong>Keeping Ourselves in the One Flow of the Lord's Work for the Spreading of the Church and Receiving the Lord's Mercy to Be Saved from Satan's Schemes</p>
 </blockquote>
 
-<p><span>4. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
+<p><span>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 4:&nbsp;commencing Monday<br>
+<p>Week 5:&nbsp;commencing Monday<br>
 HWMR Title: One Accord and Crucial Aspects of the Book of Acts<br>
-Week 4&nbsp;Title:&nbsp;The Resurrected, Ascended, and All-inclusive Christ</p>
+Week 5&nbsp;Title:&nbsp;Keeping Ourselves in the One Flow of the Lord's Work for the Spreading of the Church and Receiving the Lord's Mercy to Be Saved from Satan's Scheme</p>
 </blockquote>
 
-<p><font><span>5. LIFE STUDY PURSUIT</span></font></p>
+<p><font><span>4. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of Matthew&nbsp;message 53&nbsp;and 54</p>
-</blockquote>
-
-<p><font><span>6. OFFERING FOR SYDNEY CONFERENCE AND TRAINING CENTRE</span></font></p>
-
-<blockquote>
-<p>Those burdened&nbsp;to offer to the Sydney Conference and Training Centre project can offer directly to the Church in Sydney building account using the below details. Please ensure the reference 'SCTC - Canberra' is used.<br>
-<br>
-Account name: Church in Sydney Building Account<br>
-BSB:&nbsp;032-282<br>
-Account No.: 39-3426<br>
-Transaction reference:&nbsp;SCTC - Canberra</p>
+<p>Life Study of Matthew&nbsp;message 55&nbsp;and 56</p>
 </blockquote>
 
                         </td>
@@ -142,17 +124,7 @@ Venue: Canberra Meeting Hall &amp; Wagga<br>
 Details: <a href="https://form.jotform.com/251642798837877" target="_blank">click here</a></span></font></p>
 </blockquote>
 
-<p><font><font><span>2. CAIRNS&nbsp;BLENDING CONFERENCE</span></font></font></p>
-
-<blockquote>
-<p><font><span>Dates: 25 -&nbsp;27 July&nbsp;2025<br>
-Venue: Ramada Hotel<br>
-Cost:&nbsp;$370.00 *AUD per person (inclusive of 2 nights' accommodation and meals). The two nights' accommodation will be for Friday and Saturday&nbsp; (25 &amp; 26 July). *5-12 years old $185 **4 years old and below&nbsp;<br>
-Registration:<a href="http:// https://forms.gle/EtSgPQDJogjMF5FH8" target="_blank"> </a><a href="https://docs.google.com/forms/d/e/1FAIpQLSd34SFMAtRoXwNSzzZMeHNLMx9j5zXeN_G7Edmnh3vclmI9Lw/viewform" target="_blank">click here</a><br>
-Deadline: 29 June&nbsp;</span>2025</font></p>
-</blockquote>
-
-<p><font><font><span>3.&nbsp; SOLOMON ISLANDS BLENDING CONFERENCE &amp; FIRST TABLE MEETING</span></font></font></p>
+<p><font><font><span>2.&nbsp; SOLOMON ISLANDS BLENDING CONFERENCE &amp; FIRST TABLE MEETING</span></font></font></p>
 
 <blockquote>
 <p><font><span>Dates: 29&nbsp;- 31&nbsp;August 2025<br>
@@ -279,19 +251,20 @@ Zoom: <a href="https://us02web.zoom.us/j/88413747323?pwd=K041K1BPU0gvVlpMOXdOaTM
 Burden: The the bible distribution work throughout Australia.<br>
 <br>
 <u><strong>High School service</strong></u><br>
-Thursday 9:00 pm&nbsp;on church in Canberra zoom.<br>
+Tuesday&nbsp;9:30&nbsp;pm&nbsp;on church in Canberra zoom.<br>
+(moved to Tuesday 9:30 during video training)<br>
 Burden: Our high-schoolers and the LD HS meeting.<br>
 <br>
 <u><strong>Migration and Europe</strong></u><br>
-Saturday 8:45&nbsp;pm&nbsp;on church in Canberra zoom.<br>
+Lord's Day 8:45&nbsp;pm&nbsp;on church in Canberra zoom.<br>
 Burden: (1) To pray that the Lord would open the way for migration in Australia. (2) The Lord's move in Europe and the upcoming gospel trips in Italy.</p>
 </blockquote>
 
 <p><span>C. COORDINATION MEETING&nbsp;</span></p>
 
 <blockquote>
-<p>Next Meeting: 27 July 2025<br>
-Book: Tree of Life - Message 10<br>
+<p>Next Meeting: TBC<br>
+Book: Tree of Life - Message 11<br>
 Future Dates: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/caf880c7-9e17-1d97-a079-9cd34e5a13f9/Coordination_Meeting_Schedule_2025.01.pdf" target="_blank">click here</a><br>
 <br>
 This&nbsp;meeting&nbsp;is open to saints serving (or endeavouring to serve) and is predominantly a time to enjoy the Lord so that we may be built up together in our service. There will be Zoom available for those who cannot join physically.</p>
@@ -373,7 +346,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13896839" target="_blank">Announcement 20/07/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13896697" target="_blank">Announcement 13/07/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13896544" target="_blank">Announcement 06/07/2025</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13896983" target="_blank">Announcement 27/07/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13896839" target="_blank">Announcement 20/07/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13896697" target="_blank">Announcement 13/07/2025</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
