@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>3rd August&nbsp;2025</span></strong></p>
+<strong><span>10th August&nbsp;2025</span></strong></p>
 </div>
 
                         </td>
@@ -70,26 +70,26 @@ We will have a time of fellowship and a report regarding the <em>Sydney Conferen
 
 <blockquote>
 <p><strong>English speaking - Friday 7pm</strong><br>
-Northside: Mark &amp; Yashan's&nbsp;Place<br>
-Southside: Lyon's House&nbsp;<br>
+Northside: Kaleen House<br>
+Southside: Steer's House (Banks)<br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
-Venue: Victor&nbsp;and Bing's House (Lyons)<br>
+Venue: Ming and Nadia's House (Palmerston)<br>
 <br>
-<strong>Topic: </strong>Keeping Ourselves in the One Flow of the Lord's Work for the Spreading of the Church and Receiving the Lord's Mercy to Be Saved from Satan's Schemes</p>
+<strong>Topic: </strong>Grace in Acts</p>
 </blockquote>
 
 <p><span>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 5:&nbsp;commencing Monday<br>
+<p>Week 6:&nbsp;commencing Monday<br>
 HWMR Title: One Accord and Crucial Aspects of the Book of Acts<br>
-Week 5&nbsp;Title:&nbsp;Keeping Ourselves in the One Flow of the Lord's Work for the Spreading of the Church and Receiving the Lord's Mercy to Be Saved from Satan's Scheme</p>
+Week 6&nbsp;Title:&nbsp;Grace in Acts</p>
 </blockquote>
 
 <p><font><span>4. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of Matthew&nbsp;message 55&nbsp;and 56</p>
+<p>Life Study of Matthew&nbsp;message 57&nbsp;and 58</p>
 </blockquote>
 
                         </td>
@@ -131,11 +131,18 @@ Details: <a href="https://form.jotform.com/251642798837877" target="_blank">clic
 Registration: <a href="https://docs.google.com/forms/d/e/1FAIpQLSfm-4lXLREPkskizegHM5BwbWGQ4UCrT0S7EaXXbtWhVLbBTg/viewform" target="_blank">click here</a></span></font></p>
 </blockquote>
 
+<p><font><font><span>3.&nbsp; ONE DAY OF FELLOWSHIP FOR PARENTS &amp; SERVING ONES</span></font></font></p>
+
+<blockquote>
+<p><font><span>Dates: 30 August 2025 (Saturday)&nbsp;<br>
+Registration and details: <a href="http://churchinsydney.org/psoc" target="_blank">click here</a></span></font></p>
+</blockquote>
+
 <p><font><font><span>3.&nbsp; CANBERRA&nbsp;BLENDING CONFERENCE</span></font></font></p>
 
 <blockquote>
 <p><font><span>Dates: 13-14 September 2025<br>
-Registration and details: coming soon</span></font></p>
+Registration and details: <a href="https://render.jotform.com/252072888512865" target="_blank">click here</a></span></font></p>
 </blockquote>
 
                         </td>
@@ -346,7 +353,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13896983" target="_blank">Announcement 27/07/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13896839" target="_blank">Announcement 20/07/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13896697" target="_blank">Announcement 13/07/2025</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13897163" target="_blank">Announcement 03/08/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13896983" target="_blank">Announcement 27/07/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13896839" target="_blank">Announcement 20/07/2025</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
