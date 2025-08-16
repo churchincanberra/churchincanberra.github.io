@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>10th August&nbsp;2025</span></strong></p>
+<strong><span>17th August&nbsp;2025</span></strong></p>
 </div>
 
                         </td>
@@ -59,11 +59,13 @@ nofollow: true
                         
                         <td>
                         
-                            <p><span>1. SPECIAL FELLOWSHIP&nbsp;REGARDING SCTC</span></p>
+                            <p><span>1. LOVEFEAST AND CANBERRA CONFERENCE COORDINATION</span></p>
 
 <blockquote>
-<p>Date: 10 August 2025 (after prophesying meeting)<br>
-We will have a time of fellowship and a report regarding the <em>Sydney Conference and Training Centre</em> (SCTC) project after the prophesying meeting on the 10th of August.&nbsp;All saints are encouraged to attend.</p>
+<p>Date: &nbsp;24 August &amp; 7 September 2025<br>
+Venue:&nbsp;Meeting&nbsp;Hall (after prophesying&nbsp;meeting)<br>
+<br>
+All saints are welcome to join the&nbsp;love feast and coordination meeting as we prepare for the Canberra conference.</p>
 </blockquote>
 
 <p><span>2.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
@@ -71,25 +73,25 @@ We will have a time of fellowship and a report regarding the <em>Sydney Conferen
 <blockquote>
 <p><strong>English speaking - Friday 7pm</strong><br>
 Northside: Kaleen House<br>
-Southside: Steer's House (Banks)<br>
+Southside: Lyons&nbsp;House (Banks)<br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
-Venue: Ming and Nadia's House (Palmerston)<br>
+Venue: Victor and Bing's place (Lyons)<br>
 <br>
-<strong>Topic: </strong>Grace in Acts</p>
+<strong>Topic: </strong>Continuing to Live in the Divine History within Human History in the Continuation of the Book of Acts for the Spreading and Building Up of the Church as the Corporate Manifestation of Christ&nbsp;</p>
 </blockquote>
 
 <p><span>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 6:&nbsp;commencing Monday<br>
+<p>Week 7:&nbsp;commencing Monday<br>
 HWMR Title: One Accord and Crucial Aspects of the Book of Acts<br>
-Week 6&nbsp;Title:&nbsp;Grace in Acts</p>
+Week 7&nbsp;Title:&nbsp;Continuing to Live in the Divine History within Human History in the Continuation of the Book of Acts for the Spreading and Building Up of the Church as the Corporate Manifestation of Christ&nbsp;</p>
 </blockquote>
 
 <p><font><span>4. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of Matthew&nbsp;message 57&nbsp;and 58</p>
+<p>Life Study of Matthew&nbsp;message 59&nbsp;and 60</p>
 </blockquote>
 
                         </td>
@@ -138,10 +140,11 @@ Registration: <a href="https://docs.google.com/forms/d/e/1FAIpQLSfm-4lXLREPkskiz
 Registration and details: <a href="http://churchinsydney.org/psoc" target="_blank">click here</a></span></font></p>
 </blockquote>
 
-<p><font><font><span>3.&nbsp; CANBERRA&nbsp;BLENDING CONFERENCE</span></font></font></p>
+<p><font><font><span>4.&nbsp; CANBERRA&nbsp;BLENDING CONFERENCE</span></font></font></p>
 
 <blockquote>
 <p><font><span>Dates: 13-14 September 2025<br>
+Deadline of Registration: 1 September 2025<br>
 Registration and details: <a href="https://render.jotform.com/252072888512865" target="_blank">click here</a></span></font></p>
 </blockquote>
 
@@ -270,8 +273,8 @@ Burden: (1) To pray that the Lord would open the way for migration in Australia.
 <p><span>C. COORDINATION MEETING&nbsp;</span></p>
 
 <blockquote>
-<p>Next Meeting: TBC<br>
-Book: Tree of Life - Message 11<br>
+<p>Next Meeting: 24 August &amp; 7 September 2025<br>
+Prayer, Fellowship and Coordination for Canberra Conference<br>
 Future Dates: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/caf880c7-9e17-1d97-a079-9cd34e5a13f9/Coordination_Meeting_Schedule_2025.01.pdf" target="_blank">click here</a><br>
 <br>
 This&nbsp;meeting&nbsp;is open to saints serving (or endeavouring to serve) and is predominantly a time to enjoy the Lord so that we may be built up together in our service. There will be Zoom available for those who cannot join physically.</p>
@@ -353,7 +356,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13897163" target="_blank">Announcement 03/08/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13896983" target="_blank">Announcement 27/07/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13896839" target="_blank">Announcement 20/07/2025</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13897302" target="_blank">Announcement 10/08/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13897163" target="_blank">Announcement 03/08/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13896983" target="_blank">Announcement 27/07/2025</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
