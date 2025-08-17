@@ -759,14 +759,14 @@
   description: 'Prepare for Canberra Blending Conference'
   category: Local
   singular: true
-  date: '2025-09-14'
+  date: '2025-08-24'
   location: 'Canberra, ACT, Australia'
 - id: loc20250921
   name: Coordination Meeting
   description: 'Prepare for Canberra Blending Conference'
   category: Local
   singular: true
-  date: '2025-09-21'
+  date: '2025-09-07'
   location: 'Canberra, ACT, Australia'
 - id: loc20251026
   name: Coordination Meeting
