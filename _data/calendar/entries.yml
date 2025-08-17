@@ -754,13 +754,6 @@
   singular: true
   date: '2025-07-27'
   location: 'Canberra, ACT, Australia'
-- id: loc20250817
-  name: Coordination Meeting
-  description: 'Video Training'
-  category: Local
-  singular: true
-  date: '2025-08-17'
-  location: 'Canberra, ACT, Australia'
 - id: loc20250914
   name: Coordination Meeting
   description: 'Prepare for Canberra Blending Conference'
