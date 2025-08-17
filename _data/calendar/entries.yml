@@ -585,21 +585,7 @@
   category: National
   singular: true
   date: '2025-08-30'
-  location: TBD
-- id: nat20250831
-  name: Parents' and Serving Ones' Conference
-  description: ''
-  category: National
-  singular: true
-  date: '2025-08-31'
-  location: TBD
-- id: nat20250829
-  name: Teachers' Training
-  description: ''
-  category: National
-  singular: true
-  date: '2025-08-29'
-  location: TBD
+  location: 'Sydney, Australia'
 - id: nat20251019
   name: Biannual Perfecting Training
   description: ''
