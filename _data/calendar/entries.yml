@@ -334,6 +334,27 @@
   singular: true
   date: '2025-07-25'
   location: 'Cairns, QLD, Australia'
+- id: regsol20250726
+  name: Solomon Islands Blending Conference
+  description: ''
+  category: Regional
+  singular: true
+  date: '2025-08-29'
+  location: 'Honiara, Solomon Islands'
+- id: regsol20250727
+  name: Solomon Islands Blending Conference
+  description: ''
+  category: Regional
+  singular: true
+  date: '2025-08-30'
+  location: 'Honiara, Solomon Islands'
+- id: regsol20250725
+  name: Solomon Islands Blending Conference
+  description: ''
+  category: Regional
+  singular: true
+  date: '2025-08-31'
+  location: 'Honiara, Solomon Islands'
 - id: regper20250426
   name: Perth Blending Conference
   description: ''
