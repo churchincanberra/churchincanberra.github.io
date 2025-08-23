@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>17th August&nbsp;2025</span></strong></p>
+<strong><span>24th August&nbsp;2025</span></strong></p>
 </div>
 
                         </td>
@@ -72,26 +72,26 @@ All saints are welcome to join the&nbsp;love feast and coordination meeting as w
 
 <blockquote>
 <p><strong>English speaking - Friday 7pm</strong><br>
-Northside: Kaleen House<br>
-Southside: Lyons&nbsp;House (Banks)<br>
+Northside: Brother Mark's place<br>
+Southside: Zi and April's place&nbsp;(Phillip)<br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
-Venue: Victor and Bing's place (Lyons)<br>
+Venue: Ming&nbsp;and Nadia's place (Palmerston)<br>
 <br>
-<strong>Topic: </strong>Continuing to Live in the Divine History within Human History in the Continuation of the Book of Acts for the Spreading and Building Up of the Church as the Corporate Manifestation of Christ&nbsp;</p>
+<strong>Topic: </strong>The Divine Trinity&nbsp;and the Kingdom of God</p>
 </blockquote>
 
 <p><span>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 7:&nbsp;commencing Monday<br>
+<p>Week 8:&nbsp;commencing Monday<br>
 HWMR Title: One Accord and Crucial Aspects of the Book of Acts<br>
-Week 7&nbsp;Title:&nbsp;Continuing to Live in the Divine History within Human History in the Continuation of the Book of Acts for the Spreading and Building Up of the Church as the Corporate Manifestation of Christ&nbsp;</p>
+Week 8&nbsp;Title:&nbsp;The Divine Trinity&nbsp;and the Kingdom of God</p>
 </blockquote>
 
 <p><font><span>4. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of Matthew&nbsp;message 59&nbsp;and 60</p>
+<p>Life Study of Matthew&nbsp;message 61&nbsp;and 62</p>
 </blockquote>
 
                         </td>
@@ -117,30 +117,21 @@ Week 7&nbsp;Title:&nbsp;Continuing to Live in the Divine History within Human Hi
                         
                             <p><span><u>TRAINING &amp; CONFERENCES</u>&nbsp;</span></p>
 
-<p><font><font><span>1. CANBERRA VIDEO TRAINING</span></font></font></p>
-
-<blockquote>
-<p><font><span>Title:&nbsp;Experiencing, Enjoying, and Expressing Christ (3)<br>
-Dates: 20&nbsp;July&nbsp;- 17&nbsp;Aug&nbsp;2025<br>
-Venue: Canberra Meeting Hall &amp; Wagga<br>
-Details: <a href="https://form.jotform.com/251642798837877" target="_blank">click here</a></span></font></p>
-</blockquote>
-
-<p><font><font><span>2.&nbsp; SOLOMON ISLANDS BLENDING CONFERENCE &amp; FIRST TABLE MEETING</span></font></font></p>
+<p><font><font><span>1.&nbsp; SOLOMON ISLANDS BLENDING CONFERENCE &amp; FIRST TABLE MEETING</span></font></font></p>
 
 <blockquote>
 <p><font><span>Dates: 29&nbsp;- 31&nbsp;August 2025<br>
 Registration: <a href="https://docs.google.com/forms/d/e/1FAIpQLSfm-4lXLREPkskizegHM5BwbWGQ4UCrT0S7EaXXbtWhVLbBTg/viewform" target="_blank">click here</a></span></font></p>
 </blockquote>
 
-<p><font><font><span>3.&nbsp; ONE DAY OF FELLOWSHIP FOR PARENTS &amp; SERVING ONES</span></font></font></p>
+<p><font><font><span>2.&nbsp; ONE DAY OF FELLOWSHIP FOR PARENTS &amp; SERVING ONES</span></font></font></p>
 
 <blockquote>
 <p><font><span>Dates: 30 August 2025 (Saturday)&nbsp;<br>
 Registration and details: <a href="http://churchinsydney.org/psoc" target="_blank">click here</a></span></font></p>
 </blockquote>
 
-<p><font><font><span>4.&nbsp; CANBERRA&nbsp;BLENDING CONFERENCE</span></font></font></p>
+<p><font><font><span>3.&nbsp; CANBERRA&nbsp;BLENDING CONFERENCE</span></font></font></p>
 
 <blockquote>
 <p><font><span>Dates: 13-14 September 2025<br>
@@ -213,7 +204,9 @@ The recorded messages are ready for download: <a href="https://drive.google.com/
 
 <blockquote>
 <p><font><span>Dates: 5&nbsp;- 7&nbsp;September 2025<br>
-Details: <a href="https://nztc.ac.nz/sisters-training/" target="_blank">click here</a></span></font>.&nbsp;</p>
+Details: <a href="https://nztc.ac.nz/sisters-training/" target="_blank">click here</a></span></font>.&nbsp;<br>
+<br>
+For sisters who would like gather together in the meeting hall for sessions 3 and 4 please fill up the form <a href="https://form.jotform.com/252343250914855" target="_blank">here</a></p>
 </blockquote>
 
                         </td>
@@ -261,8 +254,7 @@ Zoom: <a href="https://us02web.zoom.us/j/88413747323?pwd=K041K1BPU0gvVlpMOXdOaTM
 Burden: The the bible distribution work throughout Australia.<br>
 <br>
 <u><strong>High School service</strong></u><br>
-Tuesday&nbsp;9:30&nbsp;pm&nbsp;on church in Canberra zoom.<br>
-(moved to Tuesday 9:30 during video training)<br>
+Thursday&nbsp;9pm&nbsp;on church in Canberra zoom.<br>
 Burden: Our high-schoolers and the LD HS meeting.<br>
 <br>
 <u><strong>Migration and Europe</strong></u><br>
@@ -356,7 +348,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13897302" target="_blank">Announcement 10/08/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13897163" target="_blank">Announcement 03/08/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13896983" target="_blank">Announcement 27/07/2025</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13897446" target="_blank">Announcement 17/08/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13897302" target="_blank">Announcement 10/08/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13897163" target="_blank">Announcement 03/08/2025</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
