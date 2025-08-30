@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>24th August&nbsp;2025</span></strong></p>
+<strong><span>31st August&nbsp;2025</span></strong></p>
 </div>
 
                         </td>
@@ -62,7 +62,7 @@ nofollow: true
                             <p><span>1. LOVEFEAST AND CANBERRA CONFERENCE COORDINATION</span></p>
 
 <blockquote>
-<p>Date: &nbsp;24 August &amp; 7 September 2025<br>
+<p>Date: &nbsp;7 September 2025<br>
 Venue:&nbsp;Meeting&nbsp;Hall (after prophesying&nbsp;meeting)<br>
 <br>
 All saints are welcome to join the&nbsp;love feast and coordination meeting as we prepare for the Canberra conference.</p>
@@ -72,26 +72,27 @@ All saints are welcome to join the&nbsp;love feast and coordination meeting as w
 
 <blockquote>
 <p><strong>English speaking - Friday 7pm</strong><br>
-Northside: Brother Mark's place<br>
-Southside: Zi and April's place&nbsp;(Phillip)<br>
+Northside: Kaleen&nbsp;House<br>
+Southside: Billy&nbsp;and Len's place&nbsp;(Banks)<br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
-Venue: Ming&nbsp;and Nadia's place (Palmerston)<br>
+Venue: Victor&nbsp;and Bing's place (Lyons)<br>
 <br>
-<strong>Topic: </strong>The Divine Trinity&nbsp;and the Kingdom of God</p>
+<strong>Topic: </strong>Material Offerings and the Lord's Move Today</p>
 </blockquote>
 
 <p><span>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 8:&nbsp;commencing Monday<br>
-HWMR Title: One Accord and Crucial Aspects of the Book of Acts<br>
-Week 8&nbsp;Title:&nbsp;The Divine Trinity&nbsp;and the Kingdom of God</p>
+<p>Week 1:&nbsp;commencing Monday<br>
+HWMR Title: Material Offerings and the Lord's Move Today<br>
+Additional HWMR: The Preparation of the Bride<br>
+Week 1&nbsp;Title:&nbsp;Material Offerings and the Lord's Move Today</p>
 </blockquote>
 
 <p><font><span>4. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of Matthew&nbsp;message 61&nbsp;and 62</p>
+<p>Life Study of Matthew&nbsp;message 63&nbsp;and 64</p>
 </blockquote>
 
                         </td>
@@ -124,14 +125,7 @@ Week 8&nbsp;Title:&nbsp;The Divine Trinity&nbsp;and the Kingdom of God</p>
 Registration: <a href="https://docs.google.com/forms/d/e/1FAIpQLSfm-4lXLREPkskizegHM5BwbWGQ4UCrT0S7EaXXbtWhVLbBTg/viewform" target="_blank">click here</a></span></font></p>
 </blockquote>
 
-<p><font><font><span>2.&nbsp; ONE DAY OF FELLOWSHIP FOR PARENTS &amp; SERVING ONES</span></font></font></p>
-
-<blockquote>
-<p><font><span>Dates: 30 August 2025 (Saturday)&nbsp;<br>
-Registration and details: <a href="http://churchinsydney.org/psoc" target="_blank">click here</a></span></font></p>
-</blockquote>
-
-<p><font><font><span>3.&nbsp; CANBERRA&nbsp;BLENDING CONFERENCE</span></font></font></p>
+<p><font><font><span>2.&nbsp; CANBERRA&nbsp;BLENDING CONFERENCE</span></font></font></p>
 
 <blockquote>
 <p><font><span>Dates: 13-14 September 2025<br>
@@ -265,7 +259,7 @@ Burden: (1) To pray that the Lord would open the way for migration in Australia.
 <p><span>C. COORDINATION MEETING&nbsp;</span></p>
 
 <blockquote>
-<p>Next Meeting: 24 August &amp; 7 September 2025<br>
+<p>Next Meeting: 7 September 2025<br>
 Prayer, Fellowship and Coordination for Canberra Conference<br>
 Future Dates: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/caf880c7-9e17-1d97-a079-9cd34e5a13f9/Coordination_Meeting_Schedule_2025.01.pdf" target="_blank">click here</a><br>
 <br>
@@ -348,7 +342,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13897446" target="_blank">Announcement 17/08/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13897302" target="_blank">Announcement 10/08/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13897163" target="_blank">Announcement 03/08/2025</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13897584" target="_blank">Announcement 24/08/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13897446" target="_blank">Announcement 17/08/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13897302" target="_blank">Announcement 10/08/2025</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
