@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>21st September&nbsp;2025</span></strong></p>
+<strong><span>28th September&nbsp;2025</span></strong></p>
 </div>
 
                         </td>
@@ -63,14 +63,25 @@ nofollow: true
 
 <blockquote>
 <p><strong>English speaking - Friday 7pm</strong><br>
-Northside: Kaleen House<br>
-Southside: Lyons House<br>
+Northside: Mark and Yashan's house (Kaleen)<br>
+Southside: Steer's house (Banks)<br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
-Venue: Nadia and Ming's place (Palmerston)<br>
-<strong>Topic: </strong>Principles of Material Offerings (4)</p>
+Venue: Victor and Bing's house (Lyons)<br>
+<strong>Topic: </strong>Principles of Material Offerings (3)</p>
 </blockquote>
 
-<p><span>2.&nbsp;Pledge Offering for Sydney Conference &amp; TRAINING Centre (SCTC)</span></p>
+<p><span>2.&nbsp;LOVEFEAST&nbsp;AT THE HALL &amp; CHANGE OF&nbsp;COORDINATION MEETING DATE</span></p>
+
+<blockquote>
+<p>Date:&nbsp; 5&nbsp;October 2025<br>
+Venue:&nbsp;Meeting&nbsp;Hall (after prophesying&nbsp;meeting)<br>
+<br>
+All saints are welcome to join the&nbsp;love feast. Let's take this opportunity to cherish one another while enjoying mutual fellowship. The&nbsp;love feast&nbsp;will be followed by the monthly&nbsp;coordination meeting&nbsp;for those who wish to join.&nbsp;<br>
+<br>
+<strong><em>All saints who served&nbsp;during the Canberra Conference are encouraged to attend the coordination meeting as we will have some review of the practical services at the conference.</em></strong></p>
+</blockquote>
+
+<p><span>3.&nbsp;PLEDGE OFFERING FOR SYDNEY CONFERENCE &amp; TRAINING CENTRE&nbsp;</span><span>(SCTC)</span></p>
 
 <blockquote>
 <p>The Church in Canberra will participate in offering towards the&nbsp;renovation of the SCTC. We strongly encourage the saints to go before the Lord to seize the opportunity to&nbsp;participate in this project. Either&nbsp;use the online form (see link below)&nbsp;or a&nbsp;physical&nbsp;form in the meeting hall to pledge. Please complete the form on or before 7th of September 2025 and take note of the offering account details, dates and deadline<br>
@@ -78,20 +89,20 @@ Venue: Nadia and Ming's place (Palmerston)<br>
 Pledge form:&nbsp;<a href="https://www.churchincanberra.org/sctc-pledge/" target="_blank">Click Here</a></p>
 </blockquote>
 
-<p><span>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
+<p><span>4. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
 <p>Week 4:&nbsp;commencing Monday<br>
 HWMR Title: Material Offerings and the Lord's Move Today<br>
-Week 4&nbsp;Title:&nbsp;Principles of Material Offerings (4)<br>
+Week 4&nbsp;Title:&nbsp;Principles of Material Offerings (3)<br>
 Additional HWMR: The Preparation of the Bride<br>
-Week 4 Title:&nbsp;The Beauty of the Bride</p>
+Week 4 Title:&nbsp;The Righteousness of the Bride</p>
 </blockquote>
 
-<p><font><span>4. LIFE STUDY PURSUIT</span></font></p>
+<p><font><span>5. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of Matthew&nbsp;message 69&nbsp;and 70</p>
+<p>Life Study of Matthew&nbsp;message 71&nbsp;and 72</p>
 </blockquote>
 
                         </td>
@@ -121,9 +132,8 @@ Week 4 Title:&nbsp;The Beauty of the Bride</p>
 
 <blockquote>
 <p><font><span>Dates: 19-20 October 2025<br>
-Location: The Church in Melbourne Meeting Hall<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.google.com/maps/place/12+Northern+Rd,+Heidelberg+West+VIC+3081/@-37.7293162,145.0420253,17z/data=!3m1!4b1!4m5!3m4!1s0x6ad645de0ce18fcb:0xf94563aa430a4d15!8m2!3d-37.7293162!4d145.0446002?entry=ttu&amp;g_ep=EgoyMDI1MDkxNy4wIKXMDSoASAFQAw%3D%3D" target="_blank">12&nbsp;Northern Road, Heidelberg West.</a><br>
-Deadline of Registration: extended to 22 September&nbsp;2025<br>
+Location: The Church in Melbourne Heidelberg Meeting Hall<br>
+Deadline of Registration: past<br>
 Registration and details: <a href="https://form.jotform.com/250312958910860" target="_blank">click here</a><br>
 Saints can also join via Zoom, cluster in the meeting hall. Further details to follow.</span></font></p>
 </blockquote>
@@ -133,7 +143,6 @@ Saints can also join via Zoom, cluster in the meeting hall. Further details to f
 <blockquote>
 <p><font><span>Dates: 7-9 November 2025<br>
 Location: The Church in Brisbane Meeting Hall,<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://www.google.com/maps/place/12+Selhurst+St,+Coopers+Plains+QLD+4108/@-27.5720822,153.0344115,16z/data=!3m1!4b1!4m6!3m5!1s0x6b9145406051a627:0x3ab3748507aa16f5!8m2!3d-27.5720822!4d153.0369864!16s%2Fg%2F11bw3zdn8j?entry=ttu&amp;g_ep=EgoyMDI1MDkxNy4wIKXMDSoASAFQAw%3D%3D" target="_blank"> </a><a href="https://www.google.com/maps/place/12+Selhurst+St,+Coopers+Plains+QLD+4108/@-27.5720822,153.0344115,16z/data=!3m1!4b1!4m6!3m5!1s0x6b9145406051a627:0x3ab3748507aa16f5!8m2!3d-27.5720822!4d153.0369864!16s%2Fg%2F11bw3zdn8j?entry=ttu&amp;g_ep=EgoyMDI1MDkxNy4wIKXMDSoASAFQAw%3D%3D" target="_blank">6 Selhurst Street, Coopers Plains, QLD 4108</a><br>
 Deadline of Registration: 21 October&nbsp;2025<br>
 Registration and details: <a href="https://churchinbrisbane.com/cwf" target="_blank">click here</a></span></font></p>
 </blockquote>
@@ -251,19 +260,19 @@ Zoom: <a href="https://us02web.zoom.us/j/88413747323?pwd=K041K1BPU0gvVlpMOXdOaTM
 Burden: The the bible distribution work throughout Australia.<br>
 <br>
 <u><strong>High School service</strong></u><br>
-Thursday&nbsp;9pm&nbsp;on church in Canberra zoom.<br>
+Thursday&nbsp;9pm using&nbsp;the church in Canberra regular zoom meeting.<br>
 Burden: Our high-schoolers and the LD HS meeting.<br>
 <br>
 <u><strong>Migration and Europe</strong></u><br>
-Lord's Day 8:45&nbsp;pm&nbsp;on church in Canberra zoom.<br>
+Lord's Day 8:45&nbsp;pm using the church in Canberra regular zoom meeting.<br>
 Burden: (1) To pray that the Lord would open the way for migration in Australia. (2) The Lord's move in Europe and the upcoming gospel trips in Italy.</p>
 </blockquote>
 
 <p><span>C. COORDINATION MEETING&nbsp;</span></p>
 
 <blockquote>
-<p>Next Meeting: 26 October&nbsp;2025<br>
-Topic: Tree of Life- Message 11<br>
+<p>Next Meeting: 5 October&nbsp;2025<br>
+Topic: Canberra Conference Review<br>
 Future Dates: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/caf880c7-9e17-1d97-a079-9cd34e5a13f9/Coordination_Meeting_Schedule_2025.01.pdf" target="_blank">click here</a><br>
 <br>
 This&nbsp;meeting&nbsp;is open to saints serving (or endeavouring to serve) and is predominantly a time to enjoy the Lord so that we may be built up together in our service. There will be Zoom available for those who cannot join physically.</p>
@@ -345,7 +354,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13897880" target="_blank">Announcement 07/0/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13897739" target="_blank">Pledge Offering for Sydney Conference & Training Centre (SCTC)</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13897717" target="_blank">Announcement 31/08/2025</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13898229" target="_blank">Announcement 21/09/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13897880" target="_blank">Announcement 07/0/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13897739" target="_blank">Pledge Offering for Sydney Conference & Training Centre (SCTC)</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
