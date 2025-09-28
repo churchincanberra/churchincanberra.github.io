@@ -768,12 +768,12 @@
   singular: true
   date: '2025-09-07'
   location: 'Canberra, ACT, Australia'
-- id: loc20251026
+- id: loc20251012
   name: Coordination Meeting
   description: 'Tree of Life message 11'
   category: Local
   singular: true
-  date: '2025-10-26'
+  date: '2025-10-12'
   location: 'Canberra, ACT, Australia'
 - id: loc20251116
   name: Coordination Meeting
