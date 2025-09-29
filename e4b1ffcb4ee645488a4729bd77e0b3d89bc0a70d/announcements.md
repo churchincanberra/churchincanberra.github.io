@@ -59,7 +59,9 @@ nofollow: true
                         
                         <td>
                         
-                            <p><span>1.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
+                            <p><span><strong><span>Please disregard the announcement email sent earlier today as the below includes numerous&nbsp;updates. Please also see the details for the upcoming National Blending Conference and Summer School of Truth. Registration is due soon,&nbsp;we apologise for the delay in adding this to the weekly announcement.</span></strong><br>
+<br>
+1.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
 
 <blockquote>
 <p><strong>English speaking - Friday 7pm</strong><br>
@@ -73,7 +75,7 @@ Venue: Victor and Bing's house (Lyons)<br>
 <p><span>2.&nbsp;LOVEFEAST&nbsp;AT THE HALL &amp; CHANGE OF&nbsp;COORDINATION MEETING DATE</span></p>
 
 <blockquote>
-<p>Date:&nbsp; 5&nbsp;October 2025<br>
+<p>Date:&nbsp; 12&nbsp;October 2025<br>
 Venue:&nbsp;Meeting&nbsp;Hall (after prophesying&nbsp;meeting)<br>
 <br>
 All saints are welcome to join the&nbsp;love feast. Let's take this opportunity to cherish one another while enjoying mutual fellowship. The&nbsp;love feast&nbsp;will be followed by the monthly&nbsp;coordination meeting&nbsp;for those who wish to join.&nbsp;<br>
@@ -102,7 +104,7 @@ Week 4 Title:&nbsp;The Righteousness of the Bride</p>
 <p><font><span>5. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of Matthew&nbsp;message 71&nbsp;and 72</p>
+<p>Life Study of Matthew&nbsp;message 69&nbsp;and 70</p>
 </blockquote>
 
                         </td>
@@ -138,13 +140,38 @@ Registration and details: <a href="https://form.jotform.com/250312958910860" tar
 Saints can also join via Zoom, cluster in the meeting hall. Further details to follow.</span></font></p>
 </blockquote>
 
-<p><font><font><span>2.&nbsp; CAMPUS WORK FELLOWSHIP 2025</span></font></font></p>
+<p><font><font><span>2.&nbsp; UNIVERSITY RETREAT</span></font></font></p>
+
+<blockquote>
+<p><font><span>Dates: 3-5 October 2025<br>
+Location: The Church in Sydney Meeting Hall (Kellyville)<br>
+Deadline of Registration: ASAP<br>
+Registration and details: <a href="https://new.express.adobe.com/webpage/UhzHm4ZoBO2A5" target="_blank">click here</a></span></font></p>
+</blockquote>
+
+<p><font><font><span>3.&nbsp; CAMPUS WORK FELLOWSHIP 2025</span></font></font></p>
 
 <blockquote>
 <p><font><span>Dates: 7-9 November 2025<br>
 Location: The Church in Brisbane Meeting Hall,<br>
 Deadline of Registration: 21 October&nbsp;2025<br>
 Registration and details: <a href="https://churchinbrisbane.com/cwf" target="_blank">click here</a></span></font></p>
+</blockquote>
+
+<p><font><font><span>4.&nbsp; NATIONAL BLENDING CONFERENCE (NBC) AND SUMMER SCHOOL OF TRUTH (SSOT)</span></font></font></p>
+
+<blockquote>
+<p><font><span>Dates: 19-23 December 2025<br>
+Deadline of Registration: 6 October 2025<br>
+<br>
+<strong>NBC &amp; Senior SSOT</strong><br>
+Location:&nbsp;The Tops Conference Centre (Stanwell Tops)<br>
+NBC registration and details: <a href="https://new.express.adobe.com/webpage/IJt4NsWT9gi3a" target="_blank">click here</a><br>
+Senior SSOT registration and details: <a href="https://ssot.site/" target="_blank">click here</a><br>
+<br>
+<strong>Junior SSOT</strong><br>
+Location:&nbsp;CRU Galston Gorge Camp &amp; Conference Centre (Galston)<br>
+Junior SSOT registration and details: <a href="https://ssot.site/" target="_blank">click here</a></span></font></p>
 </blockquote>
 
                         </td>
@@ -271,7 +298,7 @@ Burden: (1) To pray that the Lord would open the way for migration in Australia.
 <p><span>C. COORDINATION MEETING&nbsp;</span></p>
 
 <blockquote>
-<p>Next Meeting: 5 October&nbsp;2025<br>
+<p>Next Meeting: 12 October&nbsp;2025<br>
 Topic: Canberra Conference Review<br>
 Future Dates: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/caf880c7-9e17-1d97-a079-9cd34e5a13f9/Coordination_Meeting_Schedule_2025.01.pdf" target="_blank">click here</a><br>
 <br>
@@ -354,7 +381,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13898229" target="_blank">Announcement 21/09/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13897880" target="_blank">Announcement 07/0/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13897739" target="_blank">Pledge Offering for Sydney Conference & Training Centre (SCTC)</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13898366" target="_blank">Announcement 28/09/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13898229" target="_blank">Announcement 21/09/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13897880" target="_blank">Announcement 07/0/2025</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
