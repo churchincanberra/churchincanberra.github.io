@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>28th September&nbsp;2025</span></strong></p>
+<strong><span>5th October&nbsp;2025</span></strong></p>
 </div>
 
                         </td>
@@ -59,17 +59,15 @@ nofollow: true
                         
                         <td>
                         
-                            <p><span><strong><span>Please disregard the announcement email sent earlier today as the below includes numerous&nbsp;updates. Please also see the details for the upcoming National Blending Conference and Summer School of Truth. Registration is due soon,&nbsp;we apologise for the delay in adding this to the weekly announcement.</span></strong><br>
-<br>
-1.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
+                            <p><span>1.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
 
 <blockquote>
 <p><strong>English speaking - Friday 7pm</strong><br>
-Northside: Mark and Yashan's house (Kaleen)<br>
+Northside: Kaleen House<br>
 Southside: Steer's house (Banks)<br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
 Venue: Victor and Bing's house (Lyons)<br>
-<strong>Topic: </strong>Principles of Material Offerings (3)</p>
+<strong>Topic: </strong>The Bride as the Corporate Warrior</p>
 </blockquote>
 
 <p><span>2.&nbsp;LOVEFEAST&nbsp;AT THE HALL &amp; CHANGE OF&nbsp;COORDINATION MEETING DATE</span></p>
@@ -94,17 +92,15 @@ Pledge form:&nbsp;<a href="https://www.churchincanberra.org/sctc-pledge/" target
 <p><span>4. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 4:&nbsp;commencing Monday<br>
-HWMR Title: Material Offerings and the Lord's Move Today<br>
-Week 4&nbsp;Title:&nbsp;Principles of Material Offerings (3)<br>
-Additional HWMR: The Preparation of the Bride<br>
-Week 4 Title:&nbsp;The Righteousness of the Bride</p>
+<p>Week 6:&nbsp;commencing Monday<br>
+HWMR Title: The Preparation of the Bride<br>
+Week 6&nbsp;Title:&nbsp;The Bride as the Corporate Warrior</p>
 </blockquote>
 
 <p><font><span>5. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of Matthew&nbsp;message 69&nbsp;and 70</p>
+<p>Life Study of Matthew&nbsp;message 71&nbsp;and 72</p>
 </blockquote>
 
                         </td>
@@ -381,7 +377,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13898366" target="_blank">Announcement 28/09/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13898229" target="_blank">Announcement 21/09/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13897880" target="_blank">Announcement 07/0/2025</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13898375" target="_blank">UPDATED - Announcement 28/09/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13898366" target="_blank">Announcement 28/09/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13898229" target="_blank">Announcement 21/09/2025</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
