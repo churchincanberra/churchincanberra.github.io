@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>5th October&nbsp;2025</span></strong></p>
+<strong><span>12th October&nbsp;2025</span></strong></p>
 </div>
 
                         </td>
@@ -63,11 +63,11 @@ nofollow: true
 
 <blockquote>
 <p><strong>English speaking - Friday 7pm</strong><br>
-Northside: Kaleen House<br>
-Southside: Steer's house (Banks)<br>
+Northside: Kaleen house<br>
+Southside: Lyons house&nbsp;<br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
 Venue: Victor and Bing's house (Lyons)<br>
-<strong>Topic: </strong>The Bride as the Corporate Warrior</p>
+<strong>Topic: </strong>Christ as Our Virtues, the Peace of God, Our Secret, and the One Who Empowers Us</p>
 </blockquote>
 
 <p><span>2.&nbsp;LOVEFEAST&nbsp;AT THE HALL &amp; CHANGE OF&nbsp;COORDINATION MEETING DATE</span></p>
@@ -92,15 +92,15 @@ Pledge form:&nbsp;<a href="https://www.churchincanberra.org/sctc-pledge/" target
 <p><span>4. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 6:&nbsp;commencing Monday<br>
-HWMR Title: The Preparation of the Bride<br>
-Week 6&nbsp;Title:&nbsp;The Bride as the Corporate Warrior</p>
+<p>Week 25:&nbsp;commencing Monday<br>
+HWMR Title:&nbsp;EXPERIENCING, ENJOYING, AND EXPRESSING CHRIST (3) - VOLUME 5<br>
+Week 25&nbsp;Title:&nbsp;Christ as Our Virtues, the Peace of God, Our Secret, and the One Who Empowers Us</p>
 </blockquote>
 
 <p><font><span>5. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of Matthew&nbsp;message 71&nbsp;and 72</p>
+<p>Life Study of Acts message 1 and 2.</p>
 </blockquote>
 
                         </td>
@@ -131,21 +131,12 @@ Week 6&nbsp;Title:&nbsp;The Bride as the Corporate Warrior</p>
 <blockquote>
 <p><font><span>Dates: 19-20 October 2025<br>
 Location: The Church in Melbourne Heidelberg Meeting Hall<br>
-Deadline of Registration: past<br>
+Deadline of Registration: extended to 12/10 for Zoom&nbsp;cluster (see Dermie or Billy for registration).<br>
 Registration and details: <a href="https://form.jotform.com/250312958910860" target="_blank">click here</a><br>
 Saints can also join via Zoom, cluster in the meeting hall. Further details to follow.</span></font></p>
 </blockquote>
 
-<p><font><font><span>2.&nbsp; UNIVERSITY RETREAT</span></font></font></p>
-
-<blockquote>
-<p><font><span>Dates: 3-5 October 2025<br>
-Location: The Church in Sydney Meeting Hall (Kellyville)<br>
-Deadline of Registration: ASAP<br>
-Registration and details: <a href="https://new.express.adobe.com/webpage/UhzHm4ZoBO2A5" target="_blank">click here</a></span></font></p>
-</blockquote>
-
-<p><font><font><span>3.&nbsp; CAMPUS WORK FELLOWSHIP 2025</span></font></font></p>
+<p><font><font><span>2.&nbsp; CAMPUS WORK FELLOWSHIP 2025</span></font></font></p>
 
 <blockquote>
 <p><font><span>Dates: 7-9 November 2025<br>
@@ -154,11 +145,11 @@ Deadline of Registration: 21 October&nbsp;2025<br>
 Registration and details: <a href="https://churchinbrisbane.com/cwf" target="_blank">click here</a></span></font></p>
 </blockquote>
 
-<p><font><font><span>4.&nbsp; NATIONAL BLENDING CONFERENCE (NBC) AND SUMMER SCHOOL OF TRUTH (SSOT)</span></font></font></p>
+<p><font><font><span>3.&nbsp; NATIONAL BLENDING CONFERENCE (NBC) AND SUMMER SCHOOL OF TRUTH (SSOT)</span></font></font></p>
 
 <blockquote>
 <p><font><span>Dates: 19-23 December 2025<br>
-Deadline of Registration: 6 October 2025<br>
+Deadline of Registration: 13 October 2025<br>
 <br>
 <strong>NBC &amp; Senior SSOT</strong><br>
 Location:&nbsp;The Tops Conference Centre (Stanwell Tops)<br>
@@ -377,7 +368,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13898375" target="_blank">UPDATED - Announcement 28/09/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13898366" target="_blank">Announcement 28/09/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13898229" target="_blank">Announcement 21/09/2025</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13898507" target="_blank">Announcement 05/10/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13898375" target="_blank">UPDATED - Announcement 28/09/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13898366" target="_blank">Announcement 28/09/2025</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
