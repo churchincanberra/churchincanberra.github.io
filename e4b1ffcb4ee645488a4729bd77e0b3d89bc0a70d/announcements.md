@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>12th October&nbsp;2025</span></strong></p>
+<strong><span>19th October&nbsp;2025</span></strong></p>
 </div>
 
                         </td>
@@ -59,26 +59,26 @@ nofollow: true
                         
                         <td>
                         
-                            <p><span>1.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
+                            <p><span>1.&nbsp;LORD'S DAY SCHEDULE- 19 OCTOBER&nbsp;2025</span></p>
+
+<blockquote>
+<p>This Lord's Day we will join&nbsp;the Open Session&nbsp;of the Biannual Perfecting Training after the Bread breaking meeting.<br>
+<br>
+10:00 am- Canberra Lord's Table Meeting<br>
+10:45&nbsp;am- Break<br>
+11:00 am- Session 6 Biannual Perfecting Training&nbsp;<br>
+12:15&nbsp;pm- End</p>
+</blockquote>
+
+<p><span>2.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
 
 <blockquote>
 <p><strong>English speaking - Friday 7pm</strong><br>
-Northside: Kaleen house<br>
-Southside: Lyons house&nbsp;<br>
+Northside: Mark and Yashan's house&nbsp;(Kaleen)<br>
+Southside: Steer's&nbsp;house&nbsp;(Banks)<br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
-Venue: Victor and Bing's house (Lyons)<br>
-<strong>Topic: </strong>Christ as Our Virtues, the Peace of God, Our Secret, and the One Who Empowers Us</p>
-</blockquote>
-
-<p><span>2.&nbsp;LOVEFEAST&nbsp;AT THE HALL &amp; CHANGE OF&nbsp;COORDINATION MEETING DATE</span></p>
-
-<blockquote>
-<p>Date:&nbsp; 12&nbsp;October 2025<br>
-Venue:&nbsp;Meeting&nbsp;Hall (after prophesying&nbsp;meeting)<br>
-<br>
-All saints are welcome to join the&nbsp;love feast. Let's take this opportunity to cherish one another while enjoying mutual fellowship. The&nbsp;love feast&nbsp;will be followed by the monthly&nbsp;coordination meeting&nbsp;for those who wish to join.&nbsp;<br>
-<br>
-<strong><em>All saints who served&nbsp;during the Canberra Conference are encouraged to attend the coordination meeting as we will have some review of the practical services at the conference.</em></strong></p>
+Venue: Nadia and Ming's house&nbsp;(Palmerston)<br>
+<strong>Topic: </strong>Knowing and Taking Christ as Our Pattern</p>
 </blockquote>
 
 <p><span>3.&nbsp;PLEDGE OFFERING FOR SYDNEY CONFERENCE &amp; TRAINING CENTRE&nbsp;</span><span>(SCTC)</span></p>
@@ -92,15 +92,15 @@ Pledge form:&nbsp;<a href="https://www.churchincanberra.org/sctc-pledge/" target
 <p><span>4. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 25:&nbsp;commencing Monday<br>
+<p>Week 26:&nbsp;commencing Monday<br>
 HWMR Title:&nbsp;EXPERIENCING, ENJOYING, AND EXPRESSING CHRIST (3) - VOLUME 5<br>
-Week 25&nbsp;Title:&nbsp;Christ as Our Virtues, the Peace of God, Our Secret, and the One Who Empowers Us</p>
+Week 26&nbsp;Title: Knowing and Taking Christ as Our Pattern</p>
 </blockquote>
 
 <p><font><span>5. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of Acts message 1 and 2.</p>
+<p>Life Study of Acts message 3&nbsp;and 4.</p>
 </blockquote>
 
                         </td>
@@ -260,7 +260,7 @@ Details:&nbsp;<a href="https://nztc.ac.nz/jubilee/" target="_blank">click here</
 Tuesday 7:30pm at the meeting hall and online.<br>
 Online:&nbsp;<br>
 Zoom for English (details below)<br>
-Wechat for Chinese (Contact Mark Lam or Zhi Bing to be added in the group chat)<br>
+WeChat for Chinese (Contact Mark Lam or Zhi Bing to be added in the group chat)<br>
 <u><strong>Lord's Table and Prophesying Meeting</strong></u><br>
 Lord's Day 10:00am at the meeting hall and on Zoom (details below).</p>
 </blockquote>
@@ -269,9 +269,9 @@ Lord's Day 10:00am at the meeting hall and on Zoom (details below).</p>
 
 <blockquote>
 <p><u><strong>Bibles for Australia</strong></u><br>
-Monday 8:30pm and Lord's day 6pm&nbsp;on Zoom<br>
+Monday 8:30pm and Lord's Day 6pm&nbsp;on Zoom<br>
 Zoom: <a href="https://us02web.zoom.us/j/88413747323?pwd=K041K1BPU0gvVlpMOXdOaTM4dUJjZz09" target="_blank">click here&nbsp;</a><br>
-Burden: The the bible distribution work throughout Australia.<br>
+Burden: The bible distribution work throughout Australia.<br>
 <br>
 <u><strong>High School service</strong></u><br>
 Thursday&nbsp;9pm using&nbsp;the church in Canberra regular zoom meeting.<br>
@@ -285,11 +285,11 @@ Burden: (1) To pray that the Lord would open the way for migration in Australia.
 <p><span>C. COORDINATION MEETING&nbsp;</span></p>
 
 <blockquote>
-<p>Next Meeting: 12 October&nbsp;2025<br>
-Topic: Canberra Conference Review<br>
+<p>Next Meeting: 16 November&nbsp;2025<br>
+Topic: Tree of Life- Message 11<br>
 Future Dates: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/caf880c7-9e17-1d97-a079-9cd34e5a13f9/Coordination_Meeting_Schedule_2025.01.pdf" target="_blank">click here</a><br>
 <br>
-This&nbsp;meeting&nbsp;is open to saints serving (or endeavouring to serve) and is predominantly a time to enjoy the Lord so that we may be built up together in our service. There will be Zoom available for those who cannot join physically.</p>
+This&nbsp;meeting&nbsp;is open to saints serving (or endeavoring to serve) and is predominantly a time to enjoy the Lord so that we may be built up together in our service. There will be Zoom available for those who cannot join physically.</p>
 </blockquote>
 
 <p><span>D. CALENDAR FROM THE CHURCH IN SYDNEY</span></p>
@@ -368,7 +368,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13898507" target="_blank">Announcement 05/10/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13898375" target="_blank">UPDATED - Announcement 28/09/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13898366" target="_blank">Announcement 28/09/2025</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13898669" target="_blank">Announcement 12/10/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13898507" target="_blank">Announcement 05/10/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13898375" target="_blank">UPDATED - Announcement 28/09/2025</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
