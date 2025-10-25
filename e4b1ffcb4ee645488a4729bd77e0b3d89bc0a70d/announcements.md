@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>19th October&nbsp;2025</span></strong></p>
+<strong><span>26th October&nbsp;2025</span></strong></p>
 </div>
 
                         </td>
@@ -59,48 +59,39 @@ nofollow: true
                         
                         <td>
                         
-                            <p><span>1.&nbsp;LORD'S DAY SCHEDULE- 19 OCTOBER&nbsp;2025</span></p>
-
-<blockquote>
-<p>This Lord's Day we will join&nbsp;the Open Session&nbsp;of the Biannual Perfecting Training after the Bread breaking meeting.<br>
-<br>
-10:00 am- Canberra Lord's Table Meeting<br>
-10:45&nbsp;am- Break<br>
-11:00 am- Session 6 Biannual Perfecting Training&nbsp;<br>
-12:15&nbsp;pm- End</p>
-</blockquote>
-
-<p><span>2.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
+                            <p><span>1.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
 
 <blockquote>
 <p><strong>English speaking - Friday 7pm</strong><br>
 Northside: Mark and Yashan's house&nbsp;(Kaleen)<br>
-Southside: Steer's&nbsp;house&nbsp;(Banks)<br>
+Southside: Lyons' house<br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
 Venue: Nadia and Ming's house&nbsp;(Palmerston)<br>
-<strong>Topic: </strong>Knowing and Taking Christ as Our Pattern</p>
+<strong>Topic: </strong>Enjoying the All-inclusive Christ as the Good Land - Our Allotted Portion</p>
 </blockquote>
 
-<p><span>3.&nbsp;PLEDGE OFFERING FOR SYDNEY CONFERENCE &amp; TRAINING CENTRE&nbsp;</span><span>(SCTC)</span></p>
+<p><span>2.&nbsp;PLEDGE OFFERING FOR SYDNEY CONFERENCE &amp; TRAINING CENTRE&nbsp;</span><span>(SCTC)</span></p>
 
 <blockquote>
-<p>The Church in Canberra will participate in offering towards the&nbsp;renovation of the SCTC. We strongly encourage the saints to go before the Lord to seize the opportunity to&nbsp;participate in this project. Either&nbsp;use the online form (see link below)&nbsp;or a&nbsp;physical&nbsp;form in the meeting hall to pledge. Please complete the form on or before 7th of September 2025 and take note of the offering account details, dates and deadline<br>
+<p>The Church in Canberra will participate in offering towards the&nbsp;renovation of the SCTC. We strongly encourage the saints to go before the Lord to seize the opportunity to&nbsp;participate in this project. Either&nbsp;use the online form (see link below)&nbsp;or a&nbsp;physical&nbsp;form in the meeting hall to pledge. Please complete the form on or before 7th of September 2025 and take note of the offering account details, dates and deadline.<br>
+<br>
+Please note that the offering is due this coming Friday (31/10).<br>
 <br>
 Pledge form:&nbsp;<a href="https://www.churchincanberra.org/sctc-pledge/" target="_blank">Click Here</a></p>
 </blockquote>
 
-<p><span>4. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
+<p><span>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 26:&nbsp;commencing Monday<br>
+<p>Week 27:&nbsp;commencing Monday<br>
 HWMR Title:&nbsp;EXPERIENCING, ENJOYING, AND EXPRESSING CHRIST (3) - VOLUME 5<br>
-Week 26&nbsp;Title: Knowing and Taking Christ as Our Pattern</p>
+Week 27&nbsp;Title: Enjoying the All-inclusive Christ as the Good Land - Our Allotted Portion</p>
 </blockquote>
 
-<p><font><span>5. LIFE STUDY PURSUIT</span></font></p>
+<p><font><span>4. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of Acts message 3&nbsp;and 4.</p>
+<p>Life Study of Acts message 5&nbsp;and 6.</p>
 </blockquote>
 
                         </td>
@@ -126,30 +117,37 @@ Week 26&nbsp;Title: Knowing and Taking Christ as Our Pattern</p>
                         
                             <p><span><u>TRAINING &amp; CONFERENCES</u>&nbsp;</span></p>
 
-<p><span>1.&nbsp; BIANNUAL PERFECTING TRAINING</span></p>
+<p><span>1.&nbsp; TEACHERS TRAINING VIA ZOOM</span></p>
 
 <blockquote>
-<p><font><span>Dates: 19-20 October 2025<br>
-Location: The Church in Melbourne Heidelberg Meeting Hall<br>
-Deadline of Registration: extended to 12/10 for Zoom&nbsp;cluster (see Dermie or Billy for registration).<br>
-Registration and details: <a href="https://form.jotform.com/250312958910860" target="_blank">click here</a><br>
-Saints can also join via Zoom, cluster in the meeting hall. Further details to follow.</span></font></p>
+<p><font><span>Date: 1 November&nbsp;2025<br>
+Venue: Zoom (online)<br>
+Deadline of Registration: 27 October 2025<br>
+Registration and details: <a href="https://new.express.adobe.com/webpage/itBMqZGC3JpU8" target="_blank">Click Here</a><br>
+We encourage saints to gather in clusters to watch together rather than individually. Zoom details will be sent a few days before the training.</span></font></p>
 </blockquote>
 
 <p><font><font><span>2.&nbsp; CAMPUS WORK FELLOWSHIP 2025</span></font></font></p>
 
 <blockquote>
 <p><font><span>Dates: 7-9 November 2025<br>
-Location: The Church in Brisbane Meeting Hall,<br>
+Location: Brisbane and Canberra Zoom cluster (location TBC)<br>
 Deadline of Registration: 21 October&nbsp;2025<br>
 Registration and details: <a href="https://churchinbrisbane.com/cwf" target="_blank">click here</a></span></font></p>
 </blockquote>
 
-<p><font><font><span>3.&nbsp; NATIONAL BLENDING CONFERENCE (NBC) AND SUMMER SCHOOL OF TRUTH (SSOT)</span></font></font></p>
+<p><font><font><span>3.&nbsp; WAGGA&nbsp;BLENDING&nbsp;</span></font></font></p>
+
+<blockquote>
+<p><font><span>Dates: 22-23 November&nbsp;2025<br>
+Registration: TBC</span></font></p>
+</blockquote>
+
+<p><font><font><span>4.&nbsp; NATIONAL BLENDING CONFERENCE (NBC) AND SUMMER SCHOOL OF TRUTH (SSOT)</span></font></font></p>
 
 <blockquote>
 <p><font><span>Dates: 19-23 December 2025<br>
-Deadline of Registration: 13 October 2025<br>
+Deadline of Registration: extended&nbsp; until 27&nbsp;October 2025<br>
 <br>
 <strong>NBC &amp; Senior SSOT</strong><br>
 Location:&nbsp;The Tops Conference Centre (Stanwell Tops)<br>
@@ -368,7 +366,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13898669" target="_blank">Announcement 12/10/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13898507" target="_blank">Announcement 05/10/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13898375" target="_blank">UPDATED - Announcement 28/09/2025</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13898809" target="_blank">Announcement 19/10/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13898669" target="_blank">Announcement 12/10/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13898507" target="_blank">Announcement 05/10/2025</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
