@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>26th October&nbsp;2025</span></strong></p>
+<strong><span>2nd November&nbsp;2025</span></strong></p>
 </div>
 
                         </td>
@@ -63,11 +63,11 @@ nofollow: true
 
 <blockquote>
 <p><strong>English speaking - Friday 7pm</strong><br>
-Northside: Mark and Yashan's house&nbsp;(Kaleen)<br>
-Southside: Lyons' house<br>
+Northside: Combined with Southside<br>
+Southside: Lyons' House<br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
-Venue: Nadia and Ming's house&nbsp;(Palmerston)<br>
-<strong>Topic: </strong>Enjoying the All-inclusive Christ as the Good Land - Our Allotted Portion</p>
+Venue: Lyons' House&nbsp;<br>
+<strong>Topic: </strong>The Mystery of God- Christ</p>
 </blockquote>
 
 <p><span>2.&nbsp;PLEDGE OFFERING FOR SYDNEY CONFERENCE &amp; TRAINING CENTRE&nbsp;</span><span>(SCTC)</span></p>
@@ -83,15 +83,15 @@ Pledge form:&nbsp;<a href="https://www.churchincanberra.org/sctc-pledge/" target
 <p><span>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 27:&nbsp;commencing Monday<br>
+<p>Week 28:&nbsp;commencing Monday<br>
 HWMR Title:&nbsp;EXPERIENCING, ENJOYING, AND EXPRESSING CHRIST (3) - VOLUME 5<br>
-Week 27&nbsp;Title: Enjoying the All-inclusive Christ as the Good Land - Our Allotted Portion</p>
+Week 28 Title: The Mystery of God- Christ</p>
 </blockquote>
 
 <p><font><span>4. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of Acts message 5&nbsp;and 6.</p>
+<p>Life Study of Acts message 7&nbsp;and 8.</p>
 </blockquote>
 
                         </td>
@@ -117,17 +117,7 @@ Week 27&nbsp;Title: Enjoying the All-inclusive Christ as the Good Land - Our All
                         
                             <p><span><u>TRAINING &amp; CONFERENCES</u>&nbsp;</span></p>
 
-<p><span>1.&nbsp; TEACHERS TRAINING VIA ZOOM</span></p>
-
-<blockquote>
-<p><font><span>Date: 1 November&nbsp;2025<br>
-Venue: Zoom (online)<br>
-Deadline of Registration: 27 October 2025<br>
-Registration and details: <a href="https://new.express.adobe.com/webpage/itBMqZGC3JpU8" target="_blank">Click Here</a><br>
-We encourage saints to gather in clusters to watch together rather than individually. Zoom details will be sent a few days before the training.</span></font></p>
-</blockquote>
-
-<p><font><font><span>2.&nbsp; CAMPUS WORK FELLOWSHIP 2025</span></font></font></p>
+<p><font><font><span>1.&nbsp; CAMPUS WORK FELLOWSHIP 2025</span></font></font></p>
 
 <blockquote>
 <p><font><span>Dates: 7-9 November 2025<br>
@@ -136,14 +126,14 @@ Deadline of Registration: 21 October&nbsp;2025<br>
 Registration and details: <a href="https://churchinbrisbane.com/cwf" target="_blank">click here</a></span></font></p>
 </blockquote>
 
-<p><font><font><span>3.&nbsp; WAGGA&nbsp;BLENDING&nbsp;</span></font></font></p>
+<p><font><font><span>2.&nbsp; WAGGA&nbsp;BLENDING&nbsp;</span></font></font></p>
 
 <blockquote>
 <p><font><span>Dates: 22-23 November&nbsp;2025<br>
-Registration: TBC</span></font></p>
+Registration: <a href="https://form.jotform.com/253043238948866" target="_blank">click here</a></span></font></p>
 </blockquote>
 
-<p><font><font><span>4.&nbsp; NATIONAL BLENDING CONFERENCE (NBC) AND SUMMER SCHOOL OF TRUTH (SSOT)</span></font></font></p>
+<p><font><font><span>3.&nbsp; NATIONAL BLENDING CONFERENCE (NBC) AND SUMMER SCHOOL OF TRUTH (SSOT)</span></font></font></p>
 
 <blockquote>
 <p><font><span>Dates: 19-23 December 2025<br>
@@ -277,7 +267,8 @@ Burden: Our high-schoolers and the LD HS meeting.<br>
 <br>
 <u><strong>Migration and Europe</strong></u><br>
 Lord's Day 8:45&nbsp;pm using the church in Canberra regular zoom meeting.<br>
-Burden: (1) To pray that the Lord would open the way for migration in Australia. (2) The Lord's move in Europe and the upcoming gospel trips in Italy.</p>
+<a href="https://www.lme.org/pdfs/PrayerBurdens807.pdf" target="_blank">Burdens related to Europe:</a><a href="https://www.lme.org/pdfs/PrayerBurdens807.pdf" target="_blank">&nbsp;</a><br>
+(1) To pray that the Lord would open the way for migration in Australia. (2) The Lord's move in Europe and the upcoming gospel trips in Italy.</p>
 </blockquote>
 
 <p><span>C. COORDINATION MEETING&nbsp;</span></p>
@@ -366,7 +357,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13898809" target="_blank">Announcement 19/10/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13898669" target="_blank">Announcement 12/10/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13898507" target="_blank">Announcement 05/10/2025</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13898984" target="_blank">Announcement 26/10/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13898809" target="_blank">Announcement 19/10/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13898669" target="_blank">Announcement 12/10/2025</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
