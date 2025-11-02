@@ -803,3 +803,24 @@
   singular: true
   date: '2026-04-19'
   location: 'Kianinny Bush Cottage, 246 Tathra Road, Tathra, NSW, Australia'
+- id: loc20251122
+  name: Wagga Wagga Blending Conference
+  description: ''
+  category: Regional
+  singular: true
+  date: '2025-11-22'
+  location: 'Wagga Wagga, NSW, Australia'
+- id: loc20251123
+  name: Wagga Wagga Blending Conference
+  description: ''
+  category: Regional
+  singular: true
+  date: '2025-11-23'
+  location: 'Wagga Wagga, NSW, Australia'
+- id: loc20251101
+  name: Teachers' Training
+  description: ''
+  category: Regional
+  singular: true
+  date: '2025-11-01'
+  location: 'Online, Zoom'
