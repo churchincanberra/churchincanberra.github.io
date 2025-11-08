@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>2nd November&nbsp;2025</span></strong></p>
+<strong><span>9th November&nbsp;2025</span></strong></p>
 </div>
 
                         </td>
@@ -59,39 +59,50 @@ nofollow: true
                         
                         <td>
                         
-                            <p><span>1.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
+                            <p><span>1. LORD'S DAY SCHEDULE - 9 Nov 2025</span></p>
+
+<blockquote>
+<p>This Lord's day we will join the Open Session&nbsp;of the Campus Work Fellowship after the Bread breaking meeting<br>
+<br>
+10:00 Canberra Lord's Table Meeting<br>
+10:45 Break<br>
+11:00 Open Session Campus Work Fellowship<br>
+12:30 End</p>
+</blockquote>
+
+<p><span>2.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
 
 <blockquote>
 <p><strong>English speaking - Friday 7pm</strong><br>
-Northside: Combined with Southside<br>
-Southside: Lyons' House<br>
+Northside: Lawson&nbsp;House<br>
+Southside: Steers' House<br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
-Venue: Lyons' House&nbsp;<br>
-<strong>Topic: </strong>The Mystery of God- Christ</p>
+Venue: Ming &amp; Nadia's House&nbsp;<br>
+<strong>Topic: </strong>The Cause of Our Blamelessness in Holiness and the Cause of Our Complete Sanctification in Our Spirit, Soul, and Body</p>
 </blockquote>
 
-<p><span>2.&nbsp;PLEDGE OFFERING FOR SYDNEY CONFERENCE &amp; TRAINING CENTRE&nbsp;</span><span>(SCTC)</span></p>
+<p><span>3.&nbsp;PLEDGE OFFERING FOR SYDNEY CONFERENCE &amp; TRAINING CENTRE&nbsp;(SCTC)</span></p>
 
 <blockquote>
 <p>The Church in Canberra will participate in offering towards the&nbsp;renovation of the SCTC. We strongly encourage the saints to go before the Lord to seize the opportunity to&nbsp;participate in this project. Either&nbsp;use the online form (see link below)&nbsp;or a&nbsp;physical&nbsp;form in the meeting hall to pledge. Please complete the form on or before 7th of September 2025 and take note of the offering account details, dates and deadline.<br>
 <br>
-Please note that the offering is due this coming Friday (31/10).<br>
+Be reminded&nbsp;that the offering was&nbsp;due 31st of Oct. Please send offering as soon as you can.&nbsp;<br>
 <br>
 Pledge form:&nbsp;<a href="https://www.churchincanberra.org/sctc-pledge/" target="_blank">Click Here</a></p>
 </blockquote>
 
-<p><span>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
+<p><span>4. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 28:&nbsp;commencing Monday<br>
+<p>Week 29:&nbsp;commencing Monday<br>
 HWMR Title:&nbsp;EXPERIENCING, ENJOYING, AND EXPRESSING CHRIST (3) - VOLUME 5<br>
-Week 28 Title: The Mystery of God- Christ</p>
+Week 29&nbsp;Title: The Cause of Our Blamelessness in Holiness and the Cause of Our Complete Sanctification in Our Spirit, Soul, and Body</p>
 </blockquote>
 
-<p><font><span>4. LIFE STUDY PURSUIT</span></font></p>
+<p><font><span>5. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of Acts message 7&nbsp;and 8.</p>
+<p>Life Study of Acts message 9&nbsp;and 10.</p>
 </blockquote>
 
                         </td>
@@ -138,6 +149,8 @@ Registration: <a href="https://form.jotform.com/253043238948866" target="_blank"
 <blockquote>
 <p><font><span>Dates: 19-23 December 2025<br>
 Deadline of Registration: extended&nbsp; until 27&nbsp;October 2025<br>
+Please transfer&nbsp;Registration fee&nbsp;on or before&nbsp;1st December 2025<br>
+(Church in&nbsp; Canberra General Purpose&nbsp;Account - BSB: 062-914 , Account: 1085-8512)&nbsp;<br>
 <br>
 <strong>NBC &amp; Senior SSOT</strong><br>
 Location:&nbsp;The Tops Conference Centre (Stanwell Tops)<br>
@@ -357,7 +370,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13898984" target="_blank">Announcement 26/10/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13898809" target="_blank">Announcement 19/10/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13898669" target="_blank">Announcement 12/10/2025</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13899154" target="_blank">Announcement 02/11/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13898984" target="_blank">Announcement 26/10/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13898809" target="_blank">Announcement 19/10/2025</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
