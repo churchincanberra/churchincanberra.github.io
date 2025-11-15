@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>9th November&nbsp;2025</span></strong></p>
+<strong><span>16th November&nbsp;2025</span></strong></p>
 </div>
 
                         </td>
@@ -59,26 +59,24 @@ nofollow: true
                         
                         <td>
                         
-                            <p><span>1. LORD'S DAY SCHEDULE - 9 Nov 2025</span></p>
+                            <p><span>1.&nbsp;LOVEFEAST&nbsp;AT THE MEETING HALL (FOLLOWED BY COORDINATION MEETING)</span></p>
 
 <blockquote>
-<p>This Lord's day we will join the Open Session&nbsp;of the Campus Work Fellowship after the Bread breaking meeting<br>
+<p>Date: 16&nbsp;November&nbsp;2025<br>
+Venue: Meeting Hall (after prophesying meeting)<br>
 <br>
-10:00 Canberra Lord's Table Meeting<br>
-10:45 Break<br>
-11:00 Open Session Campus Work Fellowship<br>
-12:30 End</p>
+All saints are welcome to join the&nbsp;love feast. Let's take this opportunity to cherish one another while enjoying mutual fellowship. The&nbsp;love feast&nbsp;will be followed by the monthly coordination meeting for those who wish to join.</p>
 </blockquote>
 
 <p><span>2.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
 
 <blockquote>
 <p><strong>English speaking - Friday 7pm</strong><br>
-Northside: Lawson&nbsp;House<br>
-Southside: Steers' House<br>
+Northside: Mark &amp; Yashan's House (Kaleen)<br>
+Southside: Zi &amp; April's&nbsp;House (Phillip)<br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
 Venue: Ming &amp; Nadia's House&nbsp;<br>
-<strong>Topic: </strong>The Cause of Our Blamelessness in Holiness and the Cause of Our Complete Sanctification in Our Spirit, Soul, and Body</p>
+<strong>Topic: </strong>The Church in the Triune God</p>
 </blockquote>
 
 <p><span>3.&nbsp;PLEDGE OFFERING FOR SYDNEY CONFERENCE &amp; TRAINING CENTRE&nbsp;(SCTC)</span></p>
@@ -96,13 +94,13 @@ Pledge form:&nbsp;<a href="https://www.churchincanberra.org/sctc-pledge/" target
 <blockquote>
 <p>Week 29:&nbsp;commencing Monday<br>
 HWMR Title:&nbsp;EXPERIENCING, ENJOYING, AND EXPRESSING CHRIST (3) - VOLUME 5<br>
-Week 29&nbsp;Title: The Cause of Our Blamelessness in Holiness and the Cause of Our Complete Sanctification in Our Spirit, Soul, and Body</p>
+Week 29&nbsp;Title: The Church in the Triune God</p>
 </blockquote>
 
 <p><font><span>5. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of Acts message 9&nbsp;and 10.</p>
+<p>Life Study of Acts message 11&nbsp;and 12.</p>
 </blockquote>
 
                         </td>
@@ -128,23 +126,14 @@ Week 29&nbsp;Title: The Cause of Our Blamelessness in Holiness and the Cause of 
                         
                             <p><span><u>TRAINING &amp; CONFERENCES</u>&nbsp;</span></p>
 
-<p><font><font><span>1.&nbsp; CAMPUS WORK FELLOWSHIP 2025</span></font></font></p>
-
-<blockquote>
-<p><font><span>Dates: 7-9 November 2025<br>
-Location: Brisbane and Canberra Zoom cluster (location TBC)<br>
-Deadline of Registration: 21 October&nbsp;2025<br>
-Registration and details: <a href="https://churchinbrisbane.com/cwf" target="_blank">click here</a></span></font></p>
-</blockquote>
-
-<p><font><font><span>2.&nbsp; WAGGA&nbsp;BLENDING&nbsp;</span></font></font></p>
+<p><font><font><span>1.&nbsp; WAGGA&nbsp;BLENDING&nbsp;</span></font></font></p>
 
 <blockquote>
 <p><font><span>Dates: 22-23 November&nbsp;2025<br>
 Registration: <a href="https://form.jotform.com/253043238948866" target="_blank">click here</a></span></font></p>
 </blockquote>
 
-<p><font><font><span>3.&nbsp; NATIONAL BLENDING CONFERENCE (NBC) AND SUMMER SCHOOL OF TRUTH (SSOT)</span></font></font></p>
+<p><font><font><span>2.&nbsp; NATIONAL BLENDING CONFERENCE (NBC) AND SUMMER SCHOOL OF TRUTH (SSOT)</span></font></font></p>
 
 <blockquote>
 <p><font><span>Dates: 19-23 December 2025<br>
@@ -221,13 +210,14 @@ The recorded messages are ready for download: <a href="https://drive.google.com/
 
 <blockquote>
 <p><font><span>Dates: 23 - 25 November 2025<br>
-Details:&nbsp;<a href="https://nztc.ac.nz/jubilee/" target="_blank">click here</a></span></font>.</p>
+Details:&nbsp;<a href="https://nztc.ac.nz/jubilee/" target="_blank">click here</a></span></font></p>
 </blockquote>
 
-<p><span>2.&nbsp;GOSPEL TRIPS TO GERMAN-SPEAKING COUNTRIES</span></p>
+<p><span>2.&nbsp;BLENDING CONFERENCE WITH BROTHER JAMES LEE (NZ)</span></p>
 
 <blockquote>
-<p>During the report on Europe given at the 2025 June Semi-annual Training in Anaheim an invitation was made to all the saints to participate in gospel trips in German-speaking countries—Germany, Switzerland, and Austria—on October 5 through 19 for the purpose of contacting university students. An invitation letter, and further details,&nbsp;are&nbsp;available <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/629a2ea1-4087-52f5-963d-44388180ffac/Gospel_trips_to_German_speaking_countiries_7_2025.pdf" target="_blank">here</a>.&nbsp;</p>
+<p><font><span>Dates: 23 - 25 January 2026<br>
+Details:&nbsp;<a href="https://nztc.ac.nz/blendingconference/" target="_blank">click here</a></span></font></p>
 </blockquote>
 
                         </td>
@@ -274,7 +264,8 @@ Monday 8:30pm and Lord's Day 6pm&nbsp;on Zoom<br>
 Zoom: <a href="https://us02web.zoom.us/j/88413747323?pwd=K041K1BPU0gvVlpMOXdOaTM4dUJjZz09" target="_blank">click here&nbsp;</a><br>
 Burden: The bible distribution work throughout Australia.<br>
 <br>
-<u><strong>High School service</strong></u><br>
+<u><strong>High School service </strong></u><br>
+<em>(Currently on hold while saints prepare for the SSOT).</em><br>
 Thursday&nbsp;9pm using&nbsp;the church in Canberra regular zoom meeting.<br>
 Burden: Our high-schoolers and the LD HS meeting.<br>
 <br>
@@ -370,7 +361,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13899154" target="_blank">Announcement 02/11/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13898984" target="_blank">Announcement 26/10/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13898809" target="_blank">Announcement 19/10/2025</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13899390" target="_blank">Announcement 09/11/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13899154" target="_blank">Announcement 02/11/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13898984" target="_blank">Announcement 26/10/2025</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
