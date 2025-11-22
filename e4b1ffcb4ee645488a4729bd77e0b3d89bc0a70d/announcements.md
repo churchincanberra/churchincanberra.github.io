@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>16th November&nbsp;2025</span></strong></p>
+<strong><span>23rd November&nbsp;2025</span></strong></p>
 </div>
 
                         </td>
@@ -59,27 +59,18 @@ nofollow: true
                         
                         <td>
                         
-                            <p><span>1.&nbsp;LOVEFEAST&nbsp;AT THE MEETING HALL (FOLLOWED BY COORDINATION MEETING)</span></p>
-
-<blockquote>
-<p>Date: 16&nbsp;November&nbsp;2025<br>
-Venue: Meeting Hall (after prophesying meeting)<br>
-<br>
-All saints are welcome to join the&nbsp;love feast. Let's take this opportunity to cherish one another while enjoying mutual fellowship. The&nbsp;love feast&nbsp;will be followed by the monthly coordination meeting for those who wish to join.</p>
-</blockquote>
-
-<p><span>2.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
+                            <p><span>1.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</span></p>
 
 <blockquote>
 <p><strong>English speaking - Friday 7pm</strong><br>
-Northside: Mark &amp; Yashan's House (Kaleen)<br>
-Southside: Zi &amp; April's&nbsp;House (Phillip)<br>
+Northside: Mark and Yashan's house (Kaleen)<br>
+Southside: Zi and April's house (Phillip)<br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
-Venue: Ming &amp; Nadia's House&nbsp;<br>
-<strong>Topic: </strong>The Church in the Triune God</p>
+Venue: Ming and Nadia's house (Palmerston)<br>
+<strong>Topic: </strong>The Author (the Captain) of Salvation and the Forerunner Leading Many Sons into Glory by Entering within the Veil and Going outside the Camp</p>
 </blockquote>
 
-<p><span>3.&nbsp;PLEDGE OFFERING FOR SYDNEY CONFERENCE &amp; TRAINING CENTRE&nbsp;(SCTC)</span></p>
+<p><span>2.&nbsp;PLEDGE OFFERING FOR SYDNEY CONFERENCE &amp; TRAINING CENTRE&nbsp;(SCTC)</span></p>
 
 <blockquote>
 <p>The Church in Canberra will participate in offering towards the&nbsp;renovation of the SCTC. We strongly encourage the saints to go before the Lord to seize the opportunity to&nbsp;participate in this project. Either&nbsp;use the online form (see link below)&nbsp;or a&nbsp;physical&nbsp;form in the meeting hall to pledge. Please complete the form on or before 7th of September 2025 and take note of the offering account details, dates and deadline.<br>
@@ -89,18 +80,18 @@ Be reminded&nbsp;that the offering was&nbsp;due 31st of Oct. Please send offerin
 Pledge form:&nbsp;<a href="https://www.churchincanberra.org/sctc-pledge/" target="_blank">Click Here</a></p>
 </blockquote>
 
-<p><span>4. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
+<p><span>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 29:&nbsp;commencing Monday<br>
-HWMR Title:&nbsp;EXPERIENCING, ENJOYING, AND EXPRESSING CHRIST (3) - VOLUME 5<br>
-Week 29&nbsp;Title: The Church in the Triune God</p>
+<p>Week 31:&nbsp;commencing Monday<br>
+HWMR Title:&nbsp;EXPERIENCING, ENJOYING, AND EXPRESSING CHRIST (3) - VOLUME 6<br>
+Week 31&nbsp;Title: The Author (the Captain) of Salvation and the Forerunner Leading Many Sons into Glory by Entering within the Veil and Going outside the Camp</p>
 </blockquote>
 
-<p><font><span>5. LIFE STUDY PURSUIT</span></font></p>
+<p><font><span>4. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of Acts message 11&nbsp;and 12.</p>
+<p>Life Study of Acts message 13&nbsp;and 14.</p>
 </blockquote>
 
                         </td>
@@ -278,8 +269,7 @@ Lord's Day 8:45&nbsp;pm using the church in Canberra regular zoom meeting.<br>
 <p><span>C. COORDINATION MEETING&nbsp;</span></p>
 
 <blockquote>
-<p>Next Meeting: 16 November&nbsp;2025<br>
-Topic: Tree of Life- Message 11<br>
+<p>Next Meeting: TBC<br>
 Future Dates: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/caf880c7-9e17-1d97-a079-9cd34e5a13f9/Coordination_Meeting_Schedule_2025.01.pdf" target="_blank">click here</a><br>
 <br>
 This&nbsp;meeting&nbsp;is open to saints serving (or endeavoring to serve) and is predominantly a time to enjoy the Lord so that we may be built up together in our service. There will be Zoom available for those who cannot join physically.</p>
@@ -361,7 +351,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13899390" target="_blank">Announcement 09/11/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13899154" target="_blank">Announcement 02/11/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13898984" target="_blank">Announcement 26/10/2025</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13899551" target="_blank">Announcement 16/11/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13899390" target="_blank">Announcement 09/11/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13899154" target="_blank">Announcement 02/11/2025</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
