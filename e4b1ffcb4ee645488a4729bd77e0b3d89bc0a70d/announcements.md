@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>23rd November&nbsp;2025</span></strong></p>
+<strong><span>30th November&nbsp;2025</span></strong></p>
 </div>
 
                         </td>
@@ -63,35 +63,36 @@ nofollow: true
 
 <blockquote>
 <p><strong>English speaking - Friday 7pm</strong><br>
-Northside: Mark and Yashan's house (Kaleen)<br>
-Southside: Zi and April's house (Phillip)<br>
+Northside: Lawson&nbsp;house<br>
+Southside: Lyons house<br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
 Venue: Ming and Nadia's house (Palmerston)<br>
-<strong>Topic: </strong>The Author (the Captain) of Salvation and the Forerunner Leading Many Sons into Glory by Entering within the Veil and Going outside the Camp</p>
+<strong>Topic: </strong>Looking Away unto Jesus, the Author and Perfecter of Our Faith</p>
 </blockquote>
 
-<p><span>2.&nbsp;PLEDGE OFFERING FOR SYDNEY CONFERENCE &amp; TRAINING CENTRE&nbsp;(SCTC)</span></p>
+<p><span>2. CHERRY PICKING</span></p>
 
 <blockquote>
-<p>The Church in Canberra will participate in offering towards the&nbsp;renovation of the SCTC. We strongly encourage the saints to go before the Lord to seize the opportunity to&nbsp;participate in this project. Either&nbsp;use the online form (see link below)&nbsp;or a&nbsp;physical&nbsp;form in the meeting hall to pledge. Please complete the form on or before 7th of September 2025 and take note of the offering account details, dates and deadline.<br>
-<br>
-Be reminded&nbsp;that the offering was&nbsp;due 31st of Oct. Please send offering as soon as you can.&nbsp;<br>
-<br>
-Pledge form:&nbsp;<a href="https://www.churchincanberra.org/sctc-pledge/" target="_blank">Click Here</a></p>
+<p>Date: 13th December 2025<br>
+Time: 10:30am<br>
+Location: Allambie Orchard<br>
+Address: 3725 Olympic Hwy, Wombat NSW 2587<br>
+We aim to have picnic style lunch at 12&nbsp;noon near the lake.<br>
+Potlock - saints are encourage to bring a dish for sharing</p>
 </blockquote>
 
 <p><span>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 31:&nbsp;commencing Monday<br>
+<p>Week 32:&nbsp;commencing Monday<br>
 HWMR Title:&nbsp;EXPERIENCING, ENJOYING, AND EXPRESSING CHRIST (3) - VOLUME 6<br>
-Week 31&nbsp;Title: The Author (the Captain) of Salvation and the Forerunner Leading Many Sons into Glory by Entering within the Veil and Going outside the Camp</p>
+Week 32&nbsp;Title:&nbsp;Looking Away unto Jesus, the Author and Perfecter of Our Faith</p>
 </blockquote>
 
 <p><font><span>4. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of Acts message 13&nbsp;and 14.</p>
+<p>Life Study of Acts message 15&nbsp;and 16.</p>
 </blockquote>
 
                         </td>
@@ -117,14 +118,7 @@ Week 31&nbsp;Title: The Author (the Captain) of Salvation and the Forerunner Lea
                         
                             <p><span><u>TRAINING &amp; CONFERENCES</u>&nbsp;</span></p>
 
-<p><font><font><span>1.&nbsp; WAGGA&nbsp;BLENDING&nbsp;</span></font></font></p>
-
-<blockquote>
-<p><font><span>Dates: 22-23 November&nbsp;2025<br>
-Registration: <a href="https://form.jotform.com/253043238948866" target="_blank">click here</a></span></font></p>
-</blockquote>
-
-<p><font><font><span>2.&nbsp; NATIONAL BLENDING CONFERENCE (NBC) AND SUMMER SCHOOL OF TRUTH (SSOT)</span></font></font></p>
+<p><font><font><span>1.&nbsp; NATIONAL BLENDING CONFERENCE (NBC) AND SUMMER SCHOOL OF TRUTH (SSOT)</span></font></font></p>
 
 <blockquote>
 <p><font><span>Dates: 19-23 December 2025<br>
@@ -351,7 +345,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13899551" target="_blank">Announcement 16/11/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13899390" target="_blank">Announcement 09/11/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13899154" target="_blank">Announcement 02/11/2025</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13899728" target="_blank">Announcement 23/11/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13899551" target="_blank">Announcement 16/11/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13899390" target="_blank">Announcement 09/11/2025</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
