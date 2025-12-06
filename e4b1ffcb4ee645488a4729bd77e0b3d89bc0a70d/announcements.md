@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>30th November&nbsp;2025</span></strong></p>
+<strong><span>7th November&nbsp;2025</span></strong></p>
 </div>
 
                         </td>
@@ -64,10 +64,10 @@ nofollow: true
 <blockquote>
 <p><strong>English speaking - Friday 7pm</strong><br>
 Northside: Lawson&nbsp;house<br>
-Southside: Lyons house<br>
+Southside: Steer's&nbsp;house (Banks)<br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
-Venue: Ming and Nadia's house (Palmerston)<br>
-<strong>Topic: </strong>Looking Away unto Jesus, the Author and Perfecter of Our Faith</p>
+Venue: Victor&nbsp;and Bing's house (Lyons)<br>
+<strong>Topic: </strong>The Vision, Experience, Enjoyment, and Expression of the Supreme Preciousness of Christ for the Genuine Church Life</p>
 </blockquote>
 
 <p><span>2. CHERRY PICKING</span></p>
@@ -84,15 +84,15 @@ Potlock - saints are encourage to bring a dish for sharing</p>
 <p><span>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 32:&nbsp;commencing Monday<br>
+<p>Week 33:&nbsp;commencing Monday<br>
 HWMR Title:&nbsp;EXPERIENCING, ENJOYING, AND EXPRESSING CHRIST (3) - VOLUME 6<br>
-Week 32&nbsp;Title:&nbsp;Looking Away unto Jesus, the Author and Perfecter of Our Faith</p>
+Week 33&nbsp;Title:&nbsp;The Vision, Experience, Enjoyment, and Expression of the Supreme Preciousness of Christ for the Genuine Church Life</p>
 </blockquote>
 
 <p><font><span>4. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of Acts message 15&nbsp;and 16.</p>
+<p>Life Study of Acts message 17&nbsp;and 18</p>
 </blockquote>
 
                         </td>
@@ -255,7 +255,7 @@ Thursday&nbsp;9pm using&nbsp;the church in Canberra regular zoom meeting.<br>
 Burden: Our high-schoolers and the LD HS meeting.<br>
 <br>
 <u><strong>Migration and Europe</strong></u><br>
-Lord's Day 8:45&nbsp;pm using the church in Canberra regular zoom meeting.<br>
+Saturday 8:45&nbsp;pm using the church in Canberra regular zoom meeting.<br>
 <a href="https://www.lme.org/pdfs/PrayerBurdens807.pdf" target="_blank">Burdens related to Europe:</a><a href="https://www.lme.org/pdfs/PrayerBurdens807.pdf" target="_blank">&nbsp;</a><br>
 (1) To pray that the Lord would open the way for migration in Australia. (2) The Lord's move in Europe and the upcoming gospel trips in Italy.</p>
 </blockquote>
@@ -345,7 +345,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13899728" target="_blank">Announcement 23/11/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13899551" target="_blank">Announcement 16/11/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13899390" target="_blank">Announcement 09/11/2025</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13899880" target="_blank">Announcement 30/11/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13899728" target="_blank">Announcement 23/11/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13899551" target="_blank">Announcement 16/11/2025</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
