@@ -201,27 +201,48 @@
   singular: true
   date: '2026-12-26'
   location: 'Anaheim, California'
-- id: regnz20250418
+- id: regnz20260123
+  name: New Zealand Blending Conference
+  description: 'https://nztc.ac.nz/events/'
+  category: Regional
+  singular: true
+  date: '2026-01-23'
+  location: 'Hamilton, New Zealand, and Zoom'
+- id: regnz20260124
+  name: New Zealand Blending Conference
+  description: 'https://nztc.ac.nz/events/'
+  category: Regional
+  singular: true
+  date: '2026-01-24'
+  location: 'Hamilton, New Zealand, and Zoom'
+- id: regnz20260125
+  name: New Zealand Blending Conference
+  description: 'https://nztc.ac.nz/events/'
+  category: Regional
+  singular: true
+  date: '2026-01-25'
+  location: 'Hamilton, New Zealand, and Zoom'
+- id: regnz20260403
   name: New Zealand National Conference
   description: 'https://nztc.ac.nz/national-conference/'
   category: Regional
   singular: true
-  date: '2025-04-18'
-  location: 'Hamilton, New Zealand'
-- id: regnz20250419
+  date: '2026-04-03'
+  location: 'Hamilton, New Zealand, and Zoom'
+- id: regnz20260404
   name: New Zealand National Conference
   description: 'https://nztc.ac.nz/national-conference/'
   category: Regional
   singular: true
-  date: '2025-04-19'
-  location: 'Hamilton, New Zealand'
-- id: regnz20250420
+  date: '2026-04-04'
+  location: 'Hamilton, New Zealand, and Zoom'
+- id: regnz20260405
   name: New Zealand National Conference
   description: 'https://nztc.ac.nz/national-conference/'
   category: Regional
   singular: true
-  date: '2025-04-20'
-  location: 'Hamilton, New Zealand'
+  date: '2026-04-05'
+  location: 'Hamilton, New Zealand, and Zoom'
 - id: regnz20250906
   name: Spring Sisters' Training
   description: 'https://nztc.ac.nz/events/'
@@ -355,26 +376,26 @@
   singular: true
   date: '2025-08-31'
   location: 'Honiara, Solomon Islands'
-- id: regper20250426
+- id: regper20260424
   name: Perth Blending Conference
   description: ''
   category: Regional
   singular: true
-  date: '2025-04-26'
+  date: '2026-04-24'
   location: 'Perth, WA, Australia'
-- id: regper20250427
+- id: regper20260425
   name: Perth Blending Conference
   description: ''
   category: Regional
   singular: true
-  date: '2025-04-27'
+  date: '2026-04-25'
   location: 'Perth, WA, Australia'
-- id: regper20250425
+- id: regper20260426
   name: Perth Blending Conference
   description: ''
   category: Regional
   singular: true
-  date: '2025-04-25'
+  date: '2026-04-26'
   location: 'Perth, WA, Australia'
 - id: regsuv20251206
   name: South Pacific Blending Conference
@@ -509,33 +530,33 @@
   singular: true
   date: '2025-06-05'
   location: 'Adelaide, SA, Australia'
-- id: nat20250607
+- id: nat20260605
   name: National Serving Ones' Training
   description: ''
   category: National
   singular: true
-  date: '2025-06-07'
+  date: '2026-06-05'
   location: 'Adelaide, SA, Australia'
-- id: nat20250608
+- id: nat20260606
   name: National Serving Ones' Training
   description: ''
   category: National
   singular: true
-  date: '2025-06-08'
+  date: '2026-06-06'
   location: 'Adelaide, SA, Australia'
-- id: nat20250609
+- id: nat20260607
   name: National Serving Ones' Training
   description: ''
   category: National
   singular: true
-  date: '2025-06-09'
+  date: '2026-06-07'
   location: 'Adelaide, SA, Australia'
-- id: nat20250606
+- id: nat20260608
   name: National Serving Ones' Training
   description: ''
   category: National
   singular: true
-  date: '2025-06-06'
+  date: '2026-06-08'
   location: 'Adelaide, SA, Australia'
 - id: nat20250705
   name: National High-Schoolers' Conference
@@ -572,41 +593,48 @@
   singular: true
   date: '2025-07-10'
   location: 'Sydney, NSW, Australia'
-- id: nat20250710b
+- id: nat20260710b
   name: National University Age Conference
   description: ''
   category: National
   singular: true
-  date: '2025-07-10'
+  date: '2026-07-10'
   location: 'Sydney, NSW, Australia'
-- id: nat20250711
+- id: nat20260711
   name: National University Age Conference
   description: ''
   category: National
   singular: true
-  date: '2025-07-11'
+  date: '2026-07-11'
   location: 'Sydney, NSW, Australia'
-- id: nat20250712
+- id: nat20260712
   name: National University Age Conference
   description: ''
   category: National
   singular: true
-  date: '2025-07-12'
+  date: '2026-07-12'
   location: 'Sydney, NSW, Australia'
-- id: nat20250713
+- id: nat20260713
   name: National University Age Conference
   description: ''
   category: National
   singular: true
-  date: '2025-07-13'
+  date: '2026-07-13'
   location: 'Sydney, NSW, Australia'
-- id: nat20250830
+- id: nat20260829
   name: Parents' and Serving Ones' Conference
   description: ''
   category: National
   singular: true
-  date: '2025-08-30'
-  location: 'Sydney, Australia'
+  date: '2026-08-29'
+  location: 'Sydney, NSW, Australia'
+- id: nat20260830
+  name: Parents' and Serving Ones' Conference
+  description: ''
+  category: National
+  singular: true
+  date: '2026-08-30'
+  location: 'Sydney, NSW, Australia'
 - id: nat20251019
   name: Biannual Perfecting Training
   description: ''
