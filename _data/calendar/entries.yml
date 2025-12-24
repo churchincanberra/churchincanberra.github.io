@@ -1,206 +1,206 @@
-- id: int20250214
+- id: int20260213
   name: International Chinese-Speaking Conference
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
-  date: '2025-02-14'
-  location: 'Anaheim, CA, United States'
-- id: int20250216
+  date: '2026-02-13'
+  location: 'Anaheim, California'
+- id: int20260214
   name: International Chinese-Speaking Conference
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
-  date: '2025-02-15'
-  location: 'Anaheim, CA, United States'
-- id: int20250215
+  date: '2026-02-14'
+  location: 'Anaheim, California'
+- id: int20260215
   name: International Chinese-Speaking Conference
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
-  date: '2025-02-16'
-  location: 'Anaheim, CA, United States'
-- id: int20250404
+  date: '2026-02-15'
+  location: 'Anaheim, California'
+- id: int20260320
   name: International Training for Elders & Responsible Ones
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
-  date: '2025-04-04'
-  location: 'Anaheim, CA, United States'
-- id: int20250405
+  date: '2026-03-20'
+  location: 'Anaheim, California'
+- id: int20260321
   name: International Training for Elders & Responsible Ones
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
-  date: '2025-04-05'
-  location: 'Anaheim, CA, United States'
-- id: int20250406
+  date: '2026-03-21'
+  location: 'Anaheim, California'
+- id: int20260322
   name: International Training for Elders & Responsible Ones
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
-  date: '2025-04-06'
-  location: 'Anaheim, CA, United States'
-- id: int20250524
+  date: '2026-03-22'
+  location: 'Anaheim, California'
+- id: int20260522
   name: Memorial Day Blending Conference
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
-  date: '2025-05-24'
-  location: 'Phoenix, AZ, United States'
-- id: int20250525
+  date: '2026-05-22'
+  location: 'Dallas, Texas'
+- id: int20260523
   name: Memorial Day Blending Conference
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
-  date: '2025-05-25'
-  location: 'Phoenix, AZ, United States'
-- id: int20250526
+  date: '2026-05-23'
+  location: 'Dallas, Texas'
+- id: int20260524
   name: Memorial Day Blending Conference
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
-  date: '2025-05-26'
-  location: 'Phoenix, AZ, United States'
-- id: int20250523
+  date: '2026-05-24'
+  location: 'Dallas, Texas'
+- id: int20260525
   name: Memorial Day Blending Conference
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
-  date: '2025-05-23'
-  location: 'Phoenix, AZ, United States'
-- id: int20250701
+  date: '2026-05-25'
+  location: 'Dallas, Texas'
+- id: int20260629
   name: July Semiannual Training
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
-  date: '2025-07-01'
-  location: 'Anaheim, CA, United States'
-- id: int20250702
+  date: '2026-06-29'
+  location: 'Anaheim, California'
+- id: int20260630
   name: July Semiannual Training
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
-  date: '2025-07-02'
-  location: 'Anaheim, CA, United States'
-- id: int20250703
+  date: '2026-06-30'
+  location: 'Anaheim, California'
+- id: int20260701
   name: July Semiannual Training
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
-  date: '2025-07-03'
-  location: 'Anaheim, CA, United States'
-- id: int20250704
+  date: '2026-07-01'
+  location: 'Anaheim, California'
+- id: int20260702
   name: July Semiannual Training
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
-  date: '2025-07-04'
-  location: 'Anaheim, CA, United States'
-- id: int20250705
+  date: '2026-07-02'
+  location: 'Anaheim, California'
+- id: int20260703
   name: July Semiannual Training
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
-  date: '2025-07-05'
-  location: 'Anaheim, CA, United States'
-- id: int20250630
+  date: '2026-07-03'
+  location: 'Anaheim, California'
+- id: int20260704
   name: July Semiannual Training
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
-  date: '2025-06-30'
-  location: 'Anaheim, CA, United States'
-- id: int20250925
+  date: '2026-07-04'
+  location: 'Anaheim, California'
+- id: int20260924
   name: International Training for Elders & Responsible Ones
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
-  date: '2025-09-25'
-  location: TBD
-- id: int20250926
+  date: '2026-09-24'
+  location: 'Amsterdam, Netherlands'
+- id: int20260925
   name: International Training for Elders & Responsible Ones
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
-  date: '2025-09-26'
-  location: TBD
-- id: int20250927
+  date: '2026-09-25'
+  location: 'Amsterdam, Netherlands'
+- id: int20260926
   name: International Training for Elders & Responsible Ones
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
-  date: '2025-09-27'
-  location: TBD
-- id: int20251128
+  date: '2026-09-26'
+  location: 'Amsterdam, Netherlands'
+- id: int20261126
   name: Thanksgiving Blending Conference
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
-  date: '2025-11-28'
-  location: 'Indianapolis, IN, United States'
-- id: int20251129
+  date: '2026-11-26'
+  location: 'Denver, Colorado'
+- id: int20261127
   name: Thanksgiving Blending Conference
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
-  date: '2025-11-29'
-  location: 'Indianapolis, IN, United States'
-- id: int20251130
+  date: '2026-11-27'
+  location: 'Denver, Colorado'
+- id: int20261128
   name: Thanksgiving Blending Conference
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
-  date: '2025-11-30'
-  location: 'Indianapolis, IN, United States'
-- id: int20251127
+  date: '2026-11-28'
+  location: 'Denver, Colorado'
+- id: int20261129
   name: Thanksgiving Blending Conference
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
-  date: '2025-11-27'
-  location: 'Indianapolis, IN, United States'
-- id: int20251223
+  date: '2026-11-29'
+  location: 'Denver, Colorado'
+- id: int20261221
   name: December Semiannual Training
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
-  date: '2025-12-23'
-  location: 'Anaheim, CA, United States'
-- id: int20251224
+  date: '2026-12-21'
+  location: 'Anaheim, California'
+- id: int20261222
   name: December Semiannual Training
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
-  date: '2025-12-24'
-  location: 'Anaheim, CA, United States'
-- id: int20251225
+  date: '2026-12-22'
+  location: 'Anaheim, California'
+- id: int20261223
   name: December Semiannual Training
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
-  date: '2025-12-25'
-  location: 'Anaheim, CA, United States'
-- id: int20251226
+  date: '2026-12-23'
+  location: 'Anaheim, California'
+- id: int20261224
   name: December Semiannual Training
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
-  date: '2025-12-26'
-  location: 'Anaheim, CA, United States'
-- id: int20251227
+  date: '2026-12-24'
+  location: 'Anaheim, California'
+- id: int20261225
   name: December Semiannual Training
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
-  date: '2025-12-27'
-  location: 'Anaheim, CA, United States'
-- id: int20251222
+  date: '2026-12-25'
+  location: 'Anaheim, California'
+- id: int20261226
   name: December Semiannual Training
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
-  date: '2025-12-22'
-  location: 'Anaheim, CA, United States'
+  date: '2026-12-26'
+  location: 'Anaheim, California'
 - id: regnz20250418
   name: New Zealand National Conference
   description: 'https://nztc.ac.nz/national-conference/'
