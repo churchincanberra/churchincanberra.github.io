@@ -4,112 +4,112 @@
   category: International
   singular: true
   date: '2026-02-13'
-  location: 'Anaheim, California'
+  location: 'Anaheim, California, USA'
 - id: int20260214
   name: International Chinese-Speaking Conference
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
   date: '2026-02-14'
-  location: 'Anaheim, California'
+  location: 'Anaheim, California, USA'
 - id: int20260215
   name: International Chinese-Speaking Conference
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
   date: '2026-02-15'
-  location: 'Anaheim, California'
+  location: 'Anaheim, California, USA'
 - id: int20260320
   name: International Training for Elders & Responsible Ones
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
   date: '2026-03-20'
-  location: 'Anaheim, California'
+  location: 'Anaheim, California, USA'
 - id: int20260321
   name: International Training for Elders & Responsible Ones
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
   date: '2026-03-21'
-  location: 'Anaheim, California'
+  location: 'Anaheim, California, USA'
 - id: int20260322
   name: International Training for Elders & Responsible Ones
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
   date: '2026-03-22'
-  location: 'Anaheim, California'
+  location: 'Anaheim, California, USA'
 - id: int20260522
   name: Memorial Day Blending Conference
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
   date: '2026-05-22'
-  location: 'Dallas, Texas'
+  location: 'Dallas, Texas, USA'
 - id: int20260523
   name: Memorial Day Blending Conference
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
   date: '2026-05-23'
-  location: 'Dallas, Texas'
+  location: 'Dallas, Texas, USA'
 - id: int20260524
   name: Memorial Day Blending Conference
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
   date: '2026-05-24'
-  location: 'Dallas, Texas'
+  location: 'Dallas, Texas, USA'
 - id: int20260525
   name: Memorial Day Blending Conference
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
   date: '2026-05-25'
-  location: 'Dallas, Texas'
+  location: 'Dallas, Texas, USA'
 - id: int20260629
   name: July Semiannual Training
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
   date: '2026-06-29'
-  location: 'Anaheim, California'
+  location: 'Anaheim, California, USA'
 - id: int20260630
   name: July Semiannual Training
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
   date: '2026-06-30'
-  location: 'Anaheim, California'
+  location: 'Anaheim, California, USA'
 - id: int20260701
   name: July Semiannual Training
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
   date: '2026-07-01'
-  location: 'Anaheim, California'
+  location: 'Anaheim, California, USA'
 - id: int20260702
   name: July Semiannual Training
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
   date: '2026-07-02'
-  location: 'Anaheim, California'
+  location: 'Anaheim, California, USA'
 - id: int20260703
   name: July Semiannual Training
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
   date: '2026-07-03'
-  location: 'Anaheim, California'
+  location: 'Anaheim, California, USA'
 - id: int20260704
   name: July Semiannual Training
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
   date: '2026-07-04'
-  location: 'Anaheim, California'
+  location: 'Anaheim, California, USA'
 - id: int20260924
   name: International Training for Elders & Responsible Ones
   description: 'https://www.lsm.org/events'
@@ -137,35 +137,35 @@
   category: International
   singular: true
   date: '2026-11-26'
-  location: 'Denver, Colorado'
+  location: 'Denver, Colorado, USA'
 - id: int20261127
   name: Thanksgiving Blending Conference
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
   date: '2026-11-27'
-  location: 'Denver, Colorado'
+  location: 'Denver, Colorado, USA'
 - id: int20261128
   name: Thanksgiving Blending Conference
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
   date: '2026-11-28'
-  location: 'Denver, Colorado'
+  location: 'Denver, Colorado, USA'
 - id: int20261129
   name: Thanksgiving Blending Conference
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
   date: '2026-11-29'
-  location: 'Denver, Colorado'
+  location: 'Denver, Colorado, USA'
 - id: int20261221
   name: December Semiannual Training
   description: 'https://www.lsm.org/events'
   category: International
   singular: true
   date: '2026-12-21'
-  location: 'Anaheim, California'
+  location: 'Anaheim, California, USA'
 - id: int20261222
   name: December Semiannual Training
   description: 'https://www.lsm.org/events'
