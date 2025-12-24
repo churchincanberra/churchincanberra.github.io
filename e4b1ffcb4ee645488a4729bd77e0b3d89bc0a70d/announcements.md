@@ -16,7 +16,7 @@ nofollow: true
 </style>
 
 <div class="row justify-content-end">
-  <a href="https://www-churchincanberra-org.translate.goog/e4b1ffcb4ee645488a4729bd77e0b3d89bc0a70d/announcements/?_x_tr_sl=en&_x_tr_tl=zh-cn&_x_tr_hl=auto" target="_blank" class="notranslate w-auto px-1">中文(简)</a>&VerticalLine;<a href="https://www-churchincanberra-org.translate.goog/e4b1ffcb4ee645488a4729bd77e0b3d89bc0a70d/announcements/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=auto" target="_blank" class="notranslate w-auto px-1">Español</a>
+  <a href="https://www-churchincanberra-org.translate.goog/e4b1ffcb4ee645488a4729bd77e0b3d89bc0a70d/announcements/?_x_tr_sl=en&_x_tr_tl=zh-cn&_x_tr_hl=auto" target="_blank" class="notranslate w-auto px-1">中文(简)</a>
 </div>
 
 <!-- ANNOUNCEMENT:START -->
@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>30th November&nbsp;2025</span></strong></p>
+<strong><span>14th November&nbsp;2025</span></strong></p>
 </div>
 
                         </td>
@@ -63,36 +63,31 @@ nofollow: true
 
 <blockquote>
 <p><strong>English speaking - Friday 7pm</strong><br>
-Northside: Lawson&nbsp;house<br>
-Southside: Lyons house<br>
+Northside: Not on due to NBC.<br>
+Southside:&nbsp;Not on due to NBC.<br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
 Venue: Ming and Nadia's house (Palmerston)<br>
-<strong>Topic: </strong>Looking Away unto Jesus, the Author and Perfecter of Our Faith</p>
+<strong>Topic: </strong>Shepherding according to God</p>
 </blockquote>
 
-<p><span>2. CHERRY PICKING</span></p>
+<p><span>2. ANNUAL GENERAL MEETING</span></p>
 
 <blockquote>
-<p>Date: 13th December 2025<br>
-Time: 10:30am<br>
-Location: Allambie Orchard<br>
-Address: 3725 Olympic Hwy, Wombat NSW 2587<br>
-We aim to have picnic style lunch at 12&nbsp;noon near the lake.<br>
-Potlock - saints are encourage to bring a dish for sharing</p>
+<p>The Church in Canberra is a registered charity and is required at law to have an&nbsp;Annual General Meeting. This years&nbsp;meeting&nbsp;will be held following the&nbsp;meeting&nbsp;at 12:15 (today). The&nbsp;meeting&nbsp;will take less than 15 minutes. Saints are welcome to stay for the proceedings. The church&nbsp;annual&nbsp;financial report will also be delivered during the&nbsp;meeting.</p>
 </blockquote>
 
 <p><span>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 32:&nbsp;commencing Monday<br>
+<p>Week 34:&nbsp;commencing Monday<br>
 HWMR Title:&nbsp;EXPERIENCING, ENJOYING, AND EXPRESSING CHRIST (3) - VOLUME 6<br>
-Week 32&nbsp;Title:&nbsp;Looking Away unto Jesus, the Author and Perfecter of Our Faith</p>
+Week 34&nbsp;Title:&nbsp;Shepherding according to God</p>
 </blockquote>
 
 <p><font><span>4. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of Acts message 15&nbsp;and 16.</p>
+<p>Life Study of Acts message 19&nbsp;and 20</p>
 </blockquote>
 
                         </td>
@@ -160,11 +155,10 @@ Junior SSOT registration and details: <a href="https://ssot.site/" target="_blan
                             <p><span><u>AUDIO&nbsp;AND VIDEO RECORDINGS&nbsp;FROM RECENT TRAININGS AND CONFERENCES</u>&nbsp;</span><br>
 &nbsp;</p>
 
-<p><span>1. NATIONAL SERVING ONES TRAINING&nbsp;(NSOT) JUNE&nbsp;2025</span></p>
+<p><span>1. BIANNUAL PERFECTING TRAINING&nbsp;OCTOBER 2025</span></p>
 
 <blockquote>
-<p>General Subject:&nbsp;One Accord and Crucial Aspects of the Book of Acts<br>
-The recorded messages are ready for download: <a href="https://drive.google.com/drive/folders/1P3xb3yYnhREl-OMUC_urFY9sY6t6RGqh" target="_blank">Click here&nbsp;</a> &nbsp;</p>
+<p>The recorded messages are ready for download: <a href="https://drive.google.com/drive/folders/1Pk5aLQ9JED-JA7FKamQa6tI2kRnmeBWM" target="_blank">Click here</a></p>
 </blockquote>
 
                         </td>
@@ -255,7 +249,7 @@ Thursday&nbsp;9pm using&nbsp;the church in Canberra regular zoom meeting.<br>
 Burden: Our high-schoolers and the LD HS meeting.<br>
 <br>
 <u><strong>Migration and Europe</strong></u><br>
-Lord's Day 8:45&nbsp;pm using the church in Canberra regular zoom meeting.<br>
+Saturday 8:45&nbsp;pm using the church in Canberra regular zoom meeting.<br>
 <a href="https://www.lme.org/pdfs/PrayerBurdens807.pdf" target="_blank">Burdens related to Europe:</a><a href="https://www.lme.org/pdfs/PrayerBurdens807.pdf" target="_blank">&nbsp;</a><br>
 (1) To pray that the Lord would open the way for migration in Australia. (2) The Lord's move in Europe and the upcoming gospel trips in Italy.</p>
 </blockquote>
@@ -345,7 +339,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13899728" target="_blank">Announcement 23/11/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13899551" target="_blank">Announcement 16/11/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13899390" target="_blank">Announcement 09/11/2025</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13900012" target="_blank">Announcement 07/12/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13899880" target="_blank">Announcement 30/11/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13899728" target="_blank">Announcement 23/11/2025</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
