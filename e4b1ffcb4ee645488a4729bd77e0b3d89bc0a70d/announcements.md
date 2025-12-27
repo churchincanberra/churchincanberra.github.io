@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p><strong><span>ANNOUNCEMENTS – THE CHURCH IN CANBERRA</span></strong><span><span>&nbsp;</span></span><br>
-<strong><span>14th November&nbsp;2025</span></strong></p>
+<strong><span>28th December 2025</span></strong></p>
 </div>
 
                         </td>
@@ -63,31 +63,31 @@ nofollow: true
 
 <blockquote>
 <p><strong>English speaking - Friday 7pm</strong><br>
-Northside: Not on due to NBC.<br>
-Southside:&nbsp;Not on due to NBC.<br>
+Northside: Combined with south.<br>
+Southside: Lyons house<br>
 <strong>Chinese speaking - Wednesday 6:30 pm</strong><br>
 Venue: Ming and Nadia's house (Palmerston)<br>
-<strong>Topic: </strong>Shepherding according to God</p>
+<strong>Topic: </strong>The True One</p>
 </blockquote>
 
-<p><span>2. ANNUAL GENERAL MEETING</span></p>
+<p><span>2. CALENDAR FROM THE CHURCH IN SYDNEY</span></p>
 
 <blockquote>
-<p>The Church in Canberra is a registered charity and is required at law to have an&nbsp;Annual General Meeting. This years&nbsp;meeting&nbsp;will be held following the&nbsp;meeting&nbsp;at 12:15 (today). The&nbsp;meeting&nbsp;will take less than 15 minutes. Saints are welcome to stay for the proceedings. The church&nbsp;annual&nbsp;financial report will also be delivered during the&nbsp;meeting.</p>
+<p>Please <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/5dc1b5dc-30b1-5415-1caf-c87794e5c8c7/Church_Planner_2026.pdf" target="_blank">click here</a></p>
 </blockquote>
 
 <p><span>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</span></p>
 
 <blockquote>
-<p>Week 34:&nbsp;commencing Monday<br>
+<p>Week 36:&nbsp;commencing Monday<br>
 HWMR Title:&nbsp;EXPERIENCING, ENJOYING, AND EXPRESSING CHRIST (3) - VOLUME 6<br>
-Week 34&nbsp;Title:&nbsp;Shepherding according to God</p>
+Week 36&nbsp;Title:&nbsp;The True One</p>
 </blockquote>
 
 <p><font><span>4. LIFE STUDY PURSUIT</span></font></p>
 
 <blockquote>
-<p>Life Study of Acts message 19&nbsp;and 20</p>
+<p>Life Study of Acts message 23 and 24</p>
 </blockquote>
 
                         </td>
@@ -113,22 +113,11 @@ Week 34&nbsp;Title:&nbsp;Shepherding according to God</p>
                         
                             <p><span><u>TRAINING &amp; CONFERENCES</u>&nbsp;</span></p>
 
-<p><font><font><span>1.&nbsp; NATIONAL BLENDING CONFERENCE (NBC) AND SUMMER SCHOOL OF TRUTH (SSOT)</span></font></font></p>
+<p><font><font><span>1.&nbsp; VIDEO TRAINING</span></font></font></p>
 
 <blockquote>
-<p><font><span>Dates: 19-23 December 2025<br>
-Deadline of Registration: extended&nbsp; until 27&nbsp;October 2025<br>
-Please transfer&nbsp;Registration fee&nbsp;on or before&nbsp;1st December 2025<br>
-(Church in&nbsp; Canberra General Purpose&nbsp;Account - BSB: 062-914 , Account: 1085-8512)&nbsp;<br>
-<br>
-<strong>NBC &amp; Senior SSOT</strong><br>
-Location:&nbsp;The Tops Conference Centre (Stanwell Tops)<br>
-NBC registration and details: <a href="https://new.express.adobe.com/webpage/IJt4NsWT9gi3a" target="_blank">click here</a><br>
-Senior SSOT registration and details: <a href="https://ssot.site/" target="_blank">click here</a><br>
-<br>
-<strong>Junior SSOT</strong><br>
-Location:&nbsp;CRU Galston Gorge Camp &amp; Conference Centre (Galston)<br>
-Junior SSOT registration and details: <a href="https://ssot.site/" target="_blank">click here</a></span></font></p>
+<p><font><span>Dates: Feb 2026<br>
+Registration: coming early Jan</span></font></p>
 </blockquote>
 
                         </td>
@@ -185,14 +174,7 @@ Junior SSOT registration and details: <a href="https://ssot.site/" target="_blan
                             <p><a href="http://INTERNATIONAL ANNOUNCEMENTS" target="_blank"><u><span>INTERNATIONAL ANNOUNCEMENTS</span></u></a><br>
 &nbsp;</p>
 
-<p><span>1.&nbsp;JUBILEE WEEK (NZ)</span></p>
-
-<blockquote>
-<p><font><span>Dates: 23 - 25 November 2025<br>
-Details:&nbsp;<a href="https://nztc.ac.nz/jubilee/" target="_blank">click here</a></span></font></p>
-</blockquote>
-
-<p><span>2.&nbsp;BLENDING CONFERENCE WITH BROTHER JAMES LEE (NZ)</span></p>
+<p><span>1.&nbsp;BLENDING CONFERENCE WITH BROTHER JAMES LEE (NZ)</span></p>
 
 <blockquote>
 <p><font><span>Dates: 23 - 25 January 2026<br>
@@ -258,15 +240,15 @@ Saturday 8:45&nbsp;pm using the church in Canberra regular zoom meeting.<br>
 
 <blockquote>
 <p>Next Meeting: TBC<br>
-Future Dates: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/caf880c7-9e17-1d97-a079-9cd34e5a13f9/Coordination_Meeting_Schedule_2025.01.pdf" target="_blank">click here</a><br>
+Future Dates: <em>2026 dates coming soon</em><br>
 <br>
-This&nbsp;meeting&nbsp;is open to saints serving (or endeavoring to serve) and is predominantly a time to enjoy the Lord so that we may be built up together in our service. There will be Zoom available for those who cannot join physically.</p>
+This&nbsp;meeting&nbsp;is open to saints serving (or endeavouring to serve) and is predominantly a time to enjoy the Lord so that we may be built up together in our service. There will be Zoom available for those who cannot join physically.</p>
 </blockquote>
 
 <p><span>D. CALENDAR FROM THE CHURCH IN SYDNEY</span></p>
 
 <blockquote>
-<p>Please <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/69a41739-1456-dcdf-4b30-45870dd9e049/Church_Planner_2025_version_1_4__4146108f_06fb_421f_b5ff_e7065bba4ed1.pdf" target="_blank">click here</a></p>
+<p>Please <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/5dc1b5dc-30b1-5415-1caf-c87794e5c8c7/Church_Planner_2026.pdf" target="_blank">click here</a></p>
 </blockquote>
 
 <p><span>E. CHURCH IN CANBERRA VARIOUS OFFERING ACCOUNTS</span></p>
@@ -339,7 +321,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13900012" target="_blank">Announcement 07/12/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13899880" target="_blank">Announcement 30/11/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13899728" target="_blank">Announcement 23/11/2025</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13900186" target="_blank">Announcement 14/12/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13900012" target="_blank">Announcement 07/12/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13899880" target="_blank">Announcement 30/11/2025</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
