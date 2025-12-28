@@ -243,139 +243,132 @@
   singular: true
   date: '2026-04-05'
   location: 'Hamilton, New Zealand, and Zoom'
-- id: regnz20250906
-  name: Spring Sisters' Training
+- id: regnz20260508
+  name: National Sisters' Blending Conference
   description: 'https://nztc.ac.nz/events/'
   category: Regional
   singular: true
-  date: '2025-09-06'
-  location: 'Hamilton, New Zealand'
-- id: regnz20250907
-  name: Spring Sisters' Training
+  date: '2026-05-08'
+  location: 'Hamilton, New Zealand, and Zoom'
+- id: regnz20260509
+  name: National Sisters' Blending Conference
   description: 'https://nztc.ac.nz/events/'
   category: Regional
   singular: true
-  date: '2025-09-07'
-  location: 'Hamilton, New Zealand'
-- id: regnz20250908
-  name: Spring Sisters' Training
+  date: '2026-05-09'
+  location: 'Hamilton, New Zealand, and Zoom'
+- id: regnz20260510
+  name: National Sisters' Blending Conference
   description: 'https://nztc.ac.nz/events/'
   category: Regional
   singular: true
-  date: '2025-09-05'
-  location: 'Hamilton, New Zealand'
-- id: regftt20251117
-  name: FTTH Jubilee Week
+  date: '2026-05-10'
+  location: 'Hamilton, New Zealand, and Zoom'
+- id: regftt20261122
+  name: FTT Jubilee Week
   description: ''
   category: Regional
   singular: true
-  date: '2025-11-23'
+  date: '2026-11-22'
   location: 'Hamilton, New Zealand'
-- id: regftt20251118
-  name: FTTH Jubilee Week
+- id: regftt20261123
+  name: FTT Jubilee Week
   description: ''
   category: Regional
   singular: true
-  date: '2025-11-24'
+  date: '2026-11-23'
   location: 'Hamilton, New Zealand'
-- id: regftt20251119
-  name: FTTH Jubilee Week
+- id: regftt20261124
+  name: FTT Jubilee Week
   description: ''
   category: Regional
   singular: true
-  date: '2025-11-25'
+  date: '2026-11-24'
   location: 'Hamilton, New Zealand'
-- id: regftt20251120
-  name: FTTH Jubilee Week
+- id: regftt20261125
+  name: FTT Jubilee Week
   description: ''
   category: Regional
   singular: true
-  date: '2025-11-26'
+  date: '2026-11-25'
   location: 'Hamilton, New Zealand'
-- id: regftt20251121
-  name: FTTH Jubilee Week
+- id: regftt20261126
+  name: FTT Jubilee Week
   description: ''
   category: Regional
   singular: true
-  date: '2025-11-27'
+  date: '2026-11-26'
   location: 'Hamilton, New Zealand'
-- id: regftt20251122
-  name: FTTH Jubilee Week
+- id: regftt20261127
+  name: FTT Jubilee Week
   description: ''
   category: Regional
   singular: true
-  date: '2025-11-28'
+  date: '2026-11-27'
   location: 'Hamilton, New Zealand'
-- id: regftt20251123
-  name: FTTH Jubilee Week
+- id: regftt20261128
+  name: FTT Jubilee Week
   description: ''
   category: Regional
   singular: true
-  date: '2025-11-29'
+  date: '2026-11-28'
   location: 'Hamilton, New Zealand'
-- id: regcampus20251108
+- id: regcampus20261113
+  name: Campus Work Fellowship
+  description: ''
+  category: Regional
+  singular: true
+  date: '2026-11-13'
+  location: 'Sydney, NSW, Australia'
+- id: regcampus20261114
+  name: Campus Work Fellowship
+  description: ''
+  category: Regional
+  singular: true
+  date: '2026-11-14'
+  location: 'Sydney, NSW, Australia'
+- id: regcampus20261115
+  name: Campus Work Fellowship
+  description: ''
+  category: Regional
+  singular: true
+  date: '2026-11-15'
+  location: 'Sydney, NSW, Australia'
+- id: regelders20261114
   name: Elders & Player Coaches Fellowship
   description: ''
   category: Regional
   singular: true
-  date: '2025-11-08'
+  date: '2026-11-14'
   location: 'Sydney, NSW, Australia'
-- id: regcampus20251109b
-  name: Campus Work Fellowship
+- id: regelders20261115
+  name: Elders & Player Coaches Fellowship
   description: ''
   category: Regional
   singular: true
-  date: '2025-11-09'
+  date: '2026-11-15'
   location: 'Sydney, NSW, Australia'
-- id: regcampus20251108
-  name: Campus Work Fellowship
-  description: ''
-  category: Regional
-  singular: true
-  date: '2025-11-08'
-  location: 'Sydney, NSW, Australia'
-- id: regcns20250726
+- id: regcns20260724
   name: Cairns Blending Conference
   description: ''
   category: Regional
   singular: true
-  date: '2025-07-26'
+  date: '2026-07-24'
   location: 'Cairns, QLD, Australia'
-- id: regcns20250727
+- id: regcns20260725
   name: Cairns Blending Conference
   description: ''
   category: Regional
   singular: true
-  date: '2025-07-27'
+  date: '2026-07-25'
   location: 'Cairns, QLD, Australia'
-- id: regcns20250725
+- id: regcns20260726
   name: Cairns Blending Conference
   description: ''
   category: Regional
   singular: true
-  date: '2025-07-25'
+  date: '2026-07-26'
   location: 'Cairns, QLD, Australia'
-- id: regsol20250726
-  name: Solomon Islands Blending Conference
-  description: ''
-  category: Regional
-  singular: true
-  date: '2025-08-29'
-  location: 'Honiara, Solomon Islands'
-- id: regsol20250727
-  name: Solomon Islands Blending Conference
-  description: ''
-  category: Regional
-  singular: true
-  date: '2025-08-30'
-  location: 'Honiara, Solomon Islands'
-- id: regsol20250725
-  name: Solomon Islands Blending Conference
-  description: ''
-  category: Regional
-  singular: true
-  date: '2025-08-31'
-  location: 'Honiara, Solomon Islands'
 - id: regper20260424
   name: Perth Blending Conference
   description: ''
@@ -397,138 +390,89 @@
   singular: true
   date: '2026-04-26'
   location: 'Perth, WA, Australia'
-- id: regsuv20251206
+- id: regsuv20261204
   name: South Pacific Blending Conference
   description: ''
   category: Regional
   singular: true
-  date: '2025-12-06'
+  date: '2026-12-04'
   location: 'Suva, Fiji'
-- id: regsuv20251207
+- id: regsuv20261205
   name: South Pacific Blending Conference
   description: ''
   category: Regional
   singular: true
-  date: '2025-12-07'
+  date: '2026-12-05'
   location: 'Suva, Fiji'
-- id: regsuv20251205
+- id: regsuv20261206
   name: South Pacific Blending Conference
   description: ''
   category: Regional
   singular: true
-  date: '2025-12-05'
+  date: '2026-12-06'
   location: 'Suva, Fiji'
-- id: regsyd20250222
-  name: Sydney Campus Orientation Retreat
-  description: ''
-  category: Regional
-  singular: true
-  date: '2025-02-22'
-  location: 'Sydney, NSW, Australia'
-- id: regsyd20250418
-  name: Sydney Campus Retreat
-  description: ''
-  category: Regional
-  singular: true
-  date: '2025-04-18'
-  location: 'Sydney, NSW, Australia'
-- id: regsyd20250419
-  name: Sydney Campus Retreat
-  description: ''
-  category: Regional
-  singular: true
-  date: '2025-04-19'
-  location: 'Sydney, NSW, Australia'
-- id: regsyd20250420
-  name: Sydney Campus Retreat
-  description: ''
-  category: Regional
-  singular: true
-  date: '2025-04-20'
-  location: 'Sydney, NSW, Australia'
-- id: regsyd20251003
-  name: Sydney Campus Retreat
-  description: ''
-  category: Regional
-  singular: true
-  date: '2025-10-03'
-  location: 'Sydney, NSW, Australia'
-- id: regsyd20251004
-  name: Sydney Campus Retreat
-  description: ''
-  category: Regional
-  singular: true
-  date: '2025-10-04'
-  location: 'Sydney, NSW, Australia'
-- id: regsyd20251005
-  name: Sydney Campus Retreat
-  description: ''
-  category: Regional
-  singular: true
-  date: '2025-10-05'
-  location: 'Sydney, NSW, Australia'
-- id: regtas20250509
+- id: regtas20260306
   name: Tasmania Blending Conference
   description: ''
   category: Regional
   singular: true
-  date: '2025-05-09'
+  date: '2026-03-06'
   location: 'Launceston, TAS, Australia'
-- id: regtas20250510
+- id: regtas20260307
   name: Tasmania Blending Conference
   description: ''
   category: Regional
   singular: true
-  date: '2025-05-10'
+  date: '2026-03-07'
   location: 'Launceston, TAS, Australia'
-- id: regtas20250511
+- id: regtas20260308
   name: Tasmania Blending Conference
   description: ''
   category: Regional
   singular: true
-  date: '2025-05-11'
+  date: '2026-03-08'
   location: 'Launceston, TAS, Australia'
-- id: loc20250914
+- id: regcan20260912
   name: Canberra Blending Conference
   description: ''
   category: Local
   singular: true
-  date: '2025-09-14'
+  date: '2026-09-12'
   location: 'Canberra, ACT, Australia'
-- id: loc20250913
+- id: regcan20260913
   name: Canberra Blending Conference
   description: ''
   category: Local
   singular: true
-  date: '2025-09-13'
+  date: '2026-09-13'
   location: 'Canberra, ACT, Australia'
-- id: nat20250316
+- id: nat20260328
   name: Biannual Perfecting Training
   description: ''
   category: National
   singular: true
-  date: '2025-03-16'
+  date: '2026-03-28'
   location: 'Sydney, NSW, Australia'
-- id: nat20250315
+- id: nat20260329
   name: Biannual Perfecting Training
   description: ''
   category: National
   singular: true
-  date: '2025-03-15'
+  date: '2026-03-29'
   location: 'Sydney, NSW, Australia'
-- id: nat20250606
+- id: nat20260604
   name: Training for Serving Brothers
   description: ''
   category: National
   singular: true
-  date: '2025-06-06'
+  date: '2026-06-04'
   location: 'Adelaide, SA, Australia'
-- id: nat20250605
+- id: nat20260605b
   name: Training for Serving Brothers
   description: ''
   category: National
   singular: true
-  date: '2025-06-05'
+  date: '2026-06-05'
   location: 'Adelaide, SA, Australia'
 - id: nat20260605
   name: National Serving Ones' Training
@@ -558,40 +502,47 @@
   singular: true
   date: '2026-06-08'
   location: 'Adelaide, SA, Australia'
-- id: nat20250705
+- id: nat20260703
   name: National High-Schoolers' Conference
   description: ''
   category: National
   singular: true
-  date: '2025-07-05'
+  date: '2026-07-03'
   location: 'Brisbane, QLD, Australia'
-- id: nat20250706
+- id: nat20260704
   name: National High-Schoolers' Conference
   description: ''
   category: National
   singular: true
-  date: '2025-07-06'
+  date: '2026-07-04'
   location: 'Brisbane, QLD, Australia'
-- id: nat20250707
+- id: nat20260705
   name: National High-Schoolers' Conference
   description: ''
   category: National
   singular: true
-  date: '2025-07-07'
+  date: '2026-07-05'
   location: 'Brisbane, QLD, Australia'
-- id: nat20250704
+- id: nat20260706
   name: National High-Schoolers' Conference
   description: ''
   category: National
   singular: true
-  date: '2025-07-04'
+  date: '2026-07-06'
   location: 'Brisbane, QLD, Australia'
-- id: nat20250710
+- id: nat20260709
   name: Campus Clustering Fellowship
   description: ''
   category: National
   singular: true
-  date: '2025-07-10'
+  date: '2026-07-09'
+  location: 'Sydney, NSW, Australia'
+- id: nat20260710
+  name: Campus Clustering Fellowship
+  description: ''
+  category: National
+  singular: true
+  date: '2026-07-10'
   location: 'Sydney, NSW, Australia'
 - id: nat20260710b
   name: National University Age Conference
@@ -621,195 +572,125 @@
   singular: true
   date: '2026-07-13'
   location: 'Sydney, NSW, Australia'
+- id: nat20260828
+  name: Teachers' Training
+  description: ''
+  category: National
+  singular: true
+  date: '2026-08-28'
+  location: 'Sydney, NSW, Australia'
 - id: nat20260829
-  name: Parents' and Serving Ones' Conference
+  name: Parents and Serving Ones' Conference
   description: ''
   category: National
   singular: true
   date: '2026-08-29'
   location: 'Sydney, NSW, Australia'
 - id: nat20260830
-  name: Parents' and Serving Ones' Conference
+  name: Parents and Serving Ones' Conference
   description: ''
   category: National
   singular: true
   date: '2026-08-30'
   location: 'Sydney, NSW, Australia'
-- id: nat20251019
+- id: nat20261017
   name: Biannual Perfecting Training
   description: ''
   category: National
   singular: true
-  date: '2025-10-19'
-  location: 'Melbourne, VIC, Australia'
-- id: nat20251018
+  date: '2026-10-17'
+  location: 'Brisbane, QLD, Australia'
+- id: nat20261018
   name: Biannual Perfecting Training
   description: ''
   category: National
   singular: true
-  date: '2025-10-18'
-  location: 'Melbourne, VIC, Australia'
-- id: nat20251219
+  date: '2026-10-18'
+  location: 'Brisbane, QLD, Australia'
+- id: nat20261218
   name: Training for Serving Brothers
   description: ''
   category: National
   singular: true
-  date: '2025-12-19'
+  date: '2026-12-18'
   location: 'Sydney, NSW, Australia'
-- id: nat20251218
+- id: nat20261219c
   name: Training for Serving Brothers
   description: ''
   category: National
   singular: true
-  date: '2025-12-18'
+  date: '2026-12-19'
   location: 'Sydney, NSW, Australia'
-- id: nat20251219
+- id: nat20261219
   name: Summer School of Truth
   description: ''
   category: National
   singular: true
-  date: '2025-12-19'
-  location: 'The CRU Galston Gorge, Sydney, NSW, Australia'
-- id: nat20251219b
+  date: '2026-12-19'
+  location: 'TBC'
+- id: nat20261219b
   name: National Blending Conference
   description: ''
   category: National
   singular: true
-  date: '2025-12-19'
-  location: 'The Tops Conference Centre, Stanwell Tops, NSW, Australia'
-- id: nat20251220
+  date: '2026-12-19'
+  location: 'The Tops Conference Centre, Sydney, NSW, Australia'
+- id: nat20261220
   name: Summer School of Truth
   description: ''
   category: National
   singular: true
-  date: '2025-12-20'
-  location: 'The CRU Galston Gorge, Sydney, NSW, Australia'
-- id: nat20251220b
+  date: '2026-12-20'
+  location: 'TBC'
+- id: nat20261220b
   name: National Blending Conference
   description: ''
   category: National
   singular: true
-  date: '2025-12-20'
-  location: 'The Tops Conference Centre, Stanwell Tops, NSW, Australia'
-- id: nat20251221
+  date: '2026-12-20'
+  location: 'The Tops Conference Centre, Sydney, NSW, Australia'
+- id: nat20261221
   name: Summer School of Truth
   description: ''
   category: National
   singular: true
-  date: '2025-12-21'
-  location: 'The CRU Galston Gorge, Sydney, NSW, Australia'
-- id: nat20251221b
+  date: '2026-12-21'
+  location: 'TBC'
+- id: nat20261221b
   name: National Blending Conference
   description: ''
   category: National
   singular: true
-  date: '2025-12-21'
-  location: 'The Tops Conference Centre, Stanwell Tops, NSW, Australia'
-- id: nat20251222
+  date: '2026-12-21'
+  location: 'The Tops Conference Centre, Sydney, NSW, Australia'
+- id: nat20261222
   name: Summer School of Truth
   description: ''
   category: National
   singular: true
-  date: '2025-12-22'
-  location: 'The CRU Galston Gorge, Sydney, NSW, Australia'
-- id: nat20251222b
+  date: '2026-12-22'
+  location: 'TBC'
+- id: nat20261222b
   name: National Blending Conference
   description: ''
   category: National
   singular: true
-  date: '2025-12-22'
-  location: 'The Tops Conference Centre, Stanwell Tops, NSW, Australia'
-- id: nat20251223
+  date: '2026-12-22'
+  location: 'The Tops Conference Centre, Sydney, NSW, Australia'
+- id: nat20261223
   name: Summer School of Truth
   description: ''
   category: National
   singular: true
-  date: '2025-12-23'
-  location: 'The CRU Galston Gorge, Sydney, NSW, Australia'
-- id: nat20251223b
+  date: '2026-12-23'
+  location: 'TBC'
+- id: nat20261223b
   name: National Blending Conference
   description: ''
   category: National
   singular: true
-  date: '2025-12-23'
-  location: 'The Tops Conference Centre, Stanwell Tops, NSW, Australia'
-- id: loc20250119
-  name: Coordination Meeting
-  description: 'Tree of Life message 5'
-  category: Local
-  singular: true
-  date: '2025-01-19'
-  location: 'Canberra, ACT, Australia'
-- id: loc20250216
-  name: Coordination Meeting
-  description: 'Video training'
-  category: Local
-  singular: true
-  date: '2025-02-16'
-  location: 'Canberra, ACT, Australia'
-- id: loc20250323
-  name: Coordination Meeting
-  description: 'Tree of Life message 6'
-  category: Local
-  singular: true
-  date: '2025-03-23'
-  location: 'Canberra, ACT, Australia'
-- id: loc20250427
-  name: Coordination Meeting
-  description: 'Tree of Life message 7'
-  category: Local
-  singular: true
-  date: '2025-04-27'
-  location: 'Canberra, ACT, Australia'
-- id: loc20250518
-  name: Coordination Meeting
-  description: 'Tree of Life message 8'
-  category: Local
-  singular: true
-  date: '2025-05-18'
-  location: 'Canberra, ACT, Australia'
-- id: loc20250615
-  name: Coordination Meeting
-  description: 'Tree of Life message 9'
-  category: Local
-  singular: true
-  date: '2025-06-15'
-  location: 'Canberra, ACT, Australia'
-- id: loc20250720
-  name: Coordination Meeting
-  description: 'Tree of Life message 10'
-  category: Local
-  singular: true
-  date: '2025-07-27'
-  location: 'Canberra, ACT, Australia'
-- id: loc20250914
-  name: Coordination Meeting
-  description: 'Prepare for Canberra Blending Conference'
-  category: Local
-  singular: true
-  date: '2025-08-24'
-  location: 'Canberra, ACT, Australia'
-- id: loc20250921
-  name: Coordination Meeting
-  description: 'Prepare for Canberra Blending Conference'
-  category: Local
-  singular: true
-  date: '2025-09-07'
-  location: 'Canberra, ACT, Australia'
-- id: loc20251012
-  name: Coordination Meeting
-  description: 'Tree of Life message 11'
-  category: Local
-  singular: true
-  date: '2025-10-12'
-  location: 'Canberra, ACT, Australia'
-- id: loc20251116
-  name: Coordination Meeting
-  description: 'Tree of Life message 12'
-  category: Local
-  singular: true
-  date: '2025-11-16'
-  location: 'Canberra, ACT, Australia'
+  date: '2026-12-23'
+  location: 'The Tops Conference Centre, Sydney, NSW, Australia'
 - id: loc20260417
   name: South Coast Blending Outing
   description: ''
@@ -831,24 +712,3 @@
   singular: true
   date: '2026-04-19'
   location: 'Kianinny Bush Cottage, 246 Tathra Road, Tathra, NSW, Australia'
-- id: loc20251122
-  name: Wagga Wagga Blending Conference
-  description: ''
-  category: Regional
-  singular: true
-  date: '2025-11-22'
-  location: 'Wagga Wagga, NSW, Australia'
-- id: loc20251123
-  name: Wagga Wagga Blending Conference
-  description: ''
-  category: Regional
-  singular: true
-  date: '2025-11-23'
-  location: 'Wagga Wagga, NSW, Australia'
-- id: loc20251101
-  name: Teachers' Training
-  description: ''
-  category: Regional
-  singular: true
-  date: '2025-11-01'
-  location: 'Online, Zoom'
