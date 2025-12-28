@@ -17,11 +17,27 @@ export const trimHtmlContent = (htmlContent) => {
 
   const dom = new JSDOM(htmlContent);
 
+  const unwrapElements = (selector) => {
+    // Keep unwrapping until none remain (handles nested spans/strongs).
+    while (dom.window.document.querySelector(selector)) {
+      const nodes = dom.window.document.querySelectorAll(selector);
+      nodes.forEach((node) => {
+        // Replace the element with its children (or remove if empty)
+        node.replaceWith(...Array.from(node.childNodes));
+      });
+    }
+  };
+
   const styles = dom.window.document.querySelectorAll('style');
   styles.forEach(style => style.remove());
 
   const scripts = dom.window.document.querySelectorAll('script');
   scripts.forEach(script => script.remove());
+
+  // Remove presentational wrapper tags used in the Mailchimp source.
+  unwrapElements('strong');
+  unwrapElements('span');
+  unwrapElements('font');
 
   const elements = dom.window.document.querySelectorAll('*');
   elements.forEach(element => {
