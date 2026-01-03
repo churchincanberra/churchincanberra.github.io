@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p>ANNOUNCEMENTS – THE CHURCH IN CANBERRA&nbsp;<br>
-28th December 2025</p>
+4th January 2026</p>
 </div>
 
                         </td>
@@ -62,32 +62,32 @@ nofollow: true
                             <p>1.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</p>
 
 <blockquote>
-<p>English speaking - Friday 7pm<br>
-Northside: Combined with south.<br>
-Southside: Lyons house<br>
+<p>English speaking - Friday&nbsp;<br>
+Northside: Lawsons house (7&nbsp;pm)<br>
+Southside: Billy and Len's place (Banks- 6 pm)<br>
 Chinese speaking - Wednesday 6:30 pm<br>
 Venue: Ming and Nadia's house (Palmerston)<br>
-Topic: The True One</p>
+Topic:&nbsp;The Blessedness of Being Poor in Spirit and Pure in Heart That We May Be under Christ’s Heavenly Ruling as Our New King and That We May See God to Express Him in His Life and Represent Him with His Authority</p>
 </blockquote>
 
 <p>2. CALENDAR FROM THE CHURCH IN SYDNEY</p>
 
 <blockquote>
-<p>Please <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/5dc1b5dc-30b1-5415-1caf-c87794e5c8c7/Church_Planner_2026.pdf" target="_blank">click here</a></p>
+<p>Please <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/38463002-9a5e-a910-53c4-ea444088de62/Church_Calendar_2026_.pdf" target="_blank">click here</a></p>
 </blockquote>
 
 <p>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</p>
 
 <blockquote>
-<p>Week 36:&nbsp;commencing Monday<br>
-HWMR Title:&nbsp;EXPERIENCING, ENJOYING, AND EXPRESSING CHRIST (3) - VOLUME 6<br>
-Week 36&nbsp;Title:&nbsp;The True One</p>
+<p>Week 1:&nbsp;commencing Monday<br>
+HWMR Title: Crucial Aspects of Matthew 5 through 7&nbsp;<br>
+Week 1 Title:&nbsp;The Blessedness of Being Poor in Spirit and Pure in Heart That We May Be under Christ’s Heavenly Ruling as Our New King and That We May See God to Express Him in His Life and Represent Him with His Authority</p>
 </blockquote>
 
 <p>4. LIFE STUDY PURSUIT</p>
 
 <blockquote>
-<p>Life Study of Acts message 23 and 24</p>
+<p>Life Study of Acts message 25&nbsp;and 26</p>
 </blockquote>
 
                         </td>
@@ -116,8 +116,16 @@ Week 36&nbsp;Title:&nbsp;The True One</p>
 <p>1.&nbsp; VIDEO TRAINING</p>
 
 <blockquote>
-<p>Dates: Feb 2026<br>
+<p>Dates: 1 Feb- 1 March&nbsp;2026<br>
 Registration: coming early Jan</p>
+</blockquote>
+
+<p>2.&nbsp; PERTH BLENDING CONFERENCE 2026</p>
+
+<blockquote>
+<p>Dates Friday 24th- Lord's day 26th&nbsp;April 2026&nbsp;<br>
+Venue: Woodman Point Recreation Camp<br>
+Conference details:&nbsp;<a href="https://fingertip.com/perthblendingconference" target="_blank">click here</a></p>
 </blockquote>
 
                         </td>
@@ -225,8 +233,7 @@ Monday 8:30pm and Lord's Day 6pm&nbsp;on Zoom<br>
 Zoom: <a href="https://us02web.zoom.us/j/88413747323?pwd=K041K1BPU0gvVlpMOXdOaTM4dUJjZz09" target="_blank">click here&nbsp;</a><br>
 Burden: The bible distribution work throughout Australia.<br>
 <br>
-<u>High School service </u><br>
-<em>(Currently on hold while saints prepare for the SSOT).</em><br>
+<u>High School service</u><br>
 Thursday&nbsp;9pm using&nbsp;the church in Canberra regular zoom meeting.<br>
 Burden: Our high-schoolers and the LD HS meeting.<br>
 <br>
@@ -321,7 +328,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13900186" target="_blank">Announcement 14/12/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13900012" target="_blank">Announcement 07/12/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13899880" target="_blank">Announcement 30/11/2025</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13900491" target="_blank">Announcement 28/12/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13900186" target="_blank">Announcement 14/12/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13900012" target="_blank">Announcement 07/12/2025</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
