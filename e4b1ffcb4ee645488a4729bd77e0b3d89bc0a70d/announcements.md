@@ -35,7 +35,7 @@ nofollow: true
                             <div>
 <hr>
 <p>ANNOUNCEMENTS – THE CHURCH IN CANBERRA&nbsp;<br>
-4th January 2026</p>
+11th&nbsp;January&nbsp;2025</p>
 </div>
 
                         </td>
@@ -59,35 +59,47 @@ nofollow: true
                         
                         <td>
                         
-                            <p>1.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</p>
+                            <p>1.&nbsp;SEND OFF FOR STEER&nbsp;FAMILY</p>
 
 <blockquote>
-<p>English speaking - Friday&nbsp;<br>
-Northside: Lawsons house (7&nbsp;pm)<br>
-Southside: Billy and Len's place (Banks- 6 pm)<br>
-Chinese speaking - Wednesday 6:30 pm<br>
-Venue: Ming and Nadia's house (Palmerston)<br>
-Topic:&nbsp;The Blessedness of Being Poor in Spirit and Pure in Heart That We May Be under Christ’s Heavenly Ruling as Our New King and That We May See God to Express Him in His Life and Represent Him with His Authority</p>
+<p>Date:&nbsp;15th January 2026<br>
+Time:&nbsp;7pm dinner, 8pm Fellowship and Prayer&nbsp;<br>
+Venue: Meeting Hall<br>
+<br>
+Dear Saints,<br>
+<br>
+There will be a Love feast at the meeting hall on Thursday&nbsp;to pray for and send off the Steer&nbsp;family to Newcastle.&nbsp;</p>
 </blockquote>
 
-<p>2. CALENDAR FROM THE CHURCH IN SYDNEY</p>
+<p>2.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</p>
+
+<blockquote>
+<p>English speaking - moved to Thursday&nbsp;<br>
+Northside: combined at&nbsp;the Meeting hall<br>
+Southside: combined at&nbsp;the Meeting hall<br>
+Chinese speaking - Wednesday 6:30 pm<br>
+Venue: Sister Lanlans's place&nbsp;(Chifley)<br>
+Topic:&nbsp;The Blessedness of&nbsp;Those Who Mourn, of Those Who are Meek, and of Those Who are the Peacemakers, Called the sons of God</p>
+</blockquote>
+
+<p>3. CALENDAR FROM THE CHURCH IN SYDNEY</p>
 
 <blockquote>
 <p>Please <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/38463002-9a5e-a910-53c4-ea444088de62/Church_Calendar_2026_.pdf" target="_blank">click here</a></p>
 </blockquote>
 
-<p>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</p>
+<p>4. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</p>
 
 <blockquote>
-<p>Week 1:&nbsp;commencing Monday<br>
+<p>Week 2:&nbsp;commencing Monday<br>
 HWMR Title: Crucial Aspects of Matthew 5 through 7&nbsp;<br>
-Week 1 Title:&nbsp;The Blessedness of Being Poor in Spirit and Pure in Heart That We May Be under Christ’s Heavenly Ruling as Our New King and That We May See God to Express Him in His Life and Represent Him with His Authority</p>
+Week 2&nbsp;Title:&nbsp;The Blessedness of&nbsp;Those Who Mourn, of Those Who are Meek, and of Those Who are the Peacemakers, Called the sons of God</p>
 </blockquote>
 
-<p>4. LIFE STUDY PURSUIT</p>
+<p>5. LIFE STUDY PURSUIT</p>
 
 <blockquote>
-<p>Life Study of Acts message 25&nbsp;and 26</p>
+<p>Life Study of Acts message 27&nbsp;and 28</p>
 </blockquote>
 
                         </td>
@@ -113,17 +125,27 @@ Week 1 Title:&nbsp;The Blessedness of Being Poor in Spirit and Pure in Heart Tha
                         
                             <p><u>TRAINING &amp; CONFERENCES</u>&nbsp;</p>
 
-<p>1.&nbsp; VIDEO TRAINING</p>
+<p>1.&nbsp; CANBERRA VIDEO TRAINING FEB 2025</p>
 
 <blockquote>
-<p>Dates: 1 Feb- 1 March&nbsp;2026<br>
-Registration: coming early Jan</p>
+<p>Title: Experiencing, Enjoying&nbsp;and Expressing Christ (4)<br>
+Dates: 2&nbsp;Feb - 1 March&nbsp;2026<br>
+Venue: Canberra Meeting Hall &amp; Wagga<br>
+Details:&nbsp;<a href="https://pci.jotform.com/form/260088513987872" target="_blank">Click here</a></p>
 </blockquote>
 
-<p>2.&nbsp; PERTH BLENDING CONFERENCE 2026</p>
+<p>2.&nbsp; TASMANIA&nbsp;CONFERENCE 2026</p>
 
 <blockquote>
-<p>Dates Friday 24th- Lord's day 26th&nbsp;April 2026&nbsp;<br>
+<p>Dates: 6th - 8th March&nbsp;2026&nbsp;<br>
+Venue: Camp Clayton, Ulverstone<br>
+Conference details: <a href="https://docs.google.com/forms/d/e/1FAIpQLSe2A0wuPXk7Srq9G_pk7yNLLwudibm3NJDa4EsPyjKolzCY0w/viewform" target="_blank">click here</a></p>
+</blockquote>
+
+<p>3.&nbsp; PERTH BLENDING CONFERENCE 2026</p>
+
+<blockquote>
+<p>Dates: 24th&nbsp;- 26th&nbsp;April 2026&nbsp;<br>
 Venue: Woodman Point Recreation Camp<br>
 Conference details:&nbsp;<a href="https://fingertip.com/perthblendingconference" target="_blank">click here</a></p>
 </blockquote>
@@ -152,7 +174,13 @@ Conference details:&nbsp;<a href="https://fingertip.com/perthblendingconference"
                             <p><u>AUDIO&nbsp;AND VIDEO RECORDINGS&nbsp;FROM RECENT TRAININGS AND CONFERENCES</u>&nbsp;<br>
 &nbsp;</p>
 
-<p>1. BIANNUAL PERFECTING TRAINING&nbsp;OCTOBER 2025</p>
+<p>1. CAMPUS WORK FELLOWSHIP IN NOVEMBER&nbsp;2025</p>
+
+<blockquote>
+<p>The recorded messages are ready for download: <a href="https://churchinbrisbane.com/downloads" target="_blank">Click here</a></p>
+</blockquote>
+
+<p>2. BIANNUAL PERFECTING TRAINING&nbsp;OCTOBER 2025</p>
 
 <blockquote>
 <p>The recorded messages are ready for download: <a href="https://drive.google.com/drive/folders/1Pk5aLQ9JED-JA7FKamQa6tI2kRnmeBWM" target="_blank">Click here</a></p>
@@ -328,7 +356,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13900491" target="_blank">Announcement 28/12/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13900186" target="_blank">Announcement 14/12/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13900012" target="_blank">Announcement 07/12/2025</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13900574" target="_blank">Announcement 04/01/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13900491" target="_blank">Announcement 28/12/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13900186" target="_blank">Announcement 14/12/2025</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
