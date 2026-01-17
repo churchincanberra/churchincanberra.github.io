@@ -33,9 +33,8 @@ nofollow: true
                         <td>
                         
                             <div>
-<hr>
-<p>ANNOUNCEMENTS – THE CHURCH IN CANBERRA&nbsp;<br>
-11th&nbsp;January&nbsp;2025</p>
+<p>ANNOUNCEMENTS- THE CHURCH IN CANBERRA<br>
+18th January 2026&nbsp;</p>
 </div>
 
                         </td>
@@ -59,47 +58,35 @@ nofollow: true
                         
                         <td>
                         
-                            <p>1.&nbsp;SEND OFF FOR STEER&nbsp;FAMILY</p>
-
-<blockquote>
-<p>Date:&nbsp;15th January 2026<br>
-Time:&nbsp;7pm dinner, 8pm Fellowship and Prayer&nbsp;<br>
-Venue: Meeting Hall<br>
-<br>
-Dear Saints,<br>
-<br>
-There will be a Love feast at the meeting hall on Thursday&nbsp;to pray for and send off the Steer&nbsp;family to Newcastle.&nbsp;</p>
-</blockquote>
-
-<p>2.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</p>
+                            <p>1.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</p>
 
 <blockquote>
 <p>English speaking - moved to Thursday&nbsp;<br>
-Northside: combined at&nbsp;the Meeting hall<br>
-Southside: combined at&nbsp;the Meeting hall<br>
+Northside:&nbsp;Mark and Yashan's place (Kaleen)<br>
+Southside: Combined with north<br>
 Chinese speaking - Wednesday 6:30 pm<br>
-Venue: Sister Lanlans's place&nbsp;(Chifley)<br>
-Topic:&nbsp;The Blessedness of&nbsp;Those Who Mourn, of Those Who are Meek, and of Those Who are the Peacemakers, Called the sons of God</p>
+Venue: Ming and Nadia's place (Palmerston)<br>
+Topic:&nbsp;The Prayer That Is Critical to the Kingdom Life</p>
 </blockquote>
 
-<p>3. CALENDAR FROM THE CHURCH IN SYDNEY</p>
+<p>2. CALENDAR FROM THE CHURCH IN SYDNEY</p>
 
 <blockquote>
 <p>Please <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/38463002-9a5e-a910-53c4-ea444088de62/Church_Calendar_2026_.pdf" target="_blank">click here</a></p>
 </blockquote>
 
-<p>4. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</p>
+<p>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</p>
 
 <blockquote>
-<p>Week 2:&nbsp;commencing Monday<br>
+<p>Week 3:&nbsp;commencing Monday<br>
 HWMR Title: Crucial Aspects of Matthew 5 through 7&nbsp;<br>
-Week 2&nbsp;Title:&nbsp;The Blessedness of&nbsp;Those Who Mourn, of Those Who are Meek, and of Those Who are the Peacemakers, Called the sons of God</p>
+Week 3&nbsp;Title:&nbsp;The Prayer That Is Critical to the Kingdom Life</p>
 </blockquote>
 
-<p>5. LIFE STUDY PURSUIT</p>
+<p>4. LIFE STUDY PURSUIT</p>
 
 <blockquote>
-<p>Life Study of Acts message 27&nbsp;and 28</p>
+<p>Life Study of Acts message 29&nbsp;and 30</p>
 </blockquote>
 
                         </td>
@@ -356,7 +343,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13900574" target="_blank">Announcement 04/01/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13900491" target="_blank">Announcement 28/12/2025</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13900186" target="_blank">Announcement 14/12/2025</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13900714" target="_blank">Announcement 11/01/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13900574" target="_blank">Announcement 04/01/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13900491" target="_blank">Announcement 28/12/2025</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
