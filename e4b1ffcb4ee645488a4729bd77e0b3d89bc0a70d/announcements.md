@@ -34,7 +34,7 @@ nofollow: true
                         
                             <div>
 <p>ANNOUNCEMENTS- THE CHURCH IN CANBERRA<br>
-18th January 2026&nbsp;</p>
+25th January 2026&nbsp;</p>
 </div>
 
                         </td>
@@ -61,12 +61,12 @@ nofollow: true
                             <p>1.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</p>
 
 <blockquote>
-<p>English speaking - moved to Thursday&nbsp;<br>
-Northside:&nbsp;Mark and Yashan's place (Kaleen)<br>
-Southside: Combined with north<br>
+<p>English speaking - Friday 7pm<br>
+Northside: Lawson&nbsp;house<br>
+Southside: Lyons house<br>
 Chinese speaking - Wednesday 6:30 pm<br>
-Venue: Ming and Nadia's place (Palmerston)<br>
-Topic:&nbsp;The Prayer That Is Critical to the Kingdom Life</p>
+Venue: Victor&nbsp;and Bing's place (Lyons)<br>
+Topic:&nbsp;Blessed&nbsp;Are the Merciful, for They Shall Be Shown Mercy and Receive Mercy</p>
 </blockquote>
 
 <p>2. CALENDAR FROM THE CHURCH IN SYDNEY</p>
@@ -78,15 +78,15 @@ Topic:&nbsp;The Prayer That Is Critical to the Kingdom Life</p>
 <p>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</p>
 
 <blockquote>
-<p>Week 3:&nbsp;commencing Monday<br>
+<p>Week 4:&nbsp;commencing Monday<br>
 HWMR Title: Crucial Aspects of Matthew 5 through 7&nbsp;<br>
-Week 3&nbsp;Title:&nbsp;The Prayer That Is Critical to the Kingdom Life</p>
+Week 4&nbsp;Title:&nbsp;Blessed&nbsp;Are the Merciful, for They Shall Be Shown Mercy and Receive Mercy</p>
 </blockquote>
 
 <p>4. LIFE STUDY PURSUIT</p>
 
 <blockquote>
-<p>Life Study of Acts message 29&nbsp;and 30</p>
+<p>Life Study of Acts message 31&nbsp;and 32</p>
 </blockquote>
 
                         </td>
@@ -116,12 +116,20 @@ Week 3&nbsp;Title:&nbsp;The Prayer That Is Critical to the Kingdom Life</p>
 
 <blockquote>
 <p>Title: Experiencing, Enjoying&nbsp;and Expressing Christ (4)<br>
-Dates: 2&nbsp;Feb - 1 March&nbsp;2026<br>
+Dates: 1&nbsp;Feb - 1 March&nbsp;2026<br>
 Venue: Canberra Meeting Hall &amp; Wagga<br>
 Details:&nbsp;<a href="https://pci.jotform.com/form/260088513987872" target="_blank">Click here</a></p>
 </blockquote>
 
-<p>2.&nbsp; TASMANIA&nbsp;CONFERENCE 2026</p>
+<p>2.&nbsp; CONFERENCE ON MIGRATION FOR GOD'S MOVE</p>
+
+<blockquote>
+<p>Dates: 14th - 15th February&nbsp;2026&nbsp;<br>
+Venue: 189 Foxall Rd North Kellyville and Zoom<br>
+Preliminary&nbsp;details: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/6df4d34d-cf2a-a15b-3788-aab387da2fa0/CONFERENCE_ON_MIGRATION_FOR_GOD.pdf" target="_blank">click here</a></p>
+</blockquote>
+
+<p>3.&nbsp; TASMANIA&nbsp;CONFERENCE 2026</p>
 
 <blockquote>
 <p>Dates: 6th - 8th March&nbsp;2026&nbsp;<br>
@@ -129,7 +137,7 @@ Venue: Camp Clayton, Ulverstone<br>
 Conference details: <a href="https://docs.google.com/forms/d/e/1FAIpQLSe2A0wuPXk7Srq9G_pk7yNLLwudibm3NJDa4EsPyjKolzCY0w/viewform" target="_blank">click here</a></p>
 </blockquote>
 
-<p>3.&nbsp; PERTH BLENDING CONFERENCE 2026</p>
+<p>4.&nbsp; PERTH BLENDING CONFERENCE 2026</p>
 
 <blockquote>
 <p>Dates: 24th&nbsp;- 26th&nbsp;April 2026&nbsp;<br>
@@ -261,8 +269,8 @@ Saturday 8:45&nbsp;pm using the church in Canberra regular zoom meeting.<br>
 <p>C. COORDINATION MEETING&nbsp;</p>
 
 <blockquote>
-<p>Next Meeting: TBC<br>
-Future Dates: <em>2026 dates coming soon</em><br>
+<p>Next Meeting: 22 Feb. 2026<br>
+Future Dates: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/e11c61f7-7fab-7bd0-10ff-1f8893738802/Coordination_Meeting_Schedule_2026.pdf" target="_blank">click here</a><br>
 <br>
 This&nbsp;meeting&nbsp;is open to saints serving (or endeavouring to serve) and is predominantly a time to enjoy the Lord so that we may be built up together in our service. There will be Zoom available for those who cannot join physically.</p>
 </blockquote>
@@ -343,7 +351,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13900714" target="_blank">Announcement 11/01/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13900574" target="_blank">Announcement 04/01/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13900491" target="_blank">Announcement 28/12/2025</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13900875" target="_blank">Announcement 18/01/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13900714" target="_blank">Announcement 11/01/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13900574" target="_blank">Announcement 04/01/2026</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
