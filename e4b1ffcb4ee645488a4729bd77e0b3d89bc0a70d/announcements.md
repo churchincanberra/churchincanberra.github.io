@@ -34,7 +34,7 @@ nofollow: true
                         
                             <div>
 <p>ANNOUNCEMENTS- THE CHURCH IN CANBERRA<br>
-25th January 2026&nbsp;</p>
+1st February&nbsp;2026&nbsp;</p>
 </div>
 
                         </td>
@@ -62,11 +62,11 @@ nofollow: true
 
 <blockquote>
 <p>English speaking - Friday 7pm<br>
-Northside: Lawson&nbsp;house<br>
+Northside: Mark and Yashan's&nbsp;place<br>
 Southside: Lyons house<br>
 Chinese speaking - Wednesday 6:30 pm<br>
-Venue: Victor&nbsp;and Bing's place (Lyons)<br>
-Topic:&nbsp;Blessed&nbsp;Are the Merciful, for They Shall Be Shown Mercy and Receive Mercy</p>
+Venue: Ming&nbsp;and Nadia's place (Palmerston)<br>
+Topic:&nbsp;The Kingdom People Having the Experience of Praying in Private to Contact Their Heavenly Father in Secret to Have Some Secret Enjoyment of Him</p>
 </blockquote>
 
 <p>2. CALENDAR FROM THE CHURCH IN SYDNEY</p>
@@ -78,15 +78,15 @@ Topic:&nbsp;Blessed&nbsp;Are the Merciful, for They Shall Be Shown Mercy and Rec
 <p>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</p>
 
 <blockquote>
-<p>Week 4:&nbsp;commencing Monday<br>
+<p>Week 5:&nbsp;commencing Monday<br>
 HWMR Title: Crucial Aspects of Matthew 5 through 7&nbsp;<br>
-Week 4&nbsp;Title:&nbsp;Blessed&nbsp;Are the Merciful, for They Shall Be Shown Mercy and Receive Mercy</p>
+Week 5&nbsp;Title:&nbsp;The Kingdom People Having the Experience of Praying in Private to Contact Their Heavenly Father in Secret to Have Some Secret Enjoyment of Him</p>
 </blockquote>
 
 <p>4. LIFE STUDY PURSUIT</p>
 
 <blockquote>
-<p>Life Study of Acts message 31&nbsp;and 32</p>
+<p>Life Study of Acts message 27&nbsp;and 28</p>
 </blockquote>
 
                         </td>
@@ -179,37 +179,6 @@ Conference details:&nbsp;<a href="https://fingertip.com/perthblendingconference"
 
 <blockquote>
 <p>The recorded messages are ready for download: <a href="https://drive.google.com/drive/folders/1Pk5aLQ9JED-JA7FKamQa6tI2kRnmeBWM" target="_blank">Click here</a></p>
-</blockquote>
-
-                        </td>
-                    </tr>
-                </tbody></table>
-				
-                
-				
-            </td>
-        </tr>
-    </tbody>
-</table><table>
-    <tbody>
-        <tr>
-            <td>
-              	
-			    
-				
-                <table>
-                    <tbody><tr>
-                        
-                        <td>
-                        
-                            <p><a href="http://INTERNATIONAL ANNOUNCEMENTS" target="_blank"><u>INTERNATIONAL ANNOUNCEMENTS</u></a><br>
-&nbsp;</p>
-
-<p>1.&nbsp;BLENDING CONFERENCE WITH BROTHER JAMES LEE (NZ)</p>
-
-<blockquote>
-<p>Dates: 23 - 25 January 2026<br>
-Details:&nbsp;<a href="https://nztc.ac.nz/blendingconference/" target="_blank">click here</a></p>
 </blockquote>
 
                         </td>
@@ -351,7 +320,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13900875" target="_blank">Announcement 18/01/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13900714" target="_blank">Announcement 11/01/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13900574" target="_blank">Announcement 04/01/2026</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13901024" target="_blank">Announcement 25/01/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13900875" target="_blank">Announcement 18/01/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13900714" target="_blank">Announcement 11/01/2026</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
