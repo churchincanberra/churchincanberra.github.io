@@ -16,7 +16,7 @@ The Church in Canberra is in fellowship with many churches around Australia. We 
 
 We have close blending and association with churches around Australia, including localities like Adelaide, Brisbane, Cairns, Gold Coast, Launceston, Melbourne, Perth, and Sydney. We have regular trainings and blending conferences each year, including a National Blending Conference in Sydney; a national training for serving ones; and a national conference for university students. Blending conferences also are held in various cities including Canberra, Tasmania, Perth, and Adelaide.
 
-Members of the churches are also encouraged to attend training programs for high school students, sisters, parents, etc in other localities.
+Members of the churches are also encouraged to attend training programs for high school students, sisters, parents, etc., in other localities.
 
 Associated links:
 
