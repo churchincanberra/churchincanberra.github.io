@@ -34,7 +34,7 @@ nofollow: true
                         
                             <div>
 <p>ANNOUNCEMENTS- THE CHURCH IN CANBERRA<br>
-1st February&nbsp;2026&nbsp;</p>
+8th February&nbsp;2026&nbsp;</p>
 </div>
 
                         </td>
@@ -62,11 +62,11 @@ nofollow: true
 
 <blockquote>
 <p>English speaking - Friday 7pm<br>
-Northside: Mark and Yashan's&nbsp;place<br>
-Southside: Lyons house<br>
+Northside: Lawson House<br>
+Southside: Zi and April H. place&nbsp;<br>
 Chinese speaking - Wednesday 6:30 pm<br>
 Venue: Ming&nbsp;and Nadia's place (Palmerston)<br>
-Topic:&nbsp;The Kingdom People Having the Experience of Praying in Private to Contact Their Heavenly Father in Secret to Have Some Secret Enjoyment of Him</p>
+Topic:&nbsp;Being Perfect as Our Heavenly Father Is Perfect</p>
 </blockquote>
 
 <p>2. CALENDAR FROM THE CHURCH IN SYDNEY</p>
@@ -78,15 +78,15 @@ Topic:&nbsp;The Kingdom People Having the Experience of Praying in Private to Co
 <p>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</p>
 
 <blockquote>
-<p>Week 5:&nbsp;commencing Monday<br>
+<p>Week 6:&nbsp;commencing Monday<br>
 HWMR Title: Crucial Aspects of Matthew 5 through 7&nbsp;<br>
-Week 5&nbsp;Title:&nbsp;The Kingdom People Having the Experience of Praying in Private to Contact Their Heavenly Father in Secret to Have Some Secret Enjoyment of Him</p>
+Week 6&nbsp;Title:&nbsp;Being Perfect as Our Heavenly Father Is Perfect</p>
 </blockquote>
 
 <p>4. LIFE STUDY PURSUIT</p>
 
 <blockquote>
-<p>Life Study of Acts message 27&nbsp;and 28</p>
+<p>Life Study of Acts message 34</p>
 </blockquote>
 
                         </td>
@@ -126,7 +126,9 @@ Details:&nbsp;<a href="https://pci.jotform.com/form/260088513987872" target="_bl
 <blockquote>
 <p>Dates: 14th - 15th February&nbsp;2026&nbsp;<br>
 Venue: 189 Foxall Rd North Kellyville and Zoom<br>
-Preliminary&nbsp;details: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/6df4d34d-cf2a-a15b-3788-aab387da2fa0/CONFERENCE_ON_MIGRATION_FOR_GOD.pdf" target="_blank">click here</a></p>
+Registration links:<br>
+Clustering in Canberra: <a href="https://form.jotform.com/260322714981860" target="_blank">click here</a><br>
+Sydney: <a href="https://new.express.adobe.com/webpage/mC9BJulgO23as" target="_blank">click here</a></p>
 </blockquote>
 
 <p>3.&nbsp; TASMANIA&nbsp;CONFERENCE 2026</p>
@@ -137,7 +139,15 @@ Venue: Camp Clayton, Ulverstone<br>
 Conference details: <a href="https://docs.google.com/forms/d/e/1FAIpQLSe2A0wuPXk7Srq9G_pk7yNLLwudibm3NJDa4EsPyjKolzCY0w/viewform" target="_blank">click here</a></p>
 </blockquote>
 
-<p>4.&nbsp; PERTH BLENDING CONFERENCE 2026</p>
+<p>4.&nbsp; BIANNUAL PERFECTING TRAINING</p>
+
+<blockquote>
+<p>Dates: 28th - 29th March&nbsp;2026&nbsp;<br>
+Venue: 169 Foxall Rd, North Kellyville<br>
+Preliminary information: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/9b17931f-c3f8-6635-d5aa-813cc473156d/Dear_saints.docx" target="_blank">click here</a></p>
+</blockquote>
+
+<p>5.&nbsp; PERTH BLENDING CONFERENCE 2026</p>
 
 <blockquote>
 <p>Dates: 24th&nbsp;- 26th&nbsp;April 2026&nbsp;<br>
@@ -169,13 +179,19 @@ Conference details:&nbsp;<a href="https://fingertip.com/perthblendingconference"
                             <p><u>AUDIO&nbsp;AND VIDEO RECORDINGS&nbsp;FROM RECENT TRAININGS AND CONFERENCES</u>&nbsp;<br>
 &nbsp;</p>
 
-<p>1. CAMPUS WORK FELLOWSHIP IN NOVEMBER&nbsp;2025</p>
+<p>1. NEW ZEALAND BLENDING CONFERENCE 2026</p>
+
+<blockquote>
+<p>The recorded messages are ready for download: <a href="https://nztc.ac.nz/blending-conference-recordings/" target="_blank">Click here</a></p>
+</blockquote>
+
+<p>2. CAMPUS WORK FELLOWSHIP IN NOVEMBER&nbsp;2025</p>
 
 <blockquote>
 <p>The recorded messages are ready for download: <a href="https://churchinbrisbane.com/downloads" target="_blank">Click here</a></p>
 </blockquote>
 
-<p>2. BIANNUAL PERFECTING TRAINING&nbsp;OCTOBER 2025</p>
+<p>3. BIANNUAL PERFECTING TRAINING&nbsp;OCTOBER 2025</p>
 
 <blockquote>
 <p>The recorded messages are ready for download: <a href="https://drive.google.com/drive/folders/1Pk5aLQ9JED-JA7FKamQa6tI2kRnmeBWM" target="_blank">Click here</a></p>
@@ -231,7 +247,7 @@ Burden: Our high-schoolers and the LD HS meeting.<br>
 <br>
 <u>Migration and Europe</u><br>
 Saturday 8:45&nbsp;pm using the church in Canberra regular zoom meeting.<br>
-<a href="https://www.lme.org/pdfs/PrayerBurdens807.pdf" target="_blank">Burdens related to Europe:</a><a href="https://www.lme.org/pdfs/PrayerBurdens807.pdf" target="_blank">&nbsp;</a><br>
+<a href="https://9xdq3.r.sp1-brevo.net/mk/mr/sh/6rqJ8GoudeITQjnXGaioOivQjTx/OfliSquhqbAc" target="_blank">Burdens related to Europe</a><br>
 (1) To pray that the Lord would open the way for migration in Australia. (2) The Lord's move in Europe and the upcoming gospel trips in Italy.</p>
 </blockquote>
 
@@ -320,7 +336,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13901024" target="_blank">Announcement 25/01/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13900875" target="_blank">Announcement 18/01/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13900714" target="_blank">Announcement 11/01/2026</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13901153" target="_blank">Announcement 1/02/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13901024" target="_blank">Announcement 25/01/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13900875" target="_blank">Announcement 18/01/2026</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
