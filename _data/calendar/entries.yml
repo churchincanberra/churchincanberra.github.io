@@ -446,6 +446,76 @@
   singular: true
   date: '2026-09-13'
   location: 'Canberra, ACT, Australia'
+- id: loc20260222
+  name: Coordination Meeting
+  description: ''
+  category: Local
+  singular: true
+  date: '2026-02-22'
+  location: '26 Stokes St, Griffith, Canberra, ACT 2603'
+- id: loc20260322
+  name: Coordination Meeting
+  description: ''
+  category: Local
+  singular: true
+  date: '2026-03-22'
+  location: '26 Stokes St, Griffith, Canberra, ACT 2603'
+- id: loc20260419
+  name: Coordination Meeting
+  description: ''
+  category: Local
+  singular: true
+  date: '2026-04-19'
+  location: '26 Stokes St, Griffith, Canberra, ACT 2603'
+- id: loc20260517
+  name: Coordination Meeting
+  description: ''
+  category: Local
+  singular: true
+  date: '2026-05-17'
+  location: '26 Stokes St, Griffith, Canberra, ACT 2603'
+- id: loc20260621
+  name: Coordination Meeting
+  description: ''
+  category: Local
+  singular: true
+  date: '2026-06-21'
+  location: '26 Stokes St, Griffith, Canberra, ACT 2603'
+- id: loc20260719
+  name: Coordination Meeting
+  description: ''
+  category: Local
+  singular: true
+  date: '2026-07-19'
+  location: '26 Stokes St, Griffith, Canberra, ACT 2603'
+- id: loc20260816
+  name: Fellowship and Preparation for CBC
+  description: ''
+  category: Local
+  singular: true
+  date: '2026-08-16'
+  location: '26 Stokes St, Griffith, Canberra, ACT 2603'
+- id: loc20260906
+  name: Fellowship and Preparation for CBC
+  description: ''
+  category: Local
+  singular: true
+  date: '2026-09-06'
+  location: '26 Stokes St, Griffith, Canberra, ACT 2603'
+- id: loc20261025
+  name: Coordination Meeting
+  description: ''
+  category: Local
+  singular: true
+  date: '2026-10-25'
+  location: '26 Stokes St, Griffith, Canberra, ACT 2603'
+- id: loc20261122
+  name: Coordination Meeting
+  description: ''
+  category: Local
+  singular: true
+  date: '2026-11-22'
+  location: '26 Stokes St, Griffith, Canberra, ACT 2603'
 - id: nat20260328
   name: Biannual Perfecting Training
   description: ''
