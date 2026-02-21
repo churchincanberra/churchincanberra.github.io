@@ -34,7 +34,7 @@ nofollow: true
                         
                             <div>
 <p>ANNOUNCEMENTS- THE CHURCH IN CANBERRA<br>
-15th February&nbsp;2026&nbsp;</p>
+22nd February&nbsp;2026&nbsp;</p>
 </div>
 
                         </td>
@@ -58,41 +58,38 @@ nofollow: true
                         
                         <td>
                         
-                            <p>1. LORD'S DAY SCHEDULE- 15th Feb 2026</p>
+                            <p>1. LOVEFEAST AT THE MEETING HALL (FOLLOWED BY COORDINATION MEETING)</p>
 
 <blockquote>
-<p>This Lord's day, we will join the Open session on&nbsp;Conference on Migration for God's Move after the Bread breaking meeting<br>
+<p>Date: 22 Feb 2026<br>
+Venue: Meeting Hall (after prophesying meeting)<br>
 <br>
-10:00am Bread Breaking&nbsp;Meeting<br>
-10:45am Break<br>
-11:00am Open Session "Conference on Migration for God's Move"<br>
-12:30pm - 1:15pm (Lovefeast)<br>
-1:15pm - 2:15pm (Q&amp;R)</p>
+All the saints are welcome to join the love feast. Let's take this opportunity to cherish one another while enjoying mutual fellowship. The love feast&nbsp;will be followed by the monthly coordination meeting for those who wish to join.</p>
 </blockquote>
 
-<p>2.&nbsp;SMALL GROUP MEETINGS THIS&nbsp;WEEK</p>
+<p>2. SMALL GROUP MEETINGS THIS&nbsp;WEEK</p>
 
 <blockquote>
 <p>English speaking - Friday 7pm<br>
 Northside: Lawson House<br>
-Southside: Lyons House&nbsp;<br>
+Southside: Zi and April's place (Phillip)<br>
 Chinese speaking - Wednesday 6:30 pm<br>
-Venue: Victor&nbsp;and Bing's place (Lyons)<br>
-Topic:&nbsp;Entering through the Narrow Gate and Walking on the Constricted Way That Leads to Life, the Ever-blessed Condition of the Kingdom</p>
+Venue: Ming and Nadia's place (Palmerston)<br>
+Topic: Seeking First the Kingdom of God and His Righteousness</p>
 </blockquote>
 
 <p>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</p>
 
 <blockquote>
-<p>Week 7:&nbsp;commencing Monday<br>
+<p>Week 8:&nbsp;commencing Monday<br>
 HWMR Title: Crucial Aspects of Matthew 5 through 7&nbsp;<br>
-Week 7&nbsp;Title:&nbsp;Entering through the Narrow Gate and Walking on the Constricted Way That Leads to Life, the Ever-blessed Condition of the Kingdom</p>
+Week 8&nbsp;Title:&nbsp;Seeking First the Kingdom of God and His Righteousness</p>
 </blockquote>
 
 <p>4. LIFE STUDY PURSUIT</p>
 
 <blockquote>
-<p>Life Study of Acts message 35</p>
+<p>Life Study of Acts message 36</p>
 </blockquote>
 
                         </td>
@@ -127,17 +124,7 @@ Venue: Canberra Meeting Hall &amp; Wagga<br>
 Details:&nbsp;<a href="https://pci.jotform.com/form/260088513987872" target="_blank">Click here</a></p>
 </blockquote>
 
-<p>2.&nbsp; CONFERENCE ON MIGRATION FOR GOD'S MOVE</p>
-
-<blockquote>
-<p>Dates: 14th - 15th February&nbsp;2026&nbsp;<br>
-Venue: 189 Foxall Rd North Kellyville and Zoom<br>
-Registration links:<br>
-Clustering in Canberra: <a href="https://form.jotform.com/260322714981860" target="_blank">click here</a><br>
-Sydney: <a href="https://new.express.adobe.com/webpage/mC9BJulgO23as" target="_blank">click here</a></p>
-</blockquote>
-
-<p>3.&nbsp; TASMANIA&nbsp;CONFERENCE 2026</p>
+<p>2.&nbsp; TASMANIA&nbsp;CONFERENCE 2026</p>
 
 <blockquote>
 <p>Dates: 6th - 8th March&nbsp;2026&nbsp;<br>
@@ -145,7 +132,7 @@ Venue: Camp Clayton, Ulverstone<br>
 Conference details: <a href="https://docs.google.com/forms/d/e/1FAIpQLSe2A0wuPXk7Srq9G_pk7yNLLwudibm3NJDa4EsPyjKolzCY0w/viewform" target="_blank">click here</a></p>
 </blockquote>
 
-<p>4.&nbsp; BIANNUAL PERFECTING TRAINING</p>
+<p>3.&nbsp; BIANNUAL PERFECTING TRAINING</p>
 
 <blockquote>
 <p>Dates: 28th - 29th March&nbsp;2026&nbsp;<br>
@@ -153,7 +140,7 @@ Venue: 169 Foxall Rd, North Kellyville<br>
 Conference details: <a href="https://new.express.adobe.com/webpage/uk2bcysOqt4dK" target="_blank">click here</a></p>
 </blockquote>
 
-<p>5.&nbsp; PERTH BLENDING CONFERENCE 2026</p>
+<p>4.&nbsp; PERTH BLENDING CONFERENCE 2026</p>
 
 <blockquote>
 <p>Dates: 24th&nbsp;- 26th&nbsp;April 2026&nbsp;<br>
@@ -375,7 +362,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13901345" target="_blank">Conference on Migration for God's Move</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13901311" target="_blank">Announcement 8/02/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13901153" target="_blank">Announcement 1/02/2026</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13901463" target="_blank">Announcement 15/02/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13901345" target="_blank">Conference on Migration for God's Move</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13901311" target="_blank">Announcement 8/02/2026</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
