@@ -34,7 +34,7 @@ nofollow: true
                         
                             <div>
 <p>ANNOUNCEMENTS- THE CHURCH IN CANBERRA<br>
-22nd February&nbsp;2026&nbsp;</p>
+01 March&nbsp;2026&nbsp;</p>
 </div>
 
                         </td>
@@ -58,13 +58,17 @@ nofollow: true
                         
                         <td>
                         
-                            <p>1. LOVEFEAST AT THE MEETING HALL (FOLLOWED BY COORDINATION MEETING)</p>
+                            <p>1. VIDEO TRAINING MESSAGE 12 (OPEN SESSION)</p>
 
 <blockquote>
-<p>Date: 22 Feb 2026<br>
-Venue: Meeting Hall (after prophesying meeting)<br>
+<p>Date: 01 March 2026<br>
+Message 12: Christ Coming with Reward and Punishment, a Lamp Shining in a Dark Place, and Christ Appearing Privately to His Overcomers as the Morning Star<br>
 <br>
-All the saints are welcome to join the love feast. Let's take this opportunity to cherish one another while enjoying mutual fellowship. The love feast&nbsp;will be followed by the monthly coordination meeting for those who wish to join.</p>
+Schedule:<br>
+10:00am- Bread breaking meeting<br>
+10:45am- Break/ Morning Tea<br>
+11:00am-&nbsp;Open Session&nbsp;(Message 12)<br>
+12:30pm- End</p>
 </blockquote>
 
 <p>2. SMALL GROUP MEETINGS THIS&nbsp;WEEK</p>
@@ -72,24 +76,24 @@ All the saints are welcome to join the love feast. Let's take this opportunity t
 <blockquote>
 <p>English speaking - Friday 7pm<br>
 Northside: Lawson House<br>
-Southside: Zi and April's place (Phillip)<br>
+Southside: Combined&nbsp;with Northside<br>
 Chinese speaking - Wednesday 6:30 pm<br>
-Venue: Ming and Nadia's place (Palmerston)<br>
-Topic: Seeking First the Kingdom of God and His Righteousness</p>
+Venue: Victor and Bing's place (Lyons)<br>
+Topic: Doing the Will of the Father So That We May Enter into His Kingdom on "That Day," the Day of the Judgement Seat of Christ</p>
 </blockquote>
 
 <p>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</p>
 
 <blockquote>
-<p>Week 8:&nbsp;commencing Monday<br>
+<p>Week 9:&nbsp;commencing Monday<br>
 HWMR Title: Crucial Aspects of Matthew 5 through 7&nbsp;<br>
-Week 8&nbsp;Title:&nbsp;Seeking First the Kingdom of God and His Righteousness</p>
+Week 9&nbsp;Title: Doing the Will of the Father So That We May Enter into His Kingdom on "That Day," the Day of the Judgement Seat of Christ</p>
 </blockquote>
 
 <p>4. LIFE STUDY PURSUIT</p>
 
 <blockquote>
-<p>Life Study of Acts message 36</p>
+<p>Life Study of Acts message 37</p>
 </blockquote>
 
                         </td>
@@ -362,7 +366,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13901463" target="_blank">Announcement 15/02/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13901345" target="_blank">Conference on Migration for God's Move</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13901311" target="_blank">Announcement 8/02/2026</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13901636" target="_blank">Announcement 22/02/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13901463" target="_blank">Announcement 15/02/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13901345" target="_blank">Conference on Migration for God's Move</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
