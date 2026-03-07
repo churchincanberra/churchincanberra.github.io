@@ -33,8 +33,8 @@ nofollow: true
                         <td>
                         
                             <div>
-<p>ANNOUNCEMENTS- THE CHURCH IN CANBERRA<br>
-01 March&nbsp;2026&nbsp;</p>
+<p>ANNOUNCEMENTS - THE CHURCH IN CANBERRA<br>
+08&nbsp;March&nbsp;2026&nbsp;</p>
 </div>
 
                         </td>
@@ -58,42 +58,37 @@ nofollow: true
                         
                         <td>
                         
-                            <p>1. VIDEO TRAINING MESSAGE 12 (OPEN SESSION)</p>
-
-<blockquote>
-<p>Date: 01 March 2026<br>
-Message 12: Christ Coming with Reward and Punishment, a Lamp Shining in a Dark Place, and Christ Appearing Privately to His Overcomers as the Morning Star<br>
-<br>
-Schedule:<br>
-10:00am- Bread breaking meeting<br>
-10:45am- Break/ Morning Tea<br>
-11:00am-&nbsp;Open Session&nbsp;(Message 12)<br>
-12:30pm- End</p>
-</blockquote>
-
-<p>2. SMALL GROUP MEETINGS THIS&nbsp;WEEK</p>
+                            <p>1. SMALL GROUP MEETINGS THIS&nbsp;WEEK</p>
 
 <blockquote>
 <p>English speaking - Friday 7pm<br>
-Northside: Lawson House<br>
+Northside: Mawi's&nbsp;Place (Casey)<br>
 Southside: Combined&nbsp;with Northside<br>
 Chinese speaking - Wednesday 6:30 pm<br>
-Venue: Victor and Bing's place (Lyons)<br>
-Topic: Doing the Will of the Father So That We May Enter into His Kingdom on "That Day," the Day of the Judgement Seat of Christ</p>
+Venue: Ming&nbsp;and Nadia's place (Palmerston)<br>
+Topic: The Faithful Witness of God for the Testimony of Jesus&nbsp;</p>
 </blockquote>
 
-<p>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</p>
+<p>2. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</p>
 
 <blockquote>
-<p>Week 9:&nbsp;commencing Monday<br>
-HWMR Title: Crucial Aspects of Matthew 5 through 7&nbsp;<br>
-Week 9&nbsp;Title: Doing the Will of the Father So That We May Enter into His Kingdom on "That Day," the Day of the Judgement Seat of Christ</p>
+<p>Week 37:&nbsp;commencing Monday<br>
+HWMR Title: Experiencing, Enjoying, and Expressing Christ (4)&nbsp;<br>
+Week 37&nbsp;Title: The Faithful Witness of God for the Testimony of Jesus&nbsp;</p>
 </blockquote>
 
-<p>4. LIFE STUDY PURSUIT</p>
+<p>3. LIFE STUDY PURSUIT</p>
 
 <blockquote>
-<p>Life Study of Acts message 37</p>
+<p>Life Study of Acts message 39 and 40</p>
+</blockquote>
+
+<p>4. FELLOWSHIP ON HOW TO MAKE BREAD FOR THE LORD'S TABLE MEETING</p>
+
+<blockquote>
+<p>Date: 15th March 2026<br>
+Venue: Lawson House<br>
+Time: 2:30pm</p>
 </blockquote>
 
                         </td>
@@ -119,16 +114,7 @@ Week 9&nbsp;Title: Doing the Will of the Father So That We May Enter into His Ki
                         
                             <p><u>TRAINING &amp; CONFERENCES</u>&nbsp;</p>
 
-<p>1.&nbsp; CANBERRA VIDEO TRAINING FEB 2026</p>
-
-<blockquote>
-<p>Title: Experiencing, Enjoying&nbsp;and Expressing Christ (4)<br>
-Dates: 1&nbsp;Feb - 1 March&nbsp;2026<br>
-Venue: Canberra Meeting Hall &amp; Wagga<br>
-Details:&nbsp;<a href="https://pci.jotform.com/form/260088513987872" target="_blank">Click here</a></p>
-</blockquote>
-
-<p>2.&nbsp; TASMANIA&nbsp;CONFERENCE 2026</p>
+<p>1.&nbsp; TASMANIA&nbsp;CONFERENCE 2026</p>
 
 <blockquote>
 <p>Dates: 6th - 8th March&nbsp;2026&nbsp;<br>
@@ -136,12 +122,21 @@ Venue: Camp Clayton, Ulverstone<br>
 Conference details: <a href="https://docs.google.com/forms/d/e/1FAIpQLSe2A0wuPXk7Srq9G_pk7yNLLwudibm3NJDa4EsPyjKolzCY0w/viewform" target="_blank">click here</a></p>
 </blockquote>
 
-<p>3.&nbsp; BIANNUAL PERFECTING TRAINING</p>
+<p>2.&nbsp; BIANNUAL PERFECTING TRAINING</p>
 
 <blockquote>
 <p>Dates: 28th - 29th March&nbsp;2026&nbsp;<br>
 Venue: 169 Foxall Rd, North Kellyville<br>
 Conference details: <a href="https://new.express.adobe.com/webpage/uk2bcysOqt4dK" target="_blank">click here</a></p>
+</blockquote>
+
+<p>3.&nbsp; APRIL RETREAT 2026</p>
+
+<blockquote>
+<p>The retreat is open for University students, year 11 &amp; 12 students and young working saints<br>
+Dates: 3rd&nbsp;- 5th&nbsp;April&nbsp;2026&nbsp;<br>
+Venue: Canberra<br>
+Conference details: TBC</p>
 </blockquote>
 
 <p>4.&nbsp; PERTH BLENDING CONFERENCE 2026</p>
@@ -218,10 +213,18 @@ Conference details:&nbsp;<a href="https://fingertip.com/perthblendingconference"
                             <p><u>INTERNATIONAL ANNOUNCEMENTS</u>&nbsp;<br>
 &nbsp;</p>
 
-<p>1. INTERNATIONAL MEMORIAL DAY BLENDING&nbsp;CONFERENCE 2026</p>
+<p>1. NEW ZEALAND NATIONAL CONFERENCE&nbsp;2026</p>
 
 <blockquote>
-<p>Dates: 22-25 May 2026<br>
+<p>Dates: 3rd-5th&nbsp;May 2026<br>
+Venue: Hamilton Boy's High School<br>
+Registration Details: <a href="https://nztc.ac.nz/national-conference/" target="_blank">Click Here</a></p>
+</blockquote>
+
+<p>2. INTERNATIONAL MEMORIAL DAY BLENDING&nbsp;CONFERENCE 2026</p>
+
+<blockquote>
+<p>Dates: 22nd-25th May 2026<br>
 Venue: Sheraton Dallas Hotel Dallas Texas<br>
 Conference Details: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/90d06248-31c7-20a7-e20d-5f858446ff10/2026_Memorial_Day_Blending_Conference_English.pdf" target="_blank">Click Here</a></p>
 </blockquote>
@@ -271,7 +274,7 @@ Zoom: <a href="https://us02web.zoom.us/j/88413747323?pwd=K041K1BPU0gvVlpMOXdOaTM
 Burden: The bible distribution work throughout Australia.<br>
 <br>
 <u>High School service</u><br>
-Thursday&nbsp;9pm using&nbsp;the church in Canberra regular zoom meeting.<br>
+Thursday 8:30pm using&nbsp;the church in Canberra regular zoom meeting.<br>
 Burden: Our high-schoolers and the LD HS meeting.<br>
 <br>
 <u>Migration and Europe</u><br>
@@ -283,9 +286,9 @@ Saturday 8:45&nbsp;pm using the church in Canberra regular zoom meeting.<br>
 <p>C. COORDINATION MEETING&nbsp;</p>
 
 <blockquote>
-<p>Next Meeting: 22 Feb. 2026<br>
-Book: Church Affairs:&nbsp;&nbsp;Chapter 3 " The Levitical Service"<br>
-Future Dates: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/e11c61f7-7fab-7bd0-10ff-1f8893738802/Coordination_Meeting_Schedule_2026.pdf" target="_blank">click here</a><br>
+<p>Next Meeting: 22 March. 2026<br>
+Book: TBC<br>
+Future Dates: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/eff72592-5c93-e4e5-61e8-fcf7fb157f28/Coordination_Meeting_Schedule_2026_1_.pdf" target="_blank">click here</a><br>
 <br>
 This&nbsp;meeting&nbsp;is open to saints serving (or endeavouring to serve) and is predominantly a time to enjoy the Lord so that we may be built up together in our service. There will be Zoom available for those who cannot join physically.</p>
 </blockquote>
@@ -366,7 +369,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13901636" target="_blank">Announcement 22/02/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13901463" target="_blank">Announcement 15/02/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13901345" target="_blank">Conference on Migration for God's Move</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13901802" target="_blank">Announcement 01/03/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13901636" target="_blank">Announcement 22/02/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13901463" target="_blank">Announcement 15/02/2026</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
