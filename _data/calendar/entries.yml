@@ -460,6 +460,34 @@
   singular: true
   date: '2026-03-22'
   location: '26 Stokes St, Griffith, Canberra, ACT 2603'
+- id: reg20260403
+  name: Church in Sydney's Campus Retreat
+  description: ''
+  category: Regional
+  singular: true
+  date: '2026-04-03'
+  location: '26 Stokes St, Griffith, Canberra, ACT 2603'
+- id: reg20260404
+  name: Church in Sydney's Campus Retreat
+  description: ''
+  category: Regional
+  singular: true
+  date: '2026-04-04'
+  location: '26 Stokes St, Griffith, Canberra, ACT 2603'
+- id: reg20260405
+  name: Church in Sydney's Campus Retreat
+  description: ''
+  category: Regional
+  singular: true
+  date: '2026-04-05'
+  location: '26 Stokes St, Griffith, Canberra, ACT 2603'
+- id: loc20260412
+  name: Coordination Meeting
+  description: ''
+  category: Local
+  singular: true
+  date: '2026-04-12'
+  location: '26 Stokes St, Griffith, Canberra, ACT 2603'
 - id: loc20260419
   name: Coordination Meeting
   description: ''
@@ -467,12 +495,26 @@
   singular: true
   date: '2026-04-19'
   location: '26 Stokes St, Griffith, Canberra, ACT 2603'
+- id: loc20260503
+  name: Coordination Meeting
+  description: ''
+  category: Local
+  singular: true
+  date: '2026-05-03'
+  location: '26 Stokes St, Griffith, Canberra, ACT 2603'
 - id: loc20260517
   name: Coordination Meeting
   description: ''
   category: Local
   singular: true
   date: '2026-05-17'
+  location: '26 Stokes St, Griffith, Canberra, ACT 2603'
+- id: loc20260614
+  name: Coordination Meeting
+  description: ''
+  category: Local
+  singular: true
+  date: '2026-06-14'
   location: '26 Stokes St, Griffith, Canberra, ACT 2603'
 - id: loc20260621
   name: Coordination Meeting
@@ -502,12 +544,26 @@
   singular: true
   date: '2026-09-06'
   location: '26 Stokes St, Griffith, Canberra, ACT 2603'
+- id: loc20261011
+  name: Coordination Meeting
+  description: ''
+  category: Local
+  singular: true
+  date: '2026-10-11'
+  location: '26 Stokes St, Griffith, Canberra, ACT 2603'
 - id: loc20261025
   name: Coordination Meeting
   description: ''
   category: Local
   singular: true
   date: '2026-10-25'
+  location: '26 Stokes St, Griffith, Canberra, ACT 2603'
+- id: loc20261108
+  name: Coordination Meeting
+  description: ''
+  category: Local
+  singular: true
+  date: '2026-11-08'
   location: '26 Stokes St, Griffith, Canberra, ACT 2603'
 - id: loc20261122
   name: Coordination Meeting
