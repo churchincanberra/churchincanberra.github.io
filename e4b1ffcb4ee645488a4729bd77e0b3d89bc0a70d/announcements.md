@@ -32,7 +32,7 @@ nofollow: true
                         
                         <td>
                         
-                            <div>April Retreat – Prayer &amp; Fellowship (24/03/26 - 9:00 PM)</div>
+                            <div>Canberra Prayer and Coordination for April Retreat 2026</div>
 
                         </td>
                     </tr>
@@ -57,19 +57,23 @@ nofollow: true
                         
                             <p>Dear saints,<br>
 <br>
-We warmly encourage all who have a heart to serve to participate in the April Retreat.<br>
+We will have our&nbsp;prayer and coordination this Thursday (26/03/26) for the upcoming April Retreat 2026. We&nbsp;encourage all the saints who have a heart to serve to join this time of fellowship at 8pm.<br>
 <br>
-Tuesday,&nbsp;24/03/26 at 9:00 PM, let us come together for prayer and fellowship with the saints interstate.<br>
+Below is the link of services that we can participate in. Please&nbsp;put your name beside the service/s you want to be involve in&nbsp;<br>
+<a href="https://docs.google.com/spreadsheets/d/1WpEx2_XjBoO4xrUOzs7pq2P3bAkcEtY5wy1JhGF3agQ/edit?gid=1877071653#gid=1877071653" target="_blank">Retreat services</a><br>
 <br>
-Please see the Zoom details below:<br>
 <br>
-Join Zoom Meeting<br>
-https://us06web.zoom.us/j/88507220054?pwd=w7MEyjUJ20VJUGj0YjUfiqKquo5TA3.1<br>
+We will use&nbsp;the Church zoom for our prayer and fellowship time. Please see Zoom details below<br>
 <br>
-Meeting ID: 885 0722 0054<br>
-Passcode: 11545<br>
+To join, click this link&nbsp;<a data-saferedirecturl="https://www.google.com/url?q=https://us02web.zoom.us/j/86759516115?pwd%3DRGQrKzJWWkRtTXVkeS9ZNXdSSmwxdz09&amp;source=gmail&amp;ust=1774524168231000&amp;usg=AOvVaw2qmeoSiS2rriHTcRVb2oPu" href="https://us02web.zoom.us/j/86759516115?pwd=RGQrKzJWWkRtTXVkeS9ZNXdSSmwxdz09" target="_blank">https://us02web.zoom.us/j/86759516115?pwd=RGQrKzJWWkRtTXVkeS9ZNXdSSmwxdz09</a><br>
 <br>
-Amen. Much grace!</p>
+Meeting ID:&nbsp;867 5951 6115&nbsp;<br>
+Passcode:&nbsp;Eph4:16<br>
+<br>
+<br>
+In Him,<br>
+<br>
+Brothers in Canberra</p>
 
                         </td>
                     </tr>
@@ -80,7 +84,7 @@ Amen. Much grace!</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13902309" target="_blank">Announcement 22/03/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13902281" target="_blank">Pursuit Material for Coordination Meeting 22/03/26</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13902154" target="_blank">Announcement 15/03/2026</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13902320" target="_blank">April Retreat – Prayer & Fellowship (24/03/26 - 9:00 PM)</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13902309" target="_blank">Announcement 22/03/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13902281" target="_blank">Pursuit Material for Coordination Meeting 22/03/26</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
