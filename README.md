@@ -59,7 +59,7 @@ This allows calendar entries to be filtered by category.
 
 <details><summary><strong>2. How to update the church announcement</strong></summary>
 
-Church announcement page is updated automatically by `update-announcement.yml`. The update is scheduled to run twice every Sunday at 09:30 AEST and 09:30 AEDT.
+Church announcement page is updated automatically by `update-announcement.yml`. The update is scheduled to run every hour at 35 minutes past.
 
 At high level, the automation works as follows:
 
