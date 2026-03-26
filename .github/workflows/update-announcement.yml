@@ -50,7 +50,7 @@ jobs:
         shell: bash
 
       - name: Upload announcement
-        uses: actions/upload-artifact@v6
+        uses: actions/upload-artifact@v7
         with:
           name: draft-copy
           path: ./e4b1ffcb4ee645488a4729bd77e0b3d89bc0a70d/announcements.md
