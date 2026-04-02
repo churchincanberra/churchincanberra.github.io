@@ -33,7 +33,7 @@ nofollow: true
                         <td>
                         
                             <div>
-<h2>Coordination and Working Bee for April Retreat 2026</h2>
+<h2>Coordination Meeting&nbsp;for April Retreat 2026</h2>
 </div>
 
                         </td>
@@ -60,28 +60,12 @@ nofollow: true
                             <p><br>
 Hi Saints,<br>
 <br>
-We will have a coordination meeting this Thursday (2nd&nbsp; of April) at 8pm for the April Retreat. We will use the church zoom. Please see details below:&nbsp;<br>
+We are resending the zoom details for our coordination meeting&nbsp;tonight at 8pm. The zoom details that was&nbsp;sent yesterday was for the coordination of interstate saints for the April Retreat. We will use our church zoom below:&nbsp;&nbsp;<br>
 <br>
-Join Zoom Meeting<br>
-https://us06web.zoom.us/j/88507220054?pwd=w7MEyjUJ20VJUGj0YjUfiqKquo5TA3.1<br>
+To join, click this link&nbsp;<a data-saferedirecturl="https://www.google.com/url?q=https://us02web.zoom.us/j/86759516115?pwd%3DRGQrKzJWWkRtTXVkeS9ZNXdSSmwxdz09&amp;source=gmail&amp;ust=1775201554150000&amp;usg=AOvVaw1hCLLwJSQ93ffNluc3w-r8" href="https://us02web.zoom.us/j/86759516115?pwd=RGQrKzJWWkRtTXVkeS9ZNXdSSmwxdz09" mcafee_aps="true" target="_blank">https://us02web.zoom.us/j/86759516115?pwd=RGQrKzJWWkRtTXVkeS9ZNXdSSmwxdz09</a><br>
+Meeting ID:&nbsp;867 5951 6115&nbsp;<br>
+Passcode:&nbsp;Eph4:16<br>
 <br>
-Meeting ID: 885 0722 0054<br>
-Passcode: 11545<br>
-<br>
-<u>Please note:</u></p>
-
-<div>Our working bee will be&nbsp;this Friday (3rd of April). Saints who are available please note of the correction on the time - 10am to 12pm.&nbsp;Lunch&nbsp;will be provided.</div>
-
-<div><br>
-Reminder of the change of the schedule this Lord's Day:&nbsp;</div>
-
-<div>11am - Lord's Table Meeting</div>
-
-<div>12:30pm - Love Feast<br>
-<br>
-Lord's Day lunch will be a mix of ordered-in food and home-cooked dishes from the saints. If you'd like to contribute by cooking, please let Brother Dermie and Sister April E know what you plan to bring — by Friday evening at the latest.</div>
-
-<p><br>
 <br>
 In Him,<br>
 <br>
@@ -96,7 +80,7 @@ The Brothers in Canberra</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13902539" target="_blank">April Retreat 2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13902500" target="_blank">Announcement 29/03/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13902385" target="_blank">Canberra Prayer & Coordination for April Retreat (26/03/26 - 8PM)</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13902583" target="_blank">April Retreat 2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13902539" target="_blank">April Retreat 2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13902500" target="_blank">Announcement 29/03/2026</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
