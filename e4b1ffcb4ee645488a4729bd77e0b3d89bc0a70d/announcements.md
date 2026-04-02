@@ -33,7 +33,7 @@ nofollow: true
                         <td>
                         
                             <div>
-<h2>Coordination Meeting&nbsp;for April Retreat 2026</h2>
+<h2>Lord's Day Change of Schedule (5th April 2026)&nbsp;</h2>
 </div>
 
                         </td>
@@ -58,18 +58,17 @@ nofollow: true
                         <td>
                         
                             <p><br>
-Hi Saints,<br>
+PLEASE SEE THE UPDATED SCHEDULE FOR THE&nbsp;LORD'S DAY&nbsp; ON 5th APRIL 2026&nbsp;<br>
 <br>
-We are resending the zoom details for our coordination meeting&nbsp;tonight at 8pm. The zoom details that was&nbsp;sent yesterday was for the coordination of interstate saints for the April Retreat. We will use our church zoom below:&nbsp;&nbsp;<br>
+09:00 am - Session 4 of the April Retreat<br>
+10:30 am - Morning Tea<br>
+11:00 am - Lord's Table / Overflow<br>
+01:00 pm - Lunch (not 12:30pm)<br>
 <br>
-To join, click this link&nbsp;<a data-saferedirecturl="https://www.google.com/url?q=https://us02web.zoom.us/j/86759516115?pwd%3DRGQrKzJWWkRtTXVkeS9ZNXdSSmwxdz09&amp;source=gmail&amp;ust=1775201554150000&amp;usg=AOvVaw1hCLLwJSQ93ffNluc3w-r8" href="https://us02web.zoom.us/j/86759516115?pwd=RGQrKzJWWkRtTXVkeS9ZNXdSSmwxdz09" mcafee_aps="true" target="_blank">https://us02web.zoom.us/j/86759516115?pwd=RGQrKzJWWkRtTXVkeS9ZNXdSSmwxdz09</a><br>
-Meeting ID:&nbsp;867 5951 6115&nbsp;<br>
-Passcode:&nbsp;Eph4:16<br>
+For saints joining the sessions, please see link below for the April Retreat Schedule<br>
+<a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/981b8a04-a309-10b0-3d6e-29a6bf7de772/April_2026_Retreat_Schedule.pdf" target="_blank">click here</a><br>
 <br>
-<br>
-In Him,<br>
-<br>
-The Brothers in Canberra</p>
+&nbsp;</p>
 
                         </td>
                     </tr>
@@ -80,7 +79,7 @@ The Brothers in Canberra</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13902583" target="_blank">April Retreat 2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13902539" target="_blank">April Retreat 2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13902500" target="_blank">Announcement 29/03/2026</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13902602" target="_blank">Coordination Meting for April Retreat 2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13902583" target="_blank">April Retreat 2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13902539" target="_blank">April Retreat 2026</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
