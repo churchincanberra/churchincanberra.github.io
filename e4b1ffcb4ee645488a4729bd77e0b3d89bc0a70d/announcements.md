@@ -34,7 +34,7 @@ nofollow: true
                         
                             <div>
 <p>ANNOUNCEMENTS - THE CHURCH IN CANBERRA<br>
-5 April 2026&nbsp;</p>
+12 April 2026&nbsp;</p>
 </div>
 
                         </td>
@@ -58,36 +58,45 @@ nofollow: true
                         
                         <td>
                         
-                            <p>1. LORD'S DAY SCHEDULE - 5th of April&nbsp;2026</p>
+                            <p>1. LOVE FEAST AT THE HALL&nbsp;(FOLLOWED BY COORDINATION MEETING)</p>
 
 <blockquote>
-<p>All saints are welcome to join Session 4&nbsp;of the April Retreat 2026 at 9am.<br>
-Lord's Table will begin at 11am followed by lunch&nbsp;at 1pm.</p>
+<p>Date: Today<br>
+<br>
+All saints are welcome to join the&nbsp;love feast. Let's take this opportunity to cherish one another while enjoying mutual fellowship. The&nbsp;love feast&nbsp;will be&nbsp;followed&nbsp;by the monthly&nbsp;coordination meeting&nbsp;for those who wish to join.</p>
 </blockquote>
 
 <p>2.&nbsp;SMALL GROUP MEETINGS THIS WEEK</p>
 
 <blockquote>
 <p>English speaking - Friday 7pm&nbsp;<br>
-Northside: Lawson House<br>
-Southside: Bro Zi &amp; Sis April's place (Phillip)<br>
+Northside: Mawi's place (Casey)<br>
+Southside: Lyons House<br>
 <br>
 Chinese speaking - Wednesday 6:30 pm<br>
-Venue: Ming&nbsp;and Nadia's place (Palmerston)</p>
+Venue:&nbsp;Victor&nbsp;and Bing's place (Lyons)<br>
+<br>
+Topic:&nbsp;Christ, the Eternal King, Coming to Possess the Earth and the Finishing of the Mystery of God</p>
 </blockquote>
 
 <p>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</p>
 
 <blockquote>
-<p>Week 41:&nbsp;commencing Monday<br>
+<p>Commencing Monday<br>
 HWMR Title: Experiencing, Enjoying, and Expressing Christ (4)&nbsp;<br>
-Week 41&nbsp;Title: The Tree of Life&nbsp;&nbsp;</p>
+Week 42&nbsp;Title: Christ, the Eternal King, Coming to Possess the Earth and the Finishing of the Mystery of God</p>
 </blockquote>
 
 <p>4. LIFE STUDY PURSUIT</p>
 
 <blockquote>
-<div>Life Study of Acts message 47&nbsp;and 48</div>
+<div>Life Study of Acts message 49&nbsp;and 50</div>
+</blockquote>
+
+<p>5. BIMONTHLY CLEANING SCHEDULE</p>
+
+<blockquote>
+<div><a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/6ee5286c-a9c7-6008-c902-97cc7b026913/Bimonthly_Cleaning_Schedule.xlsx" target="_blank">Click here</a></div>
 </blockquote>
 
                         </td>
@@ -113,17 +122,7 @@ Week 41&nbsp;Title: The Tree of Life&nbsp;&nbsp;</p>
                         
                             <p><u>TRAINING &amp; CONFERENCES</u>&nbsp;</p>
 
-<p>1.&nbsp; APRIL CAMPUS&nbsp;RETREAT 2026</p>
-
-<blockquote>
-<p>The retreat is open for University students, year 11 &amp; 12 students and young working saints<br>
-Dates: 3rd&nbsp;- 5th&nbsp;April&nbsp;2026&nbsp;<br>
-Venue: Church in Canberra Meeting Hall<br>
-General Information: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/5293853c-7e83-8880-a964-a1c6cad6e0f4/April_Retreat.pdf" target="_blank">click here&nbsp;</a><br>
-Registration link for Canberra &amp; Wagga: <a href="https://pci.jotform.com/form/260753390054051" target="_blank">click here</a></p>
-</blockquote>
-
-<p>2.&nbsp; PERTH BLENDING CONFERENCE 2026</p>
+<p>1.&nbsp; PERTH BLENDING CONFERENCE 2026</p>
 
 <blockquote>
 <p>Dates: 24th&nbsp;- 26th&nbsp;April 2026&nbsp;<br>
@@ -131,7 +130,7 @@ Venue: Woodman Point Recreation Camp<br>
 Conference details:&nbsp;<a href="https://fingertip.com/perthblendingconference" target="_blank">click here</a></p>
 </blockquote>
 
-<p>3.&nbsp; NATIONAL HIGH SCHOOL&nbsp;CONFERENCE 2026</p>
+<p>2.&nbsp; NATIONAL HIGH SCHOOL&nbsp;CONFERENCE 2026</p>
 
 <blockquote>
 <p>Dates: 3rd&nbsp; - 6th July&nbsp;2026&nbsp;<br>
@@ -139,7 +138,7 @@ Venue: Alexandra Park, Conference Centre, 13 Mari St, Alexandra Headland QLD 457
 Preliminary information: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/fd6b1a8e-6564-4fb2-d167-88f95dcd4f60/NHSC_2026_BRISBANE.pdf" target="_blank">click here</a></p>
 </blockquote>
 
-<p>4.&nbsp; CAIRNS&nbsp;CONFERENCE 2026</p>
+<p>3.&nbsp; CAIRNS&nbsp;CONFERENCE 2026</p>
 
 <blockquote>
 <p>Dates: 24th&nbsp; - 26th July&nbsp;2026&nbsp;<br>
@@ -170,22 +169,22 @@ Preliminary information: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a23
                             <p><u>AUDIO&nbsp;AND VIDEO RECORDINGS&nbsp;FROM RECENT TRAININGS AND CONFERENCES</u>&nbsp;<br>
 &nbsp;</p>
 
-<p>1. NEW ZEALAND BLENDING CONFERENCE 2026</p>
+<p>1. BIANNUAL PERFECTING TRAINING&nbsp;MARCH 2026</p>
+
+<blockquote>
+<p>The recorded messages are ready for download: <a href="https://churchinsydney.org/BPT2026-audio" target="_blank">Click here</a></p>
+</blockquote>
+
+<p>2. NEW ZEALAND BLENDING CONFERENCE 2026</p>
 
 <blockquote>
 <p>The recorded messages are ready for download: <a href="https://nztc.ac.nz/blending-conference-recordings/" target="_blank">Click here</a></p>
 </blockquote>
 
-<p>2. CAMPUS WORK FELLOWSHIP IN NOVEMBER&nbsp;2025</p>
+<p>3. CAMPUS WORK FELLOWSHIP IN NOVEMBER&nbsp;2025</p>
 
 <blockquote>
 <p>The recorded messages are ready for download: <a href="https://churchinbrisbane.com/downloads" target="_blank">Click here</a></p>
-</blockquote>
-
-<p>3. BIANNUAL PERFECTING TRAINING&nbsp;OCTOBER 2025</p>
-
-<blockquote>
-<p>The recorded messages are ready for download: <a href="https://drive.google.com/drive/folders/1Pk5aLQ9JED-JA7FKamQa6tI2kRnmeBWM" target="_blank">Click here</a></p>
 </blockquote>
 
                         </td>
@@ -212,15 +211,17 @@ Preliminary information: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a23
                             <p><u>INTERNATIONAL ANNOUNCEMENTS</u>&nbsp;<br>
 &nbsp;</p>
 
-<p>1. NEW ZEALAND NATIONAL CONFERENCE&nbsp;2026</p>
+<p>1. NZ NATIONAL SISTERS' BLENDING CONFERENCE</p>
 
 <blockquote>
-<p>Dates: 3rd-5th&nbsp;April 2026<br>
-Venue: Hamilton Boy's High School<br>
-Registration Details: <a href="https://nztc.ac.nz/national-conference/" target="_blank">Click Here</a></p>
+<p>Dates: 8-10th May 2026<br>
+Venue: Hamilton, NZ Training Centre or online<br>
+Conference Details: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/a48d020d-0559-bb73-2d2a-e90f2e6ac46b/National_Sisters_Blending_Conference_Letter_May_2026.pdf" target="_blank">Click here</a><br>
+Registration: <a href="https://nztc.ac.nz/sisters-conference" target="_blank">Click here</a><br>
+Due date: 29 April (in-person); 6 May (online)</p>
 </blockquote>
 
-<p>2. INTERNATIONAL MEMORIAL DAY BLENDING&nbsp;CONFERENCE 2026</p>
+<p>2. INTERNATIONAL MEMORIAL DAY BLENDING&nbsp;CONFERENCE</p>
 
 <blockquote>
 <p>Dates: 22nd-25th May 2026<br>
@@ -302,7 +303,8 @@ This&nbsp;meeting&nbsp;is open to saints serving (or endeavouring to serve) and 
 <p>E. CHURCH IN CANBERRA VARIOUS OFFERING ACCOUNTS</p>
 
 <blockquote>
-<p>Please <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/6b4f0499-5273-dcfe-2022-308c20d84c42/Church_in_Canberra_Bank_Accounts.01.pdf" target="_blank">click here</a></p>
+<p>Please <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/6b4f0499-5273-dcfe-2022-308c20d84c42/Church_in_Canberra_Bank_Accounts.01.pdf" target="_blank">click here</a><br>
+Reimbursement for church expenses: <a href="https://form.jotform.com/260902776500051" target="_blank">Form</a></p>
 </blockquote>
 
 <p>F. CHURCH ZOOM MEETING DETAILS</p>
@@ -369,7 +371,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13902608" target="_blank">Lord's Day Change of Schedule (5th April 2026)</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13902602" target="_blank">Coordination Meting for April Retreat 2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13902583" target="_blank">April Retreat 2026</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13902579" target="_blank">Announcement 5/04/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13902608" target="_blank">Lord's Day Change of Schedule (5th April 2026)</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13902602" target="_blank">Coordination Meting for April Retreat 2026</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
