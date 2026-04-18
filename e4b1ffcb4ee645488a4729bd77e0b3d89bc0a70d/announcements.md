@@ -34,7 +34,7 @@ nofollow: true
                         
                             <div>
 <p>ANNOUNCEMENTS - THE CHURCH IN CANBERRA<br>
-12 April 2026&nbsp;</p>
+19&nbsp;April 2026&nbsp;</p>
 </div>
 
                         </td>
@@ -70,13 +70,13 @@ All saints are welcome to join the&nbsp;love feast. Let's take this opportunity 
 
 <blockquote>
 <p>English speaking - Friday 7pm&nbsp;<br>
-Northside: Mawi's place (Casey)<br>
-Southside: Lyons House<br>
+Northside: Lawson House<br>
+Southside: Zi and April's place (Phillip)<br>
 <br>
 Chinese speaking - Wednesday 6:30 pm<br>
-Venue:&nbsp;Victor&nbsp;and Bing's place (Lyons)<br>
+Venue:&nbsp;Ming&nbsp;and Nadia's place (Palmerston)<br>
 <br>
-Topic:&nbsp;Christ, the Eternal King, Coming to Possess the Earth and the Finishing of the Mystery of God</p>
+Topic:&nbsp;The Spirit Speaking to the Churches, the One Who Has the Key of David, and the One Who Will Dine with the Overcomers</p>
 </blockquote>
 
 <p>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</p>
@@ -84,13 +84,13 @@ Topic:&nbsp;Christ, the Eternal King, Coming to Possess the Earth and the Finish
 <blockquote>
 <p>Commencing Monday<br>
 HWMR Title: Experiencing, Enjoying, and Expressing Christ (4)&nbsp;<br>
-Week 42&nbsp;Title: Christ, the Eternal King, Coming to Possess the Earth and the Finishing of the Mystery of God</p>
+Week 43&nbsp;Title: The Spirit Speaking to the Churches, the One Who Has the Key of David, and the One Who Will Dine with the Overcomers</p>
 </blockquote>
 
 <p>4. LIFE STUDY PURSUIT</p>
 
 <blockquote>
-<div>Life Study of Acts message 49&nbsp;and 50</div>
+<div>Life Study of Acts message 51&nbsp;and 52</div>
 </blockquote>
 
 <p>5. BIMONTHLY CLEANING SCHEDULE</p>
@@ -218,7 +218,8 @@ Preliminary information: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a23
 Venue: Hamilton, NZ Training Centre or online<br>
 Conference Details: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/a48d020d-0559-bb73-2d2a-e90f2e6ac46b/National_Sisters_Blending_Conference_Letter_May_2026.pdf" target="_blank">Click here</a><br>
 Registration: <a href="https://nztc.ac.nz/sisters-conference" target="_blank">Click here</a><br>
-Due date: 29 April (in-person); 6 May (online)</p>
+Due date: 29 April (in-person); 6 May (online)<br>
+Clustering in Canberra Meeting Hall for sessions 3 and 4 on 9 May: <a href="https://form.jotform.com/261052942084050" target="_blank">Register here</a></p>
 </blockquote>
 
 <p>2. INTERNATIONAL MEMORIAL DAY BLENDING&nbsp;CONFERENCE</p>
@@ -287,8 +288,8 @@ Saturday 8:45&nbsp;pm using the church in Canberra regular zoom meeting.<br>
 <p>C. COORDINATION MEETING&nbsp;</p>
 
 <blockquote>
-<p>Next Meeting: 12&nbsp;April&nbsp;2026<br>
-Book: Basic Factors of the Church Service (CWWL, 1973–1974, vol. 2) Chapter 2 - Caring for the mutuality and coordination among the saints to minister life to them<br>
+<p>Next Meeting: 19&nbsp;April&nbsp;2026<br>
+Book: Basic Factors of the Church Service (CWWL, 1973–1974, vol. 2) Chapter 3<br>
 Future Dates: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/a954ed93-ea4b-6444-0e0d-a1c0245baa0b/Schedule_of_Coordination_Meeting.pdf" target="_blank">click here</a><br>
 <br>
 This&nbsp;meeting&nbsp;is open to saints serving (or endeavouring to serve) and is predominantly a time to enjoy the Lord so that we may be built up together in our service. There will be Zoom available for those who cannot join physically.</p>
@@ -371,7 +372,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13902579" target="_blank">Announcement 5/04/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13902608" target="_blank">Lord's Day Change of Schedule (5th April 2026)</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13902602" target="_blank">Coordination Meting for April Retreat 2026</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13902739" target="_blank">Announcement 12/04/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13902579" target="_blank">Announcement 5/04/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13902608" target="_blank">Lord's Day Change of Schedule (5th April 2026)</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
