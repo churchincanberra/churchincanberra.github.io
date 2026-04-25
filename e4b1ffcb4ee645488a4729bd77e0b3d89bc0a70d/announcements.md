@@ -34,7 +34,7 @@ nofollow: true
                         
                             <div>
 <p>ANNOUNCEMENTS - THE CHURCH IN CANBERRA<br>
-19&nbsp;April 2026&nbsp;</p>
+26 April 2026&nbsp;</p>
 </div>
 
                         </td>
@@ -58,42 +58,34 @@ nofollow: true
                         
                         <td>
                         
-                            <p>1. LOVE FEAST AT THE HALL&nbsp;(FOLLOWED BY COORDINATION MEETING)</p>
-
-<blockquote>
-<p>Date: Today<br>
-<br>
-All saints are welcome to join the&nbsp;love feast. Let's take this opportunity to cherish one another while enjoying mutual fellowship. The&nbsp;love feast&nbsp;will be&nbsp;followed&nbsp;by the monthly&nbsp;coordination meeting&nbsp;for those who wish to join.</p>
-</blockquote>
-
-<p>2.&nbsp;SMALL GROUP MEETINGS THIS WEEK</p>
+                            <p>1.&nbsp;SMALL GROUP MEETINGS THIS WEEK</p>
 
 <blockquote>
 <p>English speaking - Friday 7pm&nbsp;<br>
-Northside: Lawson House<br>
-Southside: Zi and April's place (Phillip)<br>
+Northside: Combined at Meeting hall<br>
+Southside: Combined at Meeting hall<br>
 <br>
 Chinese speaking - Wednesday 6:30 pm<br>
-Venue:&nbsp;Ming&nbsp;and Nadia's place (Palmerston)<br>
+Venue:&nbsp;Victor&nbsp;and Bing's place (Lyons)<br>
 <br>
-Topic:&nbsp;The Spirit Speaking to the Churches, the One Who Has the Key of David, and the One Who Will Dine with the Overcomers</p>
+Topic:&nbsp;The Man-child, the War in Heaven, and the Overcoming Saints</p>
 </blockquote>
 
-<p>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</p>
+<p>2. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</p>
 
 <blockquote>
 <p>Commencing Monday<br>
 HWMR Title: Experiencing, Enjoying, and Expressing Christ (4)&nbsp;<br>
-Week 43&nbsp;Title: The Spirit Speaking to the Churches, the One Who Has the Key of David, and the One Who Will Dine with the Overcomers</p>
+Week 44&nbsp;Title:&nbsp;The Man-child, the War in Heaven, and the Overcoming Saints</p>
 </blockquote>
 
-<p>4. LIFE STUDY PURSUIT</p>
+<p>3. LIFE STUDY PURSUIT</p>
 
 <blockquote>
-<div>Life Study of Acts message 51&nbsp;and 52</div>
+<div>Life Study of Acts message 53&nbsp;and 54</div>
 </blockquote>
 
-<p>5. BIMONTHLY CLEANING SCHEDULE</p>
+<p>4. BIMONTHLY CLEANING SCHEDULE</p>
 
 <blockquote>
 <div><a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/6ee5286c-a9c7-6008-c902-97cc7b026913/Bimonthly_Cleaning_Schedule.xlsx" target="_blank">Click here</a></div>
@@ -138,11 +130,22 @@ Venue: Alexandra Park, Conference Centre, 13 Mari St, Alexandra Headland QLD 457
 Preliminary information: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/fd6b1a8e-6564-4fb2-d167-88f95dcd4f60/NHSC_2026_BRISBANE.pdf" target="_blank">click here</a></p>
 </blockquote>
 
-<p>3.&nbsp; CAIRNS&nbsp;CONFERENCE 2026</p>
+<p>3.&nbsp; NATIONAL UNIVERSITY AGE CONFERENCE&nbsp;2026</p>
+
+<blockquote>
+<p>Campus Clustering Fellowship: 9-10 July<br>
+NUAC: 10-13 July&nbsp;<br>
+Blending Trip: 10 July&nbsp;&nbsp;<br>
+Preliminary information: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/9c44b7d5-6871-2ab8-5997-cb93472e60d6/NUAC_2026.pdf" target="_blank">Click here</a></p>
+</blockquote>
+
+<p><br>
+4.&nbsp; CAIRNS&nbsp;CONFERENCE 2026</p>
 
 <blockquote>
 <p>Dates: 24th&nbsp; - 26th July&nbsp;2026&nbsp;<br>
-Preliminary information: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/27a6fde9-25bc-5da4-de70-8d625fcb4a0e/CAIRNS_CONFERENCE_2026.pdf" target="_blank">click here</a></p>
+Venue: Ramada Hotel, 6/12 Florence St., Cairns City<br>
+Registration: <a href="https://form.jotform.com/260971812844867" target="_blank">Click here</a></p>
 </blockquote>
 
                         </td>
@@ -230,6 +233,12 @@ Venue: Sheraton Dallas Hotel Dallas Texas<br>
 Conference Details: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/90d06248-31c7-20a7-e20d-5f858446ff10/2026_Memorial_Day_Blending_Conference_English.pdf" target="_blank">Click Here</a></p>
 </blockquote>
 
+<p>3. GOSPEL EVENT IN US</p>
+
+<blockquote>
+<p>Details:&nbsp;<a href="https://www.tsuf.us/burden" target="_blank">Click here</a></p>
+</blockquote>
+
                         </td>
                     </tr>
                 </tbody></table>
@@ -288,8 +297,7 @@ Saturday 8:45&nbsp;pm using the church in Canberra regular zoom meeting.<br>
 <p>C. COORDINATION MEETING&nbsp;</p>
 
 <blockquote>
-<p>Next Meeting: 19&nbsp;April&nbsp;2026<br>
-Book: Basic Factors of the Church Service (CWWL, 1973–1974, vol. 2) Chapter 3<br>
+<p>Next Meeting: 3&nbsp;May 2026<br>
 Future Dates: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/a954ed93-ea4b-6444-0e0d-a1c0245baa0b/Schedule_of_Coordination_Meeting.pdf" target="_blank">click here</a><br>
 <br>
 This&nbsp;meeting&nbsp;is open to saints serving (or endeavouring to serve) and is predominantly a time to enjoy the Lord so that we may be built up together in our service. There will be Zoom available for those who cannot join physically.</p>
@@ -372,7 +380,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13902739" target="_blank">Announcement 12/04/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13902579" target="_blank">Announcement 5/04/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13902608" target="_blank">Lord's Day Change of Schedule (5th April 2026)</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13902987" target="_blank">Announcement 19/04/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13902739" target="_blank">Announcement 12/04/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13902579" target="_blank">Announcement 5/04/2026</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
