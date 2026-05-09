@@ -34,7 +34,7 @@ nofollow: true
                         
                             <div>
 <p>ANNOUNCEMENTS - THE CHURCH IN CANBERRA<br>
-3 MAY&nbsp;2026&nbsp;</p>
+10 MAY&nbsp;2026&nbsp;</p>
 </div>
 
                         </td>
@@ -58,41 +58,40 @@ nofollow: true
                         
                         <td>
                         
-                            <p>1. LOVE FEAST AT THE MEETING HALL&nbsp;</p>
-
-<blockquote>
-<p>Date: Today (3rd May)<br>
-<br>
-We will have love feast today after the prophesying meeting.<br>
-<br>
-To give more time for blending and fellowship with the visiting saints, we would skip the coordination meeting today and resume as scheduled on the 17th May.</p>
-</blockquote>
-
-<p>2.&nbsp;SMALL GROUP MEETINGS THIS WEEK</p>
+                            <p>1.&nbsp;SMALL GROUP MEETINGS THIS WEEK</p>
 
 <blockquote>
 <p>English speaking - Friday 7pm&nbsp;<br>
-Northside: Lawson House<br>
-Southside: Lyons House<br>
+Northside: Johnvie's&nbsp;Place&nbsp;(Harrison)<br>
+Southside: Zi and April H&nbsp;Place (Phillip)<br>
 <br>
 Chinese speaking - Wednesday 6:30 pm<br>
-Venue:&nbsp;Ming&nbsp;and Nadia's place (Palmerston)<br>
+Venue: Victor&nbsp;and Bing's's Place (Lyons)<br>
 <br>
-Topic:&nbsp;The Lamb Whom the Overcoming Firstfruits Follow</p>
+Topic:&nbsp;Christ - The Establisher of the Kingdom and the Word of God - King of Kings and Lord of Lords</p>
 </blockquote>
 
-<p>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</p>
+<p>2. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</p>
 
 <blockquote>
 <p>Commencing Monday<br>
 HWMR Title: Experiencing, Enjoying, and Expressing Christ (4)&nbsp;<br>
-Week 45&nbsp;Title: The Lamb Whom the Overcoming Firstfruits Follow</p>
+Week 46&nbsp;Title: Christ - The Establisher of the Kingdom and the Word of God - King of Kings and Lord of Lords</p>
 </blockquote>
 
-<p>4. LIFE STUDY PURSUIT</p>
+<p>3. LIFE STUDY PURSUIT</p>
 
 <blockquote>
-<div>Life Study of Acts message 55&nbsp;and 56</div>
+<div>Life Study of Acts message 57&nbsp;and 58</div>
+</blockquote>
+
+<p><br>
+4. LOVE FEAST AT THE HALL (FOLLOWED BY COORDINATION MEETING) NEXT LORD'S DAY</p>
+
+<blockquote>
+<div>Date: 17 May 2026<br>
+<br>
+All saints are welcome to join the love feast. Let's take this opportunity to cherish one another while enjoying mutual fellowship. The love feast will be followed by the monthly coordination meeting for those who wish to join.</div>
 </blockquote>
 
                         </td>
@@ -177,12 +176,6 @@ Preliminary information: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a23
 <p>The recorded messages are ready for download: <a href="https://nztc.ac.nz/blending-conference-recordings/" target="_blank">Click here</a></p>
 </blockquote>
 
-<p>3. CAMPUS WORK FELLOWSHIP IN NOVEMBER&nbsp;2025</p>
-
-<blockquote>
-<p>The recorded messages are ready for download: <a href="https://churchinbrisbane.com/downloads" target="_blank">Click here</a></p>
-</blockquote>
-
                         </td>
                     </tr>
                 </tbody></table>
@@ -224,6 +217,12 @@ Clustering in Canberra Meeting Hall for sessions 3 and 4 on 9 May: <a href="http
 <p>Dates: 22nd-25th May 2026<br>
 Venue: Sheraton Dallas Hotel Dallas Texas<br>
 Conference Details: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/90d06248-31c7-20a7-e20d-5f858446ff10/2026_Memorial_Day_Blending_Conference_English.pdf" target="_blank">Click Here</a></p>
+</blockquote>
+
+<p>3. GOSPEL EVENTS IN US</p>
+
+<blockquote>
+<p>Details: <a href="https://www.tsuf.us/burden" target="_blank">Click here</a></p>
 </blockquote>
 
                         </td>
@@ -287,7 +286,7 @@ Saturday 8:45&nbsp;pm using the church in Canberra regular zoom meeting.<br>
 
 <blockquote>
 <p>Next Meeting: 17 May&nbsp;2026<br>
-Future Dates: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/a954ed93-ea4b-6444-0e0d-a1c0245baa0b/Schedule_of_Coordination_Meeting.pdf" target="_blank">click here</a><br>
+Future Dates: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/c6eb4242-1453-32c1-0fc6-e156204a7e59/Coordination_Meeting_Schedule_2026.01.pdf" target="_blank">click here</a><br>
 <br>
 This&nbsp;meeting&nbsp;is open to saints serving (or endeavouring to serve) and is predominantly a time to enjoy the Lord so that we may be built up together in our service. There will be Zoom available for those who cannot join physically.</p>
 </blockquote>
@@ -376,7 +375,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13903279" target="_blank">Road Closure Commonwealth Avenue this weekend</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13903282" target="_blank">Love feast this Lord's day 3rd May 2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13903074" target="_blank">Announcement 26/04/2026</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13903313" target="_blank">Announcement 03/05/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13903279" target="_blank">Road Closure Commonwealth Avenue this weekend</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13903282" target="_blank">Love feast this Lord's day 3rd May 2026</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
