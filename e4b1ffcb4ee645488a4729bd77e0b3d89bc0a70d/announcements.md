@@ -34,7 +34,7 @@ nofollow: true
                         
                             <div>
 <p>ANNOUNCEMENTS - THE CHURCH IN CANBERRA<br>
-17&nbsp;MAY&nbsp;2026&nbsp;</p>
+24 MAY&nbsp;2026&nbsp;</p>
 </div>
 
                         </td>
@@ -58,37 +58,31 @@ nofollow: true
                         
                         <td>
                         
-                            <p>1. LOVE FEAST AT THE HALL (FOLLOWED BY COORDINATION MEETING) NEXT LORD'S DAY</p>
-
-<blockquote>Date: 17 May 2026<br>
-<br>
-All saints are welcome to join the love feast. Let's take this opportunity to cherish one another while enjoying mutual fellowship. The love feast will be followed by the monthly coordination meeting for those who wish to join.</blockquote>
-
-<p>2.&nbsp;SMALL GROUP MEETINGS THIS WEEK</p>
+                            <p>1.&nbsp;SMALL GROUP MEETINGS THIS WEEK</p>
 
 <blockquote>
 <p>English speaking - Friday 7pm&nbsp;<br>
-Northside: Matt &amp; Dorina's House (Belconnen)<br>
-Southside: Lyons House<br>
+Northside: Lawson House<br>
+Southside: Combined with Northside<br>
 <br>
 Chinese speaking - Wednesday 6:30 pm<br>
-Venue: Ming and Nadia's House&nbsp;<br>
+Venue: Victor&nbsp;and Bing's House (Lyons)&nbsp;<br>
 <br>
-Topic:&nbsp;The Lamb-God Being on the Throne within the City</p>
+Topic:&nbsp;Christ Coming with Reward and Punishment, a Lamp shining in a Dark Place, and Christ Appearing Privately to His Overcomers as the Morning Star</p>
 </blockquote>
 
-<p>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</p>
+<p>2. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</p>
 
 <blockquote>
 <p>Commencing Monday<br>
 HWMR Title: Experiencing, Enjoying, and Expressing Christ (4)&nbsp;<br>
-Week 47&nbsp;Title: The Lamb-God Being on the Throne within the City</p>
+Week 48&nbsp;Title: Christ Coming with Reward and Punishment, a Lamp shining in a Dark Place, and Christ Appearing Privately to His Overcomers as the Morning Star</p>
 </blockquote>
 
-<p>4. LIFE STUDY PURSUIT</p>
+<p>3. LIFE STUDY PURSUIT</p>
 
 <blockquote>
-<div>Life Study of Acts message 59&nbsp;and 60</div>
+<div>Life Study of Acts message 61&nbsp;and 62</div>
 </blockquote>
 
                         </td>
@@ -265,7 +259,7 @@ National Highschooler Conference (NHSC) Prayer and Coordination- Thursday from 8
 <u>Migration and Europe</u><br>
 Saturday 8:45&nbsp;pm using the church in Canberra regular zoom meeting.<br>
 <a href="https://9xdq3.r.sp1-brevo.net/mk/mr/sh/6rqJ8GoudeITQjnXGaioOivQjTx/OfliSquhqbAc" target="_blank">Burdens related to Europe</a><br>
-(1) To pray that the Lord would open the way for migration in Australia. (2) The Lord's move in Europe and the upcoming gospel trips in Italy.</p>
+(1) To pray that the Lord would open the way for migration in Australia. (2) The Lord's move in Europe. (3) Torch Relay and Olympic Games Gospel Trips in Italy <a href="https://ukmedia.configio.com/media/em_AmanaTrust/Attachments/Italy%20Report%20for%20LSM%203-29%20-%20B.pdf" target="_blank">click here</a>.</p>
 </blockquote>
 
 <p>C. COORDINATION MEETING&nbsp;</p>
@@ -361,7 +355,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13903453" target="_blank">Announcement 10/05/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13903313" target="_blank">Announcement 03/05/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13903279" target="_blank">Road Closure Commonwealth Avenue this weekend</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13903551" target="_blank">Announcement 17/05/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13903453" target="_blank">Announcement 10/05/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13903313" target="_blank">Announcement 03/05/2026</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
