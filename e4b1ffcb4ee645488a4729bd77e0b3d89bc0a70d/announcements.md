@@ -33,7 +33,8 @@ nofollow: true
                         <td>
                         
                             <div>
-<h2>Change of Meeting Place for Friday Night Meeting (29/05/26)</h2>
+<p>ANNOUNCEMENTS - THE CHURCH IN CANBERRA<br>
+31 MAY&nbsp;2026&nbsp;</p>
 </div>
 
                         </td>
@@ -57,17 +58,38 @@ nofollow: true
                         
                         <td>
                         
-                            <p><br>
-Hi Saints,<br>
+                            <p>1. LOVE FEAST FOLLOWED BY COORDINATION MEETING</p>
+
+<blockquote>Date: 31&nbsp;May 2026<br>
 <br>
-Due to some saints at Lawson House being unwell, the Friday night combined small group meeting this week will be held at Lyons House.<br>
+All saints are welcome to join the love feast. Let's take this opportunity to cherish one another while enjoying mutual fellowship. The love feast will be followed by the monthly coordination meeting for those who wish to join.</blockquote>
+
+<p>2.&nbsp;SMALL GROUP MEETINGS THIS WEEK</p>
+
+<blockquote>
+<p>English speaking - Friday 7pm&nbsp;<br>
+Northside: Lawson House<br>
+Southside: Combined with Northside<br>
 <br>
+Chinese speaking - Wednesday 6:30 pm<br>
+Venue:&nbsp;Ming&nbsp;and Nadia's place (Palmerston)<br>
 <br>
-Much Grace,<br>
-<br>
-<br>
-The Brothers in Canberra<br>
-&nbsp;</p>
+Topic:&nbsp;Living and Working according to the Vision of the Age to Change the Age</p>
+</blockquote>
+
+<p>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</p>
+
+<blockquote>
+<p>Commencing Monday<br>
+HWMR Title:&nbsp;Noah, Daniel, and Job— Patterns of Living an Overcoming Life on the Line of Life to Fulfill the Economy of God<br>
+Week 1&nbsp;Title:&nbsp;Living and Working according to the Vision of the Age to Change the Age</p>
+</blockquote>
+
+<p>4. LIFE STUDY PURSUIT</p>
+
+<blockquote>
+<div>Life Study of Acts message 63&nbsp;and 64</div>
+</blockquote>
 
                         </td>
                     </tr>
@@ -78,7 +100,269 @@ The Brothers in Canberra<br>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13903721" target="_blank">Announcement 24/05/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13903551" target="_blank">Announcement 17/05/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13903453" target="_blank">Announcement 10/05/2026</a></div>
+</table><table>
+    <tbody>
+        <tr>
+            <td>
+              	
+			    
+				
+                <table>
+                    <tbody><tr>
+                        
+                        <td>
+                        
+                            <p><u>TRAINING &amp; CONFERENCES</u>&nbsp;</p>
+
+<p>1.&nbsp; NATIONAL HIGH SCHOOL&nbsp;CONFERENCE 2026</p>
+
+<blockquote>
+<p>Dates: 3rd - 6th July&nbsp;2026&nbsp;<br>
+Venue: Alexandra Park, Conference Centre, 13 Mari St, Alexandra Headland QLD 4572&nbsp;<br>
+Registration Details: <a href="https://nhsc.site/" target="_blank">click here</a></p>
+</blockquote>
+
+<p>2.&nbsp; NATIONAL UNIVERSITY&nbsp;AGE CONFERENCE 2026</p>
+
+<blockquote>
+<p>Dates: 10th - 13th July&nbsp;2026&nbsp;<br>
+Venue: The Collaroy Centre- 22 Homestead Ave, Collaroy NSW 2097<br>
+Registration Details:&nbsp;<a href="https://new.express.adobe.com/webpage/Kv5BzelLRIkNr" target="_blank">click here</a></p>
+</blockquote>
+
+<p>3.&nbsp; CAIRNS&nbsp;CONFERENCE 2026</p>
+
+<blockquote>
+<p>Dates: 24th - 26th July&nbsp;2026&nbsp;<br>
+Venue: Ramada Hotel, 6/12 Florence St., Cairns City<br>
+Registration Details: <a href="https://form.jotform.com/260971812844867" target="_blank">click here</a></p>
+</blockquote>
+
+<p>4.&nbsp; TEACHERS' TRAINING (TT), PARENTS AND SERVING ONES' CONFERENCE (PSOC) 2026</p>
+
+<blockquote>
+<p>Dates: 28 Aug&nbsp;(TT); 29-30 Aug (PSOC)<br>
+Venue: Sydney<br>
+Registration Details: TBC</p>
+</blockquote>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				
+                
+				
+            </td>
+        </tr>
+    </tbody>
+</table><table>
+    <tbody>
+        <tr>
+            <td>
+              	
+			    
+				
+                <table>
+                    <tbody><tr>
+                        
+                        <td>
+                        
+                            <p><u>AUDIO&nbsp;AND VIDEO RECORDINGS&nbsp;FROM RECENT TRAININGS AND CONFERENCES</u>&nbsp;<br>
+&nbsp;</p>
+
+<p>1. BIANNUAL PERFECTING TRAINING&nbsp;MARCH 2026</p>
+
+<blockquote>
+<p>The recorded messages are ready for download: <a href="https://churchinsydney.org/BPT2026-audio" target="_blank">Click here</a></p>
+</blockquote>
+
+<p>2. NEW ZEALAND BLENDING CONFERENCE 2026</p>
+
+<blockquote>
+<p>The recorded messages are ready for download: <a href="https://nztc.ac.nz/blending-conference-recordings/" target="_blank">Click here</a></p>
+</blockquote>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				
+                
+				
+            </td>
+        </tr>
+    </tbody>
+</table><table>
+    <tbody>
+        <tr>
+            <td>
+              	
+			    
+				
+                <table>
+                    <tbody><tr>
+                        
+                        <td>
+                        
+                            <p><u>INTERNATIONAL ANNOUNCEMENTS</u>&nbsp;<br>
+&nbsp;</p>
+
+<p>1. GOSPEL EVENT&nbsp;IN US</p>
+
+<blockquote>
+<p>Details: <a href="https://www.tsuf.us/burden" target="_blank">Click here</a></p>
+</blockquote>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				
+                
+				
+            </td>
+        </tr>
+    </tbody>
+</table><table>
+    <tbody>
+        <tr>
+            <td>
+              	
+			    
+				
+                <table>
+                    <tbody><tr>
+                        
+                        <td>
+                        
+                            <p><u>GENERAL INFORMATION</u></p>
+
+<p><br>
+A. REGULAR MEETINGS OF THE CHURCH</p>
+
+<blockquote>
+<p><u>Prayer Meeting (English &amp; Chinese)</u><br>
+Tuesday 7:30pm at the meeting hall and online.<br>
+Online:&nbsp;<br>
+Zoom for English (details below)<br>
+WeChat for Chinese (Contact Mark Lam or Zhi Bing to be added in the group chat)<br>
+<br>
+<u>Lord's Table and Prophesying Meeting</u><br>
+Lord's Day 10:00am at the meeting hall and on Zoom (details below).</p>
+</blockquote>
+
+<p>B. REGULAR ADDITIONAL PRAYER TIMES</p>
+
+<blockquote>
+<p><u>Bibles for Australia</u><br>
+Monday 8:30pm and Lord's Day 6pm&nbsp;on Zoom<br>
+Zoom: <a href="https://us02web.zoom.us/j/88413747323?pwd=K041K1BPU0gvVlpMOXdOaTM4dUJjZz09" target="_blank">click here&nbsp;</a><br>
+Burden: The bible distribution work throughout Australia.<br>
+<br>
+<u>High School service</u><br>
+Local Highschool Prayer- Thursday from 8:00 pm to 8:30 pm using&nbsp;the church in Canberra regular zoom meeting.<br>
+Burden: Our high-schoolers and the LD HS meeting.<br>
+<br>
+National Highschooler Conference (NHSC) Prayer and Coordination- Thursday from 8:30 pm. to 9:30 pm.<br>
+<br>
+<u>Migration and Europe</u><br>
+Saturday 8:45&nbsp;pm using the church in Canberra regular zoom meeting.<br>
+<a href="https://9xdq3.r.sp1-brevo.net/mk/mr/sh/6rqJ8GoudeITQjnXGaioOivQjTx/OfliSquhqbAc" target="_blank">Burdens related to Europe</a><br>
+(1) To pray that the Lord would open the way for migration in Australia. (2) The Lord's move in Europe. (3) Torch Relay and Olympic Games Gospel Trips in Italy <a href="https://ukmedia.configio.com/media/em_AmanaTrust/Attachments/Italy%20Report%20for%20LSM%203-29%20-%20B.pdf" target="_blank">click here</a>.</p>
+</blockquote>
+
+<p>C. COORDINATION MEETING&nbsp;</p>
+
+<blockquote>
+<p>Next Meeting: 31 May 2026<br>
+Future Dates: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/c6eb4242-1453-32c1-0fc6-e156204a7e59/Coordination_Meeting_Schedule_2026.01.pdf" target="_blank">click here</a><br>
+<br>
+This&nbsp;meeting&nbsp;is open to saints serving (or endeavouring to serve) and is predominantly a time to enjoy the Lord so that we may be built up together in our service. There will be Zoom available for those who cannot join physically.</p>
+</blockquote>
+
+<p>D. BIMONTHLY CLEANING SCHEDULE</p>
+
+<blockquote>
+<div><a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/6ee5286c-a9c7-6008-c902-97cc7b026913/Bimonthly_Cleaning_Schedule.xlsx" target="_blank">Click here</a></div>
+</blockquote>
+
+<p><br>
+E. CALENDAR FROM THE CHURCH IN SYDNEY</p>
+
+<blockquote>
+<p>Please <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/5dc1b5dc-30b1-5415-1caf-c87794e5c8c7/Church_Planner_2026.pdf" target="_blank">click here</a></p>
+</blockquote>
+
+<p>F. CHURCH IN CANBERRA VARIOUS OFFERING ACCOUNTS</p>
+
+<blockquote>
+<p>Please <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/6b4f0499-5273-dcfe-2022-308c20d84c42/Church_in_Canberra_Bank_Accounts.01.pdf" target="_blank">click here</a><br>
+Reimbursement for church expenses: <a href="https://form.jotform.com/260902776500051" target="_blank">Form</a></p>
+</blockquote>
+
+<p>G. CHURCH ZOOM MEETING DETAILS</p>
+
+<blockquote>
+<p>To join, click this link&nbsp;<a href="https://us02web.zoom.us/j/86759516115?pwd=RGQrKzJWWkRtTXVkeS9ZNXdSSmwxdz09" target="_blank">https://us02web.zoom.us/j/86759516115?pwd=RGQrKzJWWkRtTXVkeS9ZNXdSSmwxdz09</a><br>
+Meeting ID:&nbsp;867 5951 6115&nbsp;<br>
+Passcode:&nbsp;Eph4:16</p>
+</blockquote>
+
+<p>H. ONLINE ANNOUNCEMENT</p>
+
+<blockquote>
+<p>The announcement page on the church in Canberra website (<a href="https://www.churchincanberra.org/announcements" target="_blank">https://www.churchincanberra.org/announcements</a>) requires the password, 'canberra'.</p>
+</blockquote>
+
+<p>I. LIST OF ACT SUBURBS AND DISTRICTS&nbsp;</p>
+
+<blockquote>
+<p>Through the burden released at recent conferences and the prayer of the saints&nbsp;we look to the Lord for the increase&nbsp;of his testimony in Canberra. There is the need for much prayer that the Lord would gain his testimony across the whole of the ACT. The document <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/15584ad1-5cea-5f67-dfc0-44b4e246ee2a/ACT_Divisions_2023_v2.pdf" target="_blank">linked here</a> contains a full list of the ACT Districts and Divisions (Suburbs) to aid in your prayer for his move in Canberra.</p>
+</blockquote>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				
+                
+				
+            </td>
+        </tr>
+    </tbody>
+</table><table>
+    <tbody>
+        <tr>
+            <td>
+              	
+			    
+				
+                <table>
+                    <tbody><tr>
+                        
+                        <td>
+                        
+                            <p>Past announcements can be found at the church website:&nbsp;<a href="https://www.churchincanberra.org/announcements" rel="noreferrer noopener" target="_blank">https://www.churchincanberra.org/announcements</a>&nbsp;</p>
+
+<div>
+<p>(Please refer to weekly email announcement for login password)&nbsp;</p>
+</div>
+
+<div>
+<p dir="rtl">&nbsp;</p>
+</div>
+
+<div>
+<p>From coordinating ones, on behalf of the Church in Canberra&nbsp; </p>
+</div>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				
+                
+				
+            </td>
+        </tr>
+    </tbody>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13903748" target="_blank">Change of Meeting Place for Friday Night Meeting (29/05/26)</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13903721" target="_blank">Announcement 24/05/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13903551" target="_blank">Announcement 17/05/2026</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
