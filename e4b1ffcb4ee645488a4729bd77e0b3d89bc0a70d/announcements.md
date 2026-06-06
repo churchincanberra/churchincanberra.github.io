@@ -34,7 +34,7 @@ nofollow: true
                         
                             <div>
 <p>ANNOUNCEMENTS - THE CHURCH IN CANBERRA<br>
-31 MAY&nbsp;2026&nbsp;</p>
+7 JUNE&nbsp;2026&nbsp;</p>
 </div>
 
                         </td>
@@ -58,38 +58,38 @@ nofollow: true
                         
                         <td>
                         
-                            <p>1. LOVE FEAST FOLLOWED BY COORDINATION MEETING</p>
-
-<blockquote>Date: 31&nbsp;May 2026<br>
-<br>
-All saints are welcome to join the love feast. Let's take this opportunity to cherish one another while enjoying mutual fellowship. The love feast will be followed by the monthly coordination meeting for those who wish to join.</blockquote>
-
-<p>2.&nbsp;SMALL GROUP MEETINGS THIS WEEK</p>
+                            <p>1.&nbsp;SMALL GROUP MEETINGS THIS WEEK</p>
 
 <blockquote>
 <p>English speaking - Friday 7pm&nbsp;<br>
-Northside: Lawson House<br>
-Southside: Combined with Northside<br>
+Northside:&nbsp;Johnvie's&nbsp;Place&nbsp;(Harrison)<br>
+Southside: Lyons House<br>
 <br>
 Chinese speaking - Wednesday 6:30 pm<br>
-Venue:&nbsp;Ming&nbsp;and Nadia's place (Palmerston)<br>
+Venue:&nbsp;Victor&nbsp;and Bing's House (Lyons)&nbsp;<br>
 <br>
-Topic:&nbsp;Living and Working according to the Vision of the Age to Change the Age</p>
+Topic:&nbsp;The Line of Life with Noah—the Life and Work That Change the Age</p>
 </blockquote>
 
-<p>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</p>
+<p>2. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</p>
 
 <blockquote>
 <p>Commencing Monday<br>
 HWMR Title:&nbsp;Noah, Daniel, and Job— Patterns of Living an Overcoming Life on the Line of Life to Fulfill the Economy of God<br>
-Week 1&nbsp;Title:&nbsp;Living and Working according to the Vision of the Age to Change the Age</p>
+Week 2&nbsp;Title:&nbsp;The Line of Life with Noah—the Life and Work That Change the Age</p>
 </blockquote>
 
-<p>4. LIFE STUDY PURSUIT</p>
+<p>3. LIFE STUDY PURSUIT</p>
 
 <blockquote>
-<div>Life Study of Acts message 63&nbsp;and 64</div>
+<div>Life Study of Acts message 65&nbsp;and 66</div>
 </blockquote>
+
+<p>4. LOVE FEAST (FOLLOWED BY COORDINATION MEETING) NEXT LORD'S DAY</p>
+
+<blockquote>Date: 14 June&nbsp;2026<br>
+<br>
+All saints are welcome to join the love feast. Let's take this opportunity to cherish one another while enjoying mutual fellowship. The love feast will be followed by the monthly coordination meeting for those who wish to join.</blockquote>
 
                         </td>
                     </tr>
@@ -127,7 +127,10 @@ Registration Details: <a href="https://nhsc.site/" target="_blank">click here</a
 <blockquote>
 <p>Dates: 10th - 13th July&nbsp;2026&nbsp;<br>
 Venue: The Collaroy Centre- 22 Homestead Ave, Collaroy NSW 2097<br>
-Registration Details:&nbsp;<a href="https://new.express.adobe.com/webpage/Kv5BzelLRIkNr" target="_blank">click here</a></p>
+Registration Details:&nbsp;<a href="https://new.express.adobe.com/webpage/Kv5BzelLRIkNr" target="_blank">click here</a>&nbsp;(deadline extended to 10 June)<br>
+Part time and day visitor registration options available<br>
+Registration fee to be made to the Church in Canberra General Account, include 'NUAC and your name' under Reference<br>
+&nbsp;</p>
 </blockquote>
 
 <p>3.&nbsp; CAIRNS&nbsp;CONFERENCE 2026</p>
@@ -170,13 +173,19 @@ Registration Details: TBC</p>
                             <p><u>AUDIO&nbsp;AND VIDEO RECORDINGS&nbsp;FROM RECENT TRAININGS AND CONFERENCES</u>&nbsp;<br>
 &nbsp;</p>
 
-<p>1. BIANNUAL PERFECTING TRAINING&nbsp;MARCH 2026</p>
+<p>1. NEW ZEALAND NATIONAL CONFERENCE 2026</p>
+
+<blockquote>
+<p>The recorded messages are ready for download: <a href="https://nztc.ac.nz/national-conference-recordings/" target="_blank">Click here</a></p>
+</blockquote>
+
+<p>2. BIANNUAL PERFECTING TRAINING&nbsp;MARCH 2026</p>
 
 <blockquote>
 <p>The recorded messages are ready for download: <a href="https://churchinsydney.org/BPT2026-audio" target="_blank">Click here</a></p>
 </blockquote>
 
-<p>2. NEW ZEALAND BLENDING CONFERENCE 2026</p>
+<p>3. NEW ZEALAND BLENDING CONFERENCE 2026</p>
 
 <blockquote>
 <p>The recorded messages are ready for download: <a href="https://nztc.ac.nz/blending-conference-recordings/" target="_blank">Click here</a></p>
@@ -243,7 +252,7 @@ A. REGULAR MEETINGS OF THE CHURCH</p>
 Tuesday 7:30pm at the meeting hall and online.<br>
 Online:&nbsp;<br>
 Zoom for English (details below)<br>
-WeChat for Chinese (Contact Mark Lam or Zhi Bing to be added in the group chat)<br>
+WeChat for Chinese (Contact Victor or Zhi Bing to be added in the group chat)<br>
 <br>
 <u>Lord's Table and Prophesying Meeting</u><br>
 Lord's Day 10:00am at the meeting hall and on Zoom (details below).</p>
@@ -261,7 +270,7 @@ Burden: The bible distribution work throughout Australia.<br>
 Local Highschool Prayer- Thursday from 8:00 pm to 8:30 pm using&nbsp;the church in Canberra regular zoom meeting.<br>
 Burden: Our high-schoolers and the LD HS meeting.<br>
 <br>
-National Highschooler Conference (NHSC) Prayer and Coordination- Thursday from 8:30 pm. to 9:30 pm.<br>
+National Highschooler Conference (NHSC) Prayer and Coordination- Thursday from 8:30 pm&nbsp;to 9:30 pm.<br>
 <br>
 <u>Migration and Europe</u><br>
 Saturday 8:45&nbsp;pm using the church in Canberra regular zoom meeting.<br>
@@ -272,7 +281,7 @@ Saturday 8:45&nbsp;pm using the church in Canberra regular zoom meeting.<br>
 <p>C. COORDINATION MEETING&nbsp;</p>
 
 <blockquote>
-<p>Next Meeting: 31 May 2026<br>
+<p>Next Meeting: 14 June 2026<br>
 Future Dates: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/c6eb4242-1453-32c1-0fc6-e156204a7e59/Coordination_Meeting_Schedule_2026.01.pdf" target="_blank">click here</a><br>
 <br>
 This&nbsp;meeting&nbsp;is open to saints serving (or endeavouring to serve) and is predominantly a time to enjoy the Lord so that we may be built up together in our service. There will be Zoom available for those who cannot join physically.</p>
@@ -362,7 +371,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13903748" target="_blank">Change of Meeting Place for Friday Night Meeting (29/05/26)</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13903721" target="_blank">Announcement 24/05/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13903551" target="_blank">Announcement 17/05/2026</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13903853" target="_blank">Announcement 31/05/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13903748" target="_blank">Change of Meeting Place for Friday Night Meeting (29/05/26)</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13903721" target="_blank">Announcement 24/05/2026</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
