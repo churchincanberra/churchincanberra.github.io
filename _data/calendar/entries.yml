@@ -483,7 +483,7 @@
   location: '26 Stokes St, Griffith, Canberra, ACT 2603'
 - id: loc20260411
   name: Hall Cleaning Working Bees
-  description: ''
+  description: '10:30 AM - 12:00 PM'
   category: Local
   singular: true
   date: '2026-04-11'
@@ -518,7 +518,7 @@
   location: '26 Stokes St, Griffith, Canberra, ACT 2603'
 - id: loc20260613
   name: Hall Cleaning Working Bees
-  description: ''
+  description: '10:30 AM - 12:00 PM'
   category: Local
   singular: true
   date: '2026-06-13'
@@ -546,7 +546,7 @@
   location: '26 Stokes St, Griffith, Canberra, ACT 2603'
 - id: loc20260815
   name: Hall Cleaning Working Bees
-  description: ''
+  description: '10:30 AM - 12:00 PM'
   category: Local
   singular: true
   date: '2026-08-15'
@@ -595,7 +595,7 @@
   location: '26 Stokes St, Griffith, Canberra, ACT 2603'
 - id: loc20261211
   name: Hall Cleaning Working Bees
-  description: ''
+  description: '10:30 AM - 12:00 PM'
   category: Local
   singular: true
   date: '2026-12-11'
