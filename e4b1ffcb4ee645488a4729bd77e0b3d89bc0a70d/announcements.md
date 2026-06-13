@@ -34,7 +34,7 @@ nofollow: true
                         
                             <div>
 <p>ANNOUNCEMENTS - THE CHURCH IN CANBERRA<br>
-7 JUNE&nbsp;2026&nbsp;</p>
+14 JUNE&nbsp;2026&nbsp;</p>
 </div>
 
                         </td>
@@ -58,38 +58,40 @@ nofollow: true
                         
                         <td>
                         
-                            <p>1.&nbsp;SMALL GROUP MEETINGS THIS WEEK</p>
-
-<blockquote>
-<p>English speaking - Friday 7pm&nbsp;<br>
-Northside:&nbsp;Johnvie's&nbsp;Place&nbsp;(Harrison)<br>
-Southside: Lyons House<br>
-<br>
-Chinese speaking - Wednesday 6:30 pm<br>
-Venue:&nbsp;Victor&nbsp;and Bing's House (Lyons)&nbsp;<br>
-<br>
-Topic:&nbsp;The Line of Life with Noah—the Life and Work That Change the Age</p>
-</blockquote>
-
-<p>2. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</p>
-
-<blockquote>
-<p>Commencing Monday<br>
-HWMR Title:&nbsp;Noah, Daniel, and Job— Patterns of Living an Overcoming Life on the Line of Life to Fulfill the Economy of God<br>
-Week 2&nbsp;Title:&nbsp;The Line of Life with Noah—the Life and Work That Change the Age</p>
-</blockquote>
-
-<p>3. LIFE STUDY PURSUIT</p>
-
-<blockquote>
-<div>Life Study of Acts message 65&nbsp;and 66</div>
-</blockquote>
-
-<p>4. LOVE FEAST (FOLLOWED BY COORDINATION MEETING) NEXT LORD'S DAY</p>
+                            <p>1.&nbsp;LOVE FEAST (FOLLOWED BY COORDINATION MEETING)&nbsp;</p>
 
 <blockquote>Date: 14 June&nbsp;2026<br>
 <br>
 All saints are welcome to join the love feast. Let's take this opportunity to cherish one another while enjoying mutual fellowship. The love feast will be followed by the monthly coordination meeting for those who wish to join.</blockquote>
+
+<p>&nbsp;2. SMALL GROUP MEETINGS THIS WEEK</p>
+
+<blockquote>
+<p>English speaking - Friday 7pm&nbsp;<br>
+Northside: Mawi's&nbsp;Place&nbsp;(Casey)<br>
+Southside: Zi and April H Place (Phillip)<br>
+<br>
+Chinese speaking - Wednesday 6:30 pm<br>
+Venue:&nbsp;Ming and Nadia's place&nbsp;(Palmerston)&nbsp;<br>
+<br>
+Topic:&nbsp;The Victory of the Overcomers Seen with Daniel and His Companions&nbsp;</p>
+</blockquote>
+
+<p>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</p>
+
+<blockquote>
+<p>Commencing Monday<br>
+HWMR Title:&nbsp;Noah, Daniel, and Job— Patterns of Living an Overcoming Life on the Line of Life to Fulfill the Economy of God<br>
+Week 3&nbsp;Title:&nbsp;The Victory of the Overcomers Seen with Daniel and His Companions&nbsp;</p>
+</blockquote>
+
+<p>4. LIFE STUDY PURSUIT</p>
+
+<blockquote>
+<div>Life Study of Acts message 67&nbsp;and 68</div>
+</blockquote>
+
+<p>&nbsp;</p>
 
                         </td>
                     </tr>
@@ -173,23 +175,31 @@ Registration Details: TBC</p>
                             <p><u>AUDIO&nbsp;AND VIDEO RECORDINGS&nbsp;FROM RECENT TRAININGS AND CONFERENCES</u>&nbsp;<br>
 &nbsp;</p>
 
-<p>1. NEW ZEALAND NATIONAL CONFERENCE 2026</p>
+<p>1. NATIONAL SERVING ONE'S&nbsp;TRAINING&nbsp;2026</p>
+
+<blockquote>
+<p>The recorded messages are ready for download: <a href="https://drive.google.com/drive/folders/1yrqty9_9LZhwRxvSWCkXBhZuZX2RPux1" target="_blank">Click here</a></p>
+</blockquote>
+
+<p>2. NEW ZEALAND NATIONAL CONFERENCE 2026</p>
 
 <blockquote>
 <p>The recorded messages are ready for download: <a href="https://nztc.ac.nz/national-conference-recordings/" target="_blank">Click here</a></p>
 </blockquote>
 
-<p>2. BIANNUAL PERFECTING TRAINING&nbsp;MARCH 2026</p>
+<p>3. BIANNUAL PERFECTING TRAINING&nbsp;MARCH 2026</p>
 
 <blockquote>
 <p>The recorded messages are ready for download: <a href="https://churchinsydney.org/BPT2026-audio" target="_blank">Click here</a></p>
 </blockquote>
 
-<p>3. NEW ZEALAND BLENDING CONFERENCE 2026</p>
+<p>4. NEW ZEALAND BLENDING CONFERENCE 2026</p>
 
 <blockquote>
 <p>The recorded messages are ready for download: <a href="https://nztc.ac.nz/blending-conference-recordings/" target="_blank">Click here</a></p>
 </blockquote>
+
+<p>&nbsp;</p>
 
                         </td>
                     </tr>
@@ -281,8 +291,8 @@ Saturday 8:45&nbsp;pm using the church in Canberra regular zoom meeting.<br>
 <p>C. COORDINATION MEETING&nbsp;</p>
 
 <blockquote>
-<p>Next Meeting: 14 June 2026<br>
-Future Dates: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/c6eb4242-1453-32c1-0fc6-e156204a7e59/Coordination_Meeting_Schedule_2026.01.pdf" target="_blank">click here</a><br>
+<p>Next Meeting: 28&nbsp;June 2026<br>
+Future Dates: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/e09253d7-f0db-033f-6e0a-2f8fadd387dc/Schedule_of_Coordination_Meeting.01.pdf" target="_blank">click here</a><br>
 <br>
 This&nbsp;meeting&nbsp;is open to saints serving (or endeavouring to serve) and is predominantly a time to enjoy the Lord so that we may be built up together in our service. There will be Zoom available for those who cannot join physically.</p>
 </blockquote>
@@ -371,7 +381,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13903853" target="_blank">Announcement 31/05/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13903748" target="_blank">Change of Meeting Place for Friday Night Meeting (29/05/26)</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13903721" target="_blank">Announcement 24/05/2026</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13903972" target="_blank">Announcement 7/06/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13903853" target="_blank">Announcement 31/05/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13903748" target="_blank">Change of Meeting Place for Friday Night Meeting (29/05/26)</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
