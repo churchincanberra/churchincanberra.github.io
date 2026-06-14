@@ -530,12 +530,12 @@
   singular: true
   date: '2026-06-14'
   location: '26 Stokes St, Griffith, Canberra, ACT 2603'
-- id: loc20260621
+- id: loc20260628
   name: Coordination Meeting
   description: ''
   category: Local
   singular: true
-  date: '2026-06-21'
+  date: '2026-06-28'
   location: '26 Stokes St, Griffith, Canberra, ACT 2603'
 - id: loc20260719
   name: Coordination Meeting
