@@ -34,7 +34,7 @@ nofollow: true
                         
                             <div>
 <p>ANNOUNCEMENTS - THE CHURCH IN CANBERRA<br>
-14 JUNE&nbsp;2026&nbsp;</p>
+21 JUNE&nbsp;2026&nbsp;</p>
 </div>
 
                         </td>
@@ -58,40 +58,38 @@ nofollow: true
                         
                         <td>
                         
-                            <p>1.&nbsp;LOVE FEAST (FOLLOWED BY COORDINATION MEETING)&nbsp;</p>
-
-<blockquote>Date: 14 June&nbsp;2026<br>
-<br>
-All saints are welcome to join the love feast. Let's take this opportunity to cherish one another while enjoying mutual fellowship. The love feast will be followed by the monthly coordination meeting for those who wish to join.</blockquote>
-
-<p>&nbsp;2. SMALL GROUP MEETINGS THIS WEEK</p>
+                            <p>1. SMALL GROUP MEETINGS THIS WEEK</p>
 
 <blockquote>
 <p>English speaking - Friday 7pm&nbsp;<br>
-Northside: Mawi's&nbsp;Place&nbsp;(Casey)<br>
-Southside: Zi and April H Place (Phillip)<br>
+Northside: Matt &amp; Dorina's Place (Belconnen)<br>
+Southside: Lyons House<br>
 <br>
 Chinese speaking - Wednesday 6:30 pm<br>
-Venue:&nbsp;Ming and Nadia's place&nbsp;(Palmerston)&nbsp;<br>
+Venue: Victor&nbsp;and Bing's place&nbsp;(Lyons)&nbsp;<br>
 <br>
-Topic:&nbsp;The Victory of the Overcomers Seen with Daniel and His Companions&nbsp;</p>
+Topic:&nbsp;Job and the Two Trees&nbsp;</p>
 </blockquote>
+
+<p>2.&nbsp;LOVE FEAST NEXT LORD'S DAY AT THE HALL&nbsp;(FOLLOWED BY COORDINATION MEETING)&nbsp;</p>
+
+<blockquote>Date: 28&nbsp;June&nbsp;2026<br>
+<br>
+All saints are welcome to join the love feast. Let's take this opportunity to cherish one another while enjoying mutual fellowship. The love feast will be followed by the monthly coordination meeting for those who wish to join.</blockquote>
 
 <p>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</p>
 
 <blockquote>
 <p>Commencing Monday<br>
 HWMR Title:&nbsp;Noah, Daniel, and Job— Patterns of Living an Overcoming Life on the Line of Life to Fulfill the Economy of God<br>
-Week 3&nbsp;Title:&nbsp;The Victory of the Overcomers Seen with Daniel and His Companions&nbsp;</p>
+Week 4&nbsp;Title:&nbsp;Job and the Two Trees&nbsp;</p>
 </blockquote>
 
 <p>4. LIFE STUDY PURSUIT</p>
 
 <blockquote>
-<div>Life Study of Acts message 67&nbsp;and 68</div>
+<div>Life Study of Acts message 69&nbsp;and 70</div>
 </blockquote>
-
-<p>&nbsp;</p>
 
                         </td>
                     </tr>
@@ -131,8 +129,7 @@ Registration Details: <a href="https://nhsc.site/" target="_blank">click here</a
 Venue: The Collaroy Centre- 22 Homestead Ave, Collaroy NSW 2097<br>
 Registration Details:&nbsp;<a href="https://new.express.adobe.com/webpage/Kv5BzelLRIkNr" target="_blank">click here</a>&nbsp;(deadline extended to 10 June)<br>
 Part time and day visitor registration options available<br>
-Registration fee to be made to the Church in Canberra General Account, include 'NUAC and your name' under Reference<br>
-&nbsp;</p>
+Registration fee to be made to the Church in Canberra General Account, include 'NUAC and your name' under Reference</p>
 </blockquote>
 
 <p>3.&nbsp; CAIRNS&nbsp;CONFERENCE 2026</p>
@@ -143,12 +140,21 @@ Venue: Ramada Hotel, 6/12 Florence St., Cairns City<br>
 Registration Details: <a href="https://form.jotform.com/260971812844867" target="_blank">click here</a></p>
 </blockquote>
 
-<p>4.&nbsp; TEACHERS' TRAINING (TT), PARENTS AND SERVING ONES' CONFERENCE (PSOC) 2026</p>
+<p>4.&nbsp; CANBERRA VIDEO TRAINING JULY 2026</p>
+
+<blockquote>
+<p>Dates: &nbsp;26 July -&nbsp;23 August&nbsp;<br>
+Venue: Canberra Meeting&nbsp;Hall &amp; Wagga<br>
+Subject: The Believers (1)<br>
+Registration Details: TBC</p>
+</blockquote>
+
+<p>5.&nbsp; TEACHERS' TRAINING (TT), PARENTS AND SERVING ONES' CONFERENCE (PSOC) 2026</p>
 
 <blockquote>
 <p>Dates: 28 Aug&nbsp;(TT); 29-30 Aug (PSOC)<br>
 Venue: Sydney<br>
-Registration Details: TBC</p>
+Registration Details: <a href="https://new.express.adobe.com/webpage/0RJpdtvrjINbl?" target="_blank">click here</a></p>
 </blockquote>
 
                         </td>
@@ -199,8 +205,6 @@ Registration Details: TBC</p>
 <p>The recorded messages are ready for download: <a href="https://nztc.ac.nz/blending-conference-recordings/" target="_blank">Click here</a></p>
 </blockquote>
 
-<p>&nbsp;</p>
-
                         </td>
                     </tr>
                 </tbody></table>
@@ -225,7 +229,15 @@ Registration Details: TBC</p>
                             <p><u>INTERNATIONAL ANNOUNCEMENTS</u>&nbsp;<br>
 &nbsp;</p>
 
-<p>1. GOSPEL EVENT&nbsp;IN US</p>
+<p>1. NATIONAL PARENT'S AND SERVING ONE'S CONFERENCE NZ SEPT 2026&nbsp;</p>
+
+<blockquote>
+<p>Dates: 4-6 September 2026<br>
+Venue: New Zealand Training Centre, Hamilton / There will be zoom option for those who are not able to attend in person<br>
+Details: <a href="https://nztc.ac.nz/nsoc/" target="_blank">Click here</a></p>
+</blockquote>
+
+<p>2. GOSPEL EVENT&nbsp;IN US</p>
 
 <blockquote>
 <p>Details: <a href="https://www.tsuf.us/burden" target="_blank">Click here</a></p>
@@ -381,7 +393,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13903972" target="_blank">Announcement 7/06/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13903853" target="_blank">Announcement 31/05/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13903748" target="_blank">Change of Meeting Place for Friday Night Meeting (29/05/26)</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13904125" target="_blank">Announcement 14/06/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13903972" target="_blank">Announcement 7/06/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13903853" target="_blank">Announcement 31/05/2026</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
