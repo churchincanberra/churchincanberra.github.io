@@ -34,7 +34,7 @@ nofollow: true
                         
                             <div>
 <p>ANNOUNCEMENTS - THE CHURCH IN CANBERRA<br>
-21 JUNE&nbsp;2026&nbsp;</p>
+28&nbsp;JUNE&nbsp;2026&nbsp;</p>
 </div>
 
                         </td>
@@ -58,37 +58,37 @@ nofollow: true
                         
                         <td>
                         
-                            <p>1. SMALL GROUP MEETINGS THIS WEEK</p>
+                            <p>1.&nbsp;LOVE FEAST (FOLLOWED BY COORDINATION MEETING)&nbsp;</p>
+
+<blockquote>Date: 28 June 2026<br>
+<br>
+All saints are welcome to join the love feast. Let's take this opportunity to cherish one another while enjoying mutual fellowship. The love feast will be followed by the monthly coordination meeting for those who wish to join.</blockquote>
+
+<p>2. SMALL GROUP MEETINGS THIS WEEK</p>
 
 <blockquote>
 <p>English speaking - Friday 7pm&nbsp;<br>
-Northside: Matt &amp; Dorina's Place (Belconnen)<br>
-Southside: Lyons House<br>
+Northside: Lawson House<br>
+Southside: April and Zi's place (Phillip)<br>
 <br>
 Chinese speaking - Wednesday 6:30 pm<br>
-Venue: Victor&nbsp;and Bing's place&nbsp;(Lyons)&nbsp;<br>
+Venue: Ming and Nadia's place (Palmerston)<br>
 <br>
-Topic:&nbsp;Job and the Two Trees&nbsp;</p>
+Topic:&nbsp;God's Intention with Job- That a Good Man Become a God-man</p>
 </blockquote>
-
-<p>2.&nbsp;LOVE FEAST NEXT LORD'S DAY AT THE HALL&nbsp;(FOLLOWED BY COORDINATION MEETING)&nbsp;</p>
-
-<blockquote>Date: 28&nbsp;June&nbsp;2026<br>
-<br>
-All saints are welcome to join the love feast. Let's take this opportunity to cherish one another while enjoying mutual fellowship. The love feast will be followed by the monthly coordination meeting for those who wish to join.</blockquote>
 
 <p>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</p>
 
 <blockquote>
 <p>Commencing Monday<br>
 HWMR Title:&nbsp;Noah, Daniel, and Job— Patterns of Living an Overcoming Life on the Line of Life to Fulfill the Economy of God<br>
-Week 4&nbsp;Title:&nbsp;Job and the Two Trees&nbsp;</p>
+Week 5&nbsp;Title: God's Intention with Job- That a Good Man Become a God-man&nbsp;</p>
 </blockquote>
 
 <p>4. LIFE STUDY PURSUIT</p>
 
 <blockquote>
-<div>Life Study of Acts message 69&nbsp;and 70</div>
+<div>Life Study of Acts message 71&nbsp;and 72&nbsp;</div>
 </blockquote>
 
                         </td>
@@ -146,7 +146,7 @@ Registration Details: <a href="https://form.jotform.com/260971812844867" target=
 <p>Dates: &nbsp;26 July -&nbsp;23 August&nbsp;<br>
 Venue: Canberra Meeting&nbsp;Hall &amp; Wagga<br>
 Subject: The Believers (1)<br>
-Registration Details: TBC</p>
+Registration Details: <a href="https://pci.jotform.com/form/261772198891876" target="_blank">click here</a></p>
 </blockquote>
 
 <p>5.&nbsp; TEACHERS' TRAINING (TT), PARENTS AND SERVING ONES' CONFERENCE (PSOC) 2026</p>
@@ -229,7 +229,14 @@ Registration Details: <a href="https://new.express.adobe.com/webpage/0RJpdtvrjIN
                             <p><u>INTERNATIONAL ANNOUNCEMENTS</u>&nbsp;<br>
 &nbsp;</p>
 
-<p>1. NATIONAL PARENT'S AND SERVING ONE'S CONFERENCE NZ SEPT 2026&nbsp;</p>
+<p>1. FTTH&nbsp;GRADUATION MEETING 2026A&nbsp;&nbsp;</p>
+
+<blockquote>
+<p>Seven trainees are graduating from the Full-time Training this semester. Hear them share their testimonies&nbsp;and experiences of the Lord during their time in the training.<br>
+Details: <a href="https://nztc.ac.nz/ftth-graduation/" target="_blank">Click here</a></p>
+</blockquote>
+
+<p>2. NATIONAL PARENT'S AND SERVING ONE'S CONFERENCE NZ SEPT 2026&nbsp;</p>
 
 <blockquote>
 <p>Dates: 4-6 September 2026<br>
@@ -237,7 +244,7 @@ Venue: New Zealand Training Centre, Hamilton / There will be zoom option for tho
 Details: <a href="https://nztc.ac.nz/nsoc/" target="_blank">Click here</a></p>
 </blockquote>
 
-<p>2. GOSPEL EVENT&nbsp;IN US</p>
+<p>3. GOSPEL EVENT&nbsp;IN US</p>
 
 <blockquote>
 <p>Details: <a href="https://www.tsuf.us/burden" target="_blank">Click here</a></p>
@@ -393,7 +400,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13904125" target="_blank">Announcement 14/06/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13903972" target="_blank">Announcement 7/06/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13903853" target="_blank">Announcement 31/05/2026</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13904264" target="_blank">Announcement 21/06/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13904125" target="_blank">Announcement 14/06/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13903972" target="_blank">Announcement 7/06/2026</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
