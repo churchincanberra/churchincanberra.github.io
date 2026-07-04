@@ -34,7 +34,7 @@ nofollow: true
                         
                             <div>
 <p>ANNOUNCEMENTS - THE CHURCH IN CANBERRA<br>
-28&nbsp;JUNE&nbsp;2026&nbsp;</p>
+05 JULY&nbsp;2026&nbsp;</p>
 </div>
 
                         </td>
@@ -58,37 +58,37 @@ nofollow: true
                         
                         <td>
                         
-                            <p>1.&nbsp;LOVE FEAST (FOLLOWED BY COORDINATION MEETING)&nbsp;</p>
-
-<blockquote>Date: 28 June 2026<br>
-<br>
-All saints are welcome to join the love feast. Let's take this opportunity to cherish one another while enjoying mutual fellowship. The love feast will be followed by the monthly coordination meeting for those who wish to join.</blockquote>
-
-<p>2. SMALL GROUP MEETINGS THIS WEEK</p>
+                            <p>1. SMALL GROUP MEETINGS THIS WEEK</p>
 
 <blockquote>
 <p>English speaking - Friday 7pm&nbsp;<br>
-Northside: Lawson House<br>
-Southside: April and Zi's place (Phillip)<br>
+Northside and Southside:&nbsp;Lawson House<br>
 <br>
 Chinese speaking - Wednesday 6:30 pm<br>
-Venue: Ming and Nadia's place (Palmerston)<br>
+Venue: Sister Qiaolan's place&nbsp;<br>
 <br>
-Topic:&nbsp;God's Intention with Job- That a Good Man Become a God-man</p>
+Topic:&nbsp;Steadfastly in Prayer and in the Ministry of the Word</p>
 </blockquote>
 
-<p>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</p>
+<p>2. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</p>
 
 <blockquote>
 <p>Commencing Monday<br>
-HWMR Title:&nbsp;Noah, Daniel, and Job— Patterns of Living an Overcoming Life on the Line of Life to Fulfill the Economy of God<br>
-Week 5&nbsp;Title: God's Intention with Job- That a Good Man Become a God-man&nbsp;</p>
+HWMR Title: The Ministry of the Word and God's Dispensing for God's Economy&nbsp;<br>
+Week 1&nbsp;Title: Steadfastly in Prayer and in the Ministry of the Word</p>
 </blockquote>
 
-<p>4. LIFE STUDY PURSUIT</p>
+<p>3.&nbsp;LOVE FEAST (FOLLOWED BY COORDINATION MEETING)&nbsp;</p>
+
+<blockquote>Date: 19 July 2026<br>
+<br>
+All saints are welcome to join the love feast. Let's take this opportunity to cherish one another while enjoying mutual fellowship. The love feast will be followed by the monthly coordination meeting for those who wish to join.</blockquote>
+
+<p><br>
+4. LIFE STUDY PURSUIT</p>
 
 <blockquote>
-<div>Life Study of Acts message 71&nbsp;and 72&nbsp;</div>
+<div>TBC</div>
 </blockquote>
 
                         </td>
@@ -310,7 +310,7 @@ Saturday 8:45&nbsp;pm using the church in Canberra regular zoom meeting.<br>
 <p>C. COORDINATION MEETING&nbsp;</p>
 
 <blockquote>
-<p>Next Meeting: 28&nbsp;June 2026<br>
+<p>Next Meeting: 19 July&nbsp;&nbsp;2026<br>
 Future Dates: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/e09253d7-f0db-033f-6e0a-2f8fadd387dc/Schedule_of_Coordination_Meeting.01.pdf" target="_blank">click here</a><br>
 <br>
 This&nbsp;meeting&nbsp;is open to saints serving (or endeavouring to serve) and is predominantly a time to enjoy the Lord so that we may be built up together in our service. There will be Zoom available for those who cannot join physically.</p>
@@ -400,7 +400,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13904264" target="_blank">Announcement 21/06/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13904125" target="_blank">Announcement 14/06/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13903972" target="_blank">Announcement 7/06/2026</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13904375" target="_blank">Announcement 28/06/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13904264" target="_blank">Announcement 21/06/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13904125" target="_blank">Announcement 14/06/2026</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
