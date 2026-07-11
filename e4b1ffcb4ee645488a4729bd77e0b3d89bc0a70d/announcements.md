@@ -34,7 +34,7 @@ nofollow: true
                         
                             <div>
 <p>ANNOUNCEMENTS - THE CHURCH IN CANBERRA<br>
-05 JULY&nbsp;2026&nbsp;</p>
+12 JULY&nbsp;2026&nbsp;</p>
 </div>
 
                         </td>
@@ -62,12 +62,13 @@ nofollow: true
 
 <blockquote>
 <p>English speaking - Friday 7pm&nbsp;<br>
-Northside and Southside:&nbsp;Lawson House<br>
+Northside:&nbsp;Lawson House<br>
+Southside: Lyons House<br>
 <br>
 Chinese speaking - Wednesday 6:30 pm<br>
-Venue: Sister Qiaolan's place&nbsp;<br>
+Venue:&nbsp;Victor&nbsp;and Bing's place&nbsp;(Lyons)&nbsp;<br>
 <br>
-Topic:&nbsp;Steadfastly in Prayer and in the Ministry of the Word</p>
+Topic:&nbsp;The Ministry of Reconciliation</p>
 </blockquote>
 
 <p>2. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</p>
@@ -75,7 +76,7 @@ Topic:&nbsp;Steadfastly in Prayer and in the Ministry of the Word</p>
 <blockquote>
 <p>Commencing Monday<br>
 HWMR Title: The Ministry of the Word and God's Dispensing for God's Economy&nbsp;<br>
-Week 1&nbsp;Title: Steadfastly in Prayer and in the Ministry of the Word</p>
+Week 2&nbsp;Title: The Ministry of Reconciliation</p>
 </blockquote>
 
 <p>3.&nbsp;LOVE FEAST (FOLLOWED BY COORDINATION MEETING)&nbsp;</p>
@@ -88,7 +89,7 @@ All saints are welcome to join the love feast. Let's take this opportunity to ch
 4. LIFE STUDY PURSUIT</p>
 
 <blockquote>
-<div>TBC</div>
+<div>Life Study of&nbsp;Daniel messages 1-4</div>
 </blockquote>
 
                         </td>
@@ -114,15 +115,7 @@ All saints are welcome to join the love feast. Let's take this opportunity to ch
                         
                             <p><u>TRAINING &amp; CONFERENCES</u>&nbsp;</p>
 
-<p>1.&nbsp; NATIONAL HIGH SCHOOL&nbsp;CONFERENCE 2026</p>
-
-<blockquote>
-<p>Dates: 3rd - 6th July&nbsp;2026&nbsp;<br>
-Venue: Alexandra Park, Conference Centre, 13 Mari St, Alexandra Headland QLD 4572&nbsp;<br>
-Registration Details: <a href="https://nhsc.site/" target="_blank">click here</a></p>
-</blockquote>
-
-<p>2.&nbsp; NATIONAL UNIVERSITY&nbsp;AGE CONFERENCE 2026</p>
+<p>1.&nbsp; NATIONAL UNIVERSITY&nbsp;AGE CONFERENCE 2026</p>
 
 <blockquote>
 <p>Dates: 10th - 13th July&nbsp;2026&nbsp;<br>
@@ -132,7 +125,7 @@ Part time and day visitor registration options available<br>
 Registration fee to be made to the Church in Canberra General Account, include 'NUAC and your name' under Reference</p>
 </blockquote>
 
-<p>3.&nbsp; CAIRNS&nbsp;CONFERENCE 2026</p>
+<p>2.&nbsp; CAIRNS&nbsp;CONFERENCE 2026</p>
 
 <blockquote>
 <p>Dates: 24th - 26th July&nbsp;2026&nbsp;<br>
@@ -140,7 +133,7 @@ Venue: Ramada Hotel, 6/12 Florence St., Cairns City<br>
 Registration Details: <a href="https://form.jotform.com/260971812844867" target="_blank">click here</a></p>
 </blockquote>
 
-<p>4.&nbsp; CANBERRA VIDEO TRAINING JULY 2026</p>
+<p>3.&nbsp; CANBERRA VIDEO TRAINING JULY 2026</p>
 
 <blockquote>
 <p>Dates: &nbsp;26 July -&nbsp;23 August&nbsp;<br>
@@ -149,7 +142,7 @@ Subject: The Believers (1)<br>
 Registration Details: <a href="https://pci.jotform.com/form/261772198891876" target="_blank">click here</a></p>
 </blockquote>
 
-<p>5.&nbsp; TEACHERS' TRAINING (TT), PARENTS AND SERVING ONES' CONFERENCE (PSOC) 2026</p>
+<p>4.&nbsp; TEACHERS' TRAINING (TT), PARENTS AND SERVING ONES' CONFERENCE (PSOC) 2026</p>
 
 <blockquote>
 <p>Dates: 28 Aug&nbsp;(TT); 29-30 Aug (PSOC)<br>
@@ -229,14 +222,7 @@ Registration Details: <a href="https://new.express.adobe.com/webpage/0RJpdtvrjIN
                             <p><u>INTERNATIONAL ANNOUNCEMENTS</u>&nbsp;<br>
 &nbsp;</p>
 
-<p>1. FTTH&nbsp;GRADUATION MEETING 2026A&nbsp;&nbsp;</p>
-
-<blockquote>
-<p>Seven trainees are graduating from the Full-time Training this semester. Hear them share their testimonies&nbsp;and experiences of the Lord during their time in the training.<br>
-Details: <a href="https://nztc.ac.nz/ftth-graduation/" target="_blank">Click here</a></p>
-</blockquote>
-
-<p>2. NATIONAL PARENT'S AND SERVING ONE'S CONFERENCE NZ SEPT 2026&nbsp;</p>
+<p>1. NATIONAL PARENT'S AND SERVING ONE'S CONFERENCE NZ SEPT 2026&nbsp;</p>
 
 <blockquote>
 <p>Dates: 4-6 September 2026<br>
@@ -244,7 +230,7 @@ Venue: New Zealand Training Centre, Hamilton / There will be zoom option for tho
 Details: <a href="https://nztc.ac.nz/nsoc/" target="_blank">Click here</a></p>
 </blockquote>
 
-<p>3. GOSPEL EVENT&nbsp;IN US</p>
+<p>2. GOSPEL EVENT&nbsp;IN US</p>
 
 <blockquote>
 <p>Details: <a href="https://www.tsuf.us/burden" target="_blank">Click here</a></p>
@@ -296,10 +282,8 @@ Zoom: <a href="https://us02web.zoom.us/j/88413747323?pwd=K041K1BPU0gvVlpMOXdOaTM
 Burden: The bible distribution work throughout Australia.<br>
 <br>
 <u>High School service</u><br>
-Local Highschool Prayer- Thursday from 8:00 pm to 8:30 pm using&nbsp;the church in Canberra regular zoom meeting.<br>
+Thursday&nbsp;8:30 pm&nbsp;using&nbsp;the church in Canberra regular zoom meeting.<br>
 Burden: Our high-schoolers and the LD HS meeting.<br>
-<br>
-National Highschooler Conference (NHSC) Prayer and Coordination- Thursday from 8:30 pm&nbsp;to 9:30 pm.<br>
 <br>
 <u>Migration and Europe</u><br>
 Saturday 8:45&nbsp;pm using the church in Canberra regular zoom meeting.<br>
@@ -310,7 +294,7 @@ Saturday 8:45&nbsp;pm using the church in Canberra regular zoom meeting.<br>
 <p>C. COORDINATION MEETING&nbsp;</p>
 
 <blockquote>
-<p>Next Meeting: 19 July&nbsp;&nbsp;2026<br>
+<p>Next Meeting: 19 July&nbsp;2026<br>
 Future Dates: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/e09253d7-f0db-033f-6e0a-2f8fadd387dc/Schedule_of_Coordination_Meeting.01.pdf" target="_blank">click here</a><br>
 <br>
 This&nbsp;meeting&nbsp;is open to saints serving (or endeavouring to serve) and is predominantly a time to enjoy the Lord so that we may be built up together in our service. There will be Zoom available for those who cannot join physically.</p>
@@ -400,7 +384,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13904375" target="_blank">Announcement 28/06/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13904264" target="_blank">Announcement 21/06/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13904125" target="_blank">Announcement 14/06/2026</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13904532" target="_blank">Announcement 05/07/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13904375" target="_blank">Announcement 28/06/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13904264" target="_blank">Announcement 21/06/2026</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
