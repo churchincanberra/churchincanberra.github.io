@@ -34,7 +34,7 @@ nofollow: true
                         
                             <div>
 <p>ANNOUNCEMENTS - THE CHURCH IN CANBERRA<br>
-12 JULY&nbsp;2026&nbsp;</p>
+19&nbsp;JULY&nbsp;2026&nbsp;</p>
 </div>
 
                         </td>
@@ -58,38 +58,37 @@ nofollow: true
                         
                         <td>
                         
-                            <p>1. SMALL GROUP MEETINGS THIS WEEK</p>
+                            <p>1.&nbsp;LOVE FEAST (FOLLOWED BY COORDINATION MEETING)&nbsp;</p>
+
+<blockquote>Date: Today<br>
+<br>
+All saints are welcome to join the love feast. Let's take this opportunity to cherish one another while enjoying mutual fellowship. The love feast will be followed by the monthly coordination meeting for those who wish to join.</blockquote>
+
+<p>2. SMALL GROUP MEETINGS THIS WEEK</p>
 
 <blockquote>
 <p>English speaking - Friday 7pm&nbsp;<br>
-Northside:&nbsp;Lawson House<br>
-Southside: Lyons House<br>
+Northside:&nbsp;Matt &amp; Dorina's Place (Belconnen)<br>
+Southside:&nbsp;April and Zi's place (Phillip)<br>
 <br>
 Chinese speaking - Wednesday 6:30 pm<br>
-Venue:&nbsp;Victor&nbsp;and Bing's place&nbsp;(Lyons)&nbsp;<br>
-<br>
-Topic:&nbsp;The Ministry of Reconciliation</p>
+Venue: TBC<br>
+Topic:&nbsp;Ministering Life for the Body</p>
 </blockquote>
 
-<p>2. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</p>
+<p>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</p>
 
 <blockquote>
 <p>Commencing Monday<br>
 HWMR Title: The Ministry of the Word and God's Dispensing for God's Economy&nbsp;<br>
-Week 2&nbsp;Title: The Ministry of Reconciliation</p>
+Week 3&nbsp;Title: Ministering Life for the Body</p>
 </blockquote>
-
-<p>3.&nbsp;LOVE FEAST (FOLLOWED BY COORDINATION MEETING)&nbsp;</p>
-
-<blockquote>Date: 19 July 2026<br>
-<br>
-All saints are welcome to join the love feast. Let's take this opportunity to cherish one another while enjoying mutual fellowship. The love feast will be followed by the monthly coordination meeting for those who wish to join.</blockquote>
 
 <p><br>
 4. LIFE STUDY PURSUIT</p>
 
 <blockquote>
-<div>Life Study of&nbsp;Daniel messages 1-4</div>
+<div>Life Study of&nbsp;Daniel messages 5-6</div>
 </blockquote>
 
                         </td>
@@ -115,17 +114,7 @@ All saints are welcome to join the love feast. Let's take this opportunity to ch
                         
                             <p><u>TRAINING &amp; CONFERENCES</u>&nbsp;</p>
 
-<p>1.&nbsp; NATIONAL UNIVERSITY&nbsp;AGE CONFERENCE 2026</p>
-
-<blockquote>
-<p>Dates: 10th - 13th July&nbsp;2026&nbsp;<br>
-Venue: The Collaroy Centre- 22 Homestead Ave, Collaroy NSW 2097<br>
-Registration Details:&nbsp;<a href="https://new.express.adobe.com/webpage/Kv5BzelLRIkNr" target="_blank">click here</a>&nbsp;(deadline extended to 10 June)<br>
-Part time and day visitor registration options available<br>
-Registration fee to be made to the Church in Canberra General Account, include 'NUAC and your name' under Reference</p>
-</blockquote>
-
-<p>2.&nbsp; CAIRNS&nbsp;CONFERENCE 2026</p>
+<p>1.&nbsp; CAIRNS&nbsp;CONFERENCE 2026</p>
 
 <blockquote>
 <p>Dates: 24th - 26th July&nbsp;2026&nbsp;<br>
@@ -133,7 +122,7 @@ Venue: Ramada Hotel, 6/12 Florence St., Cairns City<br>
 Registration Details: <a href="https://form.jotform.com/260971812844867" target="_blank">click here</a></p>
 </blockquote>
 
-<p>3.&nbsp; CANBERRA VIDEO TRAINING JULY 2026</p>
+<p>2.&nbsp; CANBERRA VIDEO TRAINING JULY 2026</p>
 
 <blockquote>
 <p>Dates: &nbsp;26 July -&nbsp;23 August&nbsp;<br>
@@ -142,7 +131,7 @@ Subject: The Believers (1)<br>
 Registration Details: <a href="https://pci.jotform.com/form/261772198891876" target="_blank">click here</a></p>
 </blockquote>
 
-<p>4.&nbsp; TEACHERS' TRAINING (TT), PARENTS AND SERVING ONES' CONFERENCE (PSOC) 2026</p>
+<p>3.&nbsp; TEACHERS' TRAINING (TT), PARENTS AND SERVING ONES' CONFERENCE (PSOC) 2026</p>
 
 <blockquote>
 <p>Dates: 28 Aug&nbsp;(TT); 29-30 Aug (PSOC)<br>
@@ -384,7 +373,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13904532" target="_blank">Announcement 05/07/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13904375" target="_blank">Announcement 28/06/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13904264" target="_blank">Announcement 21/06/2026</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13904644" target="_blank">Announcement 12/07/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13904532" target="_blank">Announcement 05/07/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13904375" target="_blank">Announcement 28/06/2026</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
