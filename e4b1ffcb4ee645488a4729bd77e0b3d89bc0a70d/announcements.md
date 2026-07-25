@@ -34,7 +34,7 @@ nofollow: true
                         
                             <div>
 <p>ANNOUNCEMENTS - THE CHURCH IN CANBERRA<br>
-19&nbsp;JULY&nbsp;2026&nbsp;</p>
+26 JULY&nbsp;2026&nbsp;</p>
 </div>
 
                         </td>
@@ -58,22 +58,27 @@ nofollow: true
                         
                         <td>
                         
-                            <p>1.&nbsp;LOVE FEAST (FOLLOWED BY COORDINATION MEETING)&nbsp;</p>
+                            <p>1.&nbsp;LORD'S DAY SCHEDULE&nbsp;(26th July 2026)&nbsp;</p>
 
-<blockquote>Date: Today<br>
+<blockquote>This Lord's day we will have an open session for the first Message of the Video Training after the Bread breaking meeting. Please see schedule below:<br>
 <br>
-All saints are welcome to join the love feast. Let's take this opportunity to cherish one another while enjoying mutual fellowship. The love feast will be followed by the monthly coordination meeting for those who wish to join.</blockquote>
+10:00am - 10:30am Bread Breaking Meeting<br>
+10:30am - 10:35am Announcement<br>
+10:35am - 10:45am Break<br>
+10:45am - 12:20pm Open Session Message 1<br>
+12:20pm - 12:30pm Sharing and Assign for Testing<br>
+&nbsp;</blockquote>
 
 <p>2. SMALL GROUP MEETINGS THIS WEEK</p>
 
 <blockquote>
 <p>English speaking - Friday 7pm&nbsp;<br>
-Northside:&nbsp;Matt &amp; Dorina's Place (Belconnen)<br>
-Southside:&nbsp;April and Zi's place (Phillip)<br>
+Northside: Lawson's House<br>
+Southside: Lyon's House<br>
 <br>
 Chinese speaking - Wednesday 6:30 pm<br>
-Venue: TBC<br>
-Topic:&nbsp;Ministering Life for the Body</p>
+Venue: Victor &amp; Bing's place (Lyons)<br>
+Topic:&nbsp;The Measure of God's Rule and Ministry on Spiritual Warfare</p>
 </blockquote>
 
 <p>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</p>
@@ -81,14 +86,14 @@ Topic:&nbsp;Ministering Life for the Body</p>
 <blockquote>
 <p>Commencing Monday<br>
 HWMR Title: The Ministry of the Word and God's Dispensing for God's Economy&nbsp;<br>
-Week 3&nbsp;Title: Ministering Life for the Body</p>
+Week 4&nbsp;Title: The Measure of God's Rule and Ministry on Spiritual Warfare</p>
 </blockquote>
 
 <p><br>
 4. LIFE STUDY PURSUIT</p>
 
 <blockquote>
-<div>Life Study of&nbsp;Daniel messages 5-6</div>
+<div>Life Study of&nbsp;Daniel messages 7-8</div>
 </blockquote>
 
                         </td>
@@ -277,13 +282,15 @@ Burden: Our high-schoolers and the LD HS meeting.<br>
 <u>Migration and Europe</u><br>
 Saturday 8:45&nbsp;pm using the church in Canberra regular zoom meeting.<br>
 <a href="https://9xdq3.r.sp1-brevo.net/mk/mr/sh/6rqJ8GoudeITQjnXGaioOivQjTx/OfliSquhqbAc" target="_blank">Burdens related to Europe</a><br>
-(1) To pray that the Lord would open the way for migration in Australia. (2) The Lord's move in Europe. (3) Torch Relay and Olympic Games Gospel Trips in Italy <a href="https://ukmedia.configio.com/media/em_AmanaTrust/Attachments/Italy%20Report%20for%20LSM%203-29%20-%20B.pdf" target="_blank">click here</a>.</p>
+(1) To pray that the Lord would open the way for migration in Australia. (2) The Lord's move in Europe. (3) Torch Relay and Olympic Games Gospel Trips in Italy <a href="https://ukmedia.configio.com/media/em_AmanaTrust/Attachments/Italy%20Report%20for%20LSM%203-29%20-%20B.pdf" target="_blank">click here</a>.<br>
+<a href="https://9xdq3.r.sp1-brevo.net/mk/mr/sh/6rqJ8GoudeITQjnXGaioOivQjTx/OfliSquhqbAc" target="_blank">2026 Semiannual Training Presentation on Europe</a><br>
+(1) Audio recording <a href="https://lordsmove.org/Audio/Europe_Fellowship_July_4_2026.mp3" target="_blank">Click here</a>. (2) Presentation on Italy <a href="https://lordsmove.org/pdfs/Lords_Move_in_Italy_Presentation_July_2026.pdf" target="_blank">Click here</a>. (3) Presentation on France&nbsp;<a href="http://lordsmove.org/pdfs/Lords_Move_in_France_Presentation_July_2026.pdf" target="_blank">Click here</a>. (4)&nbsp;Presentation on Stuttgart Meeting Hall&nbsp;<a href="https://lordsmove.org/pdfs/Church_in_Stuttgart_Meeting_Hall_Presentation.pdf" target="_blank">Click here</a>.&nbsp;(5)&nbsp;Presentation on Dunlin&nbsp;Meeting Hall <a href="https://lordsmove.org/pdfs/Church_in_Dublin_Meeting_Hall_Presentation.pdf" target="_blank">Click here</a>.&nbsp;</p>
 </blockquote>
 
 <p>C. COORDINATION MEETING&nbsp;</p>
 
 <blockquote>
-<p>Next Meeting: 19 July&nbsp;2026<br>
+<p>Next Meeting: 16&nbsp;Aug&nbsp;2026<br>
 Future Dates: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/e09253d7-f0db-033f-6e0a-2f8fadd387dc/Schedule_of_Coordination_Meeting.01.pdf" target="_blank">click here</a><br>
 <br>
 This&nbsp;meeting&nbsp;is open to saints serving (or endeavouring to serve) and is predominantly a time to enjoy the Lord so that we may be built up together in our service. There will be Zoom available for those who cannot join physically.</p>
@@ -373,7 +380,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13904644" target="_blank">Announcement 12/07/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13904532" target="_blank">Announcement 05/07/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13904375" target="_blank">Announcement 28/06/2026</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13904765" target="_blank">Announcement 19/07/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13904644" target="_blank">Announcement 12/07/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13904532" target="_blank">Announcement 05/07/2026</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
