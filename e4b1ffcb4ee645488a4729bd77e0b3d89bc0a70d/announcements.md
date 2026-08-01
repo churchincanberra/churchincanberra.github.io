@@ -34,7 +34,7 @@ nofollow: true
                         
                             <div>
 <p>ANNOUNCEMENTS - THE CHURCH IN CANBERRA<br>
-26 JULY&nbsp;2026&nbsp;</p>
+2&nbsp;AUGUST 2026&nbsp;</p>
 </div>
 
                         </td>
@@ -58,42 +58,32 @@ nofollow: true
                         
                         <td>
                         
-                            <p>1.&nbsp;LORD'S DAY SCHEDULE&nbsp;(26th July 2026)&nbsp;</p>
-
-<blockquote>This Lord's day we will have an open session for the first Message of the Video Training after the Bread breaking meeting. Please see schedule below:<br>
-<br>
-10:00am - 10:30am Bread Breaking Meeting<br>
-10:30am - 10:35am Announcement<br>
-10:35am - 10:45am Break<br>
-10:45am - 12:20pm Open Session Message 1<br>
-12:20pm - 12:30pm Sharing and Assign for Testing<br>
-&nbsp;</blockquote>
-
-<p>2. SMALL GROUP MEETINGS THIS WEEK</p>
+                            <p>1. SMALL GROUP MEETINGS THIS WEEK</p>
 
 <blockquote>
 <p>English speaking - Friday 7pm&nbsp;<br>
-Northside: Lawson's House<br>
-Southside: Lyon's House<br>
+Northside: Matt &amp; Dorina's place (Belconnen)<br>
+Southside:&nbsp;Zi and April's place (Phillip)<br>
 <br>
 Chinese speaking - Wednesday 6:30 pm<br>
-Venue: Victor &amp; Bing's place (Lyons)<br>
-Topic:&nbsp;The Measure of God's Rule and Ministry on Spiritual Warfare</p>
+Venue:&nbsp;Sister Qiaolan's place (Chifley)<br>
+<br>
+Topic:&nbsp;Cooperating with the Lord to Carry Out His Economy by Being His Faithful Stewards Who Minister the Word with a Burden from the Lord and Who Coordinate with One Another in One Accord</p>
 </blockquote>
 
-<p>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</p>
+<p>2. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</p>
 
 <blockquote>
 <p>Commencing Monday<br>
 HWMR Title: The Ministry of the Word and God's Dispensing for God's Economy&nbsp;<br>
-Week 4&nbsp;Title: The Measure of God's Rule and Ministry on Spiritual Warfare</p>
+Week 5&nbsp;Title:&nbsp;Cooperating with the Lord to Carry Out His Economy by Being His Faithful Stewards Who Minister the Word with a Burden from the Lord and Who Coordinate with One Another in One Accord</p>
 </blockquote>
 
 <p><br>
-4. LIFE STUDY PURSUIT</p>
+3. LIFE STUDY PURSUIT</p>
 
 <blockquote>
-<div>Life Study of&nbsp;Daniel messages 7-8</div>
+<div>Life Study of&nbsp;Daniel messages 9-10</div>
 </blockquote>
 
                         </td>
@@ -119,15 +109,7 @@ Week 4&nbsp;Title: The Measure of God's Rule and Ministry on Spiritual Warfare</
                         
                             <p><u>TRAINING &amp; CONFERENCES</u>&nbsp;</p>
 
-<p>1.&nbsp; CAIRNS&nbsp;CONFERENCE 2026</p>
-
-<blockquote>
-<p>Dates: 24th - 26th July&nbsp;2026&nbsp;<br>
-Venue: Ramada Hotel, 6/12 Florence St., Cairns City<br>
-Registration Details: <a href="https://form.jotform.com/260971812844867" target="_blank">click here</a></p>
-</blockquote>
-
-<p>2.&nbsp; CANBERRA VIDEO TRAINING JULY 2026</p>
+<p>1.&nbsp; CANBERRA VIDEO TRAINING JULY 2026</p>
 
 <blockquote>
 <p>Dates: &nbsp;26 July -&nbsp;23 August&nbsp;<br>
@@ -136,12 +118,13 @@ Subject: The Believers (1)<br>
 Registration Details: <a href="https://pci.jotform.com/form/261772198891876" target="_blank">click here</a></p>
 </blockquote>
 
-<p>3.&nbsp; TEACHERS' TRAINING (TT), PARENTS AND SERVING ONES' CONFERENCE (PSOC) 2026</p>
+<p>2.&nbsp; TEACHERS' TRAINING (TT), PARENTS AND SERVING ONES' CONFERENCE (PSOC) 2026</p>
 
 <blockquote>
 <p>Dates: 28 Aug&nbsp;(TT); 29-30 Aug (PSOC)<br>
 Venue: Sydney<br>
-Registration Details: <a href="https://new.express.adobe.com/webpage/0RJpdtvrjINbl?" target="_blank">click here</a></p>
+Details: <a href="https://new.express.adobe.com/webpage/mgHcQf7ewdYAW" target="_blank">click here</a><br>
+Registration deadline 10 Aug</p>
 </blockquote>
 
                         </td>
@@ -284,7 +267,7 @@ Saturday 8:45&nbsp;pm using the church in Canberra regular zoom meeting.<br>
 <a href="https://9xdq3.r.sp1-brevo.net/mk/mr/sh/6rqJ8GoudeITQjnXGaioOivQjTx/OfliSquhqbAc" target="_blank">Burdens related to Europe</a><br>
 (1) To pray that the Lord would open the way for migration in Australia. (2) The Lord's move in Europe. (3) Torch Relay and Olympic Games Gospel Trips in Italy <a href="https://ukmedia.configio.com/media/em_AmanaTrust/Attachments/Italy%20Report%20for%20LSM%203-29%20-%20B.pdf" target="_blank">click here</a>.<br>
 <a href="https://9xdq3.r.sp1-brevo.net/mk/mr/sh/6rqJ8GoudeITQjnXGaioOivQjTx/OfliSquhqbAc" target="_blank">2026 Semiannual Training Presentation on Europe</a><br>
-(1) Audio recording <a href="https://lordsmove.org/Audio/Europe_Fellowship_July_4_2026.mp3" target="_blank">Click here</a>. (2) Presentation on Italy <a href="https://lordsmove.org/pdfs/Lords_Move_in_Italy_Presentation_July_2026.pdf" target="_blank">Click here</a>. (3) Presentation on France&nbsp;<a href="http://lordsmove.org/pdfs/Lords_Move_in_France_Presentation_July_2026.pdf" target="_blank">Click here</a>. (4)&nbsp;Presentation on Stuttgart Meeting Hall&nbsp;<a href="https://lordsmove.org/pdfs/Church_in_Stuttgart_Meeting_Hall_Presentation.pdf" target="_blank">Click here</a>.&nbsp;(5)&nbsp;Presentation on Dunlin&nbsp;Meeting Hall <a href="https://lordsmove.org/pdfs/Church_in_Dublin_Meeting_Hall_Presentation.pdf" target="_blank">Click here</a>.&nbsp;</p>
+(1) Audio recording <a href="https://lordsmove.org/Audio/Europe_Fellowship_July_4_2026.mp3" target="_blank">Click here</a>. (2) Presentation on Italy <a href="https://lordsmove.org/pdfs/Lords_Move_in_Italy_Presentation_July_2026.pdf" target="_blank">Click here</a>. (3) Presentation on France&nbsp;<a href="http://lordsmove.org/pdfs/Lords_Move_in_France_Presentation_July_2026.pdf" target="_blank">Click here</a>. (4)&nbsp;Presentation on Stuttgart Meeting Hall&nbsp;<a href="https://lordsmove.org/pdfs/Church_in_Stuttgart_Meeting_Hall_Presentation.pdf" target="_blank">Click here</a>.&nbsp;(5)&nbsp;Presentation on Dublin&nbsp;Meeting Hall <a href="https://lordsmove.org/pdfs/Church_in_Dublin_Meeting_Hall_Presentation.pdf" target="_blank">Click here</a>.&nbsp;</p>
 </blockquote>
 
 <p>C. COORDINATION MEETING&nbsp;</p>
@@ -380,7 +363,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13904765" target="_blank">Announcement 19/07/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13904644" target="_blank">Announcement 12/07/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13904532" target="_blank">Announcement 05/07/2026</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13904897" target="_blank">Announcement 26/07/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13904765" target="_blank">Announcement 19/07/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13904644" target="_blank">Announcement 12/07/2026</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
