@@ -15,7 +15,8 @@ on:
   workflow_dispatch:
 
   schedule:
-    - cron: '35 * * * *'  
+    - cron: '15 8 * * *'
+      timezone: "Australia/Sydney"
 
 jobs:
   update:
