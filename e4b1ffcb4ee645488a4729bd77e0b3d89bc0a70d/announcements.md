@@ -34,7 +34,7 @@ nofollow: true
                         
                             <div>
 <p>ANNOUNCEMENTS - THE CHURCH IN CANBERRA<br>
-2&nbsp;AUGUST 2026&nbsp;</p>
+27&nbsp;SEPTEMBER&nbsp;2026&nbsp;</p>
 </div>
 
                         </td>
@@ -62,28 +62,35 @@ nofollow: true
 
 <blockquote>
 <p>English speaking - Friday 7pm&nbsp;<br>
-Northside: Matt &amp; Dorina's place (Belconnen)<br>
-Southside:&nbsp;Zi and April's place (Phillip)<br>
 <br>
-Chinese speaking - Wednesday 6:30 pm<br>
-Venue:&nbsp;Sister Qiaolan's place (Chifley)<br>
-<br>
-Topic:&nbsp;Cooperating with the Lord to Carry Out His Economy by Being His Faithful Stewards Who Minister the Word with a Burden from the Lord and Who Coordinate with One Another in One Accord</p>
+Northside: Lawson House&nbsp;<br>
+Southside: Combined meeting with&nbsp;Northside</p>
+
+<p>Chinese speaking - Wednesday 6:30 pm</p>
+
+<p>Venue: Victor and Bing's place</p>
+
+<p>Topic:&nbsp;The Apostolic Ministry in Cooperation with Christ's Heavenly Ministry to Shepherd the Church of God as His Flock for the Building Up of the Body of Christ and a New Revival</p>
 </blockquote>
 
 <p>2. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</p>
 
 <blockquote>
 <p>Commencing Monday<br>
-HWMR Title: The Ministry of the Word and God's Dispensing for God's Economy&nbsp;<br>
-Week 5&nbsp;Title:&nbsp;Cooperating with the Lord to Carry Out His Economy by Being His Faithful Stewards Who Minister the Word with a Burden from the Lord and Who Coordinate with One Another in One Accord</p>
+HWMR Title: The Great Need For a New Revival&nbsp;<br>
+Week 5&nbsp;Title:&nbsp;The Apostolic Ministry in Cooperation with Christ's Heavenly Ministry to Shepherd the Church of God as His Flock for the Building Up of the Body of Christ and a New Revival</p>
 </blockquote>
 
-<p><br>
-3. LIFE STUDY PURSUIT</p>
+<p>3. LIFE STUDY PURSUIT</p>
 
 <blockquote>
-<div>Life Study of&nbsp;Daniel messages 9-10</div>
+<div>Life Study of Nehemiah messages 3&nbsp;- 4</div>
+</blockquote>
+
+<p>4. CANBERRA BLENDING CONFERENCE 2026 FEEDBACK FORM</p>
+
+<blockquote>
+<div>Please fill up the form for any feedback <a href="https://form.jotform.com/262587934031057" target="_blank">click here</a></div>
 </blockquote>
 
                         </td>
@@ -109,22 +116,40 @@ Week 5&nbsp;Title:&nbsp;Cooperating with the Lord to Carry Out His Economy by Be
                         
                             <p><u>TRAINING &amp; CONFERENCES</u>&nbsp;</p>
 
-<p>1.&nbsp; CANBERRA VIDEO TRAINING JULY 2026</p>
+<p>1.&nbsp; OCTOBER RETREAT 2026</p>
 
 <blockquote>
-<p>Dates: &nbsp;26 July -&nbsp;23 August&nbsp;<br>
-Venue: Canberra Meeting&nbsp;Hall &amp; Wagga<br>
-Subject: The Believers (1)<br>
-Registration Details: <a href="https://pci.jotform.com/form/261772198891876" target="_blank">click here</a></p>
+<p>Dates: 2&nbsp;- 4&nbsp;October&nbsp;&nbsp;2026&nbsp;<br>
+Venue: 169 Foxall Road, North Kellyville, NSW 2155<br>
+Details: <a href="https://new.express.adobe.com/webpage/CuqMBnz3oDyZT" target="_blank">click here</a><br>
+Registration deadline: 20&nbsp;September 2026</p>
 </blockquote>
 
-<p>2.&nbsp; TEACHERS' TRAINING (TT), PARENTS AND SERVING ONES' CONFERENCE (PSOC) 2026</p>
+<p>2.&nbsp; BIANNUAL PERFECTING TRAINING</p>
 
 <blockquote>
-<p>Dates: 28 Aug&nbsp;(TT); 29-30 Aug (PSOC)<br>
-Venue: Sydney<br>
-Details: <a href="https://new.express.adobe.com/webpage/mgHcQf7ewdYAW" target="_blank">click here</a><br>
-Registration deadline 10 Aug</p>
+<p>Dates: 17 - 18 October&nbsp;&nbsp;2026&nbsp;<br>
+Venue: Brisbane&nbsp;<br>
+Details: <a href="http://churchinbrisbane.com/bpt" target="_blank">click here</a><br>
+Registration deadline: 27 September 2026</p>
+</blockquote>
+
+<p>3.&nbsp; NATIONAL BLENDING CONFERENCE&nbsp;2026</p>
+
+<blockquote>
+<p>Dates: 19 - 23 December&nbsp;2026&nbsp;<br>
+Venue: The Tops Conference Centre (51 Bendena Gardens, Stanwell Tops NSW)&nbsp;<br>
+Details: <a href="https://churchinsydney.org/nbc" target="_blank">Click here</a><br>
+Registration deadline: 12th October&nbsp;2026&nbsp;</p>
+</blockquote>
+
+<p>4.&nbsp; SUMMER SCHOOL OF TRUTH&nbsp;&nbsp;2026</p>
+
+<blockquote>
+<p>Dates: 19 - 23 December&nbsp;2026&nbsp;<br>
+Venue: Wollongong Surf Leisure Resort 201 Pioneer Rd, Fairy Meadow NSW<br>
+Details:&nbsp;<a href="https://churchinsydney.org/ssot" target="_blank">Click here</a><br>
+Registration deadline: 12th October&nbsp;2026&nbsp;&nbsp;</p>
 </blockquote>
 
                         </td>
@@ -151,28 +176,34 @@ Registration deadline 10 Aug</p>
                             <p><u>AUDIO&nbsp;AND VIDEO RECORDINGS&nbsp;FROM RECENT TRAININGS AND CONFERENCES</u>&nbsp;<br>
 &nbsp;</p>
 
-<p>1. NATIONAL SERVING ONE'S&nbsp;TRAINING&nbsp;2026</p>
+<p>1. CANBERRA BLENDING CONFERENCE 2026&nbsp;</p>
+
+<blockquote>
+<p>The recorded messages are ready for download: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/4ece955e-7600-834d-38c8-e55100f35bc1/Canberra_Conference_recording.zip" target="_blank">Click here</a></p>
+</blockquote>
+
+<p>2. TEACHERS' TRAINING &amp; PARENTS AND SERVING ONES' CONFERENCE 2026&nbsp;</p>
+
+<blockquote>
+<p>The recorded messages are ready for download: <a href="https://churchinsydney.org/PSOC26-audio" target="_blank">Click here</a></p>
+</blockquote>
+
+<p>3. NATIONAL PARENTS' AND SERVING ONES' TRAINING&nbsp;</p>
+
+<blockquote>
+<p>The recorded messages are ready for download: <a href="https://nztc.ac.nz/nsot-recordings/" target="_blank">Click here</a></p>
+</blockquote>
+
+<p>4. NATIONAL SERVING ONE'S&nbsp;TRAINING&nbsp;2026</p>
 
 <blockquote>
 <p>The recorded messages are ready for download: <a href="https://drive.google.com/drive/folders/1yrqty9_9LZhwRxvSWCkXBhZuZX2RPux1" target="_blank">Click here</a></p>
 </blockquote>
 
-<p>2. NEW ZEALAND NATIONAL CONFERENCE 2026</p>
+<p>5. NEW ZEALAND NATIONAL CONFERENCE 2026</p>
 
 <blockquote>
 <p>The recorded messages are ready for download: <a href="https://nztc.ac.nz/national-conference-recordings/" target="_blank">Click here</a></p>
-</blockquote>
-
-<p>3. BIANNUAL PERFECTING TRAINING&nbsp;MARCH 2026</p>
-
-<blockquote>
-<p>The recorded messages are ready for download: <a href="https://churchinsydney.org/BPT2026-audio" target="_blank">Click here</a></p>
-</blockquote>
-
-<p>4. NEW ZEALAND BLENDING CONFERENCE 2026</p>
-
-<blockquote>
-<p>The recorded messages are ready for download: <a href="https://nztc.ac.nz/blending-conference-recordings/" target="_blank">Click here</a></p>
 </blockquote>
 
                         </td>
@@ -199,15 +230,7 @@ Registration deadline 10 Aug</p>
                             <p><u>INTERNATIONAL ANNOUNCEMENTS</u>&nbsp;<br>
 &nbsp;</p>
 
-<p>1. NATIONAL PARENT'S AND SERVING ONE'S CONFERENCE NZ SEPT 2026&nbsp;</p>
-
-<blockquote>
-<p>Dates: 4-6 September 2026<br>
-Venue: New Zealand Training Centre, Hamilton / There will be zoom option for those who are not able to attend in person<br>
-Details: <a href="https://nztc.ac.nz/nsoc/" target="_blank">Click here</a></p>
-</blockquote>
-
-<p>2. GOSPEL EVENT&nbsp;IN US</p>
+<p>1. GOSPEL EVENT&nbsp;IN US</p>
 
 <blockquote>
 <p>Details: <a href="https://www.tsuf.us/burden" target="_blank">Click here</a></p>
@@ -273,7 +296,7 @@ Saturday 8:45&nbsp;pm using the church in Canberra regular zoom meeting.<br>
 <p>C. COORDINATION MEETING&nbsp;</p>
 
 <blockquote>
-<p>Next Meeting: 16&nbsp;Aug&nbsp;2026<br>
+<p>Next Meeting: 11 October&nbsp;2026<br>
 Future Dates: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/e09253d7-f0db-033f-6e0a-2f8fadd387dc/Schedule_of_Coordination_Meeting.01.pdf" target="_blank">click here</a><br>
 <br>
 This&nbsp;meeting&nbsp;is open to saints serving (or endeavouring to serve) and is predominantly a time to enjoy the Lord so that we may be built up together in our service. There will be Zoom available for those who cannot join physically.</p>
@@ -363,7 +386,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13904897" target="_blank">Announcement 26/07/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13904765" target="_blank">Announcement 19/07/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13904644" target="_blank">Announcement 12/07/2026</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13906027" target="_blank">Announcement 20/09/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13905908" target="_blank">Announcement 13/09/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13905768" target="_blank">Announcement 06/09/2026</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
