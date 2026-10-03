@@ -34,7 +34,7 @@ nofollow: true
                         
                             <div>
 <p>ANNOUNCEMENTS - THE CHURCH IN CANBERRA<br>
-27&nbsp;SEPTEMBER&nbsp;2026&nbsp;</p>
+4 OCTOBER&nbsp;2026&nbsp;</p>
 </div>
 
                         </td>
@@ -63,31 +63,41 @@ nofollow: true
 <blockquote>
 <p>English speaking - Friday 7pm&nbsp;<br>
 <br>
-Northside: Lawson House&nbsp;<br>
-Southside: Combined meeting with&nbsp;Northside</p>
+Northside: &nbsp;Sis Mawi's place (Casey)<br>
+Southside: Bro Zi and Sis April H's place (Phillip)</p>
 
 <p>Chinese speaking - Wednesday 6:30 pm</p>
 
-<p>Venue: Victor and Bing's place</p>
+<p>Venue: Sis Qiaolan's place (Chifley)</p>
 
-<p>Topic:&nbsp;The Apostolic Ministry in Cooperation with Christ's Heavenly Ministry to Shepherd the Church of God as His Flock for the Building Up of the Body of Christ and a New Revival</p>
+<p>Topic:&nbsp;Shepherding according to God</p>
 </blockquote>
 
-<p>2. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</p>
+<p>2.&nbsp;LOVE FEAST&nbsp;&amp; COORDINATION MEETING NEXT WEEK</p>
+
+<blockquote>
+<p>Date:&nbsp; 11&nbsp;October<br>
+<br>
+All saints are welcome to join the&nbsp;love feast. Let's take this opportunity to cherish one another while enjoying mutual fellowship. The&nbsp;love feast&nbsp;will be followed by the monthly&nbsp;coordination meeting&nbsp;for those who wish to join.&nbsp;<br>
+<br>
+<em>All saints who served&nbsp;during the Canberra Conference are encouraged to attend the coordination meeting as we will have some review of the practical services at the conference.</em></p>
+</blockquote>
+
+<p>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</p>
 
 <blockquote>
 <p>Commencing Monday<br>
 HWMR Title: The Great Need For a New Revival&nbsp;<br>
-Week 5&nbsp;Title:&nbsp;The Apostolic Ministry in Cooperation with Christ's Heavenly Ministry to Shepherd the Church of God as His Flock for the Building Up of the Body of Christ and a New Revival</p>
+Week 6&nbsp;Title:&nbsp;Shepherding according to God</p>
 </blockquote>
 
-<p>3. LIFE STUDY PURSUIT</p>
+<p>4. LIFE STUDY PURSUIT</p>
 
 <blockquote>
-<div>Life Study of Nehemiah messages 3&nbsp;- 4</div>
+<div>Life Study of Nehemiah messages 5</div>
 </blockquote>
 
-<p>4. CANBERRA BLENDING CONFERENCE 2026 FEEDBACK FORM</p>
+<p>5. CANBERRA BLENDING CONFERENCE 2026 FEEDBACK FORM</p>
 
 <blockquote>
 <div>Please fill up the form for any feedback <a href="https://form.jotform.com/262587934031057" target="_blank">click here</a></div>
@@ -131,7 +141,7 @@ Registration deadline: 20&nbsp;September 2026</p>
 <p>Dates: 17 - 18 October&nbsp;&nbsp;2026&nbsp;<br>
 Venue: Brisbane&nbsp;<br>
 Details: <a href="http://churchinbrisbane.com/bpt" target="_blank">click here</a><br>
-Registration deadline: 27 September 2026</p>
+Registration deadline: 5 October 2026</p>
 </blockquote>
 
 <p>3.&nbsp; NATIONAL BLENDING CONFERENCE&nbsp;2026</p>
@@ -386,7 +396,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13906027" target="_blank">Announcement 20/09/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13905908" target="_blank">Announcement 13/09/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13905768" target="_blank">Announcement 06/09/2026</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13906151" target="_blank">Announcement 27/09/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13906027" target="_blank">Announcement 20/09/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13905908" target="_blank">Announcement 13/09/2026</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
