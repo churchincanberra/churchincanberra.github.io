@@ -34,7 +34,7 @@ nofollow: true
                         
                             <div>
 <p>ANNOUNCEMENTS - THE CHURCH IN CANBERRA<br>
-4 OCTOBER&nbsp;2026&nbsp;</p>
+11 OCTOBER&nbsp;2026&nbsp;</p>
 </div>
 
                         </td>
@@ -58,49 +58,43 @@ nofollow: true
                         
                         <td>
                         
-                            <p>1. SMALL GROUP MEETINGS THIS WEEK</p>
+                            <p>1.&nbsp;LOVE FEAST (FOLLOWED BY COORDINATION MEETING)</p>
 
 <blockquote>
-<p>English speaking - Friday 7pm&nbsp;<br>
-<br>
-Northside: &nbsp;Sis Mawi's place (Casey)<br>
-Southside: Bro Zi and Sis April H's place (Phillip)</p>
-
-<p>Chinese speaking - Wednesday 6:30 pm</p>
-
-<p>Venue: Sis Qiaolan's place (Chifley)</p>
-
-<p>Topic:&nbsp;Shepherding according to God</p>
-</blockquote>
-
-<p>2.&nbsp;LOVE FEAST&nbsp;&amp; COORDINATION MEETING NEXT WEEK</p>
-
-<blockquote>
-<p>Date:&nbsp; 11&nbsp;October<br>
+<p>Date:&nbsp; Today<br>
 <br>
 All saints are welcome to join the&nbsp;love feast. Let's take this opportunity to cherish one another while enjoying mutual fellowship. The&nbsp;love feast&nbsp;will be followed by the monthly&nbsp;coordination meeting&nbsp;for those who wish to join.&nbsp;<br>
 <br>
 <em>All saints who served&nbsp;during the Canberra Conference are encouraged to attend the coordination meeting as we will have some review of the practical services at the conference.</em></p>
 </blockquote>
 
+<p>2. SMALL GROUP MEETINGS THIS WEEK</p>
+
+<blockquote>
+<p>English speaking - Friday 7pm&nbsp;<br>
+<br>
+Northside: Sis Mawi's place (Casey)<br>
+Southside: Lyons House</p>
+
+<p>Chinese speaking - Wednesday 6:30 pm</p>
+
+<p>Venue: Ming and Nadia's place (Palmerston)</p>
+
+<p>Topic:&nbsp;Disciples, Believers, Saints and Christians</p>
+</blockquote>
+
 <p>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</p>
 
 <blockquote>
 <p>Commencing Monday<br>
-HWMR Title: The Great Need For a New Revival&nbsp;<br>
-Week 6&nbsp;Title:&nbsp;Shepherding according to God</p>
+HWMR Title: The Believers<br>
+Week 1&nbsp;Title:&nbsp; Disciples, Believers, Saints and Christians</p>
 </blockquote>
 
 <p>4. LIFE STUDY PURSUIT</p>
 
 <blockquote>
-<div>Life Study of Nehemiah messages 5</div>
-</blockquote>
-
-<p>5. CANBERRA BLENDING CONFERENCE 2026 FEEDBACK FORM</p>
-
-<blockquote>
-<div>Please fill up the form for any feedback <a href="https://form.jotform.com/262587934031057" target="_blank">click here</a></div>
+<div>Life Study of Exodus messages 2 and 3</div>
 </blockquote>
 
                         </td>
@@ -126,16 +120,7 @@ Week 6&nbsp;Title:&nbsp;Shepherding according to God</p>
                         
                             <p><u>TRAINING &amp; CONFERENCES</u>&nbsp;</p>
 
-<p>1.&nbsp; OCTOBER RETREAT 2026</p>
-
-<blockquote>
-<p>Dates: 2&nbsp;- 4&nbsp;October&nbsp;&nbsp;2026&nbsp;<br>
-Venue: 169 Foxall Road, North Kellyville, NSW 2155<br>
-Details: <a href="https://new.express.adobe.com/webpage/CuqMBnz3oDyZT" target="_blank">click here</a><br>
-Registration deadline: 20&nbsp;September 2026</p>
-</blockquote>
-
-<p>2.&nbsp; BIANNUAL PERFECTING TRAINING</p>
+<p>1.&nbsp; BIANNUAL PERFECTING TRAINING</p>
 
 <blockquote>
 <p>Dates: 17 - 18 October&nbsp;&nbsp;2026&nbsp;<br>
@@ -144,7 +129,7 @@ Details: <a href="http://churchinbrisbane.com/bpt" target="_blank">click here</a
 Registration deadline: 5 October 2026</p>
 </blockquote>
 
-<p>3.&nbsp; NATIONAL BLENDING CONFERENCE&nbsp;2026</p>
+<p>2.&nbsp; NATIONAL BLENDING CONFERENCE&nbsp;2026</p>
 
 <blockquote>
 <p>Dates: 19 - 23 December&nbsp;2026&nbsp;<br>
@@ -153,7 +138,7 @@ Details: <a href="https://churchinsydney.org/nbc" target="_blank">Click here</a>
 Registration deadline: 12th October&nbsp;2026&nbsp;</p>
 </blockquote>
 
-<p>4.&nbsp; SUMMER SCHOOL OF TRUTH&nbsp;&nbsp;2026</p>
+<p>3.&nbsp; SUMMER SCHOOL OF TRUTH&nbsp;&nbsp;2026</p>
 
 <blockquote>
 <p>Dates: 19 - 23 December&nbsp;2026&nbsp;<br>
@@ -240,7 +225,15 @@ Registration deadline: 12th October&nbsp;2026&nbsp;&nbsp;</p>
                             <p><u>INTERNATIONAL ANNOUNCEMENTS</u>&nbsp;<br>
 &nbsp;</p>
 
-<p>1. GOSPEL EVENT&nbsp;IN US</p>
+<p>1. INTERNATIONAL CHINESE SPEAKING CONFERENCE 2027- TAIPEI, TAIWAN</p>
+
+<blockquote>
+<p>Dates: 20-21 February 2027<br>
+Venue: Taipei Dome | Taipei, Taiwan<br>
+Details: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/c1e6bac3-3936-eec3-67f8-1c47607f6116/2027_ICSC_Invitation.pdf" target="_blank">Click here</a></p>
+</blockquote>
+
+<p>2. GOSPEL EVENT&nbsp;IN US</p>
 
 <blockquote>
 <p>Details: <a href="https://www.tsuf.us/burden" target="_blank">Click here</a></p>
@@ -292,7 +285,7 @@ Zoom: <a href="https://us02web.zoom.us/j/88413747323?pwd=K041K1BPU0gvVlpMOXdOaTM
 Burden: The bible distribution work throughout Australia.<br>
 <br>
 <u>High School service</u><br>
-Thursday&nbsp;8:30 pm&nbsp;using&nbsp;the church in Canberra regular zoom meeting.<br>
+Thursday&nbsp;8:00 pm&nbsp;using&nbsp;the church in Canberra regular zoom meeting.<br>
 Burden: Our high-schoolers and the LD HS meeting.<br>
 <br>
 <u>Migration and Europe</u><br>
@@ -396,7 +389,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13906151" target="_blank">Announcement 27/09/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13906027" target="_blank">Announcement 20/09/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13905908" target="_blank">Announcement 13/09/2026</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13906250" target="_blank">Announcement 4/10/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13906151" target="_blank">Announcement 27/09/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13906027" target="_blank">Announcement 20/09/2026</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
