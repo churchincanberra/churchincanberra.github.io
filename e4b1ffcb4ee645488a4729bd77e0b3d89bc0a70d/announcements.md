@@ -34,7 +34,7 @@ nofollow: true
                         
                             <div>
 <p>ANNOUNCEMENTS - THE CHURCH IN CANBERRA<br>
-11 OCTOBER&nbsp;2026&nbsp;</p>
+18&nbsp;OCTOBER&nbsp;2026&nbsp;</p>
 </div>
 
                         </td>
@@ -58,14 +58,15 @@ nofollow: true
                         
                         <td>
                         
-                            <p>1.&nbsp;LOVE FEAST (FOLLOWED BY COORDINATION MEETING)</p>
+                            <p>1.&nbsp;LORD'S DAY SCHEDULE: CANBERRA LORD'S TABLE, FOLLOWED BY&nbsp;SESSION 6 OF THE BIANNUAL PERFECTING TRAINING</p>
 
 <blockquote>
-<p>Date:&nbsp; Today<br>
+<p>This Lord's Day we will have a change of schedule; we will be joining the Open&nbsp;Session on Biannual Perfecting Training after the Bread breaking meeting.<br>
 <br>
-All saints are welcome to join the&nbsp;love feast. Let's take this opportunity to cherish one another while enjoying mutual fellowship. The&nbsp;love feast&nbsp;will be followed by the monthly&nbsp;coordination meeting&nbsp;for those who wish to join.&nbsp;<br>
-<br>
-<em>All saints who served&nbsp;during the Canberra Conference are encouraged to attend the coordination meeting as we will have some review of the practical services at the conference.</em></p>
+10:00 am- Canberra Lord's Table Meeting<br>
+10:45 am- Break<br>
+11:00 am- Session 6 (Biannual Perfecting Training)<br>
+12:45 pm- End</p>
 </blockquote>
 
 <p>2. SMALL GROUP MEETINGS THIS WEEK</p>
@@ -73,14 +74,14 @@ All saints are welcome to join the&nbsp;love feast. Let's take this opportunity 
 <blockquote>
 <p>English speaking - Friday 7pm&nbsp;<br>
 <br>
-Northside: Sis Mawi's place (Casey)<br>
-Southside: Lyons House</p>
+Northside: Matt and Dorina's place (Belconnen)<br>
+Southside: Zi and April's place (Phillip)</p>
 
 <p>Chinese speaking - Wednesday 6:30 pm</p>
 
 <p>Venue: Ming and Nadia's place (Palmerston)</p>
 
-<p>Topic:&nbsp;Disciples, Believers, Saints and Christians</p>
+<p>Topic:&nbsp;The Eternal Life- the Life of God with the Divine Nature, the Triune God Being the Structure of the Bible, and the Hidden God, a God Who Hides Himself</p>
 </blockquote>
 
 <p>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</p>
@@ -88,13 +89,23 @@ Southside: Lyons House</p>
 <blockquote>
 <p>Commencing Monday<br>
 HWMR Title: The Believers<br>
-Week 1&nbsp;Title:&nbsp; Disciples, Believers, Saints and Christians</p>
+Week 2&nbsp;Title:&nbsp;The Eternal Life- the Life of God with the Divine Nature, the Triune God Being the Structure of the Bible, and the Hidden God, a God Who Hides Himself</p>
 </blockquote>
 
 <p>4. LIFE STUDY PURSUIT</p>
 
 <blockquote>
-<div>Life Study of Exodus messages 2 and 3</div>
+<div>Life Study of Exodus messages 4 and 5</div>
+</blockquote>
+
+<p>5. CHERRY PICKING&nbsp;</p>
+
+<blockquote>
+<div>Date: 5 December 2026<br>
+Time: 10:30 am<br>
+Location:&nbsp;Allambie Orchard<br>
+Address:<a href="https://www.bing.com/ck/a?!&amp;&amp;p=8511201c24ac57314b636d2348335e95662da2e868db61a1a173f5a6d5187c22JmltdHM9MTc5MjEwODgwMA&amp;ptn=3&amp;ver=2&amp;hsh=4&amp;fclid=36b94bc4-287e-6742-23e2-5d6a2935668c&amp;u=a1L21hcHM_Jm1lcGk9MH5-RW1iZWRkZWR-QWRkcmVzc19MaW5rJnR5PTE4JnE9QWxsYW1iaWUlMjBPcmNoYXJkJnNzPXlwaWQuWU4xRDE0NjA3RkY1RTQ5RUQxJnBwb2lzPS0zNC40MDY4MTA3NjA0OTgwNV8xNDguMjQ5NDA0OTA3MjI2NTZfQWxsYW1iaWUlMjBPcmNoYXJkX1lOMUQxNDYwN0ZGNUU0OUVEMX4mY3A9LTM0LjQwNjgxMX4xNDguMjQ5NDA1JnY9MiZzVj0xJkZPUk09TVBTUlBM" target="_blank"> 3725 Olympic Hwy, Wombat NSW 2587&nbsp;&nbsp;</a><br>
+We'll gather for a picnic- style lunch near the lake at noon. Saints are warmly encouraged to bring a dish to share with everyone.</div>
 </blockquote>
 
                         </td>
@@ -123,13 +134,22 @@ Week 1&nbsp;Title:&nbsp; Disciples, Believers, Saints and Christians</p>
 <p>1.&nbsp; BIANNUAL PERFECTING TRAINING</p>
 
 <blockquote>
-<p>Dates: 17 - 18 October&nbsp;&nbsp;2026&nbsp;<br>
+<p>Dates: 17 - 18 October 2026&nbsp;<br>
 Venue: Brisbane&nbsp;<br>
 Details: <a href="http://churchinbrisbane.com/bpt" target="_blank">click here</a><br>
 Registration deadline: 5 October 2026</p>
 </blockquote>
 
-<p>2.&nbsp; NATIONAL BLENDING CONFERENCE&nbsp;2026</p>
+<p>2.&nbsp; WAGGA WAGGA&nbsp;BLENDING 2026</p>
+
+<blockquote>
+<p>Dates: 7 - 8 November 2026&nbsp;<br>
+Venue: 56 Estella Rd, Charles Sturt University NSW 2678<br>
+Details: <a href="https://form.jotform.com/262862561632864" target="_blank">Click here</a><br>
+Registration deadline: 1st November 2026&nbsp;</p>
+</blockquote>
+
+<p>3.&nbsp; NATIONAL BLENDING CONFERENCE&nbsp;2026</p>
 
 <blockquote>
 <p>Dates: 19 - 23 December&nbsp;2026&nbsp;<br>
@@ -138,7 +158,7 @@ Details: <a href="https://churchinsydney.org/nbc" target="_blank">Click here</a>
 Registration deadline: 12th October&nbsp;2026&nbsp;</p>
 </blockquote>
 
-<p>3.&nbsp; SUMMER SCHOOL OF TRUTH&nbsp;&nbsp;2026</p>
+<p>4.&nbsp; SUMMER SCHOOL OF TRUTH&nbsp;&nbsp;2026</p>
 
 <blockquote>
 <p>Dates: 19 - 23 December&nbsp;2026&nbsp;<br>
@@ -299,7 +319,7 @@ Saturday 8:45&nbsp;pm using the church in Canberra regular zoom meeting.<br>
 <p>C. COORDINATION MEETING&nbsp;</p>
 
 <blockquote>
-<p>Next Meeting: 11 October&nbsp;2026<br>
+<p>Next Meeting: 25&nbsp;October&nbsp;2026<br>
 Future Dates: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/e09253d7-f0db-033f-6e0a-2f8fadd387dc/Schedule_of_Coordination_Meeting.01.pdf" target="_blank">click here</a><br>
 <br>
 This&nbsp;meeting&nbsp;is open to saints serving (or endeavouring to serve) and is predominantly a time to enjoy the Lord so that we may be built up together in our service. There will be Zoom available for those who cannot join physically.</p>
@@ -311,8 +331,7 @@ This&nbsp;meeting&nbsp;is open to saints serving (or endeavouring to serve) and 
 <div><a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/6ee5286c-a9c7-6008-c902-97cc7b026913/Bimonthly_Cleaning_Schedule.xlsx" target="_blank">Click here</a></div>
 </blockquote>
 
-<p><br>
-E. CALENDAR FROM THE CHURCH IN SYDNEY</p>
+<p>E. CALENDAR FROM THE CHURCH IN SYDNEY</p>
 
 <blockquote>
 <p>Please <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/5dc1b5dc-30b1-5415-1caf-c87794e5c8c7/Church_Planner_2026.pdf" target="_blank">click here</a></p>
@@ -389,7 +408,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13906250" target="_blank">Announcement 4/10/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13906151" target="_blank">Announcement 27/09/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13906027" target="_blank">Announcement 20/09/2026</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13906398" target="_blank">Announcement 11/10/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13906250" target="_blank">Announcement 4/10/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13906151" target="_blank">Announcement 27/09/2026</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
