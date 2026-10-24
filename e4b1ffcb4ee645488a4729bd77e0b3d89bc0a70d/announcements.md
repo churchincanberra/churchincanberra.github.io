@@ -34,7 +34,7 @@ nofollow: true
                         
                             <div>
 <p>ANNOUNCEMENTS - THE CHURCH IN CANBERRA<br>
-18&nbsp;OCTOBER&nbsp;2026&nbsp;</p>
+25 OCTOBER&nbsp;2026&nbsp;</p>
 </div>
 
                         </td>
@@ -58,15 +58,14 @@ nofollow: true
                         
                         <td>
                         
-                            <p>1.&nbsp;LORD'S DAY SCHEDULE: CANBERRA LORD'S TABLE, FOLLOWED BY&nbsp;SESSION 6 OF THE BIANNUAL PERFECTING TRAINING</p>
+                            <p>1.&nbsp;LOVE FEAST (FOLLOWED BY COORDINATION MEETING)</p>
 
 <blockquote>
-<p>This Lord's Day we will have a change of schedule; we will be joining the Open&nbsp;Session on Biannual Perfecting Training after the Bread breaking meeting.<br>
+<p>Date:&nbsp; Today<br>
 <br>
-10:00 am- Canberra Lord's Table Meeting<br>
-10:45 am- Break<br>
-11:00 am- Session 6 (Biannual Perfecting Training)<br>
-12:45 pm- End</p>
+All saints are welcome to join the&nbsp;love feast. Let's take this opportunity to cherish one another while enjoying mutual fellowship. The&nbsp;love feast&nbsp;will be followed by the monthly&nbsp;coordination meeting&nbsp;for those who wish to join.&nbsp;<br>
+<br>
+All saints who served&nbsp;during the Canberra Conference are encouraged to attend the coordination meeting as we will have some review of the practical services at the conference.</p>
 </blockquote>
 
 <p>2. SMALL GROUP MEETINGS THIS WEEK</p>
@@ -74,14 +73,13 @@ nofollow: true
 <blockquote>
 <p>English speaking - Friday 7pm&nbsp;<br>
 <br>
-Northside: Matt and Dorina's place (Belconnen)<br>
-Southside: Zi and April's place (Phillip)</p>
+Northside &amp; Southside: Combined meeting&nbsp;at the Braddon Brothers' House&nbsp;</p>
 
 <p>Chinese speaking - Wednesday 6:30 pm</p>
 
 <p>Venue: Ming and Nadia's place (Palmerston)</p>
 
-<p>Topic:&nbsp;The Eternal Life- the Life of God with the Divine Nature, the Triune God Being the Structure of the Bible, and the Hidden God, a God Who Hides Himself</p>
+<p>Topic:&nbsp;The Wheat of Life, the Good Seed, the Salt of the Earth, the Light of the World, and the Fishers of Men</p>
 </blockquote>
 
 <p>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</p>
@@ -89,13 +87,13 @@ Southside: Zi and April's place (Phillip)</p>
 <blockquote>
 <p>Commencing Monday<br>
 HWMR Title: The Believers<br>
-Week 2&nbsp;Title:&nbsp;The Eternal Life- the Life of God with the Divine Nature, the Triune God Being the Structure of the Bible, and the Hidden God, a God Who Hides Himself</p>
+Week 3&nbsp;Title:&nbsp;The Wheat of Life, the Good Seed, the Salt of the Earth, the Light of the World, and the Fishers of Men</p>
 </blockquote>
 
 <p>4. LIFE STUDY PURSUIT</p>
 
 <blockquote>
-<div>Life Study of Exodus messages 4 and 5</div>
+<div>Life Study of Exodus messages 6&nbsp;and 7</div>
 </blockquote>
 
 <p>5. CHERRY PICKING&nbsp;</p>
@@ -131,16 +129,7 @@ We'll gather for a picnic- style lunch near the lake at noon. Saints are warmly 
                         
                             <p><u>TRAINING &amp; CONFERENCES</u>&nbsp;</p>
 
-<p>1.&nbsp; BIANNUAL PERFECTING TRAINING</p>
-
-<blockquote>
-<p>Dates: 17 - 18 October 2026&nbsp;<br>
-Venue: Brisbane&nbsp;<br>
-Details: <a href="http://churchinbrisbane.com/bpt" target="_blank">click here</a><br>
-Registration deadline: 5 October 2026</p>
-</blockquote>
-
-<p>2.&nbsp; WAGGA WAGGA&nbsp;BLENDING 2026</p>
+<p>1.&nbsp; WAGGA WAGGA&nbsp;BLENDING 2026</p>
 
 <blockquote>
 <p>Dates: 7 - 8 November 2026&nbsp;<br>
@@ -149,7 +138,7 @@ Details: <a href="https://form.jotform.com/262862561632864" target="_blank">Clic
 Registration deadline: 1st November 2026&nbsp;</p>
 </blockquote>
 
-<p>3.&nbsp; NATIONAL BLENDING CONFERENCE&nbsp;2026</p>
+<p>2.&nbsp; NATIONAL BLENDING CONFERENCE&nbsp;2026</p>
 
 <blockquote>
 <p>Dates: 19 - 23 December&nbsp;2026&nbsp;<br>
@@ -158,13 +147,13 @@ Details: <a href="https://churchinsydney.org/nbc" target="_blank">Click here</a>
 Registration deadline: 12th October&nbsp;2026&nbsp;</p>
 </blockquote>
 
-<p>4.&nbsp; SUMMER SCHOOL OF TRUTH&nbsp;&nbsp;2026</p>
+<p>3.&nbsp; SUMMER SCHOOL OF TRUTH&nbsp;&nbsp;2026</p>
 
 <blockquote>
 <p>Dates: 19 - 23 December&nbsp;2026&nbsp;<br>
 Venue: Wollongong Surf Leisure Resort 201 Pioneer Rd, Fairy Meadow NSW<br>
 Details:&nbsp;<a href="https://churchinsydney.org/ssot" target="_blank">Click here</a><br>
-Registration deadline: 12th October&nbsp;2026&nbsp;&nbsp;</p>
+Registration deadline: 26th October&nbsp;2026&nbsp;&nbsp;</p>
 </blockquote>
 
                         </td>
@@ -308,6 +297,10 @@ Burden: The bible distribution work throughout Australia.<br>
 Thursday&nbsp;8:00 pm&nbsp;using&nbsp;the church in Canberra regular zoom meeting.<br>
 Burden: Our high-schoolers and the LD HS meeting.<br>
 <br>
+<u>Children service</u><br>
+Thursday&nbsp;8:00 pm (For more information please contact, Brother James Lucas)&nbsp;<br>
+Zoom: TBA&nbsp;<br>
+<br>
 <u>Migration and Europe</u><br>
 Saturday 8:45&nbsp;pm using the church in Canberra regular zoom meeting.<br>
 <a href="https://9xdq3.r.sp1-brevo.net/mk/mr/sh/6rqJ8GoudeITQjnXGaioOivQjTx/OfliSquhqbAc" target="_blank">Burdens related to Europe</a><br>
@@ -408,7 +401,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13906398" target="_blank">Announcement 11/10/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13906250" target="_blank">Announcement 4/10/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13906151" target="_blank">Announcement 27/09/2026</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13906525" target="_blank">Announcement 18/10/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13906398" target="_blank">Announcement 11/10/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13906250" target="_blank">Announcement 4/10/2026</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
