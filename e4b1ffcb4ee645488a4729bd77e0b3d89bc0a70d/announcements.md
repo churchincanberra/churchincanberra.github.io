@@ -34,7 +34,7 @@ nofollow: true
                         
                             <div>
 <p>ANNOUNCEMENTS - THE CHURCH IN CANBERRA<br>
-25 OCTOBER&nbsp;2026&nbsp;</p>
+01 NOVEMBER&nbsp;2026&nbsp;</p>
 </div>
 
                         </td>
@@ -58,17 +58,7 @@ nofollow: true
                         
                         <td>
                         
-                            <p>1.&nbsp;LOVE FEAST (FOLLOWED BY COORDINATION MEETING)</p>
-
-<blockquote>
-<p>Date:&nbsp; Today<br>
-<br>
-All saints are welcome to join the&nbsp;love feast. Let's take this opportunity to cherish one another while enjoying mutual fellowship. The&nbsp;love feast&nbsp;will be followed by the monthly&nbsp;coordination meeting&nbsp;for those who wish to join.&nbsp;<br>
-<br>
-All saints who served&nbsp;during the Canberra Conference are encouraged to attend the coordination meeting as we will have some review of the practical services at the conference.</p>
-</blockquote>
-
-<p>2. SMALL GROUP MEETINGS THIS WEEK</p>
+                            <p>1. SMALL GROUP MEETINGS THIS WEEK</p>
 
 <blockquote>
 <p>English speaking - Friday 7pm&nbsp;<br>
@@ -79,24 +69,24 @@ Northside &amp; Southside: Combined meeting&nbsp;at the Braddon Brothers' House&
 
 <p>Venue: Ming and Nadia's place (Palmerston)</p>
 
-<p>Topic:&nbsp;The Wheat of Life, the Good Seed, the Salt of the Earth, the Light of the World, and the Fishers of Men</p>
+<p>Topic:&nbsp;Heirs of God&nbsp;</p>
 </blockquote>
 
-<p>3. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</p>
+<p>2. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</p>
 
 <blockquote>
 <p>Commencing Monday<br>
 HWMR Title: The Believers<br>
-Week 3&nbsp;Title:&nbsp;The Wheat of Life, the Good Seed, the Salt of the Earth, the Light of the World, and the Fishers of Men</p>
+Week 4 Title:&nbsp;Heirs of God</p>
 </blockquote>
 
-<p>4. LIFE STUDY PURSUIT</p>
+<p>3. LIFE STUDY PURSUIT</p>
 
 <blockquote>
-<div>Life Study of Exodus messages 6&nbsp;and 7</div>
+<div>Life Study of Exodus messages 8&nbsp;and 9</div>
 </blockquote>
 
-<p>5. CHERRY PICKING&nbsp;</p>
+<p>4. CHERRY PICKING&nbsp;</p>
 
 <blockquote>
 <div>Date: 5 December 2026<br>
@@ -180,34 +170,34 @@ Registration deadline: 26th October&nbsp;2026&nbsp;&nbsp;</p>
                             <p><u>AUDIO&nbsp;AND VIDEO RECORDINGS&nbsp;FROM RECENT TRAININGS AND CONFERENCES</u>&nbsp;<br>
 &nbsp;</p>
 
-<p>1. CANBERRA BLENDING CONFERENCE 2026&nbsp;</p>
+<p>1. BIANNUAL PERFECTING TRAINING&nbsp;2026&nbsp;</p>
+
+<blockquote>
+<p>The recorded messages are ready for download: <a href="https://churchinbrisbane.com/downloads" target="_blank">Click here</a></p>
+</blockquote>
+
+<p>2. CANBERRA BLENDING CONFERENCE 2026&nbsp;</p>
 
 <blockquote>
 <p>The recorded messages are ready for download: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/4ece955e-7600-834d-38c8-e55100f35bc1/Canberra_Conference_recording.zip" target="_blank">Click here</a></p>
 </blockquote>
 
-<p>2. TEACHERS' TRAINING &amp; PARENTS AND SERVING ONES' CONFERENCE 2026&nbsp;</p>
+<p>3. TEACHERS' TRAINING &amp; PARENTS AND SERVING ONES' CONFERENCE 2026&nbsp;</p>
 
 <blockquote>
 <p>The recorded messages are ready for download: <a href="https://churchinsydney.org/PSOC26-audio" target="_blank">Click here</a></p>
 </blockquote>
 
-<p>3. NATIONAL PARENTS' AND SERVING ONES' TRAINING&nbsp;</p>
+<p>4. NATIONAL PARENTS' AND SERVING ONES' TRAINING&nbsp;</p>
 
 <blockquote>
 <p>The recorded messages are ready for download: <a href="https://nztc.ac.nz/nsot-recordings/" target="_blank">Click here</a></p>
 </blockquote>
 
-<p>4. NATIONAL SERVING ONE'S&nbsp;TRAINING&nbsp;2026</p>
+<p>5. NATIONAL SERVING ONE'S&nbsp;TRAINING&nbsp;2026</p>
 
 <blockquote>
 <p>The recorded messages are ready for download: <a href="https://drive.google.com/drive/folders/1yrqty9_9LZhwRxvSWCkXBhZuZX2RPux1" target="_blank">Click here</a></p>
-</blockquote>
-
-<p>5. NEW ZEALAND NATIONAL CONFERENCE 2026</p>
-
-<blockquote>
-<p>The recorded messages are ready for download: <a href="https://nztc.ac.nz/national-conference-recordings/" target="_blank">Click here</a></p>
 </blockquote>
 
                         </td>
@@ -312,7 +302,7 @@ Saturday 8:45&nbsp;pm using the church in Canberra regular zoom meeting.<br>
 <p>C. COORDINATION MEETING&nbsp;</p>
 
 <blockquote>
-<p>Next Meeting: 25&nbsp;October&nbsp;2026<br>
+<p>Next Meeting: 08 November 2026<br>
 Future Dates: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/e09253d7-f0db-033f-6e0a-2f8fadd387dc/Schedule_of_Coordination_Meeting.01.pdf" target="_blank">click here</a><br>
 <br>
 This&nbsp;meeting&nbsp;is open to saints serving (or endeavouring to serve) and is predominantly a time to enjoy the Lord so that we may be built up together in our service. There will be Zoom available for those who cannot join physically.</p>
@@ -321,7 +311,7 @@ This&nbsp;meeting&nbsp;is open to saints serving (or endeavouring to serve) and 
 <p>D. BIMONTHLY CLEANING SCHEDULE</p>
 
 <blockquote>
-<div><a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/6ee5286c-a9c7-6008-c902-97cc7b026913/Bimonthly_Cleaning_Schedule.xlsx" target="_blank">Click here</a></div>
+<div>Please&nbsp;<a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/6ee5286c-a9c7-6008-c902-97cc7b026913/Bimonthly_Cleaning_Schedule.xlsx" target="_blank">Click here</a></div>
 </blockquote>
 
 <p>E. CALENDAR FROM THE CHURCH IN SYDNEY</p>
@@ -401,7 +391,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13906525" target="_blank">Announcement 18/10/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13906398" target="_blank">Announcement 11/10/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13906250" target="_blank">Announcement 4/10/2026</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13906691" target="_blank">Announcement 25/10/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13906525" target="_blank">Announcement 18/10/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13906398" target="_blank">Announcement 11/10/2026</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
