@@ -34,7 +34,7 @@ nofollow: true
                         
                             <div>
 <p>ANNOUNCEMENTS - THE CHURCH IN CANBERRA<br>
-01 NOVEMBER&nbsp;2026&nbsp;</p>
+08&nbsp;NOVEMBER&nbsp;2026&nbsp;</p>
 </div>
 
                         </td>
@@ -63,13 +63,14 @@ nofollow: true
 <blockquote>
 <p>English speaking - Friday 7pm&nbsp;<br>
 <br>
-Northside &amp; Southside: Combined meeting&nbsp;at the Braddon Brothers' House&nbsp;</p>
+Northside: Lawson's House&nbsp;<br>
+Southside: Lyons'&nbsp;House</p>
 
 <p>Chinese speaking - Wednesday 6:30 pm</p>
 
 <p>Venue: Ming and Nadia's place (Palmerston)</p>
 
-<p>Topic:&nbsp;Heirs of God&nbsp;</p>
+<p>Topic:&nbsp;Living Stones and Sheep&nbsp;</p>
 </blockquote>
 
 <p>2. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</p>
@@ -77,13 +78,13 @@ Northside &amp; Southside: Combined meeting&nbsp;at the Braddon Brothers' House&
 <blockquote>
 <p>Commencing Monday<br>
 HWMR Title: The Believers<br>
-Week 4 Title:&nbsp;Heirs of God</p>
+Week 5&nbsp;Title:&nbsp;Living Stones and Sheep</p>
 </blockquote>
 
 <p>3. LIFE STUDY PURSUIT</p>
 
 <blockquote>
-<div>Life Study of Exodus messages 8&nbsp;and 9</div>
+<div>Life Study of Exodus messages 10&nbsp;and 11</div>
 </blockquote>
 
 <p>4. CHERRY PICKING&nbsp;</p>
@@ -229,10 +230,21 @@ Registration deadline: 26th October&nbsp;2026&nbsp;&nbsp;</p>
 <blockquote>
 <p>Dates: 20-21 February 2027<br>
 Venue: Taipei Dome | Taipei, Taiwan<br>
-Details: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/c1e6bac3-3936-eec3-67f8-1c47607f6116/2027_ICSC_Invitation.pdf" target="_blank">Click here</a></p>
+Details: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/c1e6bac3-3936-eec3-67f8-1c47607f6116/2027_ICSC_Invitation.pdf" target="_blank">Click here</a><br>
+Simplified Chinese: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/ab79198b-04df-0d70-586f-e529c8c02260/2026_International_Thanksgiving_Blending_Conference_Information_to_churches_Simplified_Chinese.pdf" target="_blank">Click here</a><br>
+Traditional Chinese: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/c0963058-fe14-c86e-d0af-f1acda21e47b/2026_International_Thanksgiving_Blending_Conference_Information_to_churches_Traditional_Chinese.pdf" target="_blank">Click here</a></p>
 </blockquote>
 
-<p>2. GOSPEL EVENT&nbsp;IN US</p>
+<p>2. NZ SUMMER SCHOOL OF TRUTH 2026</p>
+
+<blockquote>
+<p>Dates: 27 Dec 2026 - 03 Jan 2027<br>
+Venue: Christian Youth Camp, Camp 1, 148&nbsp;Waigaro Road, Ngaruwawahia<br>
+Details: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/b538850f-28c3-eadb-c0a5-b29481763473/Summer_School_2026_Letter_to_the_Saints.pdf" target="_blank">Click here</a><br>
+Registration Deadline: 26 November 2026</p>
+</blockquote>
+
+<p>3. GOSPEL EVENT&nbsp;IN US</p>
 
 <blockquote>
 <p>Details: <a href="https://www.tsuf.us/burden" target="_blank">Click here</a></p>
@@ -302,7 +314,7 @@ Saturday 8:45&nbsp;pm using the church in Canberra regular zoom meeting.<br>
 <p>C. COORDINATION MEETING&nbsp;</p>
 
 <blockquote>
-<p>Next Meeting: 08 November 2026<br>
+<p>Next Meeting: 22&nbsp;November 2026<br>
 Future Dates: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/e09253d7-f0db-033f-6e0a-2f8fadd387dc/Schedule_of_Coordination_Meeting.01.pdf" target="_blank">click here</a><br>
 <br>
 This&nbsp;meeting&nbsp;is open to saints serving (or endeavouring to serve) and is predominantly a time to enjoy the Lord so that we may be built up together in our service. There will be Zoom available for those who cannot join physically.</p>
@@ -391,7 +403,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13906691" target="_blank">Announcement 25/10/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13906525" target="_blank">Announcement 18/10/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13906398" target="_blank">Announcement 11/10/2026</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13906833" target="_blank">Announcement 01/11/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13906691" target="_blank">Announcement 25/10/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13906525" target="_blank">Announcement 18/10/2026</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
