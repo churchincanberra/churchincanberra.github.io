@@ -34,7 +34,7 @@ nofollow: true
                         
                             <div>
 <p>ANNOUNCEMENTS - THE CHURCH IN CANBERRA<br>
-08&nbsp;NOVEMBER&nbsp;2026&nbsp;</p>
+15 NOVEMBER&nbsp;2026&nbsp;</p>
 </div>
 
                         </td>
@@ -63,14 +63,14 @@ nofollow: true
 <blockquote>
 <p>English speaking - Friday 7pm&nbsp;<br>
 <br>
-Northside: Lawson's House&nbsp;<br>
-Southside: Lyons'&nbsp;House</p>
+Northside: Matt &amp; Dorina's Place (Belconnen)&nbsp;<br>
+Southside: Zi &amp; April H's&nbsp;Place (Phillip)</p>
 
 <p>Chinese speaking - Wednesday 6:30 pm</p>
 
 <p>Venue: Ming and Nadia's place (Palmerston)</p>
 
-<p>Topic:&nbsp;Living Stones and Sheep&nbsp;</p>
+<p>Topic:&nbsp;Brothers of Christ as the Firstborn Son of God</p>
 </blockquote>
 
 <p>2. HOLY WORD FOR MORNING REVIVAL (HWMR)&nbsp;</p>
@@ -78,13 +78,13 @@ Southside: Lyons'&nbsp;House</p>
 <blockquote>
 <p>Commencing Monday<br>
 HWMR Title: The Believers<br>
-Week 5&nbsp;Title:&nbsp;Living Stones and Sheep</p>
+Week 6&nbsp;Title:&nbsp;Brothers of Christ as the Firstborn Son of God</p>
 </blockquote>
 
 <p>3. LIFE STUDY PURSUIT</p>
 
 <blockquote>
-<div>Life Study of Exodus messages 10&nbsp;and 11</div>
+<div>Life Study of Exodus messages 12&nbsp;and 13</div>
 </blockquote>
 
 <p>4. CHERRY PICKING&nbsp;</p>
@@ -95,6 +95,30 @@ Time: 10:30 am<br>
 Location:&nbsp;Allambie Orchard<br>
 Address:<a href="https://www.bing.com/ck/a?!&amp;&amp;p=8511201c24ac57314b636d2348335e95662da2e868db61a1a173f5a6d5187c22JmltdHM9MTc5MjEwODgwMA&amp;ptn=3&amp;ver=2&amp;hsh=4&amp;fclid=36b94bc4-287e-6742-23e2-5d6a2935668c&amp;u=a1L21hcHM_Jm1lcGk9MH5-RW1iZWRkZWR-QWRkcmVzc19MaW5rJnR5PTE4JnE9QWxsYW1iaWUlMjBPcmNoYXJkJnNzPXlwaWQuWU4xRDE0NjA3RkY1RTQ5RUQxJnBwb2lzPS0zNC40MDY4MTA3NjA0OTgwNV8xNDguMjQ5NDA0OTA3MjI2NTZfQWxsYW1iaWUlMjBPcmNoYXJkX1lOMUQxNDYwN0ZGNUU0OUVEMX4mY3A9LTM0LjQwNjgxMX4xNDguMjQ5NDA1JnY9MiZzVj0xJkZPUk09TVBTUlBM" target="_blank"> 3725 Olympic Hwy, Wombat NSW 2587&nbsp;&nbsp;</a><br>
 We'll gather for a picnic- style lunch near the lake at noon. Saints are warmly encouraged to bring a dish to share with everyone.</div>
+</blockquote>
+
+<p>5. Life-Study of the Bible (Hardbound, 2nd Edition) 40% off | Australian Pre-Purchase Programme&nbsp;</p>
+
+<blockquote>
+<div>Dear Saints,<br>
+<br>
+Living Stream Ministry<br>
+Life-study of the Bible (Hardbound, 2nd Edition) — 40% off<br>
+<br>
+Living Stream Ministry has released the second edition of the Life-study of the Old Testament and the Life-study of the New Testament. The four boxed sets contain 1,984 Life-study messages in 32 volumes, with the verses and text updated to match the current Recovery Version.<br>
+To encourage the saints to build a solid foundation in the truth and receive spiritual nourishment and the life supply, Living Stream Ministry is making this offer available until the end of this year, or while supplies last.<br>
+<br>
+Australian Pre-Purchase Programme<br>
+Stream Publications Australia would like to make this opportunity available to the saints in Australia. We will use the same shipping arrangement as in the 2018 Collected Works of Witness Lee pre-purchase programme: orders will be combined for bulk shipment by sea and delivered to a central delivery point in each participating locality to reduce shipping costs.<br>
+<br>
+Order form: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/4fa684ee-b99d-b2f3-11cf-8196fe78b381/Life_Study_PPP_A4_Digital.01.pdf" target="_blank">Click here</a><br>
+<br>
+Australian deadline for orders and upfront payment: 28 December 2026. Orders are subject to stock availability.<br>
+Completed forms may be emailed to orders@streampublications.com.au. Payment instructions will be provided with the invoice.<br>
+<br>
+In Him,<br>
+<br>
+Brothers in Canberra</div>
 </blockquote>
 
                         </td>
@@ -120,16 +144,7 @@ We'll gather for a picnic- style lunch near the lake at noon. Saints are warmly 
                         
                             <p><u>TRAINING &amp; CONFERENCES</u>&nbsp;</p>
 
-<p>1.&nbsp; WAGGA WAGGA&nbsp;BLENDING 2026</p>
-
-<blockquote>
-<p>Dates: 7 - 8 November 2026&nbsp;<br>
-Venue: 56 Estella Rd, Charles Sturt University NSW 2678<br>
-Details: <a href="https://form.jotform.com/262862561632864" target="_blank">Click here</a><br>
-Registration deadline: 1st November 2026&nbsp;</p>
-</blockquote>
-
-<p>2.&nbsp; NATIONAL BLENDING CONFERENCE&nbsp;2026</p>
+<p>1.&nbsp; NATIONAL BLENDING CONFERENCE&nbsp;2026</p>
 
 <blockquote>
 <p>Dates: 19 - 23 December&nbsp;2026&nbsp;<br>
@@ -138,7 +153,7 @@ Details: <a href="https://churchinsydney.org/nbc" target="_blank">Click here</a>
 Registration deadline: 12th October&nbsp;2026&nbsp;</p>
 </blockquote>
 
-<p>3.&nbsp; SUMMER SCHOOL OF TRUTH&nbsp;&nbsp;2026</p>
+<p>2.&nbsp; SUMMER SCHOOL OF TRUTH&nbsp;&nbsp;2026</p>
 
 <blockquote>
 <p>Dates: 19 - 23 December&nbsp;2026&nbsp;<br>
@@ -225,7 +240,17 @@ Registration deadline: 26th October&nbsp;2026&nbsp;&nbsp;</p>
                             <p><u>INTERNATIONAL ANNOUNCEMENTS</u>&nbsp;<br>
 &nbsp;</p>
 
-<p>1. INTERNATIONAL CHINESE SPEAKING CONFERENCE 2027- TAIPEI, TAIWAN</p>
+<p>1. INTERNATIONAL THANKSGIVING BLENDING CONFERENCE 2026 - DENVER, COLOROADO</p>
+
+<blockquote>
+<p>Dates: 26 - 29&nbsp;November&nbsp;2026<br>
+Venue: Gaylord Rockies Resort and Convention Center Denver, Colorado<br>
+Details: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/e33c5a0e-4f7b-4182-34e5-39157186a379/2026_International_Thanksgiving_Blending_Conference_Information_to_churches_English.pdf" target="_blank">Click here</a><br>
+Simplified Chinese: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/b6cb5090-c7ee-c802-f003-6b88f3824e23/2026_International_Thanksgiving_Blending_Conference_Information_to_churches_Simplified_Chinese_1_.pdf" target="_blank">Click here</a><br>
+Traditional Chinese: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/42faad69-075f-03dd-fd5b-a6393e52f054/2026_International_Thanksgiving_Blending_Conference_Information_to_churches_Traditional_Chinese_1_.pdf" target="_blank">Click here</a></p>
+</blockquote>
+
+<p>2. INTERNATIONAL CHINESE SPEAKING CONFERENCE 2027- TAIPEI, TAIWAN</p>
 
 <blockquote>
 <p>Dates: 20-21 February 2027<br>
@@ -235,7 +260,7 @@ Simplified Chinese: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1
 Traditional Chinese: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/c0963058-fe14-c86e-d0af-f1acda21e47b/2026_International_Thanksgiving_Blending_Conference_Information_to_churches_Traditional_Chinese.pdf" target="_blank">Click here</a></p>
 </blockquote>
 
-<p>2. NZ SUMMER SCHOOL OF TRUTH 2026</p>
+<p>3. NZ SUMMER SCHOOL OF TRUTH 2026</p>
 
 <blockquote>
 <p>Dates: 27 Dec 2026 - 03 Jan 2027<br>
@@ -244,7 +269,7 @@ Details: <a href="https://mcusercontent.com/12a6ecea8fbc1ad37a233cac1/files/b538
 Registration Deadline: 26 November 2026</p>
 </blockquote>
 
-<p>3. GOSPEL EVENT&nbsp;IN US</p>
+<p>4. GOSPEL EVENT&nbsp;IN US</p>
 
 <blockquote>
 <p>Details: <a href="https://www.tsuf.us/burden" target="_blank">Click here</a></p>
@@ -301,7 +326,7 @@ Burden: Our high-schoolers and the LD HS meeting.<br>
 <br>
 <u>Children service</u><br>
 Thursday&nbsp;8:00 pm (For more information please contact, Brother James Lucas)&nbsp;<br>
-Zoom: TBA&nbsp;<br>
+WhatsApp - Children's Group&nbsp;<br>
 <br>
 <u>Migration and Europe</u><br>
 Saturday 8:45&nbsp;pm using the church in Canberra regular zoom meeting.<br>
@@ -403,7 +428,7 @@ Passcode:&nbsp;Eph4:16</p>
             </td>
         </tr>
     </tbody>
-</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13906833" target="_blank">Announcement 01/11/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13906691" target="_blank">Announcement 25/10/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13906525" target="_blank">Announcement 18/10/2026</a></div>
+</table><div class="pt-6 pb-6"><em>Previous announcements</em><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13906966" target="_blank">Announcement 08/11/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13906833" target="_blank">Announcement 01/11/2026</a><br /><a href="https://mailchi.mp/churchincanberra.org/announcement-13906691" target="_blank">Announcement 25/10/2026</a></div>
 <!-- ANNOUNCEMENT:END -->
 
 <div class="container pt-6 pb-6 pb-md-10">
